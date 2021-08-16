@@ -7,7 +7,7 @@ I use mostly the definitions of the country. In Finland, e.g. the Border Guard i
 ## Friendly, hostile, neutral?
 I classify the aircraft from the point of view of somebody living in Finland. Finland is not at war with anybody at this point in time, so at the moment I do not classify any aircraft as hostile. If you feel, some aircraft should be classified as hostile, please download the files and use the search and replace function on your local copy.
 ## Contributing
-Please feel free to contribute to the list! Ideally, you would submit a pull request, but you can also open an issue. Please keep in mind what I wrote above under "Politics".
+Please feel free to contribute to the list! Ideally, you would submit a pull request, but you can also open an issue. Please keep in mind what I wrote above under "Friendly, hostile, neutral?".
 ## Issues
 I will try to handle issues fast but this is a hobby, I have a family and a busy work day, so please don't expect wonders!
 ## License
