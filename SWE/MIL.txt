@@ -1,6 +1,8 @@
 #TAK ADSB IDs SWEDEN Military
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
+#Format:
+#hexid,SIDC,remarks
 
 4A80D0,a-f-A-M-V,"102001, Gulf 4"
 4A8114,a-f-A-M-V,"100001, Saab 340"

@@ -1,6 +1,8 @@
 #TAK ADSB IDs FINLAND Military
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
+#Format:
+#hexid,SIDC,remarks
 
 46788b,a-f-A-M-F-R,"LJ-3, Learjet 35A"
 46788c,a-f-A-M-F-R,"LJ-2, Learjet 35A"
