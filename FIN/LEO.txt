@@ -1,0 +1,18 @@
+#TAK ADSB IDs FINLAND Law enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+
+4614a1,a-f-A-C-H,"OH-HVD, AB412, Border Guard"
+4614a2,a-f-A-C-H,"OH-HVE, AB412, Border Guard"
+4614a4,a-f-A-C-H,"OH-HVG, AS332, Border Guard"
+4614a6,a-f-A-C-H,"OH-HVI, AS332, Border Guard"
+4614a7,a-f-A-C-H,"OH-HVJ, AB412EP, Border Guard"
+4614a8,a-f-A-C-H,"OH-HVK, AB412EP, Border Guard"
+4614a9,a-f-A-C-H,"OH-HVL, AW119MkII, Border Guard"
+4614aa,a-f-A-C-H,"OH-HVM, AW119MkII, Border Guard"
+4614aba-f-A-C-H,,"OH-HVN, AW119MkII, Border Guard"
+4614ac,a-f-A-C-H,"OH-HVO, AW119MkII, Border Guard"
+4614ad,a-f-A-C-H,"OH-HVP, AS332, Border Guard"
+4614ae,a-f-A-C-H,"OH-HVQ, AS332, Border Guard"
+4621df,a-f-A-C-F,"OH-MVN, Do228-212, Border Guard"
+4621e0,a-f-A-C-F,"OH-MVO, Do228-212, Border Guard"
