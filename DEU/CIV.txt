@@ -1,0 +1,5 @@
+#TAK ADSB IDs GERMANY Civilian EMS, Fire, special
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#hexid,SIDC,remarks
