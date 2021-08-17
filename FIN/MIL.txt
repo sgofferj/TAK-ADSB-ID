@@ -2,17 +2,17 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#hexid,SIDC,remarks
+#"hexid","SIDC","registration","operator"
 
-46788b,a-f-A-M-F-R,"LJ-3, Learjet 35A"
-46788c,a-f-A-M-F-R,"LJ-2, Learjet 35A"
-46788d,a-f-A-M-F-R,"LJ-1, Learjet 35A"
-46788e,a-f-A-M-F-C-M,"CC-1, Casa C295"
-46788f,a-f-A-M-F-C-M,"CC-2, Casa C295"
-467890,a-f-A-M-F-T,"PI-01, Pilatus PC12"
-467891,a-f-A-M-F-T,"PI-02, Pilatus PC12"
-467892,a-f-A-M-F-T,"PI-03, Pilatus PC12"
-467893,a-f-A-M-F-T,"PI-04, Pilatus PC12"
-467894,a-f-A-M-F-T,"PI-05, Pilatus PC12"
-467895,a-f-A-M-F-T,"PI-06, Pilatus PC12"
-467896,a-f-A-M-F-C-M,"CC-3, Casa C295"
+"46788b","a-f-A-M-F-R","LJ-3","Learjet35A","FIN AF"
+"46788c","a-f-A-M-F-R","LJ-2","Learjet35A","FIN AF"
+"46788d","a-f-A-M-F-R","LJ-1","Learjet35A","FIN AF"
+"46788e","a-f-A-M-F-C-M","CC-1","CasaC295","FIN AF"
+"46788f","a-f-A-M-F-C-M","CC-2","CasaC295","FIN AF"
+"467890","a-f-A-M-F-T","PI-01","PilatusPC12","FIN AF"
+"467891","a-f-A-M-F-T","PI-02","PilatusPC12","FIN AF"
+"467892","a-f-A-M-F-T","PI-03","PilatusPC12","FIN AF"
+"467893","a-f-A-M-F-T","PI-04","PilatusPC12","FIN AF"
+"467894","a-f-A-M-F-T","PI-05","PilatusPC12","FIN AF"
+"467895","a-f-A-M-F-T","PI-06","PilatusPC12","FIN AF"
+"467896","a-f-A-M-F-C-M","CC-3","CasaC295","FIN AF"
