@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","SIDC","registration","operator"
+#"hexid","SIDC","registration","type","operator"
 
 "46788b","a-f-A-M-F-R","LJ-3","Learjet35A","FIN AF"
 "46788c","a-f-A-M-F-R","LJ-2","Learjet35A","FIN AF"

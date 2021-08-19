@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","SIDC","registration","operator"
+#"hexid","SIDC","registration","type","operator"
 
 "4613b9","a-n-A-C-H","OH-HMF","EC135P2+","FinnHEMS"
 "4613c4","a-n-A-C-H","OH-HMQ","EC135P2+","FinnHEMS"
