@@ -1,0 +1,31 @@
+#TAK ADSB IDs RUSSIA Law enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"141827","a-a-A-C-H","RF-06052","Mi-26T","Russian FSB"
+"1464aa","a-a-A-C-H","RF-43883","Mi-8PS-11","Russian Customs"
+"146636","a-a-A-C-F","RF-26259","An-26","Russian FSB"
+"146638","a-a-A-C-F","RF-26280","An-26","Russian FSB"
+"146692","a-a-A-C-F","RA-26258","An-26","Russian FSB"
+"1466a4","a-a-A-C-F","RF-26276","An-26","Russian FSB"
+"14f10b","a-a-A-C-F","RA-61707","An-148 100E","Russian FSB"
+"14f110","a-a-A-C-F","RA-61712","An-148 100EA","Russian FSB"
+"14f117","a-a-A-C-F","RA-61719","An-148 100EA","Russian FSB"
+"14f11f","a-a-A-C-F","RA-61727","An-148 100EA","Russian FSB"
+"14fc0b","a-a-A-C-F","RA-64523","Tu-214VPU","Russian FSB"
+"150187","a-a-A-C-F","RF-65153","Tu-134AK","Russian Customs"
+"1501bb","a-a-A-C-F","RA-65979","Tu-134A3","Russian FSB"
+"1514f0","a-a-A-C-H","RA-70896","Mi-17","Russian Customs"
+"151cca","a-a-A-C-F","RF-72906","An-72","Russian FSB"
+"151ccc","a-a-A-C-F","RF-72018","An-72P","Russian FSB"
+"151ccd","a-a-A-C-F","RF-72010","An-72","Russian FSB"
+"151cfe","a-a-A-C-F","RF-72011","An-72P","Russian FSB"
+"151d01","a-a-A-C-F","RF-72012","An-72P","Russian FSB"
+"151d0a","a-a-A-C-F","RF-72028","An-72P","Russian FSB"
+"152c00","a-a-A-C-F","RF-76325","IL-76TD","Russian FSB"
+"1533ed","a-a-A-C-F","RF-76327","IL-76MD","Russian FSB"
+"154c1b","a-a-A-C-F","RA-85019","Tu-154M","Russian FSB"
+"154c5c","a-a-A-C-F","RA-85084","Tu-154M","Russian FSB"
+"157768","a-a-A-C-F","RA-96104","IL-96 400VPU","Russian FSB"

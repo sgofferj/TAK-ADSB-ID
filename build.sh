@@ -8,6 +8,7 @@ for DIR in ???; do
   egrep -v "^#" ${DIR}/CIV.txt >> tmp.txt
   egrep -v "^#" ${DIR}/LEO.txt >> tmp.txt
   egrep -v "^#" ${DIR}/MIL.txt >> tmp.txt
+  egrep -v "^#" ${DIR}/SPC.txt >> tmp.txt
 done
 
 echo '#TAK ADSB IDs' > ${RELEASEDATE}.txt
