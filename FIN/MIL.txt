@@ -97,4 +97,5 @@
 "467899","a-f-A-M","UNKN","UNKN","Finnish Air Force"
 "46789A","a-f-A-M","UNKN","UNKN","Finnish Air Force"
 "46789E","a-f-A-M","UNKN","UNKN","Finnish Air Force"
+"4678A0","a-f-A-M-F-T","GO-10","Grob115E","Finnish Air Force"
 "4678CA","a-f-A-M","UNKN","UNKN","Finnish Air Force"
