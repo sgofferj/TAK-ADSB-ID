@@ -11,7 +11,7 @@ for DIR in ???; do
   egrep -v "^#" ${DIR}/SPC.txt >> tmp.txt
 done
 
-cat tmp.txt | sed "s/\"//g" | \
+cat tmp.txt | sort | egrep -v "^$" | sed "s/\"//g" | \
 jq -Rsn '
   {"aircraft":
     [inputs
