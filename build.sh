@@ -20,7 +20,6 @@ jq -Rsn '
      | {"hexid": $input[0], "cot": $input[1], "reg": $input[2], "type": $input[3], "operator": $input[4]}]}
 ' >${RELEASEDATE}.json
 
-
 echo '#TAK ADSB IDs' > ${RELEASEDATE}.txt
 echo '#Copyright 2021 Stefan Gofferje' >> ${RELEASEDATE}.txt
 echo '#License: CC-BY-SA 4.0' >> ${RELEASEDATE}.txt
