@@ -20,11 +20,11 @@ jq -Rsn '
      | {"hexid": $input[0], "cot": $input[1], "reg": $input[2], "type": $input[3], "operator": $input[4]}]}
 ' >cotdb.json
 
-echo '#TAK ADSB IDs' > ${RELEASEDATE}.txt
-echo '#Copyright 2021 Stefan Gofferje' >> ${RELEASEDATE}.txt
-echo '#License: CC-BY-SA 4.0' >> ${RELEASEDATE}.txt
-echo '#Format:' >> ${RELEASEDATE}.txt
-echo '#"hexid","SIDC","registration","type","operator"' >> ${RELEASEDATE}.txt
+echo '#TAK ADSB IDs' > cotdb.txt
+echo '#Copyright 2021 Stefan Gofferje' >> cotdb.txt
+echo '#License: CC-BY-SA 4.0' >> cotdb.txt
+echo '#Format:' >> cotdb.txt
+echo '#"hexid","SIDC","registration","type","operator"' >> cotdb.txt
 echo >> cotdb.txt
 cat tmp.txt | sort | egrep -v "^$" >> cotdb.txt
 zip ${RELEASEDATE}.zip cotdb.txt cotdb.json
