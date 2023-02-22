@@ -3,3 +3,4 @@
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
+"4AAA6B","a-n-A-C-H","SE-JSK","AW-169","Scand. Air Ambulance"
