@@ -26,6 +26,6 @@ echo '#License: CC-BY-SA 4.0' >> ${RELEASEDATE}.txt
 echo '#Format:' >> ${RELEASEDATE}.txt
 echo '#"hexid","SIDC","registration","type","operator"' >> ${RELEASEDATE}.txt
 echo >> cotdb.txt
-cat tmp.txt | sort | egrep -v "^$" >> ${RELEASEDATE}.txt
+cat tmp.txt | sort | egrep -v "^$" >> cotdb.txt
 zip ${RELEASEDATE}.zip cotdb.txt cotdb.json
 rm tmp.txt cotdb.txt
