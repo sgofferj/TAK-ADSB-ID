@@ -12077,7 +12077,7 @@
     },
     {
       "hexid": "4A80D0",
-      "cot": "a-f-A-M-F-R",
+      "cot": "a-f-A-M-V",
       "reg": "102001",
       "type": "Gulf 4",
       "operator": "SWE AF"
@@ -12147,7 +12147,7 @@
     },
     {
       "hexid": "4A8199",
-      "cot": "a-f-A-M-F-R",
+      "cot": "a-f-A-M-V",
       "reg": "102004",
       "type": "Gulf 4",
       "operator": "SWE AF"
@@ -12424,6 +12424,27 @@
       "reg": "60141",
       "type": "Saab 105",
       "operator": "SWE AF"
+    },
+    {
+      "hexid": "4aaa13",
+      "cot": "a-f-A-C-H",
+      "reg": "SE-JPS",
+      "type": "Bell 429",
+      "operator": "Swedish Police"
+    },
+    {
+      "hexid": "4aaa14",
+      "cot": "a-f-A-C-H",
+      "reg": "SE-JPT",
+      "type": "Bell 429",
+      "operator": "Swedish Police"
+    },
+    {
+      "hexid": "4aaa15",
+      "cot": "a-f-A-C-H",
+      "reg": "SE-JPU",
+      "type": "Bell 429",
+      "operator": "Swedish Police"
     },
     {
       "hexid": "4aaa68",

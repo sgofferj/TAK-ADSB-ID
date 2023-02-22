@@ -3,6 +3,9 @@
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
+"4aaa13","a-f-A-C-H","SE-JPS","Bell 429","Swedish Police"
+"4aaa14","a-f-A-C-H","SE-JPT","Bell 429","Swedish Police"
+"4aaa15","a-f-A-C-H","SE-JPU","Bell 429","Swedish Police"
 "4aaa68","a-n-A-C-H","SE-JSH","AW-169","Scand. Air Ambulance"
 "4aaa6b","a-n-A-C-H","SE-JSK","AW-169","Scand. Air Ambulance"
 "4aaa6c","a-n-A-C-H","SE-JSL","EC-145","Scand. Air Ambulance"
