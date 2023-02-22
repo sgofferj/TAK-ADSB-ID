@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","SIDC","registration","type","operator"
+#"hexid","CoT type","registration","type","operator"
 
 "3da0dc","a-f-A-C-H","D-GHEA","P68","German Federal Police"
 "3dd2fd","a-f-A-C-H","D-HADP","BK117D2","German Federal Police"

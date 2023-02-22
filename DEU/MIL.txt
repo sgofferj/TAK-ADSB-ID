@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","SIDC","registration","type","operator"
+#"hexid","CoT type","registration","type","operator"
 
 "12abcd","a-f-M-A-H-A","74+21","EC665","German Army"
 "3E801E","a-f-M-A-H-C-M","79+18","NH-90","German Armed Forces"

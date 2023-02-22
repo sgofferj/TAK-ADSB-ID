@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","SIDC","registration","type","operator"
+#"hexid","CoT type","registration","type","operator"
 
 "46724A","a-f-A-M-F-F","HN-401","F-18C","Finnish Air Force"
 "46724B","a-f-A-M-F-F","HN-4xx","F-18C","Finnish Air Force"

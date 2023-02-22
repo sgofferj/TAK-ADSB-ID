@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","SIDC","registration","type","operator"
+#"hexid","CoT type","registration","type","operator"
 
 "4780D8","a-f-A-M-F-F","0298","F-16AM","NOR AF"
 "4780D9","a-f-A-M-F-F","0299","F-16AM","NOR AF"

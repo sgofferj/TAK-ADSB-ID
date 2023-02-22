@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","SIDC","registration","type","operator"
+#"hexid","CoT type","registration","type","operator"
 
 "4614a1","a-f-A-C-H","OH-HVD","AB412","FIN Border Guard"
 "4614a2","a-f-A-C-H","OH-HVE","AB412","FIN Border Guard"

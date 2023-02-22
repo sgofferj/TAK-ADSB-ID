@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","SIDC","registration","type","operator"
+#"hexid","CoT type","registration","type","operator"
 
 "4A80D0","a-f-A-M-F-R","102001","Gulf 4","SWE AF"
 "4A8114","a-f-A-M-F-R","100001","Saab 340","SWE AF"

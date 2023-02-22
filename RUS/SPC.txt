@@ -3,7 +3,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","SIDC","registration","type","operator"
+#"hexid","CoT type","registration","type","operator"
 
 "780766","a-s-A-C-F","B-8166","G450","Sino Jet Management"
 "7806cb","a-s-A-C-F","B-3566","Challenger 605","Sino Jet Management"
