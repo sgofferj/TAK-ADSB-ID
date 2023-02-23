@@ -2998,14 +2998,14 @@
     },
     {
       "hexid": "3dd3d9",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HAMB",
       "type": "BO105CBS4",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3dd4e6",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HAWK",
       "type": "BK117B2",
       "operator": "EMS (DRF)"
@@ -3026,7 +3026,7 @@
     },
     {
       "hexid": "3dd55c",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HBAY",
       "type": "BK117B2",
       "operator": "EMS (ADAC)"
@@ -3047,21 +3047,21 @@
     },
     {
       "hexid": "3dd652",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HBKK",
       "type": "BK117B2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3dd66f",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HBLN",
       "type": "EC135P1",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3dd68e",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HBMS",
       "type": "BK117C1",
       "operator": "EMS (DRF)"
@@ -3173,7 +3173,7 @@
     },
     {
       "hexid": "3dd7b4",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HBYA",
       "type": "EC135P1",
       "operator": "EMS (ADAC)"
@@ -3194,252 +3194,252 @@
     },
     {
       "hexid": "3dd7b9",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HBYF",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3dd7bb",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HBYH",
       "type": "EC135P1",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3dda8e",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDAC",
       "type": "BK117B2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3ddae7",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDDN",
       "type": "BK117C2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddaf6",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDEC",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3ddbc4",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDMA",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3ddbcf",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDML",
       "type": "BO105S",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc04",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDOM",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3ddc24",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDPS",
       "type": "BK117B2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3ddc47",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRB",
       "type": "EC135P2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc48",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRC",
       "type": "EC135P2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc4b",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRF",
       "type": "BK117B2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc4d",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRH",
       "type": "BK117B1",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc50",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRK",
       "type": "EC135P2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc51",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRL",
       "type": "EC135P2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc52",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRM",
       "type": "EC135P2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc53",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRN",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc54",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRO",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc55",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRP",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc56",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRQ",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc57",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRR",
       "type": "BK117C2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc58",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRS",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc59",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRT",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc5a",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRU",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc5b",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRV",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc5c",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRW",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc5d",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRX",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc5e",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDRY",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc63",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDSD",
       "type": "EC145T2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc65",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDSF",
       "type": "BK117D2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc66",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDSG",
       "type": "BK117D2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc67",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDSH",
       "type": "BK117D2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc6a",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDSK",
       "type": "BK117D2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc6b",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDSL",
       "type": "BK117D2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddc71",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HDSR",
       "type": "BK117C1",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3ddd68",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HECE",
       "type": "BK117B2",
       "operator": "EMS (DRF)"
@@ -3579,28 +3579,28 @@
     },
     {
       "hexid": "3dde7a",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HEMS",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3de4b7",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HGWD",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3de4f5",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HGYN",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3de53c",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HHBG",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
@@ -3628,91 +3628,91 @@
     },
     {
       "hexid": "3de5ff",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HHIT",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3de71c",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HHTS",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3de8e3",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HILF",
       "type": "BK117B2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3de8f9",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HIMB",
       "type": "BK117B1",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3deb57",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HJJJ",
       "type": "BK117B2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3deb9f",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HJMD",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3def14",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HKUE",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3defea",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HLCK",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3df006",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HLDM",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3df03f",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HLFR",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3df049",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HLGB",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3df08d",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HLIR",
       "type": "BK117C1",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3df16c",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HLRG",
       "type": "BK117C2",
       "operator": "EMS (ADAC)"
@@ -3852,7 +3852,7 @@
     },
     {
       "hexid": "3df2b5",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HMDX",
       "type": "MD900",
       "operator": "EMS (DRF)"
@@ -3873,7 +3873,7 @@
     },
     {
       "hexid": "3df653",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HNNN",
       "type": "BK117B2",
       "operator": "EMS (DRF)"
@@ -3957,14 +3957,14 @@
     },
     {
       "hexid": "3df80c",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HOEM",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3df81f",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HOFF",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
@@ -3978,14 +3978,14 @@
     },
     {
       "hexid": "3df926",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HOPI",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3dfb80",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HPMM",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
@@ -4020,14 +4020,14 @@
     },
     {
       "hexid": "3dfe90",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HQQQ",
       "type": "BK117B2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3dff86",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HRAC",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
@@ -4062,7 +4062,7 @@
     },
     {
       "hexid": "3e0235",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HSAN",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
@@ -4083,7 +4083,7 @@
     },
     {
       "hexid": "3e02ab",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HSFB",
       "type": "BK117B2",
       "operator": "EMS (ADAC)"
@@ -4111,7 +4111,7 @@
     },
     {
       "hexid": "3e02ed",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HSHP",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
@@ -4125,7 +4125,7 @@
     },
     {
       "hexid": "3e0360",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HSMA",
       "type": "BK117B2",
       "operator": "EMS (ADAC)"
@@ -4153,7 +4153,7 @@
     },
     {
       "hexid": "3e046a",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HSWG",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
@@ -4181,7 +4181,7 @@
     },
     {
       "hexid": "3e06cd",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HTTT",
       "type": "BK117B2",
       "operator": "EMS (DRF)"
@@ -4195,7 +4195,7 @@
     },
     {
       "hexid": "3e0965",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HUTH",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
@@ -4370,140 +4370,140 @@
     },
     {
       "hexid": "3e0d41",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HWFH",
       "type": "EC135P2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e0eec",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HWVS",
       "type": "EC145C2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e0f0a",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HWWW",
       "type": "BK117B2",
       "operator": "EMS (DRF)"
     },
     {
       "hexid": "3e0f5d",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HXAB",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e0f5e",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HXAC",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e0f5f",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HXAD",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e0f60",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HXAE",
       "type": "EC135P2+",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e0f76",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HXBA",
       "type": "EC135P3",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e0f77",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HXBB",
       "type": "EC135P3",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e0f78",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HXBC",
       "type": "EC135P3",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e1202",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HYAC",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e1204",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HYAE",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e1205",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HYAF",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e1206",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HYAG",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e1207",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HYAH",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e120a",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HYAK",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e120b",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HYAL",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e120c",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HYAM",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e120d",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HYAN",
       "type": "BK117D2",
       "operator": "EMS (ADAC)"
     },
     {
       "hexid": "3e1488",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "D-HYYY",
       "type": "EC135P2+",
       "operator": "EMS (DRF)"
@@ -10971,38 +10971,38 @@
     },
     {
       "hexid": "4613b9",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "OH-HMF",
       "type": "EC135P2+",
-      "operator": "FinnHEMS"
+      "operator": "EMS (FinnHEMS)"
     },
     {
       "hexid": "4613c4",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "OH-HMQ",
       "type": "EC135P2+",
-      "operator": "FinnHEMS"
+      "operator": "EMS (FinnHEMS)"
     },
     {
       "hexid": "4613C8",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "OH-HMU",
       "type": "EC135P2+",
-      "operator": "FinnHEMS"
+      "operator": "EMS (FinnHEMS)"
     },
     {
       "hexid": "4613cb",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "OH-HMX",
       "type": "EC135P2+",
-      "operator": "FinnHEMS"
+      "operator": "EMS (FinnHEMS)"
     },
     {
       "hexid": "4613cc",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "OH-HMY",
       "type": "EC135P2+",
-      "operator": "FinnHEMS"
+      "operator": "EMS (FinnHEMS)"
     },
     {
       "hexid": "4614a1",
@@ -12062,6 +12062,13 @@
       "operator": "NOR AF"
     },
     {
+      "hexid": "480c1a",
+      "cot": "a-f-A-M-V",
+      "reg": "V11",
+      "type": "Gulf 4",
+      "operator": "NLD AF"
+    },
+    {
       "hexid": "4850ae",
       "cot": "a-s-A-C-F",
       "reg": "P4-SJM",
@@ -12448,38 +12455,38 @@
     },
     {
       "hexid": "4aaa68",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "SE-JSH",
       "type": "AW-169",
-      "operator": "Scand. Air Ambulance"
+      "operator": "EMS (Scand. Air Ambulance)"
     },
     {
       "hexid": "4aaa6b",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "SE-JSK",
       "type": "AW-169",
-      "operator": "Scand. Air Ambulance"
+      "operator": "EMS (Scand. Air Ambulance)"
     },
     {
       "hexid": "4aaa6c",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "SE-JSL",
       "type": "EC-145",
-      "operator": "Scand. Air Ambulance"
+      "operator": "EMS (Scand. Air Ambulance)"
     },
     {
       "hexid": "4aaa70",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "SE-JSP",
       "type": "EC-145",
-      "operator": "Scand. Air Ambulance"
+      "operator": "EMS (Scand. Air Ambulance)"
     },
     {
       "hexid": "4aaa72",
-      "cot": "a-n-A-C-H",
+      "cot": "a-f-A-C-H",
       "reg": "SE-JSR",
       "type": "EC-145",
-      "operator": "Scand. Air Ambulance"
+      "operator": "EMS (Scand. Air Ambulance)"
     },
     {
       "hexid": "4ca9d5",
