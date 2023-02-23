@@ -4,8 +4,8 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"4613b9","a-n-A-C-H","OH-HMF","EC135P2+","FinnHEMS"
-"4613c4","a-n-A-C-H","OH-HMQ","EC135P2+","FinnHEMS"
-"4613C8","a-n-A-C-H","OH-HMU","EC135P2+","FinnHEMS"
-"4613cb","a-n-A-C-H","OH-HMX","EC135P2+","FinnHEMS"
-"4613cc","a-n-A-C-H","OH-HMY","EC135P2+","FinnHEMS"
+"4613b9","a-f-A-C-H","OH-HMF","EC135P2+","EMS (FinnHEMS)"
+"4613c4","a-f-A-C-H","OH-HMQ","EC135P2+","EMS (FinnHEMS)"
+"4613C8","a-f-A-C-H","OH-HMU","EC135P2+","EMS (FinnHEMS)"
+"4613cb","a-f-A-C-H","OH-HMX","EC135P2+","EMS (FinnHEMS)"
+"4613cc","a-f-A-C-H","OH-HMY","EC135P2+","EMS (FinnHEMS)"
