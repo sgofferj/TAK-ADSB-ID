@@ -6,7 +6,7 @@
 "4aaa13","a-f-A-C-H","SE-JPS","Bell 429","Swedish Police"
 "4aaa14","a-f-A-C-H","SE-JPT","Bell 429","Swedish Police"
 "4aaa15","a-f-A-C-H","SE-JPU","Bell 429","Swedish Police"
-"4aaa49","a-f-A-C-H","SE-JRI","AW-139",","SAR (SWE Maritime Administration)"
+"4aaa49","a-f-A-C-H","SE-JRI","AW-139","SAR (SWE Maritime Administration)"
 "4aaa68","a-f-A-C-H","SE-JSH","AW-169","EMS (Scand. Air Ambulance)"
 "4aaa6b","a-f-A-C-H","SE-JSK","AW-169","EMS (Scand. Air Ambulance)"
 "4aaa6c","a-f-A-C-H","SE-JSL","EC-145","EMS (Scand. Air Ambulance)"
