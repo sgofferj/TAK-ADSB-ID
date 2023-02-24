@@ -13,6 +13,7 @@ Civilian aircraft I generally classify as neutral unless they are somehow specia
 ## Other stuff
 To assist middlewares with displaying special civilian aircraft, I am developing some conventions for the source files:
 - EMS aircraft will have their operator field in the format "EMS (operator)".
+- SAR aircraft will have their operator field in the format "SAR (operator)".
 ## json
 Since release 162458ZFEB23 the releases also contain a json file which should make integration of the data in 3rd party middleware fairly easy. The format is:
 ```json
