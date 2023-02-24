@@ -3,3 +3,6 @@
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
+"4aaa13","a-f-A-C-H","SE-JPS","Bell 429","LEO (SWE POL)"
+"4aaa14","a-f-A-C-H","SE-JPT","Bell 429","LEO (SWE POL)"
+"4aaa15","a-f-A-C-H","SE-JPU","Bell 429","LEO (SWE POL)"
