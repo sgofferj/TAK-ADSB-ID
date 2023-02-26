@@ -4,7 +4,7 @@ RELEASEDATE=$(date +"%d%H%MZ${MONTH}%y")
 
 echo "Release date: ${RELEASEDATE}"
 
-for DIR in ???; do
+for DIR in src/???; do
   egrep -v "^#" ${DIR}/CIV.txt >> tmp.txt
   egrep -v "^#" ${DIR}/LEO.txt >> tmp.txt
   egrep -v "^#" ${DIR}/MIL.txt >> tmp.txt
