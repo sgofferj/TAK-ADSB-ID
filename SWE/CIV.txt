@@ -7,5 +7,6 @@
 "4aaa68","a-f-A-C-H","SE-JSH","AW-169","EMS (Scand. Air Ambulance)"
 "4aaa6b","a-f-A-C-H","SE-JSK","AW-169","EMS (Scand. Air Ambulance)"
 "4aaa6c","a-f-A-C-H","SE-JSL","EC-145","EMS (Scand. Air Ambulance)"
+"4aaa69","a-f-A-C-H","SE-JSI","AW-169","EMS (Scand. Air Ambulance)"
 "4aaa70","a-f-A-C-H","SE-JSP","EC-145","EMS (Scand. Air Ambulance)"
 "4aaa72","a-f-A-C-H","SE-JSR","EC-145","EMS (Scand. Air Ambulance)"
