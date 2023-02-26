@@ -11831,6 +11831,13 @@
       "operator": "FIN AF"
     },
     {
+      "hexid": "477ff1",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "01",
+      "type": "C17",
+      "operator": "NATO SAC"
+    },
+    {
       "hexid": "4780D8",
       "cot": "a-f-A-M-F-F",
       "reg": "0298",
