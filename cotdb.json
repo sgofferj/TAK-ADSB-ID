@@ -2990,6 +2990,13 @@
       "operator": "ITA AF"
     },
     {
+      "hexid": "341391",
+      "cot": "a-f-A-M-V",
+      "reg": "T.18-2",
+      "type": "Falcon 900",
+      "operator": "ESP AF"
+    },
+    {
       "hexid": "3da0dc",
       "cot": "a-f-A-C-H",
       "reg": "D-GHEA",
