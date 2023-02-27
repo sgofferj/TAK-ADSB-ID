@@ -1,0 +1,7 @@
+#TAK ADSB IDs CZECH REPUBLIC Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"498487","a-f-A-M-F-C-M","0453","C295","CZE AF"

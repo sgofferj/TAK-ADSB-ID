@@ -12104,6 +12104,13 @@
       "operator": "Sino Jet Management"
     },
     {
+      "hexid": "498487",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "0453",
+      "type": "C295",
+      "operator": "CZE AF"
+    },
+    {
       "hexid": "4A80D0",
       "cot": "a-f-A-M-V",
       "reg": "102001",
@@ -12189,7 +12196,7 @@
     },
     {
       "hexid": "4A81F4",
-      "cot": "a-f-A-M-F-R",
+      "cot": "a-f-A-M-V",
       "reg": "100008",
       "type": "Saab 340",
       "operator": "SWE AF"
@@ -12210,14 +12217,14 @@
     },
     {
       "hexid": "4A821F",
-      "cot": "a-f-A-M-F-R",
+      "cot": "a-f-A-M-F-R-W",
       "reg": "100003",
       "type": "Saab 340",
       "operator": "SWE AF"
     },
     {
       "hexid": "4A8220",
-      "cot": "a-f-A-M-F-R",
+      "cot": "a-f-A-M-F-R-W",
       "reg": "100004",
       "type": "Saab 340",
       "operator": "SWE AF"
