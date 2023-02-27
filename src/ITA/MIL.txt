@@ -1,0 +1,7 @@
+#TAK ADSB IDs ITALY Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"33ffc0","a-f-A-M-V","MM62210","Falcon 900","ITA AF"

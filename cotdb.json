@@ -2983,6 +2983,13 @@
       "operator": "RUS AF"
     },
     {
+      "hexid": "33ffc0",
+      "cot": "a-f-A-M-V",
+      "reg": "MM62210",
+      "type": "Falcon 900",
+      "operator": "ITA AF"
+    },
+    {
       "hexid": "3da0dc",
       "cot": "a-f-A-C-H",
       "reg": "D-GHEA",
