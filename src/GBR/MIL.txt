@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"43C5E2","a-f-A-M-F-C-M","ZM408","A400M-180","GBR AF"
+"43C5E2","a-f-A-M-F-C-H","ZM408","A400M-180","GBR AF"

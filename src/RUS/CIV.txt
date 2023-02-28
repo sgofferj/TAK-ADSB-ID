@@ -4,7 +4,6 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-
 "1407bd","a-h-A-C-H","RA-01981","AW139","Rossiya State Carrier"
 "1407be","a-h-A-C-H","RA-01982","AW139","Rossiya State Carrier"
 "145798","a-h-A-C-H","RA-22424","Mi-8AMT","RUS Railways"
