@@ -2983,6 +2983,13 @@
       "operator": "RUS AF"
     },
     {
+      "hexid": "3002ae",
+      "cot": "a-f-A-C-H",
+      "reg": "I-REDY",
+      "type": "AW-139",
+      "operator": "EMS (Scand. Air Ambulance)"
+    },
+    {
       "hexid": "33ffc0",
       "cot": "a-f-A-M-V",
       "reg": "MM62210",
