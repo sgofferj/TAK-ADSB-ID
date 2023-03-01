@@ -3004,6 +3004,13 @@
       "operator": "ESP AF"
     },
     {
+      "hexid": "3b7762",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "0102",
+      "type": "A400M",
+      "operator": "FRA AF"
+    },
+    {
       "hexid": "3da0dc",
       "cot": "a-f-A-C-H",
       "reg": "D-GHEA",
