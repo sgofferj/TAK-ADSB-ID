@@ -11866,6 +11866,20 @@
       "operator": "NATO SAC"
     },
     {
+      "hexid": "477ff4",
+      "cot": "a-f-A-M-V",
+      "reg": "604",
+      "type": "A319",
+      "operator": "HUN AF"
+    },
+    {
+      "hexid": "477ff5",
+      "cot": "a-f-A-M-V",
+      "reg": "605",
+      "type": "A319",
+      "operator": "HUN AF"
+    },
+    {
       "hexid": "4780D8",
       "cot": "a-f-A-M-F-F",
       "reg": "0298",
@@ -12238,14 +12252,14 @@
     },
     {
       "hexid": "4A81F8",
-      "cot": "a-f-A-M-F-R",
+      "cot": "a-f-A-M-F-R-Z",
       "reg": "102003",
       "type": "Gulf 4",
       "operator": "SWE AF"
     },
     {
       "hexid": "4A81F9",
-      "cot": "a-f-A-M-F-R",
+      "cot": "a-f-A-M-F-R-Z",
       "reg": "102002",
       "type": "Gulf 4",
       "operator": "SWE AF"

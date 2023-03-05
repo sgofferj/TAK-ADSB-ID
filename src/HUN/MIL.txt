@@ -5,3 +5,5 @@
 #"hexid","CoT type","registration","type","operator"
 
 "477ff1","a-f-A-M-F-C-H","01","C17","NATO SAC"
+"477ff4","a-f-A-M-V","604","A319","HUN AF"
+"477ff5","a-f-A-M-V","605","A319","HUN AF"
