@@ -1,0 +1,8 @@
+#TAK ADSB IDs USA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"ae01CC","a-f-A-M-F-R-Z","62-4131","RC-135","USAF"
+"AE587F","a-f-A-M-F-B","60-0026","B-52","USAF"

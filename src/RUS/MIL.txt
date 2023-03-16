@@ -97,6 +97,7 @@
 "14f120","a-h-A-M-F-C-M","RA-61728","An-148 100E","RUS AF"
 "14f121","a-h-A-M-F-C-M","RA-61729","An-148 100E","RUS AF"
 "14f122","a-h-A-M-F-C-M","RA-61730","An-148 100E","RUS AF"
+"14F126","a-h-A-M-F-C-M","RA-61734","An-148 100E","RUS AF"
 "14f90d","a-h-A-M-F-C-M","RF-66001","Tu-134AK","RUS N"
 "14f91f","a-h-A-M-F-C-M","RF-90789","Tu-134AK","RUS AF"
 "14f958","a-h-A-M-F-C-M","RF-66008","Tu-134AK","RUS AF"

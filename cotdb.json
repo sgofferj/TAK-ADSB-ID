@@ -771,6 +771,13 @@
       "operator": "RUS AF"
     },
     {
+      "hexid": "14F126",
+      "cot": "a-h-A-M-F-C-M",
+      "reg": "RA-61734",
+      "type": "An-148 100E",
+      "operator": "RUS AF"
+    },
+    {
       "hexid": "14f90d",
       "cot": "a-h-A-M-F-C-M",
       "reg": "RF-66001",
@@ -4650,7 +4657,7 @@
     },
     {
       "hexid": "3E854F",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "10+03",
       "type": "A350-900",
       "operator": "DEU AF"
@@ -4741,7 +4748,7 @@
     },
     {
       "hexid": "3E89E7",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "16+02",
       "type": "A340-300",
       "operator": "DEU AF"
@@ -5056,14 +5063,14 @@
     },
     {
       "hexid": "3E95CA",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "14+05",
       "type": "Global 6000",
       "operator": "DEU A"
     },
     {
       "hexid": "3e95ca",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "14+05",
       "type": "Global 6000",
       "operator": "DEU AF"
@@ -5539,7 +5546,7 @@
     },
     {
       "hexid": "3EB1A6",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "16+01",
       "type": "A340-300",
       "operator": "DEU AF"
@@ -5728,14 +5735,14 @@
     },
     {
       "hexid": "3ebd41",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "14+06",
       "type": "Global 6000",
       "operator": "DEU AF"
     },
     {
       "hexid": "3ebe12",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "14+07",
       "type": "Global 6000",
       "operator": "DEU AF"
@@ -6015,7 +6022,7 @@
     },
     {
       "hexid": "3F4E27",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "14+02",
       "type": "Global 5000",
       "operator": "DEU AF"
@@ -6078,10 +6085,10 @@
     },
     {
       "hexid": "3F551D",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "15+02",
       "type": "A319CJ",
-      "operator": "DEU A"
+      "operator": "DEU AF"
     },
     {
       "hexid": "3f5544",
@@ -6141,7 +6148,7 @@
     },
     {
       "hexid": "3f58ae",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "14+01",
       "type": "Global 5000",
       "operator": "DEU AF"
@@ -6358,7 +6365,7 @@
     },
     {
       "hexid": "3F6533",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "14+03",
       "type": "Global 5000",
       "operator": "DEU AF"
@@ -6750,7 +6757,7 @@
     },
     {
       "hexid": "3F7B3C",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "14+04",
       "type": "Global 5000",
       "operator": "DEU AF"
@@ -6771,10 +6778,10 @@
     },
     {
       "hexid": "3F7DC1",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "15+01",
       "type": "A319CJ",
-      "operator": "DEU A"
+      "operator": "DEU AF"
     },
     {
       "hexid": "3f7eee",
@@ -8052,7 +8059,7 @@
     },
     {
       "hexid": "3F97FD",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "15+04",
       "type": "A321-200",
       "operator": "DEU AF"
@@ -8451,10 +8458,10 @@
     },
     {
       "hexid": "3F9A92",
-      "cot": "a-f-A-M-F-V",
+      "cot": "a-f-A-M-V",
       "reg": "15+03",
       "type": "A319CJ",
-      "operator": "DEU A"
+      "operator": "DEU AF"
     },
     {
       "hexid": "3f9aad",
@@ -10991,6 +10998,13 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43C6F3",
+      "cot": "a-f-A-M-F-K",
+      "reg": "ZZ330",
+      "type": "A330-243MRTT",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43eba9",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+04",
@@ -12823,6 +12837,27 @@
       "reg": "N998FA",
       "type": "G550",
       "operator": "Sino Jet Management"
+    },
+    {
+      "hexid": "ae01CC",
+      "cot": "a-f-A-M-F-R-Z",
+      "reg": "62-4131",
+      "type": "RC-135",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "AE587F",
+      "cot": "a-f-A-M-F-B",
+      "reg": "60-0026",
+      "type": "B-52",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "C2B55D",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "130606",
+      "type": "CC-130J-30",
+      "operator": "CAN AF"
     }
   ]
 }
