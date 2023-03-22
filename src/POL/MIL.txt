@@ -1,0 +1,8 @@
+#TAK ADSB IDs POLAND Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"48D961","a-f-A-M-V","0002","Gulf 5","POL AF"
+"48D981","a-f-A-M-V","0112","B-737-800","POL AF"

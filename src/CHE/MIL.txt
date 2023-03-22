@@ -1,0 +1,8 @@
+#TAK ADSB IDs SWITZERLAND Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"4B7F4C","a-n-A-M-V","T-785","Falcon 900","CHE AF"
+"4B7F78","a-n-A-M-F-R-X","T-741","DHC-6","CHE AF"

@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"3B7542","a-f-A-M-V","F-UJCU","A300-200","FRA AF"
 "3b7762","a-f-A-M-F-C-H","0102","A400M","FRA AF"

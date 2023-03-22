@@ -107,6 +107,7 @@
 "3e9f6a","a-f-A-M-F-F","45+57","Tornado IDS","DEU AF"
 "3E9FD2","a-f-A-M-F-C-H","54+29","A400M","DEU AF"
 "3EA048","a-f-A-M-F-C-H","54+26","A400M","DEU AF"
+"3Ea12c","a-f-A-M-V","10+01","A350-900","DEU AF"
 "3EA1AD","a-f-A-M-F-F","30+17","EF-2000","DEU AF"
 "3EA1CC","a-f-A-M-F-C-H","54+04","A400M","DEU AF"
 "3ea1cc","a-f-A-M-F-C-H","54+04","A400M","DEU AF"
