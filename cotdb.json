@@ -3004,6 +3004,13 @@
       "operator": "ITA AF"
     },
     {
+      "hexid": "33FFC1",
+      "cot": "a-f-A-M-V",
+      "reg": "MM62209",
+      "type": "A319CJ",
+      "operator": "ITA AF"
+    },
+    {
       "hexid": "341391",
       "cot": "a-f-A-M-V",
       "reg": "T.18-2",
@@ -13249,6 +13256,13 @@
       "cot": "a-f-A-M-F-R-W",
       "reg": "81-0004",
       "type": "E-3TF",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "AE1797",
+      "cot": "a-f-A-M-F-F",
+      "reg": "91-0310",
+      "type": "F-15",
       "operator": "USAF"
     },
     {

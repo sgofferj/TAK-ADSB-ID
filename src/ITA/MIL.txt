@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "33ffc0","a-f-A-M-V","MM62210","Falcon 900","ITA AF"
+"33FFC1","a-f-A-M-V","MM62209","A319CJ","ITA AF"
