@@ -1,0 +1,7 @@
+#TAK ADSB IDs ESTONIA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"511122","a-f-A-M-F-C-L","44 Black","M-28","EST AF"

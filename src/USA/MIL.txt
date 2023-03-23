@@ -19,6 +19,7 @@
 "AE0424","a-f-A-M-F-K","60-0333","KC-135","USAF"
 "AE048A","a-f-A-M-F-K","63-8008","KC-135","USAF"
 "ae04ab","a-f-A-M-F-R-Z","99-00102","C560","USAF"
+"AE07A3","a-f-A-M-F-K","58-0118","KC-135","USAF"
 "AE08E3","a-f-A-M-F-C-H","00-0183","C-17","USAF"
 "AE0978","a-f-A-M-V","01-0076","Gulf 5","USAF"
 "AE11ED","a-f-A-M-F-R-W","81-0004","E-3TF","USAF"

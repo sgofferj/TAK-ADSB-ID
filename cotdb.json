@@ -11243,9 +11243,23 @@
       "operator": "BEL AF"
     },
     {
+      "hexid": "44F144",
+      "cot": "a-f-A-M-F-F",
+      "reg": "FA-104",
+      "type": "F-16",
+      "operator": "BEL AF"
+    },
+    {
       "hexid": "44F147",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-107",
+      "type": "F-16",
+      "operator": "BEL AF"
+    },
+    {
+      "hexid": "44F184",
+      "cot": "a-f-A-M-F-F",
+      "reg": "FA-124",
       "type": "F-16",
       "operator": "BEL AF"
     },
@@ -12384,6 +12398,13 @@
       "operator": "NOR AF"
     },
     {
+      "hexid": "480811",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "S-459",
+      "type": "AS-332",
+      "operator": "NLD AF"
+    },
+    {
       "hexid": "480C04",
       "cot": "a-f-A-M-F-C-M",
       "reg": "G-275",
@@ -12402,6 +12423,20 @@
       "cot": "a-f-A-M-V",
       "reg": "V11",
       "type": "Gulf 4",
+      "operator": "NLD AF"
+    },
+    {
+      "hexid": "480C22",
+      "cot": "a-f-A-M-F-T",
+      "reg": "L-02",
+      "type": "PC-7",
+      "operator": "NLD AF"
+    },
+    {
+      "hexid": "480C25",
+      "cot": "a-f-A-M-F-T",
+      "reg": "L-05",
+      "type": "PC-7",
       "operator": "NLD AF"
     },
     {
@@ -12972,6 +13007,13 @@
       "operator": "LTU AF"
     },
     {
+      "hexid": "511122",
+      "cot": "a-f-A-M-F-C-L",
+      "reg": "44 Black",
+      "type": "M-28",
+      "operator": "EST AF"
+    },
+    {
       "hexid": "78005c",
       "cot": "a-s-A-C-F",
       "reg": "B-8303",
@@ -13298,6 +13340,13 @@
       "cot": "a-f-A-M-F-R-Z",
       "reg": "99-00102",
       "type": "C560",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "AE07A3",
+      "cot": "a-f-A-M-F-K",
+      "reg": "58-0118",
+      "type": "KC-135",
       "operator": "USAF"
     },
     {
