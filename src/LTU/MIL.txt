@@ -1,0 +1,7 @@
+#TAK ADSB IDs LITHUANIA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"503FD3","a-f-A-M-F-C-M","08 Blue","C-27J","LTU AF"

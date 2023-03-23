@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "449825","a-f-A-M-V","OO-FAE","Falcon7X","BEL AF"
+"44F147","a-f-A-M-F-F","FA-107","F-16","BEL AF"

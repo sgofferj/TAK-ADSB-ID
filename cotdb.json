@@ -1,6 +1,13 @@
 {
   "aircraft": [
     {
+      "hexid": "020130",
+      "cot": "a-f-A-M-V",
+      "reg": "CN-MBH",
+      "type": "B747-800",
+      "operator": "MAR AF"
+    },
+    {
       "hexid": "12abcd",
       "cot": "a-f-A-M-H-A",
       "reg": "74+21",
@@ -4579,6 +4586,13 @@
       "operator": "DEU AF"
     },
     {
+      "hexid": "3E80DF",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "55+02",
+      "type": "C-130J",
+      "operator": "DEU AF"
+    },
+    {
       "hexid": "3E8130",
       "cot": "a-f-A-M-F-C-H",
       "reg": "50+79",
@@ -5500,6 +5514,13 @@
       "cot": "a-f-A-M-F-F",
       "reg": "43+92",
       "type": "Tornado IDS",
+      "operator": "DEU AF"
+    },
+    {
+      "hexid": "3EAD63",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "54+39",
+      "type": "A400M",
       "operator": "DEU AF"
     },
     {
@@ -11222,6 +11243,13 @@
       "operator": "BEL AF"
     },
     {
+      "hexid": "44F147",
+      "cot": "a-f-A-M-F-F",
+      "reg": "FA-107",
+      "type": "F-16",
+      "operator": "BEL AF"
+    },
+    {
       "hexid": "456789",
       "cot": "a-h-A-M-H-H",
       "reg": "RF-19699",
@@ -12412,6 +12440,13 @@
       "operator": "POL AF"
     },
     {
+      "hexid": "48D982",
+      "cot": "a-f-A-M-V",
+      "reg": "0111",
+      "type": "B-737-800",
+      "operator": "POL AF"
+    },
+    {
       "hexid": "498487",
       "cot": "a-f-A-M-F-C-M",
       "reg": "0453",
@@ -12930,6 +12965,13 @@
       "operator": "HRV AF"
     },
     {
+      "hexid": "503FD3",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "08 Blue",
+      "type": "C-27J",
+      "operator": "LTU AF"
+    },
+    {
       "hexid": "78005c",
       "cot": "a-s-A-C-F",
       "reg": "B-8303",
@@ -13175,6 +13217,20 @@
       "operator": "USAF"
     },
     {
+      "hexid": "AE018A",
+      "cot": "a-f-A-M-V",
+      "reg": "84-0096",
+      "type": "Learjet C-21A",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "AE0193",
+      "cot": "a-f-A-M-V",
+      "reg": "84-0126",
+      "type": "Learjet C-21A",
+      "operator": "USAF"
+    },
+    {
       "hexid": "AE01B9",
       "cot": "a-f-A-M-V",
       "reg": "84-0083",
@@ -13196,6 +13252,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "AE0376",
+      "cot": "a-f-A-M-F-K",
+      "reg": "60-0318",
+      "type": "KC-135",
+      "operator": "USAF"
+    },
+    {
       "hexid": "AE0392",
       "cot": "a-f-A-M-F-K",
       "reg": "63-8880",
@@ -13206,14 +13269,14 @@
       "hexid": "ae0401",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "84-00156",
-      "type": "BE20",
+      "type": "Beech 200",
       "operator": "USAF"
     },
     {
       "hexid": "ae0402",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "84-00157",
-      "type": "BE20",
+      "type": "Beech 200",
       "operator": "USAF"
     },
     {
@@ -13259,6 +13322,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "AE1536",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "06-8159",
+      "type": "C-130J",
+      "operator": "USAF"
+    },
+    {
       "hexid": "AE1797",
       "cot": "a-f-A-M-F-F",
       "reg": "91-0310",
@@ -13301,6 +13371,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "AF4A7B",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "16-8207",
+      "type": "Beech 350",
+      "operator": "USAF"
+    },
+    {
       "hexid": "C2B52B",
       "cot": "a-f-A-M-F-C-M",
       "reg": "130601",
@@ -13312,6 +13389,13 @@
       "cot": "a-f-A-M-F-C-M",
       "reg": "130606",
       "type": "CC-130J-30",
+      "operator": "CAN AF"
+    },
+    {
+      "hexid": "C2C1FB",
+      "cot": "a-f-A-M-V",
+      "reg": "144620",
+      "type": "Challenger 600",
       "operator": "CAN AF"
     }
   ]
