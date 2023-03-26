@@ -6,4 +6,5 @@
 
 "C2C1FB","a-f-A-M-V","144620","Challenger 600","CAN AF"
 "C2B52B","a-f-A-M-F-C-M","130601","CC-130J-30","CAN AF"
+"C2B549","a-f-A-M-F-C-M","130604","CC-130J-30","CAN AF"
 "C2B55D","a-f-A-M-F-C-M","130606","CC-130J-30","CAN AF"

@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"45F426","a-f-A-M-V","C-215","Challenger 600","DNK AF"
 "45f428","a-f-A-M-F-C-M","B-536","C-130J","DNK AF"

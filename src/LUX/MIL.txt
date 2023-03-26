@@ -6,4 +6,7 @@
 
 "4D03C4","a-f-A-M-F-R-W","LX-N90446","E-3A Sentry","NATO AEWCF"
 "4D03C8","a-f-A-M-F-R-W","LX-N90450","E-3A Sentry","NATO AEWCF"
+"4D03C9","a-f-A-M-F-R-W","LX-N90451","E-3A Sentry","NATO AEWCF"
 "4D03CC","a-f-A-M-F-R-W","LX-N90454","E-3A Sentry","NATO AEWCF"
+"4D03CD","a-f-A-M-F-R-W","LX-N90455","E-3A Sentry","NATO AEWCF"
+"4D03CE","a-f-A-M-F-R-W","LX-N90456","E-3A Sentry","NATO AEWCF"
