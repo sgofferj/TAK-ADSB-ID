@@ -213,7 +213,7 @@
 "3f4a5f","a-f-A-M-F-F","46+46","Tornado ECR","DEU AF"
 "3F4B1F","a-f-A-M-H-U-L","76+14","EC145","DEU A"
 "3F4BA9","a-f-A-M-F-C-H","54+20","A400M","DEU AF"
-"3f4ba9","a-f-A-M-F-C-H","54+20","A400M-180",""
+"3f4ba9","a-f-A-M-F-C-H","54+20","A400M-180","DEU AF"
 "3f4c84","a-f-A-M-F-F","30+51","EF-2000","DEU AF"
 "3F4D0C","a-f-A-M-F-C-H","54+18","A400M","DEU AF"
 "3f4d9f","a-f-A-M-F-F","46+54","Tornado ECR","DEU AF"
@@ -571,7 +571,7 @@
 "3f998d","a-f-A-M-F-C-H","51+13","C-160D","DEU AF"
 "3F9A92","a-f-A-M-V","15+03","A319CJ","DEU AF"
 "3f9aad","a-f-A-M-F-F","30+49","EF-2000","DEU AF"
-"3f9ae8","a-f-A-M-F-R"","57+05","Do228","DEU N
+"3f9ae8","a-f-A-M-F-R","57+05","Do228","DEU N"
 "3F9B11","a-f-A-M-H-C-M","78+19","NH-90","DEU A"
 "3f9b34","a-f-A-M-F-F","30+60","EF-2000","DEU AF"
 "3F9C7C","a-f-A-M-H-U-M","89+62","Sea King","DEU N"
@@ -738,7 +738,7 @@
 "3fa989","a-f-A-M-H-U-M","83+09","Lynx","DEU N"
 "3fa98a","a-f-A-M-H-U-M","83+10","Lynx","DEU N"
 "3fa98b","a-f-A-M-H-U-M","83+11","Lynx","DEU N"
-"3fa98c","a-f-A-M-H-U-M","83+12","Lynx","DEU N
+"3fa98c","a-f-A-M-H-U-M","83+12","Lynx","DEU N"
 "3fa98d","a-f-A-M-H-U-M","83+13","Lynx","DEU N"
 "3fa98f","a-f-A-M-H-U-M","83+15","Lynx","DEU N"
 "3FA991","a-f-A-M-H-U-M","83+17","Lynx","DEU N"
@@ -750,7 +750,7 @@
 "3fa997","a-f-A-M-H-U-M","83+23","Lynx","DEU N"
 "3fa998","a-f-A-M-H-U-M","83+24","Lynx","DEU N"
 "3FA999","a-f-A-M-H-U-M","83+25","Lynx","DEU N"
-"3fa99a","a-f-A-M-H-U-M","83+26","Lynx","DEU N
+"3fa99a","a-f-A-M-H-U-M","83+26","Lynx","DEU N"
 "3FA9FF","a-f-A-M-H-A","74+66","EC665","DEU A"
 "3faa05","a-f-A-M-H-C-H","84+05","CH-53G","DEU AF"
 "3faa06","a-f-A-M-H-C-H","84+06","CH-53G","DEU AF"

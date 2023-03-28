@@ -15,7 +15,7 @@ To assist middlewares with displaying special civilian aircraft, I am developing
 - EMS aircraft will have their operator field in the format "EMS (operator)".
 - SAR aircraft will have their operator field in the format "SAR (operator)".
 ## json
-Since release 162458ZFEB23 the releases also contain a json file which should make integration of the data in 3rd party middleware fairly easy. The format is:
+Since release 162458ZFEB23 the releases also contain a json file (cotdb.json) which should make integration of the data in 3rd party middleware fairly easy. The format is:
 ```json
 {
   "aircraft": [
@@ -30,7 +30,14 @@ Since release 162458ZFEB23 the releases also contain a json file which should ma
   ]
 }
 ```
+The second available JSON format (cotdb_indexed.json) is
+```json
+{
+  "3dd55c":["a-n-A-C-H","D-HBAY","BK117B2","EMS (ADAC)"],
+  "3dd652":["a-n-A-C-H","D-HBKK","BK117B2","EMS (ADAC)"]
+}
 
+```
 ## Contributing
 Please feel free to contribute to the list! Ideally, you would submit a pull request, but you can also open an issue. Please keep in mind what I wrote above under "Friendly, hostile, neutral?".
 ## Issues

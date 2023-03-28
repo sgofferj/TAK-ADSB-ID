@@ -6039,7 +6039,7 @@
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+20",
       "type": "A400M-180",
-      "operator": ""
+      "operator": "DEU AF"
     },
     {
       "hexid": "3F4BA9",
@@ -12811,13 +12811,6 @@
       "operator": "Sino Jet Management"
     },
     {
-      "hexid": "4850ae",
-      "cot": "a-s-A-C-F",
-      "reg": "P4-SJM",
-      "type": "B737NG",
-      "operator": "Sino Jet Management"
-    },
-    {
       "hexid": "48D961",
       "cot": "a-f-A-M-V",
       "reg": "0002",
@@ -13441,20 +13434,6 @@
       "operator": "Sino Jet Management"
     },
     {
-      "hexid": "78005c",
-      "cot": "a-s-A-C-F",
-      "reg": "B-8303",
-      "type": "G280",
-      "operator": "Sino Jet Management"
-    },
-    {
-      "hexid": "7806cb",
-      "cot": "a-s-A-C-F",
-      "reg": "B-3566",
-      "type": "Challenger 605",
-      "operator": "Sino Jet Management"
-    },
-    {
       "hexid": "7806cb",
       "cot": "a-s-A-C-F",
       "reg": "B-3566",
@@ -13465,20 +13444,6 @@
       "hexid": "780766",
       "cot": "a-s-A-C-F",
       "reg": "B-8166",
-      "type": "G450",
-      "operator": "Sino Jet Management"
-    },
-    {
-      "hexid": "780766",
-      "cot": "a-s-A-C-F",
-      "reg": "B-8166",
-      "type": "G450",
-      "operator": "Sino Jet Management"
-    },
-    {
-      "hexid": "780c1a",
-      "cot": "a-s-A-C-F",
-      "reg": "B-8301",
       "type": "G450",
       "operator": "Sino Jet Management"
     },
@@ -13497,30 +13462,9 @@
       "operator": "Sino Jet Management"
     },
     {
-      "hexid": "780e0a",
-      "cot": "a-s-A-C-F",
-      "reg": "B-3280",
-      "type": "Legacy 650",
-      "operator": "Sino Jet Management"
-    },
-    {
       "hexid": "780e0b",
       "cot": "a-s-A-C-F",
       "reg": "B-3281",
-      "type": "Legacy 650",
-      "operator": "Sino Jet Management"
-    },
-    {
-      "hexid": "780e0b",
-      "cot": "a-s-A-C-F",
-      "reg": "B-3281",
-      "type": "Legacy 650",
-      "operator": "Sino Jet Management"
-    },
-    {
-      "hexid": "780e0c",
-      "cot": "a-s-A-C-F",
-      "reg": "B-3282",
       "type": "Legacy 650",
       "operator": "Sino Jet Management"
     },
@@ -13539,32 +13483,11 @@
       "operator": "Sino Jet Management"
     },
     {
-      "hexid": "a34f04",
-      "cot": "a-s-A-C-F",
-      "reg": "N312HX",
-      "type": "Challenger 605",
-      "operator": "Sino Jet Management"
-    },
-    {
       "hexid": "a42aaf",
       "cot": "a-s-A-C-F",
       "reg": "N368GW",
       "type": "G650",
       "operator": "Sino Jet Management"
-    },
-    {
-      "hexid": "a42aaf",
-      "cot": "a-s-A-C-F",
-      "reg": "N368GW",
-      "type": "G650",
-      "operator": "Sino Jet Management"
-    },
-    {
-      "hexid": "a6a8de",
-      "cot": "a-s-A-C-F",
-      "reg": "N528YT",
-      "type": "Challenger 300",
-      "operator": "Tvpx Aircraft Solutions Inc"
     },
     {
       "hexid": "a6a8de",
@@ -13581,32 +13504,11 @@
       "operator": "Sino Jet Management"
     },
     {
-      "hexid": "a8ccd7",
-      "cot": "a-s-A-C-F",
-      "reg": "N666ZW",
-      "type": "G450",
-      "operator": "Sino Jet Management"
-    },
-    {
       "hexid": "a8fa07",
       "cot": "a-s-A-C-F",
       "reg": "N678GA",
       "type": "G650",
       "operator": "Tvpx Ars Inc Trustee"
-    },
-    {
-      "hexid": "a8fa07",
-      "cot": "a-s-A-C-F",
-      "reg": "N678GA",
-      "type": "G650",
-      "operator": "Tvpx Ars Inc Trustee"
-    },
-    {
-      "hexid": "ac67ae",
-      "cot": "a-s-A-C-F",
-      "reg": "N899KK",
-      "type": "Challenger 605",
-      "operator": "Sino Jet Management"
     },
     {
       "hexid": "ac67ae",
@@ -13623,32 +13525,11 @@
       "operator": "Bank Of Utah Trustee"
     },
     {
-      "hexid": "ac68ef",
-      "cot": "a-s-A-C-F",
-      "reg": "N899YF",
-      "type": "G650",
-      "operator": "Bank Of Utah Trustee"
-    },
-    {
       "hexid": "ac8604",
       "cot": "a-s-A-C-F",
       "reg": "N906FS",
       "type": "G550",
       "operator": "Bank Of Utah Trustee"
-    },
-    {
-      "hexid": "ac8604",
-      "cot": "a-s-A-C-F",
-      "reg": "N906FS",
-      "type": "G550",
-      "operator": "Bank Of Utah Trustee"
-    },
-    {
-      "hexid": "adf0d9",
-      "cot": "a-s-A-C-F",
-      "reg": "N998FA",
-      "type": "G550",
-      "operator": "Sino Jet Management"
     },
     {
       "hexid": "adf0d9",
@@ -13844,13 +13725,6 @@
       "cot": "a-f-A-M-F-C-M",
       "reg": "08-8602",
       "type": "C-130J",
-      "operator": "USAF"
-    },
-    {
-      "hexid": "AE29D2",
-      "cot": "a-f-A-M-F-M",
-      "reg": "08-6205",
-      "type": "MC-130J Commando II",
       "operator": "USAF"
     },
     {

@@ -8,7 +8,7 @@
 "1407be","a-h-A-C-H","RA-01982","AW139","Rossiya State Carrier"
 "145798","a-h-A-C-H","RA-22424","Mi-8AMT","RUS Railways"
 "145ede","a-h-A-C-H","RA-24286","Mi-8T","Rossiya State Carrier"
-"146231","a-h-A-C-H","RF-94992","Mi-8,"RUS Ministry of the Interior"
+"146231","a-h-A-C-H","RF-94992","Mi-8","RUS Ministry of the Interior"
 "1464e0","a-h-A-C-H","RA-25824","Mi-8 AMT-1","RUS Railways"
 "14fa33","a-h-A-C-F","RA-64051","Tu-204 100S","RUS Post"
 "14fa34","a-h-A-C-F","RA-64052","Tu-204 100S","RUS Post"

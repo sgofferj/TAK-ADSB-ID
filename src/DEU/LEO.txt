@@ -19,7 +19,7 @@
 "3dd6d1","a-f-A-C-H","D-HBPH","EC135P2+","LEO (DEU State POL - Bavaria)"
 "3dd720","a-f-A-C-H","D-HBSI","BO105S","LEO (DEU State POL - Bavaria)"
 "3dd785","a-f-A-C-H","D-HBWF","MD900","LEO (DEU Federal POL)"
-"3dd794","a-f-A-C-H","D-HBWU","BK117D2","LEO (DEU State POL - Baden-Wurttemberg)",
+"3dd794","a-f-A-C-H","D-HBWU","BK117D2","LEO (DEU State POL - Baden-Wurttemberg)"
 "3dd795","a-f-A-C-H","D-HBWV","BK117D2","LEO (DEU State POL - Baden-Wurttemberg)"
 "3dd796","a-f-A-C-H","D-HBWW","BK117D2","LEO (DEU State POL - Baden-Wurttemberg)"
 "3dd797","a-f-A-C-H","D-HBWX","BK117D2","LEO (DEU State POL - Baden-Wurttemberg)"
