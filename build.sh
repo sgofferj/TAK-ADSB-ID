@@ -13,10 +13,7 @@ done
 
 sed -i "/^$/d" tmp.txt
 
-cat tmp.txt | sort | \
-jq -R '[split(",")[] | fromjson] |
-       [{key: .[0], value: .[1:]}] |
-       from_entries' | jq -s 'add' > cotdb_indexed.json
+cat tmp.txt | sort | jq -nR 'reduce (inputs / "," | map(fromjson)) as $i ({}; .[$i[0]] = $i[1:])' > cotdb_indexed.json
 
 cat tmp.txt | sort | egrep -v "^$" | sed "s/\"//g" | \
 jq -Rsn '
