@@ -12,7 +12,6 @@ for DIR in src/???; do
 done
 
 sed -i "/^$/d" tmp.txt
-grep -c , tmp.txt
 
 cat tmp.txt | sort | \
 jq -R '[split(",")[] | fromjson] |
@@ -29,6 +28,11 @@ jq -Rsn '
     ]
   }
 ' >cotdb.json
+
+AIRCRAFT=$(jq '. | length' cotdb_indexed.json)
+echo ${AIRCRAFT}
+
+sed -i "s/\(message\=\)[0-9]\+/\1${AIRCRAFT}/g" Readme.md
 
 echo '#TAK ADSB IDs' > cotdb.txt
 echo '#Copyright 2021 Stefan Gofferje' >> cotdb.txt
