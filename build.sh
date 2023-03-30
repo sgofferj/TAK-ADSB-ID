@@ -15,7 +15,7 @@ sed -i "/^$/d" tmp.txt
 
 cat tmp.txt | sort | jq -nR 'reduce (inputs / "," | map(fromjson)) as $i ({}; .[$i[0]] = $i[1:])' > cotdb_indexed.json
 
-cat tmp.txt | sort | egrep -v "^$" | sed "s/\"//g" | \
+cat tmp.txt | sort | sed "s/\"//g" | \
 jq -Rsn '
   {"aircraft":
     [inputs
