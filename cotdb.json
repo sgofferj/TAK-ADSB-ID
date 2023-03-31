@@ -12447,6 +12447,13 @@
       "operator": "NATO SAC"
     },
     {
+      "hexid": "477ff2",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "02",
+      "type": "C17",
+      "operator": "NATO SAC"
+    },
+    {
       "hexid": "477ff4",
       "cot": "a-f-A-M-V",
       "reg": "604",
