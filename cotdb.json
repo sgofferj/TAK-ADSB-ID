@@ -785,14 +785,14 @@
       "operator": "RUS AF"
     },
     {
-      "hexid": "14F125",
+      "hexid": "14f125",
       "cot": "a-h-A-M-F-C-M",
       "reg": "RA-61733",
       "type": "An-148 100E",
       "operator": "RUS AF"
     },
     {
-      "hexid": "14F126",
+      "hexid": "14f126",
       "cot": "a-h-A-M-F-C-M",
       "reg": "RA-61734",
       "type": "An-148 100E",
@@ -3018,7 +3018,7 @@
       "operator": "EMS (Scand. Air Ambulance)"
     },
     {
-      "hexid": "33FE1E",
+      "hexid": "33fe1e",
       "cot": "a-f-A-M-F-U-L",
       "reg": "MM62157",
       "type": "DO-228",
@@ -3032,7 +3032,7 @@
       "operator": "ITA AF"
     },
     {
-      "hexid": "33FFC1",
+      "hexid": "33ffc1",
       "cot": "a-f-A-M-V",
       "reg": "MM62209",
       "type": "A319CJ",
@@ -3046,7 +3046,7 @@
       "operator": "ESP AF"
     },
     {
-      "hexid": "3B7542",
+      "hexid": "3b7542",
       "cot": "a-f-A-M-V",
       "reg": "F-UJCU",
       "type": "A300-200",
@@ -3949,7 +3949,7 @@
       "operator": "LEO (DEU State POL - Mecklenburg Western Pomerania)"
     },
     {
-      "hexid": "3DF5BF",
+      "hexid": "3df5bf",
       "cot": "a-f-A-M-H-T",
       "reg": "D-HNHV",
       "type": "EC-145",
@@ -4593,7 +4593,7 @@
       "operator": "EMS (DRF)"
     },
     {
-      "hexid": "3E801E",
+      "hexid": "3e801e",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+18",
       "type": "NH-90",
@@ -4614,28 +4614,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E80C0",
+      "hexid": "3e80c0",
       "cot": "a-f-A-M-F-C-M",
       "reg": "55+01",
       "type": "C-130J",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E80DF",
+      "hexid": "3e80df",
       "cot": "a-f-A-M-F-C-M",
       "reg": "55+02",
       "type": "C-130J",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8130",
+      "hexid": "3e8130",
       "cot": "a-f-A-M-F-C-H",
       "reg": "50+79",
       "type": "C-160D",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8137",
+      "hexid": "3e8137",
       "cot": "a-f-A-M-F-F",
       "reg": "31+24",
       "type": "EF-2000",
@@ -4677,14 +4677,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E826F",
+      "hexid": "3e826f",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+15",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E82EA",
+      "hexid": "3e82ea",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+39",
       "type": "NH-90",
@@ -4719,28 +4719,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E854F",
+      "hexid": "3e854f",
       "cot": "a-f-A-M-V",
       "reg": "10+03",
       "type": "A350-900",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E857E",
+      "hexid": "3e857e",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+10",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3E8656",
+      "hexid": "3e8656",
       "cot": "a-f-A-M-F-F",
       "reg": "30+38",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E865F",
+      "hexid": "3e865f",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+22",
       "type": "A400M",
@@ -4761,7 +4761,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E873E",
+      "hexid": "3e873e",
       "cot": "a-f-A-M-F-F",
       "reg": "44+21",
       "type": "Tornado",
@@ -4810,14 +4810,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E89E7",
+      "hexid": "3e89e7",
       "cot": "a-f-A-M-V",
       "reg": "16+02",
       "type": "A340-300",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8A4A",
+      "hexid": "3e8a4a",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+29",
       "type": "NH-90",
@@ -4859,28 +4859,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8AED",
+      "hexid": "3e8aed",
       "cot": "a-f-A-M-F-F",
       "reg": "30+56",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8B13",
+      "hexid": "3e8b13",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+04",
       "type": "EC-645T2",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8B35",
+      "hexid": "3e8b35",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+13",
       "type": "EC645T2",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8B41",
+      "hexid": "3e8b41",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+13",
       "type": "A400M",
@@ -4915,28 +4915,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8C6B",
+      "hexid": "3e8c6b",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+21",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3E8C85",
+      "hexid": "3e8c85",
       "cot": "a-f-A-M-H-C-H",
       "reg": "84+58",
       "type": "CH-53G",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8CCC",
+      "hexid": "3e8ccc",
       "cot": "a-f-A-M-H-C-H",
       "reg": "85+08",
       "type": "CH-53G",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8CD3",
+      "hexid": "3e8cd3",
       "cot": "a-f-A-M-F-F",
       "reg": "30+96",
       "type": "EF-2000",
@@ -4950,14 +4950,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8CE7",
+      "hexid": "3e8ce7",
       "cot": "a-f-A-M-F-F",
       "reg": "30+69",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8DE5",
+      "hexid": "3e8de5",
       "cot": "a-f-A-M-F-C-H",
       "reg": "50+66",
       "type": "C-160D",
@@ -4978,14 +4978,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8E96",
+      "hexid": "3e8e96",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+34",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8EDC",
+      "hexid": "3e8edc",
       "cot": "a-f-A-M-F-F",
       "reg": "46+38",
       "type": "Tornado",
@@ -4999,7 +4999,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E8EF2",
+      "hexid": "3e8ef2",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+53",
       "type": "NH-90",
@@ -5013,14 +5013,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E903A",
+      "hexid": "3e903a",
       "cot": "a-f-A-M-H-C-H",
       "reg": "85+00",
       "type": "CH-53G",
       "operator": "DEU A"
     },
     {
-      "hexid": "3E906E",
+      "hexid": "3e906e",
       "cot": "a-f-A-M-F-F",
       "reg": "30+85",
       "type": "EF-2000",
@@ -5041,7 +5041,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E90C8",
+      "hexid": "3e90c8",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+20",
       "type": "NH-90",
@@ -5069,7 +5069,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E920F",
+      "hexid": "3e920f",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+05",
       "type": "EC145",
@@ -5083,7 +5083,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E92BB",
+      "hexid": "3e92bb",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+54",
       "type": "NH-90",
@@ -5111,7 +5111,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E953A",
+      "hexid": "3e953a",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+01",
       "type": "EC145",
@@ -5125,7 +5125,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E95CA",
+      "hexid": "3e95ca",
       "cot": "a-f-A-M-V",
       "reg": "14+05",
       "type": "Global 6000",
@@ -5139,7 +5139,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E95DC",
+      "hexid": "3e95dc",
       "cot": "a-f-A-M-H-A",
       "reg": "74+55",
       "type": "EC665",
@@ -5153,14 +5153,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E96CB",
+      "hexid": "3e96cb",
       "cot": "a-f-A-M-F-F",
       "reg": "31+16",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E96FE",
+      "hexid": "3e96fe",
       "cot": "a-f-A-M-F-F",
       "reg": "31+38",
       "type": "EF-2000",
@@ -5174,7 +5174,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E98A2",
+      "hexid": "3e98a2",
       "cot": "a-f-A-M-H-C-H",
       "reg": "84+57",
       "type": "CH-53G",
@@ -5216,7 +5216,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E9BA8",
+      "hexid": "3e9ba8",
       "cot": "a-f-A-M-F-F",
       "reg": "31+37",
       "type": "EF-2000",
@@ -5230,7 +5230,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E9BF7",
+      "hexid": "3e9bf7",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+02",
       "type": "A400M",
@@ -5244,7 +5244,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E9CD6",
+      "hexid": "3e9cd6",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+33",
       "type": "NH-90",
@@ -5265,21 +5265,21 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E9D43",
+      "hexid": "3e9d43",
       "cot": "a-f-A-M-F-F",
       "reg": "31+02",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E9D48",
+      "hexid": "3e9d48",
       "cot": "a-f-A-M-F-F",
       "reg": "30+32",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E9EAA",
+      "hexid": "3e9eaa",
       "cot": "a-f-A-M-F-F",
       "reg": "31+04",
       "type": "EF-2000",
@@ -5293,7 +5293,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E9EED",
+      "hexid": "3e9eed",
       "cot": "a-f-A-M-F-F",
       "reg": "30+68",
       "type": "EF-2000",
@@ -5307,28 +5307,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3E9FD2",
+      "hexid": "3e9fd2",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+29",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EA048",
+      "hexid": "3ea048",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+26",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3Ea12c",
+      "hexid": "3ea12c",
       "cot": "a-f-A-M-V",
       "reg": "10+01",
       "type": "A350-900",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EA1AD",
+      "hexid": "3ea1ad",
       "cot": "a-f-A-M-F-F",
       "reg": "30+17",
       "type": "EF-2000",
@@ -5342,7 +5342,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EA1CC",
+      "hexid": "3ea1cc",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+04",
       "type": "A400M",
@@ -5363,14 +5363,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EA34A",
+      "hexid": "3ea34a",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+02",
       "type": "EC145",
       "operator": "DEU A"
     },
     {
-      "hexid": "3EA3CE",
+      "hexid": "3ea3ce",
       "cot": "a-f-A-M-F-F",
       "reg": "44+23",
       "type": "Tornado",
@@ -5384,21 +5384,21 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EA460",
+      "hexid": "3ea460",
       "cot": "a-f-A-M-F-F",
       "reg": "44+65",
       "type": "Tornado",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EA541",
+      "hexid": "3ea541",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+19",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EA556",
+      "hexid": "3ea556",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+10",
       "type": "A400M",
@@ -5433,21 +5433,21 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EA653",
+      "hexid": "3ea653",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+05",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EA74D",
+      "hexid": "3ea74d",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+15",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3EA764",
+      "hexid": "3ea764",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+30",
       "type": "NH-90",
@@ -5552,14 +5552,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EAD63",
+      "hexid": "3ead63",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+39",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EAD76",
+      "hexid": "3ead76",
       "cot": "a-f-A-M-H-C-H",
       "reg": "84+53",
       "type": "CH-53G",
@@ -5622,14 +5622,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EB1A6",
+      "hexid": "3eb1a6",
       "cot": "a-f-A-M-V",
       "reg": "16+01",
       "type": "A340-300",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EB1B3",
+      "hexid": "3eb1b3",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+26",
       "type": "NH-90",
@@ -5671,7 +5671,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EB522",
+      "hexid": "3eb522",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+27",
       "type": "NH-90",
@@ -5692,7 +5692,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EB57B",
+      "hexid": "3eb57b",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+32",
       "type": "NH-90",
@@ -5713,14 +5713,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EB6B3",
+      "hexid": "3eb6b3",
       "cot": "a-f-A-M-H-A",
       "reg": "74+04",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3EB6F8",
+      "hexid": "3eb6f8",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+19",
       "type": "NH-90",
@@ -5734,7 +5734,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EB866",
+      "hexid": "3eb866",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+16",
       "type": "NH-90",
@@ -5748,7 +5748,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EB8E4",
+      "hexid": "3eb8e4",
       "cot": "a-f-A-M-F-F",
       "reg": "30+72",
       "type": "EF-2000",
@@ -5776,7 +5776,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EBBF8",
+      "hexid": "3ebbf8",
       "cot": "a-f-A-M-F-F",
       "reg": "30+10",
       "type": "EF-2000",
@@ -5797,7 +5797,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EBD02",
+      "hexid": "3ebd02",
       "cot": "a-f-A-M-H-U-H",
       "reg": "82+01",
       "type": "AS332",
@@ -5825,7 +5825,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3EBE3E",
+      "hexid": "3ebe3e",
       "cot": "a-f-A-M-F-F",
       "reg": "43+92",
       "type": "Tornado",
@@ -5860,7 +5860,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F40DF",
+      "hexid": "3f40df",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+20",
       "type": "NH-90",
@@ -5888,7 +5888,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F431A",
+      "hexid": "3f431a",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+24",
       "type": "NH-90",
@@ -5916,21 +5916,21 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4379",
+      "hexid": "3f4379",
       "cot": "a-f-A-M-F-F",
       "reg": "43+29",
       "type": "Tornado",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F43A0",
+      "hexid": "3f43a0",
       "cot": "a-f-A-M-H-A",
       "reg": "74+41",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F43D4",
+      "hexid": "3f43d4",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+03",
       "type": "A400M",
@@ -5944,7 +5944,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4520",
+      "hexid": "3f4520",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+14",
       "type": "NH-90",
@@ -5958,14 +5958,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F455D",
+      "hexid": "3f455d",
       "cot": "a-f-A-M-F-F",
       "reg": "46+51",
       "type": "Tornado",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F46DB",
+      "hexid": "3f46db",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+27",
       "type": "A400M",
@@ -5993,28 +5993,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F48D6",
+      "hexid": "3f48d6",
       "cot": "a-f-A-M-F-F",
       "reg": "30+62",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4988",
+      "hexid": "3f4988",
       "cot": "a-f-A-M-H-U-M",
       "reg": "73+54",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F49E6",
+      "hexid": "3f49e6",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+23",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4A1D",
+      "hexid": "3f4a1d",
       "cot": "a-f-A-M-F-F",
       "reg": "30+95",
       "type": "EF-2000",
@@ -6028,7 +6028,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4B1F",
+      "hexid": "3f4b1f",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+14",
       "type": "EC145",
@@ -6042,7 +6042,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4BA9",
+      "hexid": "3f4ba9",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+20",
       "type": "A400M",
@@ -6056,7 +6056,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4D0C",
+      "hexid": "3f4d0c",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+18",
       "type": "A400M",
@@ -6070,49 +6070,49 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4DCA",
+      "hexid": "3f4dca",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+13",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F4DD9",
+      "hexid": "3f4dd9",
       "cot": "a-f-A-M-F-F",
       "reg": "31+36",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4DDF",
+      "hexid": "3f4ddf",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+24",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4E1E",
+      "hexid": "3f4e1e",
       "cot": "a-f-A-M-F-F",
       "reg": "30+22",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4E27",
+      "hexid": "3f4e27",
       "cot": "a-f-A-M-V",
       "reg": "14+02",
       "type": "Global 5000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4EFE",
+      "hexid": "3f4efe",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+16",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F4F0F",
+      "hexid": "3f4f0f",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+25",
       "type": "A400M",
@@ -6126,28 +6126,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F518E",
+      "hexid": "3f518e",
       "cot": "a-f-A-M-F-F",
       "reg": "98+59",
       "type": "Tornado",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F52CD",
+      "hexid": "3f52cd",
       "cot": "a-f-A-M-H-A",
       "reg": "74+28",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F52DB",
+      "hexid": "3f52db",
       "cot": "a-f-A-M-H-A",
       "reg": "74+24",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F532C",
+      "hexid": "3f532c",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+40",
       "type": "NH-90",
@@ -6161,7 +6161,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F551D",
+      "hexid": "3f551d",
       "cot": "a-f-A-M-V",
       "reg": "15+02",
       "type": "A319CJ",
@@ -6175,28 +6175,28 @@
       "operator": "Gaf 30+59"
     },
     {
-      "hexid": "3F5572",
+      "hexid": "3f5572",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+33",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F5685",
+      "hexid": "3f5685",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+30",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F568C",
+      "hexid": "3f568c",
       "cot": "a-f-A-M-H-A",
       "reg": "74+22",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F5727",
+      "hexid": "3f5727",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+14",
       "type": "A400M",
@@ -6210,14 +6210,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F57E9",
+      "hexid": "3f57e9",
       "cot": "a-f-A-M-H-A",
       "reg": "74+30",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F5895",
+      "hexid": "3f5895",
       "cot": "a-f-A-M-F-C-H",
       "reg": "50+88",
       "type": "C-160D",
@@ -6231,7 +6231,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F59AF",
+      "hexid": "3f59af",
       "cot": "a-f-A-M-H-C-H",
       "reg": "84+28",
       "type": "CH-53G",
@@ -6245,7 +6245,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F5AAC",
+      "hexid": "3f5aac",
       "cot": "a-f-A-M-H-A",
       "reg": "74+21",
       "type": "EC665",
@@ -6273,7 +6273,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F5C19",
+      "hexid": "3f5c19",
       "cot": "a-f-A-M-F-F",
       "reg": "31+19",
       "type": "EF-2000",
@@ -6315,70 +6315,70 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6001",
+      "hexid": "3f6001",
       "cot": "a-f-A-M-F-R-W",
       "reg": "60+01",
       "type": "P-3C",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F6002",
+      "hexid": "3f6002",
       "cot": "a-f-A-M-F-R-W",
       "reg": "60+02",
       "type": "P-3C",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F6003",
+      "hexid": "3f6003",
       "cot": "a-f-A-M-F-R-W",
       "reg": "60+03",
       "type": "P-3C",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F6004",
+      "hexid": "3f6004",
       "cot": "a-f-A-M-F-R-W",
       "reg": "60+04",
       "type": "P-3C",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F6005",
+      "hexid": "3f6005",
       "cot": "a-f-A-M-F-R-W",
       "reg": "60+05",
       "type": "P-3C",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F6006",
+      "hexid": "3f6006",
       "cot": "a-f-A-M-F-R-W",
       "reg": "60+06",
       "type": "P-3C",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F6007",
+      "hexid": "3f6007",
       "cot": "a-f-A-M-F-R-W",
       "reg": "60+07",
       "type": "P-3C",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F6008",
+      "hexid": "3f6008",
       "cot": "a-f-A-M-F-R-W",
       "reg": "60+08",
       "type": "P-3C",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F619C",
+      "hexid": "3f619c",
       "cot": "a-f-A-M-H-A",
       "reg": "74+20",
       "type": "EC665",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F61AA",
+      "hexid": "3f61aa",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+36",
       "type": "A400M",
@@ -6392,7 +6392,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6219",
+      "hexid": "3f6219",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+31",
       "type": "A400M",
@@ -6406,7 +6406,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F62DB",
+      "hexid": "3f62db",
       "cot": "a-f-A-M-F-F",
       "reg": "46+25",
       "type": "Tornado",
@@ -6427,21 +6427,21 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F64F6",
+      "hexid": "3f64f6",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+21",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6521",
+      "hexid": "3f6521",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+07",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F6533",
+      "hexid": "3f6533",
       "cot": "a-f-A-M-V",
       "reg": "14+03",
       "type": "Global 5000",
@@ -6455,7 +6455,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6631",
+      "hexid": "3f6631",
       "cot": "a-f-A-M-H-A",
       "reg": "74+25",
       "type": "EC665",
@@ -6469,14 +6469,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6682",
+      "hexid": "3f6682",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+11",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F66B0",
+      "hexid": "3f66b0",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+32",
       "type": "A400M",
@@ -6490,21 +6490,21 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F66EC",
+      "hexid": "3f66ec",
       "cot": "a-f-A-M-F-F",
       "reg": "95+03",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6732",
+      "hexid": "3f6732",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+21",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F67D9",
+      "hexid": "3f67d9",
       "cot": "a-f-A-M-F-F",
       "reg": "31+20",
       "type": "EF-2000",
@@ -6518,28 +6518,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F68B2",
+      "hexid": "3f68b2",
       "cot": "a-f-A-M-F-F",
       "reg": "45+76",
       "type": "Tornado",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6931",
+      "hexid": "3f6931",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+17",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F69D4",
+      "hexid": "3f69d4",
       "cot": "a-f-A-M-F-F",
       "reg": "44+75",
       "type": "Tornado",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6A2F",
+      "hexid": "3f6a2f",
       "cot": "a-f-A-M-F-F",
       "reg": "30+88",
       "type": "EF-2000",
@@ -6567,7 +6567,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6CC9",
+      "hexid": "3f6cc9",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+15",
       "type": "EC145",
@@ -6581,42 +6581,42 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6E1F",
+      "hexid": "3f6e1f",
       "cot": "a-f-A-M-H-A",
       "reg": "74+13",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F6E57",
+      "hexid": "3f6e57",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+04",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F6E70",
+      "hexid": "3f6e70",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+12",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F6EC9",
+      "hexid": "3f6ec9",
       "cot": "a-f-A-M-F-F",
       "reg": "31+41",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6EEA",
+      "hexid": "3f6eea",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+11",
       "type": "EC645T2",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F6F02",
+      "hexid": "3f6f02",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+12",
       "type": "A400M",
@@ -6644,7 +6644,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F7001",
+      "hexid": "3f7001",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+06",
       "type": "A400M",
@@ -6658,7 +6658,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F722E",
+      "hexid": "3f722e",
       "cot": "a-f-A-M-H-A",
       "reg": "74+23",
       "type": "EC665",
@@ -6672,7 +6672,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F727C",
+      "hexid": "3f727c",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+08",
       "type": "A400M",
@@ -6686,7 +6686,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F73C1",
+      "hexid": "3f73c1",
       "cot": "a-f-A-M-F-F",
       "reg": "31+35",
       "type": "EF-2000",
@@ -6707,7 +6707,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F751B",
+      "hexid": "3f751b",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+22",
       "type": "NH-90",
@@ -6721,7 +6721,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F7588",
+      "hexid": "3f7588",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+09",
       "type": "A400M",
@@ -6749,14 +6749,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F765A",
+      "hexid": "3f765a",
       "cot": "a-f-A-M-H-A",
       "reg": "74+49",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F76AB",
+      "hexid": "3f76ab",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+41",
       "type": "NH-90",
@@ -6770,7 +6770,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F77AA",
+      "hexid": "3f77aa",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+22",
       "type": "NH-90",
@@ -6784,14 +6784,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F793F",
+      "hexid": "3f793f",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+28",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F798B",
+      "hexid": "3f798b",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+07",
       "type": "NH-90",
@@ -6805,7 +6805,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F79F9",
+      "hexid": "3f79f9",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+07",
       "type": "A400M",
@@ -6833,7 +6833,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F7B3C",
+      "hexid": "3f7b3c",
       "cot": "a-f-A-M-V",
       "reg": "14+04",
       "type": "Global 5000",
@@ -6854,7 +6854,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F7DC1",
+      "hexid": "3f7dc1",
       "cot": "a-f-A-M-V",
       "reg": "15+01",
       "type": "A319CJ",
@@ -6875,28 +6875,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8006",
+      "hexid": "3f8006",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+23",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8019",
+      "hexid": "3f8019",
       "cot": "a-f-A-M-F-C-H",
       "reg": "54+28",
       "type": "A400M",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8032",
+      "hexid": "3f8032",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+14",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8086",
+      "hexid": "3f8086",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+24",
       "type": "NH-90",
@@ -6910,42 +6910,42 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F80B1",
+      "hexid": "3f80b1",
       "cot": "a-f-A-M-H-A",
       "reg": "74+48",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F80FC",
+      "hexid": "3f80fc",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+57",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8143",
+      "hexid": "3f8143",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+56",
       "type": "Sea King",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F814B",
+      "hexid": "3f814b",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+40",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F81A5",
+      "hexid": "3f81a5",
       "cot": "a-f-A-M-H-A",
       "reg": "74+63",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F81A8",
+      "hexid": "3f81a8",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+26",
       "type": "Lynx",
@@ -6959,84 +6959,84 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F81E3",
+      "hexid": "3f81e3",
       "cot": "a-f-A-M-H-A",
       "reg": "74+51",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F81FA",
+      "hexid": "3f81fa",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+38",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8249",
+      "hexid": "3f8249",
       "cot": "a-f-A-M-H-A",
       "reg": "74+35",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F841B",
+      "hexid": "3f841b",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+09",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F843E",
+      "hexid": "3f843e",
       "cot": "a-f-A-M-H-U-L",
       "reg": "77+01",
       "type": "EC145",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F847A",
+      "hexid": "3f847a",
       "cot": "a-f-A-M-F-F",
       "reg": "30+49",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8512",
+      "hexid": "3f8512",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+09",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8517",
+      "hexid": "3f8517",
       "cot": "a-f-A-M-F-C-H",
       "reg": "10+23",
       "type": "A310",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8518",
+      "hexid": "3f8518",
       "cot": "a-f-A-M-F-C-H",
       "reg": "10+24",
       "type": "A310",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8519",
+      "hexid": "3f8519",
       "cot": "a-f-A-M-F-C-H",
       "reg": "10+25",
       "type": "A310",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F851A",
+      "hexid": "3f851a",
       "cot": "a-f-A-M-F-C-H",
       "reg": "10+26",
       "type": "A310",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F851B",
+      "hexid": "3f851b",
       "cot": "a-f-A-M-F-C-H",
       "reg": "10+27",
       "type": "A310",
@@ -7050,63 +7050,63 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8569",
+      "hexid": "3f8569",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+59",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8576",
+      "hexid": "3f8576",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+07",
       "type": "Lynx",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F8580",
+      "hexid": "3f8580",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+60",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8592",
+      "hexid": "3f8592",
       "cot": "a-f-A-M-H-U-H",
       "reg": "82+02",
       "type": "AS332",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F85D2",
+      "hexid": "3f85d2",
       "cot": "a-f-A-M-H-A",
       "reg": "74+46",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8653",
+      "hexid": "3f8653",
       "cot": "a-f-A-M-F-F",
       "reg": "30+65",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8671",
+      "hexid": "3f8671",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+55",
       "type": "Sea King",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F8686",
+      "hexid": "3f8686",
       "cot": "a-f-A-M-H-A",
       "reg": "74+61",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F86DC",
+      "hexid": "3f86dc",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+61",
       "type": "NH-90",
@@ -7120,63 +7120,63 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F877F",
+      "hexid": "3f877f",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+12",
       "type": "Lynx",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F8803",
+      "hexid": "3f8803",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+13",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8848",
+      "hexid": "3f8848",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+29",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8856",
+      "hexid": "3f8856",
       "cot": "a-f-A-M-H-A",
       "reg": "74+45",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8905",
+      "hexid": "3f8905",
       "cot": "a-f-A-M-H-H",
       "reg": "77+02",
       "type": "EC145",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F892A",
+      "hexid": "3f892a",
       "cot": "a-f-A-M-H-H",
       "reg": "77+04",
       "type": "EC145",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8935",
+      "hexid": "3f8935",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+30",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8975",
+      "hexid": "3f8975",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+27",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8976",
+      "hexid": "3f8976",
       "cot": "a-f-A-M-H-A",
       "reg": "74+31",
       "type": "EC665",
@@ -7190,63 +7190,63 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8A64",
+      "hexid": "3f8a64",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+32",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8B5A",
+      "hexid": "3f8b5a",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+23",
       "type": "Lynx",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F8B7D",
+      "hexid": "3f8b7d",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+17",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8B8E",
+      "hexid": "3f8b8e",
       "cot": "a-f-A-M-H-A",
       "reg": "74+70",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8BB6",
+      "hexid": "3f8bb6",
       "cot": "a-f-A-M-F-C-H",
       "reg": "50+57",
       "type": "C-160D",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8BD0",
+      "hexid": "3f8bd0",
       "cot": "a-f-A-M-H-U-L",
       "reg": "77+03",
       "type": "EC145",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8C41",
+      "hexid": "3f8c41",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+15",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8C58",
+      "hexid": "3f8c58",
       "cot": "a-f-A-M-F-F",
       "reg": "31+39",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8C62",
+      "hexid": "3f8c62",
       "cot": "a-f-A-M-H-U-L",
       "reg": "77+08",
       "type": "EC645T2",
@@ -7260,7 +7260,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8CF0",
+      "hexid": "3f8cf0",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+58",
       "type": "NH-90",
@@ -7274,14 +7274,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8D11",
+      "hexid": "3f8d11",
       "cot": "a-f-A-M-H-A",
       "reg": "74+44",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8D2E",
+      "hexid": "3f8d2e",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+06",
       "type": "NH-90",
@@ -7295,14 +7295,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8D6C",
+      "hexid": "3f8d6c",
       "cot": "a-f-A-M-F-F",
       "reg": "31+05",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8E7C",
+      "hexid": "3f8e7c",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+61",
       "type": "Sea King",
@@ -7442,7 +7442,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8F2A",
+      "hexid": "3f8f2a",
       "cot": "a-f-A-M-F-F",
       "reg": "30+42",
       "type": "EF-2000",
@@ -7477,7 +7477,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8F49",
+      "hexid": "3f8f49",
       "cot": "a-f-A-M-F-F",
       "reg": "30+73",
       "type": "EF-2000",
@@ -7491,28 +7491,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F8FBE",
+      "hexid": "3f8fbe",
       "cot": "a-f-A-M-H-A",
       "reg": "74+32",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F8FED",
+      "hexid": "3f8fed",
       "cot": "a-f-A-M-H-A",
       "reg": "74+69",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F9098",
+      "hexid": "3f9098",
       "cot": "a-f-A-M-H-U-M",
       "reg": "98+98",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F90BC",
+      "hexid": "3f90bc",
       "cot": "a-f-A-M-H-A",
       "reg": "74+58",
       "type": "EC665",
@@ -7526,21 +7526,21 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F927C",
+      "hexid": "3f927c",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+68",
       "type": "Sea King",
       "operator": "DEU N"
     },
     {
-      "hexid": "3F9359",
+      "hexid": "3f9359",
       "cot": "a-f-A-M-H-A",
       "reg": "74+65",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F94AB",
+      "hexid": "3f94ab",
       "cot": "a-f-A-M-F-F",
       "reg": "31+30",
       "type": "EF-2000",
@@ -7554,7 +7554,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F956E",
+      "hexid": "3f956e",
       "cot": "a-f-A-M-F-F",
       "reg": "43+10",
       "type": "Tornado",
@@ -7582,7 +7582,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F958A",
+      "hexid": "3f958a",
       "cot": "a-f-A-M-F-F",
       "reg": "43+38",
       "type": "Tornado",
@@ -7596,7 +7596,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F958E",
+      "hexid": "3f958e",
       "cot": "a-f-A-M-F-F",
       "reg": "43+42",
       "type": "Tornado",
@@ -7652,7 +7652,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9610",
+      "hexid": "3f9610",
       "cot": "a-f-A-M-F-F",
       "reg": "44+16",
       "type": "Tornado",
@@ -7666,7 +7666,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F961D",
+      "hexid": "3f961d",
       "cot": "a-f-A-M-F-F",
       "reg": "44+29",
       "type": "Tornado",
@@ -7687,7 +7687,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9622",
+      "hexid": "3f9622",
       "cot": "a-f-A-M-F-F",
       "reg": "44+34",
       "type": "Tornado",
@@ -7729,7 +7729,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9645",
+      "hexid": "3f9645",
       "cot": "a-f-A-M-F-F",
       "reg": "44+69",
       "type": "Tornado",
@@ -7792,7 +7792,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9672",
+      "hexid": "3f9672",
       "cot": "a-f-A-M-F-F",
       "reg": "45+14",
       "type": "Tornado",
@@ -7827,14 +7827,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F968B",
+      "hexid": "3f968b",
       "cot": "a-f-A-M-F-F",
       "reg": "45+39",
       "type": "Tornado",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9696",
+      "hexid": "3f9696",
       "cot": "a-f-A-M-F-F",
       "reg": "45+50",
       "type": "Tornado",
@@ -7848,7 +7848,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F969F",
+      "hexid": "3f969f",
       "cot": "a-f-A-M-F-F",
       "reg": "45+59",
       "type": "Tornado",
@@ -7918,7 +7918,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F96B9",
+      "hexid": "3f96b9",
       "cot": "a-f-A-M-F-F",
       "reg": "45+85",
       "type": "Tornado",
@@ -7974,7 +7974,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F970A",
+      "hexid": "3f970a",
       "cot": "a-f-A-M-F-F",
       "reg": "46+10",
       "type": "Tornado",
@@ -7995,7 +7995,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F970C",
+      "hexid": "3f970c",
       "cot": "a-f-A-M-F-F",
       "reg": "46+12",
       "type": "Tornado",
@@ -8023,7 +8023,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9714",
+      "hexid": "3f9714",
       "cot": "a-f-A-M-F-F",
       "reg": "46+20",
       "type": "Tornado",
@@ -8044,7 +8044,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9717",
+      "hexid": "3f9717",
       "cot": "a-f-A-M-F-F",
       "reg": "46+23",
       "type": "Tornado",
@@ -8100,7 +8100,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9731",
+      "hexid": "3f9731",
       "cot": "a-f-A-M-F-F",
       "reg": "46+49",
       "type": "Tornado",
@@ -8135,14 +8135,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F97FD",
+      "hexid": "3f97fd",
       "cot": "a-f-A-M-V",
       "reg": "15+04",
       "type": "A321-200",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F984F",
+      "hexid": "3f984f",
       "cot": "a-f-A-M-H-U-L",
       "reg": "77+05",
       "type": "EC145",
@@ -8534,7 +8534,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9A92",
+      "hexid": "3f9a92",
       "cot": "a-f-A-M-V",
       "reg": "15+03",
       "type": "A319CJ",
@@ -8555,7 +8555,7 @@
       "operator": "DEU N"
     },
     {
-      "hexid": "3F9B11",
+      "hexid": "3f9b11",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+19",
       "type": "NH-90",
@@ -8569,7 +8569,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9C7C",
+      "hexid": "3f9c7c",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+62",
       "type": "Sea King",
@@ -8597,28 +8597,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3F9DAC",
+      "hexid": "3f9dac",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+11",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F9E54",
+      "hexid": "3f9e54",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+16",
       "type": "EC145",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F9E5B",
+      "hexid": "3f9e5b",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+23",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3F9E9B",
+      "hexid": "3f9e9b",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+36",
       "type": "NH-90",
@@ -8632,7 +8632,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FA016",
+      "hexid": "3fa016",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+35",
       "type": "NH-90",
@@ -8646,21 +8646,21 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FA16E",
+      "hexid": "3fa16e",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+09",
       "type": "Lynx",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FA196",
+      "hexid": "3fa196",
       "cot": "a-f-A-M-H-A",
       "reg": "74+59",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA1BE",
+      "hexid": "3fa1be",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+12",
       "type": "EC145",
@@ -8681,63 +8681,63 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FA257",
+      "hexid": "3fa257",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+52",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA30F",
+      "hexid": "3fa30f",
       "cot": "a-f-A-M-F-F",
       "reg": "30+66",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FA338",
+      "hexid": "3fa338",
       "cot": "a-f-A-M-H-U-M",
       "reg": "70+56",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA33B",
+      "hexid": "3fa33b",
       "cot": "a-f-A-M-H-U-M",
       "reg": "70+59",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA342",
+      "hexid": "3fa342",
       "cot": "a-f-A-M-H-A",
       "reg": "74+01",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA349",
+      "hexid": "3fa349",
       "cot": "a-f-A-M-H-U-M",
       "reg": "70+73",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA350",
+      "hexid": "3fa350",
       "cot": "a-f-A-M-H-U-M",
       "reg": "70+80",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA353",
+      "hexid": "3fa353",
       "cot": "a-f-A-M-H-U-M",
       "reg": "70+83",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA357",
+      "hexid": "3fa357",
       "cot": "a-f-A-M-H-U-M",
       "reg": "70+87",
       "type": "UH-1D",
@@ -8807,14 +8807,14 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA3BC",
+      "hexid": "3fa3bc",
       "cot": "a-f-A-M-H-U-M",
       "reg": "71+60",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA3C1",
+      "hexid": "3fa3c1",
       "cot": "a-f-A-M-H-U-M",
       "reg": "71+65",
       "type": "UH-1D",
@@ -8835,7 +8835,7 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA3DB",
+      "hexid": "3fa3db",
       "cot": "a-f-A-M-H-U-M",
       "reg": "71+91",
       "type": "UH-1D",
@@ -8849,7 +8849,7 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA413",
+      "hexid": "3fa413",
       "cot": "a-f-A-M-H-U-M",
       "reg": "72+19",
       "type": "UH-1D",
@@ -8898,7 +8898,7 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA427",
+      "hexid": "3fa427",
       "cot": "a-f-A-M-H-U-M",
       "reg": "72+39",
       "type": "UH-1D",
@@ -8912,14 +8912,14 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA42E",
+      "hexid": "3fa42e",
       "cot": "a-f-A-M-H-U-M",
       "reg": "72+46",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA43E",
+      "hexid": "3fa43e",
       "cot": "a-f-A-M-H-U-M",
       "reg": "72+62",
       "type": "UH-1D",
@@ -8982,7 +8982,7 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA460",
+      "hexid": "3fa460",
       "cot": "a-f-A-M-H-U-M",
       "reg": "72+96",
       "type": "UH-1D",
@@ -9017,7 +9017,7 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA483",
+      "hexid": "3fa483",
       "cot": "a-f-A-M-H-A",
       "reg": "74+62",
       "type": "EC665",
@@ -9031,7 +9031,7 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA488",
+      "hexid": "3fa488",
       "cot": "a-f-A-M-H-U-M",
       "reg": "73+08",
       "type": "UH-1D",
@@ -9136,21 +9136,21 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA4B0",
+      "hexid": "3fa4b0",
       "cot": "a-f-A-M-H-U-M",
       "reg": "73+48",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA4BC",
+      "hexid": "3fa4bc",
       "cot": "a-f-A-M-H-U-M",
       "reg": "73+60",
       "type": "UH-1D",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA4BF",
+      "hexid": "3fa4bf",
       "cot": "a-f-A-M-H-U-M",
       "reg": "73+63",
       "type": "UH-1D",
@@ -9199,7 +9199,7 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA50C",
+      "hexid": "3fa50c",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+33",
       "type": "NH-90",
@@ -9535,14 +9535,14 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA657",
+      "hexid": "3fa657",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+05",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA82A",
+      "hexid": "3fa82a",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+03",
       "type": "NH-90",
@@ -9556,98 +9556,98 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FA933",
+      "hexid": "3fa933",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+51",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA934",
+      "hexid": "3fa934",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+52",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA935",
+      "hexid": "3fa935",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+53",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA936",
+      "hexid": "3fa936",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+54",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA937",
+      "hexid": "3fa937",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+55",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA938",
+      "hexid": "3fa938",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+57",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA93A",
+      "hexid": "3fa93a",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+58",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA93B",
+      "hexid": "3fa93b",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+59",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA93C",
+      "hexid": "3fa93c",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+60",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA93D",
+      "hexid": "3fa93d",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+61",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA93E",
+      "hexid": "3fa93e",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+62",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA93F",
+      "hexid": "3fa93f",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+63",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA940",
+      "hexid": "3fa940",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+64",
       "type": "EC135",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FA941",
+      "hexid": "3fa941",
       "cot": "a-f-A-M-H-U-L",
       "reg": "82+65",
       "type": "EC135",
@@ -9661,7 +9661,7 @@
       "operator": "DEU N"
     },
     {
-      "hexid": "3FA983",
+      "hexid": "3fa983",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+03",
       "type": "Lynx",
@@ -9738,7 +9738,7 @@
       "operator": "DEU N"
     },
     {
-      "hexid": "3FA991",
+      "hexid": "3fa991",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+17",
       "type": "Lynx",
@@ -9752,21 +9752,21 @@
       "operator": "DEU N"
     },
     {
-      "hexid": "3FA993",
+      "hexid": "3fa993",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+19",
       "type": "Lynx",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FA994",
+      "hexid": "3fa994",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+20",
       "type": "Lynx",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FA995",
+      "hexid": "3fa995",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+21",
       "type": "Lynx",
@@ -9794,7 +9794,7 @@
       "operator": "DEU N"
     },
     {
-      "hexid": "3FA999",
+      "hexid": "3fa999",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+25",
       "type": "Lynx",
@@ -9808,7 +9808,7 @@
       "operator": "DEU N"
     },
     {
-      "hexid": "3FA9FF",
+      "hexid": "3fa9ff",
       "cot": "a-f-A-M-H-A",
       "reg": "74+66",
       "type": "EC665",
@@ -10144,7 +10144,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FAA50",
+      "hexid": "3faa50",
       "cot": "a-f-A-M-H-C-H",
       "reg": "84+80",
       "type": "CH-53G",
@@ -10347,7 +10347,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FAB01",
+      "hexid": "3fab01",
       "cot": "a-f-A-M-H-U-L",
       "reg": "86+01",
       "type": "BO105",
@@ -10368,7 +10368,7 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FAB21",
+      "hexid": "3fab21",
       "cot": "a-f-A-M-H-U-L",
       "reg": "86+33",
       "type": "BO105",
@@ -10382,14 +10382,14 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FAB27",
+      "hexid": "3fab27",
       "cot": "a-f-A-M-H-U-L",
       "reg": "86+39",
       "type": "BO105",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FAB2D",
+      "hexid": "3fab2d",
       "cot": "a-f-A-M-H-U-L",
       "reg": "86+45",
       "type": "BO105",
@@ -10410,7 +10410,7 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FAB49",
+      "hexid": "3fab49",
       "cot": "a-f-A-M-H-U-L",
       "reg": "86+73",
       "type": "BO105",
@@ -10431,14 +10431,14 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FAB76",
+      "hexid": "3fab76",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+17",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FAB90",
+      "hexid": "3fab90",
       "cot": "a-f-A-M-H-U-L",
       "reg": "87+16",
       "type": "BO105",
@@ -10459,7 +10459,7 @@
       "operator": "DEU A"
     },
     {
-      "hexid": "3FABBC",
+      "hexid": "3fabbc",
       "cot": "a-f-A-M-H-U-L",
       "reg": "87+60",
       "type": "BO105",
@@ -10515,7 +10515,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FAC78",
+      "hexid": "3fac78",
       "cot": "a-f-A-M-F-F",
       "reg": "31+06",
       "type": "EF-2000",
@@ -10529,35 +10529,35 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FACB2",
+      "hexid": "3facb2",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+50",
       "type": "Sea King",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FACB3",
+      "hexid": "3facb3",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+51",
       "type": "Sea King",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FACB4",
+      "hexid": "3facb4",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+52",
       "type": "Sea King",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FACB5",
+      "hexid": "3facb5",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+53",
       "type": "Sea King",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FACB6",
+      "hexid": "3facb6",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+54",
       "type": "Sea King",
@@ -10578,14 +10578,14 @@
       "operator": "DEU N"
     },
     {
-      "hexid": "3FACB9",
+      "hexid": "3facb9",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+57",
       "type": "Sea King",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FACBA",
+      "hexid": "3facba",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+58",
       "type": "Sea King",
@@ -10676,35 +10676,35 @@
       "operator": "DEU N"
     },
     {
-      "hexid": "3FACFE",
+      "hexid": "3facfe",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+39",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FAD9D",
+      "hexid": "3fad9d",
       "cot": "a-f-A-M-H-U-L",
       "reg": "77+06",
       "type": "EC145",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FAE68",
+      "hexid": "3fae68",
       "cot": "a-f-A-M-F-F",
       "reg": "31+29",
       "type": "EF-2000",
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FAFB6",
+      "hexid": "3fafb6",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+35",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FB0E6",
+      "hexid": "3fb0e6",
       "cot": "a-f-A-M-H-A",
       "reg": "74+52",
       "type": "EC665",
@@ -10753,7 +10753,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FB13B",
+      "hexid": "3fb13b",
       "cot": "a-f-A-M-F-F",
       "reg": "98+79",
       "type": "Tornado",
@@ -10774,7 +10774,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FB159",
+      "hexid": "3fb159",
       "cot": "a-f-A-M-F-F",
       "reg": "98+77",
       "type": "Tornado",
@@ -10795,7 +10795,7 @@
       "operator": "Eurocopter"
     },
     {
-      "hexid": "3FB179",
+      "hexid": "3fb179",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+34",
       "type": "NH-90",
@@ -10809,35 +10809,35 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FB245",
+      "hexid": "3fb245",
       "cot": "a-f-A-M-H-U-M",
       "reg": "89+70",
       "type": "Sea King",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FB27B",
+      "hexid": "3fb27b",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+11",
       "type": "Lynx",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FB27E",
+      "hexid": "3fb27e",
       "cot": "a-f-A-M-H-A",
       "reg": "74+54",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FB2B2",
+      "hexid": "3fb2b2",
       "cot": "a-f-A-M-H-A",
       "reg": "74+57",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FB2CE",
+      "hexid": "3fb2ce",
       "cot": "a-f-A-M-F-F",
       "reg": "31+26",
       "type": "EF-2000",
@@ -10851,21 +10851,21 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FB309",
+      "hexid": "3fb309",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+02",
       "type": "Lynx",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FB316",
+      "hexid": "3fb316",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+37",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FB34D",
+      "hexid": "3fb34d",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+15",
       "type": "Lynx",
@@ -10879,21 +10879,21 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FB37B",
+      "hexid": "3fb37b",
       "cot": "a-f-A-M-H-A",
       "reg": "74+64",
       "type": "EC665",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FB3A4",
+      "hexid": "3fb3a4",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+55",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FB4AA",
+      "hexid": "3fb4aa",
       "cot": "a-f-A-M-H-A",
       "reg": "74+43",
       "type": "EC665",
@@ -10907,14 +10907,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FB65B",
+      "hexid": "3fb65b",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+31",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FB797",
+      "hexid": "3fb797",
       "cot": "a-f-A-M-H-A",
       "reg": "74+68",
       "type": "EC665",
@@ -10928,28 +10928,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FB88A",
+      "hexid": "3fb88a",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+31",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FB9B7",
+      "hexid": "3fb9b7",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+04",
       "type": "Lynx",
       "operator": "DEU N"
     },
     {
-      "hexid": "3FBA06",
+      "hexid": "3fba06",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+34",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FBA74",
+      "hexid": "3fba74",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+22",
       "type": "Lynx",
@@ -10963,14 +10963,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FBBA9",
+      "hexid": "3fbba9",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+37",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FBBC5",
+      "hexid": "3fbbc5",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+16",
       "type": "NH-90",
@@ -10984,7 +10984,7 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FBCC6",
+      "hexid": "3fbcc6",
       "cot": "a-f-A-M-F-F",
       "reg": "31+45",
       "type": "EF-2000",
@@ -10998,14 +10998,14 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FBD82",
+      "hexid": "3fbd82",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+56",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FBDC4",
+      "hexid": "3fbdc4",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+25",
       "type": "NH-90",
@@ -11019,28 +11019,28 @@
       "operator": "DEU AF"
     },
     {
-      "hexid": "3FBDFC",
+      "hexid": "3fbdfc",
       "cot": "a-f-A-M-H-U-L",
       "reg": "77+07",
       "type": "EC145",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FBE24",
+      "hexid": "3fbe24",
       "cot": "a-f-A-M-H-C-M",
       "reg": "79+12",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FBEBF",
+      "hexid": "3fbebf",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+28",
       "type": "NH-90",
       "operator": "DEU A"
     },
     {
-      "hexid": "3FBEFC",
+      "hexid": "3fbefc",
       "cot": "a-f-A-M-H-C-M",
       "reg": "78+38",
       "type": "NH-90",
@@ -11068,21 +11068,21 @@
       "operator": "Sino Jet Management"
     },
     {
-      "hexid": "43C04C",
+      "hexid": "43c04c",
       "cot": "a-f-A-M-F-C-M",
       "reg": "ZH870",
       "type": "C-130J",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C10F",
+      "hexid": "43c10f",
       "cot": "a-f-A-M-F-C-M",
       "reg": "ZH889",
       "type": "C-130J",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C14B",
+      "hexid": "43c14b",
       "cot": "a-f-A-M-F-C-M",
       "reg": "ZH868",
       "type": "C-130J",
@@ -11117,21 +11117,21 @@
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C2B2",
+      "hexid": "43c2b2",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "ZZ416",
       "type": "B350",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C2B4",
+      "hexid": "43c2b4",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "ZZ418",
       "type": "B350",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C2B5",
+      "hexid": "43c2b5",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "ZZ419",
       "type": "B350",
@@ -11145,168 +11145,168 @@
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C39C",
+      "hexid": "43c39c",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "ZZ665",
       "type": "RC-135",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C5DA",
+      "hexid": "43c5da",
       "cot": "a-f-A-M-F-C-H",
       "reg": "ZM400",
       "type": "A400M-180",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C5DB",
+      "hexid": "43c5db",
       "cot": "a-f-A-M-F-C-H",
       "reg": "ZM401",
       "type": "A400M-180",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C5DF",
+      "hexid": "43c5df",
       "cot": "a-f-A-M-F-C-H",
       "reg": "ZM405",
       "type": "A400M-180",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C5E2",
+      "hexid": "43c5e2",
       "cot": "a-f-A-M-F-C-H",
       "reg": "ZM408",
       "type": "A400M-180",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C5E3",
+      "hexid": "43c5e3",
       "cot": "a-f-A-M-F-C-H",
       "reg": "ZM409",
       "type": "A400M-180",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C5EC",
+      "hexid": "43c5ec",
       "cot": "a-f-A-M-F-C-H",
       "reg": "ZM418",
       "type": "A400M-180",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C61D",
+      "hexid": "43c61d",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "ZZ504",
       "type": "B350",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C6F3",
+      "hexid": "43c6f3",
       "cot": "a-f-A-M-F-K",
       "reg": "ZZ330",
       "type": "A330-243MRTT",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C6F6",
+      "hexid": "43c6f6",
       "cot": "a-f-A-M-F-K",
       "reg": "ZZ333",
       "type": "A330-243MRTT",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C6F7",
+      "hexid": "43c6f7",
       "cot": "a-f-A-M-F-K",
       "reg": "ZZ334",
       "type": "A330-243MRTT",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C6F9",
+      "hexid": "43c6f9",
       "cot": "a-f-A-M-F-K",
       "reg": "ZZ336",
       "type": "A330-243MRTT",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C6FA",
+      "hexid": "43c6fa",
       "cot": "a-f-A-M-F-K",
       "reg": "ZZ337",
       "type": "A330-243MRTT",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C700",
+      "hexid": "43c700",
       "cot": "a-f-A-M-F-K",
       "reg": "ZZ343",
       "type": "A330-243MRTT",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C747",
+      "hexid": "43c747",
       "cot": "a-f-A-M-F-F",
       "reg": "ZK336",
       "type": "Eurofighter",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C796",
+      "hexid": "43c796",
       "cot": "a-f-A-M-F-F",
       "reg": "ZK368",
       "type": "Eurofighter",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C8CA",
+      "hexid": "43c8ca",
       "cot": "a-f-A-M-F-T",
       "reg": "ZM323",
       "type": "T6",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C8CB",
+      "hexid": "43c8cb",
       "cot": "a-f-A-M-F-T",
       "reg": "ZM324",
       "type": "T6",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C8D1",
+      "hexid": "43c8d1",
       "cot": "a-f-A-M-F-T",
       "reg": "ZM330",
       "type": "T6",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C8D4",
+      "hexid": "43c8d4",
       "cot": "a-f-A-M-F-T",
       "reg": "ZM333",
       "type": "EMB-500",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C8D5",
+      "hexid": "43c8d5",
       "cot": "a-f-A-M-F-T",
       "reg": "ZM334",
       "type": "EMB-500",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C8D6",
+      "hexid": "43c8d6",
       "cot": "a-f-A-M-F-T",
       "reg": "ZM335",
       "type": "EMB-500",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C8D7",
+      "hexid": "43c8d7",
       "cot": "a-f-A-M-F-T",
       "reg": "ZM336",
       "type": "EMB-500",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C8D8",
+      "hexid": "43c8d8",
       "cot": "a-f-A-M-F-T",
       "reg": "ZM337",
       "type": "EMB-500",
@@ -11320,14 +11320,14 @@
       "operator": "GBR A"
     },
     {
-      "hexid": "43C925",
+      "hexid": "43c925",
       "cot": "a-f-A-M-F-F",
       "reg": "XE704",
       "type": "Hawker Hunter",
       "operator": "GBR AF"
     },
     {
-      "hexid": "43C92B",
+      "hexid": "43c92b",
       "cot": "a-f-A-M-H-U-L",
       "reg": "ZM497",
       "type": "EC-145",
@@ -11404,161 +11404,161 @@
       "operator": "BEL AF"
     },
     {
-      "hexid": "44B2AD",
+      "hexid": "44b2ad",
       "cot": "a-f-A-M-V",
       "reg": "OO-LUM",
       "type": "Falcon7X",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F041",
+      "hexid": "44f041",
       "cot": "a-f-A-M-F-F",
       "reg": "FB-21",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F044",
+      "hexid": "44f044",
       "cot": "a-f-A-M-F-F",
       "reg": "FB-24",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F122",
+      "hexid": "44f122",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-92",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F144",
+      "hexid": "44f144",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-104",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F147",
+      "hexid": "44f147",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-107",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F166",
+      "hexid": "44f166",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-116",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F167",
+      "hexid": "44f167",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-117",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F168",
+      "hexid": "44f168",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-118",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F169",
+      "hexid": "44f169",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-119",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F184",
+      "hexid": "44f184",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-124",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F185",
+      "hexid": "44f185",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-125",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F186",
+      "hexid": "44f186",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-126",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F187",
+      "hexid": "44f187",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-127",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F188",
+      "hexid": "44f188",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-128",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F189",
+      "hexid": "44f189",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-129",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F1A2",
+      "hexid": "44f1a2",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-132",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F1A6",
+      "hexid": "44f1a6",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-136",
       "type": "F-16",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F683",
+      "hexid": "44f683",
       "cot": "a-f-A-M-F-C-H",
       "reg": "CT-03",
       "type": "A400M",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F684",
+      "hexid": "44f684",
       "cot": "a-f-A-M-F-C-H",
       "reg": "CT-04",
       "type": "A400M",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F685",
+      "hexid": "44f685",
       "cot": "a-f-A-M-F-C-H",
       "reg": "CT-05",
       "type": "A400M",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F686",
+      "hexid": "44f686",
       "cot": "a-f-A-M-F-C-H",
       "reg": "CT-06",
       "type": "A400M",
       "operator": "BEL AF"
     },
     {
-      "hexid": "44F687",
+      "hexid": "44f687",
       "cot": "a-f-A-M-F-C-H",
       "reg": "CT-07",
       "type": "A400M",
@@ -11572,7 +11572,7 @@
       "operator": "RUS N"
     },
     {
-      "hexid": "45F426",
+      "hexid": "45f426",
       "cot": "a-f-A-M-V",
       "reg": "C-215",
       "type": "Challenger 600",
@@ -11600,7 +11600,7 @@
       "operator": "EMS (FinnHEMS)"
     },
     {
-      "hexid": "4613C8",
+      "hexid": "4613c8",
       "cot": "a-f-A-C-H",
       "reg": "OH-HMU",
       "type": "EC135P2+",
@@ -11719,35 +11719,35 @@
       "operator": "LEO (FIN Border Guard)"
     },
     {
-      "hexid": "46724A",
+      "hexid": "46724a",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-401",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46724B",
+      "hexid": "46724b",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-4xx",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46724C",
+      "hexid": "46724c",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-437",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46724D",
+      "hexid": "46724d",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-4xx",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46724E",
+      "hexid": "46724e",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-434",
       "type": "F-18C",
@@ -11789,42 +11789,42 @@
       "operator": "FIN AF"
     },
     {
-      "hexid": "46780A",
+      "hexid": "46780a",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-405",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46780B",
+      "hexid": "46780b",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-406",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46780C",
+      "hexid": "46780c",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-407",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46780D",
+      "hexid": "46780d",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-408",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46780E",
+      "hexid": "46780e",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-409",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46780F",
+      "hexid": "46780f",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-410",
       "type": "F-18C",
@@ -11901,42 +11901,42 @@
       "operator": "FIN AF"
     },
     {
-      "hexid": "46781A",
+      "hexid": "46781a",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-422",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46781B",
+      "hexid": "46781b",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-423",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46781C",
+      "hexid": "46781c",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-424",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46781D",
+      "hexid": "46781d",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-425",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46781E",
+      "hexid": "46781e",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-426",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46781F",
+      "hexid": "46781f",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-427",
       "type": "F-18C",
@@ -12013,42 +12013,42 @@
       "operator": "FIN AF"
     },
     {
-      "hexid": "46782A",
+      "hexid": "46782a",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-439",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46782B",
+      "hexid": "46782b",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-440",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46782C",
+      "hexid": "46782c",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-441",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46782D",
+      "hexid": "46782d",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-442",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46782E",
+      "hexid": "46782e",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-443",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46782F",
+      "hexid": "46782f",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-444",
       "type": "F-18C",
@@ -12125,42 +12125,42 @@
       "operator": "FIN AF"
     },
     {
-      "hexid": "46783A",
+      "hexid": "46783a",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-455",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46783B",
+      "hexid": "46783b",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-456",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46783C",
+      "hexid": "46783c",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-457",
       "type": "F-18C",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46783D",
+      "hexid": "46783d",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-461",
       "type": "F-18D",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46783E",
+      "hexid": "46783e",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-462",
       "type": "F-18D",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46783F",
+      "hexid": "46783f",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-463",
       "type": "F-18D",
@@ -12223,42 +12223,42 @@
       "operator": "FIN AF"
     },
     {
-      "hexid": "46784A",
+      "hexid": "46784a",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-441",
       "type": "F-18",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46784B",
+      "hexid": "46784b",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-440",
       "type": "F-18",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46784C",
+      "hexid": "46784c",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-426",
       "type": "F-18",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46784D",
+      "hexid": "46784d",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-4xx",
       "type": "F-18",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46784E",
+      "hexid": "46784e",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-4xx",
       "type": "F-18",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46784F",
+      "hexid": "46784f",
       "cot": "a-f-A-M-F-F",
       "reg": "HN-4xx",
       "type": "F-18",
@@ -12370,70 +12370,70 @@
       "operator": "FIN AF"
     },
     {
-      "hexid": "46789A",
+      "hexid": "46789a",
       "cot": "a-f-A-M-F-T",
       "reg": "GO-4",
       "type": "Grob115E",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46789C",
+      "hexid": "46789c",
       "cot": "a-f-A-M-F-T",
       "reg": "GO-6",
       "type": "Grob115E",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46789D",
+      "hexid": "46789d",
       "cot": "a-f-A-M-F-T",
       "reg": "GO-7",
       "type": "Grob115E",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46789E",
+      "hexid": "46789e",
       "cot": "a-f-A-M-F-T",
       "reg": "GO-8",
       "type": "Grob115E",
       "operator": "FIN AF"
     },
     {
-      "hexid": "46789F",
+      "hexid": "46789f",
       "cot": "a-f-A-M-F-T",
       "reg": "GO-9",
       "type": "Grob115E",
       "operator": "FIN AF"
     },
     {
-      "hexid": "4678A0",
+      "hexid": "4678a0",
       "cot": "a-f-A-M-F-T",
       "reg": "GO-10",
       "type": "Grob115E",
       "operator": "FIN AF"
     },
     {
-      "hexid": "4678A1",
+      "hexid": "4678a1",
       "cot": "a-f-A-M-F-T",
       "reg": "GO-11",
       "type": "Grob115E",
       "operator": "FIN AF"
     },
     {
-      "hexid": "4678A4",
+      "hexid": "4678a4",
       "cot": "a-f-A-M-F-T",
       "reg": "GO-14",
       "type": "Grob115E",
       "operator": "FIN AF"
     },
     {
-      "hexid": "4678CA",
+      "hexid": "4678ca",
       "cot": "a-f-A-M",
       "reg": "UNKN",
       "type": "UNKN",
       "operator": "FIN AF"
     },
     {
-      "hexid": "4682A6",
+      "hexid": "4682a6",
       "cot": "a-f-A-M-V",
       "reg": "678",
       "type": "Gulf 5",
@@ -12461,98 +12461,98 @@
       "operator": "HUN AF"
     },
     {
-      "hexid": "4780D8",
+      "hexid": "4780d8",
       "cot": "a-f-A-M-F-F",
       "reg": "0298",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780D9",
+      "hexid": "4780d9",
       "cot": "a-f-A-M-F-F",
       "reg": "0299",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780E2",
+      "hexid": "4780e2",
       "cot": "a-f-A-M-F-F",
       "reg": "662",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780E4",
+      "hexid": "4780e4",
       "cot": "a-f-A-M-F-F",
       "reg": "664",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780E6",
+      "hexid": "4780e6",
       "cot": "a-f-A-M-H-C-L",
       "reg": "666",
       "type": "TH-300C",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780E8",
+      "hexid": "4780e8",
       "cot": "a-f-A-M-F-F",
       "reg": "668",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780EB",
+      "hexid": "4780eb",
       "cot": "a-f-A-M-F-F",
       "reg": "671",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780EE",
+      "hexid": "4780ee",
       "cot": "a-f-A-M-F-F",
       "reg": "674",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780EF",
+      "hexid": "4780ef",
       "cot": "a-f-A-M-F-F",
       "reg": "675",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780F4",
+      "hexid": "4780f4",
       "cot": "a-f-A-M-F-F",
       "reg": "682",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780F5",
+      "hexid": "4780f5",
       "cot": "a-f-A-M-F-F",
       "reg": "686",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780F6",
+      "hexid": "4780f6",
       "cot": "a-f-A-M-F-F",
       "reg": "687",
       "type": "F-16AM",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780F8",
+      "hexid": "4780f8",
       "cot": "a-f-A-M-F-T",
       "reg": "690",
       "type": "LET L-13",
       "operator": "NOR AF"
     },
     {
-      "hexid": "4780FD",
+      "hexid": "4780fd",
       "cot": "a-f-A-M-F-F",
       "reg": "693",
       "type": "F-16BM",
@@ -12587,42 +12587,42 @@
       "operator": "NOR AF"
     },
     {
-      "hexid": "47811A",
+      "hexid": "47811a",
       "cot": "a-f-A-M-F-R-W",
       "reg": "4576",
       "type": "P-3N",
       "operator": "NOR AF"
     },
     {
-      "hexid": "47811B",
+      "hexid": "47811b",
       "cot": "a-f-A-M-F-R-W",
       "reg": "6603",
       "type": "P-3N",
       "operator": "NOR AF"
     },
     {
-      "hexid": "47811C",
+      "hexid": "47811c",
       "cot": "a-f-A-M-F-R-W",
       "reg": "3296",
       "type": "P-3C",
       "operator": "NOR AF"
     },
     {
-      "hexid": "47811D",
+      "hexid": "47811d",
       "cot": "a-f-A-M-F-R-W",
       "reg": "3297",
       "type": "P-3C",
       "operator": "NOR AF"
     },
     {
-      "hexid": "47811E",
+      "hexid": "47811e",
       "cot": "a-f-A-M-F-R-W",
       "reg": "3298",
       "type": "P-3C",
       "operator": "NOR AF"
     },
     {
-      "hexid": "47811F",
+      "hexid": "47811f",
       "cot": "a-f-A-M-F-R-W",
       "reg": "3299",
       "type": "P-3C",
@@ -12699,21 +12699,21 @@
       "operator": "NOR AF"
     },
     {
-      "hexid": "47812A",
+      "hexid": "47812a",
       "cot": "a-f-A-M-H-H",
       "reg": "0276",
       "type": "AW 101",
       "operator": "NOR AF"
     },
     {
-      "hexid": "47812B",
+      "hexid": "47812b",
       "cot": "a-f-A-M-H-H",
       "reg": "0277",
       "type": "AW 101",
       "operator": "NOR AF"
     },
     {
-      "hexid": "47812C",
+      "hexid": "47812c",
       "cot": "a-f-A-M-H-H",
       "reg": "0278",
       "type": "AW 101",
@@ -12734,14 +12734,14 @@
       "operator": "NLD AF"
     },
     {
-      "hexid": "480C04",
+      "hexid": "480c04",
       "cot": "a-f-A-M-F-C-M",
       "reg": "G-275",
       "type": "C-130J",
       "operator": "NLD AF"
     },
     {
-      "hexid": "480C05",
+      "hexid": "480c05",
       "cot": "a-f-A-M-F-C-M",
       "reg": "G-781",
       "type": "C-130J",
@@ -12755,42 +12755,42 @@
       "operator": "NLD AF"
     },
     {
-      "hexid": "480C22",
+      "hexid": "480c22",
       "cot": "a-f-A-M-F-T",
       "reg": "L-02",
       "type": "PC-7",
       "operator": "NLD AF"
     },
     {
-      "hexid": "480C25",
+      "hexid": "480c25",
       "cot": "a-f-A-M-F-T",
       "reg": "L-05",
       "type": "PC-7",
       "operator": "NLD AF"
     },
     {
-      "hexid": "480C2C",
+      "hexid": "480c2c",
       "cot": "a-f-A-M-F-T",
       "reg": "L-12",
       "type": "PC-7",
       "operator": "NLD AF"
     },
     {
-      "hexid": "480C40",
+      "hexid": "480c40",
       "cot": "a-f-A-M-F-K",
       "reg": "T-054",
       "type": "A330-243MRTT",
       "operator": "NLD AF"
     },
     {
-      "hexid": "480C41",
+      "hexid": "480c41",
       "cot": "a-f-A-M-F-K",
       "reg": "T-055",
       "type": "A330-243MRTT",
       "operator": "NLD AF"
     },
     {
-      "hexid": "480C42",
+      "hexid": "480c42",
       "cot": "a-f-A-M-F-K",
       "reg": "T-056",
       "type": "A330-243MRTT",
@@ -12811,21 +12811,21 @@
       "operator": "Sino Jet Management"
     },
     {
-      "hexid": "48D961",
+      "hexid": "48d961",
       "cot": "a-f-A-M-V",
       "reg": "0002",
       "type": "Gulf 5",
       "operator": "POL AF"
     },
     {
-      "hexid": "48D981",
+      "hexid": "48d981",
       "cot": "a-f-A-M-V",
       "reg": "0112",
       "type": "B-737-800",
       "operator": "POL AF"
     },
     {
-      "hexid": "48D982",
+      "hexid": "48d982",
       "cot": "a-f-A-M-V",
       "reg": "0111",
       "type": "B-737-800",
@@ -12860,350 +12860,350 @@
       "operator": "CZE AF"
     },
     {
-      "hexid": "4A80D0",
+      "hexid": "4a80d0",
       "cot": "a-f-A-M-V",
       "reg": "102001",
       "type": "Gulf 4",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8114",
+      "hexid": "4a8114",
       "cot": "a-f-A-M-F-R",
       "reg": "100001",
       "type": "Saab 340",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8181",
+      "hexid": "4a8181",
       "cot": "a-f-A-M-F-C-H",
       "reg": "84001",
       "type": "C-130H",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8182",
+      "hexid": "4a8182",
       "cot": "a-f-A-M-F-C-H",
       "reg": "84002",
       "type": "C-130H",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8183",
+      "hexid": "4a8183",
       "cot": "a-f-A-M-F-C-H",
       "reg": "84003",
       "type": "C-130H",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8184",
+      "hexid": "4a8184",
       "cot": "a-f-A-M-F-C-H",
       "reg": "84004",
       "type": "C-130H",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8185",
+      "hexid": "4a8185",
       "cot": "a-f-A-M-F-C-H",
       "reg": "84005",
       "type": "C-130H",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8186",
+      "hexid": "4a8186",
       "cot": "a-f-A-M-F-C-H",
       "reg": "84006",
       "type": "C-130H",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8187",
+      "hexid": "4a8187",
       "cot": "a-f-A-M-F-C-H",
       "reg": "84007",
       "type": "C-130H",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8188",
+      "hexid": "4a8188",
       "cot": "a-f-A-M-F-C-H",
       "reg": "84008",
       "type": "C-130H",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8199",
+      "hexid": "4a8199",
       "cot": "a-f-A-M-V",
       "reg": "102004",
       "type": "Gulf 4",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A81E6",
+      "hexid": "4a81e6",
       "cot": "a-f-A-M-V",
       "reg": "86001",
       "type": "Sabreliner Tp86",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A81F4",
+      "hexid": "4a81f4",
       "cot": "a-f-A-M-V",
       "reg": "100008",
       "type": "Saab 340",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A81F8",
+      "hexid": "4a81f8",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "102003",
       "type": "Gulf 4",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A81F9",
+      "hexid": "4a81f9",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "102002",
       "type": "Gulf 4",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A821F",
+      "hexid": "4a821f",
       "cot": "a-f-A-M-F-R-W",
       "reg": "100003",
       "type": "Saab 340",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8220",
+      "hexid": "4a8220",
       "cot": "a-f-A-M-F-R-W",
       "reg": "100004",
       "type": "Saab 340",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A822A",
+      "hexid": "4a822a",
       "cot": "a-f-A-M-V",
       "reg": "102005",
       "type": "Gulf 5",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82EE",
+      "hexid": "4a82ee",
       "cot": "a-f-A-M-F-T",
       "reg": "60033",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82EF",
+      "hexid": "4a82ef",
       "cot": "a-f-A-M-F-T",
       "reg": "60036",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82F0",
+      "hexid": "4a82f0",
       "cot": "a-f-A-M-F-T",
       "reg": "60038",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82F1",
+      "hexid": "4a82f1",
       "cot": "a-f-A-M-F-T",
       "reg": "60040",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82F2",
+      "hexid": "4a82f2",
       "cot": "a-f-A-M-F-T",
       "reg": "60041",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82F3",
+      "hexid": "4a82f3",
       "cot": "a-f-A-M-F-T",
       "reg": "60045",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82F4",
+      "hexid": "4a82f4",
       "cot": "a-f-A-M-F-T",
       "reg": "60048",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82F6",
+      "hexid": "4a82f6",
       "cot": "a-f-A-M-F-T",
       "reg": "60058",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82F7",
+      "hexid": "4a82f7",
       "cot": "a-f-A-M-F-T",
       "reg": "60061",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82F8",
+      "hexid": "4a82f8",
       "cot": "a-f-A-M-F-T",
       "reg": "60062",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82F9",
+      "hexid": "4a82f9",
       "cot": "a-f-A-M-F-T",
       "reg": "60063",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82FB",
+      "hexid": "4a82fb",
       "cot": "a-f-A-M-F-T",
       "reg": "60073",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82FC",
+      "hexid": "4a82fc",
       "cot": "a-f-A-M-F-T",
       "reg": "60079",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82FD",
+      "hexid": "4a82fd",
       "cot": "a-f-A-M-F-T",
       "reg": "60083",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82FE",
+      "hexid": "4a82fe",
       "cot": "a-f-A-M-F-T",
       "reg": "60086",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A82FF",
+      "hexid": "4a82ff",
       "cot": "a-f-A-M-F-T",
       "reg": "60088",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8300",
+      "hexid": "4a8300",
       "cot": "a-f-A-M-F-T",
       "reg": "60096",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8301",
+      "hexid": "4a8301",
       "cot": "a-f-A-M-F-T",
       "reg": "60098",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8302",
+      "hexid": "4a8302",
       "cot": "a-f-A-M-F-T",
       "reg": "60100",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8309",
+      "hexid": "4a8309",
       "cot": "a-f-A-M-F-T",
       "reg": "60114",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A830A",
+      "hexid": "4a830a",
       "cot": "a-f-A-M-F-T",
       "reg": "60115",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A830B",
+      "hexid": "4a830b",
       "cot": "a-f-A-M-F-T",
       "reg": "60116",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A830C",
+      "hexid": "4a830c",
       "cot": "a-f-A-M-F-T",
       "reg": "60118",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A830D",
+      "hexid": "4a830d",
       "cot": "a-f-A-M-F-T",
       "reg": "60123",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A830E",
+      "hexid": "4a830e",
       "cot": "a-f-A-M-F-T",
       "reg": "60125",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A830F",
+      "hexid": "4a830f",
       "cot": "a-f-A-M-F-T",
       "reg": "60126",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8311",
+      "hexid": "4a8311",
       "cot": "a-f-A-M-F-T",
       "reg": "60129",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8312",
+      "hexid": "4a8312",
       "cot": "a-f-A-M-F-T",
       "reg": "60133",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8314",
+      "hexid": "4a8314",
       "cot": "a-f-A-M-F-T",
       "reg": "60136",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8315",
+      "hexid": "4a8315",
       "cot": "a-f-A-M-F-T",
       "reg": "60137",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8316",
+      "hexid": "4a8316",
       "cot": "a-f-A-M-F-T",
       "reg": "60139",
       "type": "Saab 105",
       "operator": "SWE AF"
     },
     {
-      "hexid": "4A8317",
+      "hexid": "4a8317",
       "cot": "a-f-A-M-F-T",
       "reg": "60141",
       "type": "Saab 105",
@@ -13287,21 +13287,21 @@
       "operator": "EMS (Scand. Air Ambulance)"
     },
     {
-      "hexid": "4B7F4C",
+      "hexid": "4b7f4c",
       "cot": "a-n-A-M-V",
       "reg": "T-785",
       "type": "Falcon 900",
       "operator": "CHE AF"
     },
     {
-      "hexid": "4B7F78",
+      "hexid": "4b7f78",
       "cot": "a-n-A-M-F-R-X",
       "reg": "T-741",
       "type": "DHC-6",
       "operator": "CHE AF"
     },
     {
-      "hexid": "4CA13F",
+      "hexid": "4ca13f",
       "cot": "a-f-A-M-F-C-M",
       "reg": "253",
       "type": "CN-235",
@@ -13315,14 +13315,14 @@
       "operator": "IRL AF"
     },
     {
-      "hexid": "4CA330",
+      "hexid": "4ca330",
       "cot": "a-f-A-M-H-U-M",
       "reg": "275",
       "type": "Agusta AW-139",
       "operator": "IRL AF"
     },
     {
-      "hexid": "4CA41D",
+      "hexid": "4ca41d",
       "cot": "a-f-A-M-F-U-M",
       "reg": "282",
       "type": "PilatusPC12",
@@ -13357,63 +13357,63 @@
       "operator": "Rossiya State Carrier"
     },
     {
-      "hexid": "4D03C4",
+      "hexid": "4d03c4",
       "cot": "a-f-A-M-F-R-W",
       "reg": "LX-N90446",
       "type": "E-3A Sentry",
       "operator": "NATO AEWCF"
     },
     {
-      "hexid": "4D03C8",
+      "hexid": "4d03c8",
       "cot": "a-f-A-M-F-R-W",
       "reg": "LX-N90450",
       "type": "E-3A Sentry",
       "operator": "NATO AEWCF"
     },
     {
-      "hexid": "4D03C9",
+      "hexid": "4d03c9",
       "cot": "a-f-A-M-F-R-W",
       "reg": "LX-N90451",
       "type": "E-3A Sentry",
       "operator": "NATO AEWCF"
     },
     {
-      "hexid": "4D03CC",
+      "hexid": "4d03cc",
       "cot": "a-f-A-M-F-R-W",
       "reg": "LX-N90454",
       "type": "E-3A Sentry",
       "operator": "NATO AEWCF"
     },
     {
-      "hexid": "4D03CD",
+      "hexid": "4d03cd",
       "cot": "a-f-A-M-F-R-W",
       "reg": "LX-N90455",
       "type": "E-3A Sentry",
       "operator": "NATO AEWCF"
     },
     {
-      "hexid": "4D03CE",
+      "hexid": "4d03ce",
       "cot": "a-f-A-M-F-R-W",
       "reg": "LX-N90456",
       "type": "E-3A Sentry",
       "operator": "NATO AEWCF"
     },
     {
-      "hexid": "501D13",
+      "hexid": "501d13",
       "cot": "a-f-A-M-V",
       "reg": "9A-CRO",
       "type": "Challenger 600",
       "operator": "HRV AF"
     },
     {
-      "hexid": "503FD2",
+      "hexid": "503fd2",
       "cot": "a-f-A-M-F-C-M",
       "reg": "07 Blue",
       "type": "C-27J",
       "operator": "LTU AF"
     },
     {
-      "hexid": "503FD3",
+      "hexid": "503fd3",
       "cot": "a-f-A-M-F-C-M",
       "reg": "08 Blue",
       "type": "C-27J",
@@ -13539,7 +13539,7 @@
       "operator": "Sino Jet Management"
     },
     {
-      "hexid": "ADFD72",
+      "hexid": "adfd72",
       "cot": "a-f-A-M-F-U-M",
       "reg": "91-0502",
       "type": "C-26D",
@@ -13560,42 +13560,42 @@
       "operator": "USAF"
     },
     {
-      "hexid": "ae014C",
+      "hexid": "ae014c",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "63-8025",
       "type": "RC-135",
       "operator": "USAF"
     },
     {
-      "hexid": "AE018A",
+      "hexid": "ae018a",
       "cot": "a-f-A-M-V",
       "reg": "84-0096",
       "type": "Learjet C-21A",
       "operator": "USAF"
     },
     {
-      "hexid": "AE0193",
+      "hexid": "ae0193",
       "cot": "a-f-A-M-V",
       "reg": "84-0126",
       "type": "Learjet C-21A",
       "operator": "USAF"
     },
     {
-      "hexid": "AE01B9",
+      "hexid": "ae01b9",
       "cot": "a-f-A-M-V",
       "reg": "84-0083",
       "type": "Learjet C-21A",
       "operator": "USAF"
     },
     {
-      "hexid": "ae01CC",
+      "hexid": "ae01cc",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "62-4131",
       "type": "RC-135",
       "operator": "USAF"
     },
     {
-      "hexid": "AE0214",
+      "hexid": "ae0214",
       "cot": "a-f-A-M-F-K",
       "reg": "83-0076",
       "type": "KC-10",
@@ -13609,14 +13609,14 @@
       "operator": "USAF"
     },
     {
-      "hexid": "AE0376",
+      "hexid": "ae0376",
       "cot": "a-f-A-M-F-K",
       "reg": "60-0318",
       "type": "KC-135",
       "operator": "USAF"
     },
     {
-      "hexid": "AE0392",
+      "hexid": "ae0392",
       "cot": "a-f-A-M-F-K",
       "reg": "63-8880",
       "type": "KC-135",
@@ -13637,14 +13637,14 @@
       "operator": "USAF"
     },
     {
-      "hexid": "AE0424",
+      "hexid": "ae0424",
       "cot": "a-f-A-M-F-K",
       "reg": "60-0333",
       "type": "KC-135",
       "operator": "USAF"
     },
     {
-      "hexid": "AE048A",
+      "hexid": "ae048a",
       "cot": "a-f-A-M-F-K",
       "reg": "63-8008",
       "type": "KC-135",
@@ -13658,147 +13658,147 @@
       "operator": "USAF"
     },
     {
-      "hexid": "AE04C1",
+      "hexid": "ae04c1",
       "cot": "a-f-A-M-F-K",
       "reg": "58-0125",
       "type": "KC-135",
       "operator": "USAF"
     },
     {
-      "hexid": "AE0659",
+      "hexid": "ae0659",
       "cot": "a-f-A-M-F-K",
       "reg": "59-1464",
       "type": "KC-135",
       "operator": "USAF"
     },
     {
-      "hexid": "AE07A3",
+      "hexid": "ae07a3",
       "cot": "a-f-A-M-F-K",
       "reg": "58-0118",
       "type": "KC-135",
       "operator": "USAF"
     },
     {
-      "hexid": "AE08E3",
+      "hexid": "ae08e3",
       "cot": "a-f-A-M-F-C-H",
       "reg": "00-0183",
       "type": "C-17",
       "operator": "USAF"
     },
     {
-      "hexid": "AE0978",
+      "hexid": "ae0978",
       "cot": "a-f-A-M-V",
       "reg": "01-0076",
       "type": "Gulf 5",
       "operator": "USAF"
     },
     {
-      "hexid": "AE1163",
+      "hexid": "ae1163",
       "cot": "a-f-A-M-F-C-M",
       "reg": "02-8155",
       "type": "C-130J",
       "operator": "USAF"
     },
     {
-      "hexid": "AE11ED",
+      "hexid": "ae11ed",
       "cot": "a-f-A-M-F-R-W",
       "reg": "81-0004",
       "type": "E-3TF",
       "operator": "USAF"
     },
     {
-      "hexid": "AE1536",
+      "hexid": "ae1536",
       "cot": "a-f-A-M-F-C-M",
       "reg": "06-8159",
       "type": "C-130J",
       "operator": "USAF"
     },
     {
-      "hexid": "AE1797",
+      "hexid": "ae1797",
       "cot": "a-f-A-M-F-F",
       "reg": "91-0310",
       "type": "F-15",
       "operator": "USAF"
     },
     {
-      "hexid": "AE2209",
+      "hexid": "ae2209",
       "cot": "a-f-A-M-F-C-M",
       "reg": "08-8602",
       "type": "C-130J",
       "operator": "USAF"
     },
     {
-      "hexid": "AE29D2",
+      "hexid": "ae29d2",
       "cot": "a-f-A-M-F-M",
       "reg": "08-6205",
       "type": "MC-130J Commando II",
       "operator": "USAF"
     },
     {
-      "hexid": "AE4AF8",
+      "hexid": "ae4af8",
       "cot": "a-f-A-M-F-C-M",
       "reg": "08-5683",
       "type": "C-130J",
       "operator": "USAF"
     },
     {
-      "hexid": "AE587F",
+      "hexid": "ae587f",
       "cot": "a-f-A-M-F-B",
       "reg": "60-0026",
       "type": "B-52",
       "operator": "USAF"
     },
     {
-      "hexid": "AE5AC9",
+      "hexid": "ae5ac9",
       "cot": "a-f-A-M-H-U-M",
       "reg": "15-20743",
       "type": "UH-60",
       "operator": "US A"
     },
     {
-      "hexid": "AE63B4",
+      "hexid": "ae63b4",
       "cot": "a-f-A-M-F-K",
       "reg": "20-46072",
       "type": "KC-46A",
       "operator": "USAF"
     },
     {
-      "hexid": "AE6D7A",
+      "hexid": "ae6d7a",
       "cot": "a-f-A-M-F-M",
       "reg": "20-5941",
       "type": "MC-130J Commando II",
       "operator": "USAF"
     },
     {
-      "hexid": "AF4A7B",
+      "hexid": "af4a7b",
       "cot": "a-f-A-M-F-U-L",
       "reg": "16-8207",
       "type": "Beech 350",
       "operator": "USAF"
     },
     {
-      "hexid": "C2B52B",
+      "hexid": "c2b52b",
       "cot": "a-f-A-M-F-C-M",
       "reg": "130601",
       "type": "CC-130J-30",
       "operator": "CAN AF"
     },
     {
-      "hexid": "C2B549",
+      "hexid": "c2b549",
       "cot": "a-f-A-M-F-C-M",
       "reg": "130604",
       "type": "CC-130J-30",
       "operator": "CAN AF"
     },
     {
-      "hexid": "C2B55D",
+      "hexid": "c2b55d",
       "cot": "a-f-A-M-F-C-M",
       "reg": "130606",
       "type": "CC-130J-30",
       "operator": "CAN AF"
     },
     {
-      "hexid": "C2C1FB",
+      "hexid": "c2c1fb",
       "cot": "a-f-A-M-V",
       "reg": "144620",
       "type": "Challenger 600",

@@ -12,6 +12,7 @@ for DIR in src/???; do
 done
 
 sed -i "/^$/d" tmp.txt
+sed -i "s/^\(\"......\"\)/\L\1/g" tmp.txt
 
 cat tmp.txt | sort | jq -nR 'reduce (inputs / "," | map(fromjson)) as $i ({}; .[$i[0]] = $i[1:])' > cotdb_indexed.json
 
