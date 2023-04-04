@@ -10935,6 +10935,13 @@
       "operator": "DEU A"
     },
     {
+      "hexid": "3fb950",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "54+38",
+      "type": "A400M",
+      "operator": "DEU AF"
+    },
+    {
       "hexid": "3fb9b7",
       "cot": "a-f-A-M-H-U-M",
       "reg": "83+04",
@@ -11187,6 +11194,27 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c5e9",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "ZM415",
+      "type": "A400M-180",
+      "operator": "GBR AF"
+    },
+    {
+      "hexid": "43c5ea",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "ZM416",
+      "type": "A400M-180",
+      "operator": "GBR AF"
+    },
+    {
+      "hexid": "43c5eb",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "ZM417",
+      "type": "A400M-180",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c5ec",
       "cot": "a-f-A-M-F-C-H",
       "reg": "ZM418",
@@ -11257,6 +11285,13 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c7ad",
+      "cot": "a-f-A-M-F-F",
+      "reg": "ZK436",
+      "type": "Eurofighter",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c8ca",
       "cot": "a-f-A-M-F-T",
       "reg": "ZM323",
@@ -11313,9 +11348,30 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c8ea",
+      "cot": "a-f-A-M-H-T",
+      "reg": "ZM516",
+      "type": "EC-135",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c8f2",
-      "cot": "a-f-A-M-H-U-L",
+      "cot": "a-f-A-M-H-T",
       "reg": "ZM524",
+      "type": "EC-135",
+      "operator": "GBR A"
+    },
+    {
+      "hexid": "43c8f3",
+      "cot": "a-f-A-M-H-T",
+      "reg": "ZM525",
+      "type": "EC-135",
+      "operator": "GBR A"
+    },
+    {
+      "hexid": "43c8f4",
+      "cot": "a-f-A-M-H-T",
+      "reg": "ZM526",
       "type": "EC-135",
       "operator": "GBR A"
     },
@@ -11388,6 +11444,13 @@
       "reg": "ZM724",
       "type": "AH64",
       "operator": "GBR A"
+    },
+    {
+      "hexid": "43caed",
+      "cot": "a-f-A-M-F-F",
+      "reg": "ZK339",
+      "type": "Eurofighter",
+      "operator": "GBR AF"
     },
     {
       "hexid": "43eba9",
@@ -13294,6 +13357,13 @@
       "operator": "EMS (Scand. Air Ambulance)"
     },
     {
+      "hexid": "4b7f44",
+      "cot": "a-n-A-M-F-U-L",
+      "reg": "T-751",
+      "type": "Challenger 604",
+      "operator": "CHE AF"
+    },
+    {
       "hexid": "4b7f4c",
       "cot": "a-n-A-M-V",
       "reg": "T-785",
@@ -13325,6 +13395,13 @@
       "hexid": "4ca330",
       "cot": "a-f-A-M-H-U-M",
       "reg": "275",
+      "type": "Agusta AW-139",
+      "operator": "IRL AF"
+    },
+    {
+      "hexid": "4ca335",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "278",
       "type": "Agusta AW-139",
       "operator": "IRL AF"
     },
@@ -13672,10 +13749,38 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae04eb",
+      "cot": "a-f-A-M-F-K",
+      "reg": "61-0311",
+      "type": "KC-135",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae04f2",
+      "cot": "a-f-A-M-F-R-Z",
+      "reg": "84-00162",
+      "type": "Beech 200",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae0659",
       "cot": "a-f-A-M-F-K",
       "reg": "59-1464",
       "type": "KC-135",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae066c",
+      "cot": "a-f-A-M-F-K",
+      "reg": "62-3562",
+      "type": "KC-135",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae0676",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "00-0171",
+      "type": "C-17",
       "operator": "USAF"
     },
     {
@@ -13704,6 +13809,13 @@
       "cot": "a-f-A-M-F-C-M",
       "reg": "02-8155",
       "type": "C-130J",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae119b",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "03-3118",
+      "type": "C-17",
       "operator": "USAF"
     },
     {

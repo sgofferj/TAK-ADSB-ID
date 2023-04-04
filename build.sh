@@ -4,6 +4,8 @@ RELEASEDATE=$(date +"%d%H%MZ${MONTH}%y")
 
 echo "Release date: ${RELEASEDATE}"
 
+echo > tmp.txt
+
 for DIR in src/???; do
   egrep -v "^#" ${DIR}/CIV.txt >> tmp.txt
   egrep -v "^#" ${DIR}/LEO.txt >> tmp.txt
@@ -14,9 +16,12 @@ done
 sed -i "/^$/d" tmp.txt
 sed -i "s/^\(\"......\"\)/\L\1/g" tmp.txt
 
-cat tmp.txt | sort | jq -nR 'reduce (inputs / "," | map(fromjson)) as $i ({}; .[$i[0]] = $i[1:])' > cotdb_indexed.json
+sort tmp.txt > tmp_sorted.txt
+mv tmp_sorted.txt tmp.txt
 
-cat tmp.txt | sort | sed "s/\"//g" | \
+cat tmp.txt | jq -nR 'reduce (inputs / "," | map(fromjson)) as $i ({}; .[$i[0]] = $i[1:])' > cotdb_indexed.json
+
+cat tmp.txt | sed "s/\"//g" | \
 jq -Rsn '
   {"aircraft":
     [inputs
@@ -40,4 +45,4 @@ echo '#"hexid","SIDC","registration","type","operator"' >> cotdb.txt
 echo >> cotdb.txt
 cat tmp.txt | sort | egrep -v "^$" >> cotdb.txt
 #zip ${RELEASEDATE}.zip cotdb.txt cotdb.json  #disabled while I try to find a better way of packaging
-rm tmp.txt cotdb.txt
+rm cotdb.txt #tmp.txt 

@@ -4,5 +4,6 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"4b7f44","a-n-A-M-F-U-L","T-751","Challenger 604","CHE AF"
 "4B7F4C","a-n-A-M-V","T-785","Falcon 900","CHE AF"
 "4B7F78","a-n-A-M-F-R-X","T-741","DHC-6","CHE AF"

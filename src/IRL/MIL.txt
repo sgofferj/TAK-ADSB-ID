@@ -6,6 +6,7 @@
 
 "4CA13F","a-f-A-M-F-C-M","253","CN-235","IRL AF"
 "4CA330","a-f-A-M-H-U-M","275","Agusta AW-139","IRL AF"
+"4CA335","a-f-A-M-H-U-M","278","Agusta AW-139","IRL AF"
 "4ca31e","a-f-A-M-H-U-M","274","Agusta AW-139","IRL AF"
 "4CA41D","a-f-A-M-F-U-M","282","PilatusPC12","IRL AF"
 "4ca44b","a-f-A-M-F-U-M","280","PilatusPC12","IRL AF"

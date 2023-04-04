@@ -9191,6 +9191,12 @@
     "NH-90",
     "DEU A"
   ],
+  "3fb950": [
+    "a-f-A-M-F-C-H",
+    "54+38",
+    "A400M",
+    "DEU AF"
+  ],
   "3fb9b7": [
     "a-f-A-M-H-U-M",
     "83+04",
@@ -9407,6 +9413,24 @@
     "A400M-180",
     "GBR AF"
   ],
+  "43c5e9": [
+    "a-f-A-M-F-C-H",
+    "ZM415",
+    "A400M-180",
+    "GBR AF"
+  ],
+  "43c5ea": [
+    "a-f-A-M-F-C-H",
+    "ZM416",
+    "A400M-180",
+    "GBR AF"
+  ],
+  "43c5eb": [
+    "a-f-A-M-F-C-H",
+    "ZM417",
+    "A400M-180",
+    "GBR AF"
+  ],
   "43c5ec": [
     "a-f-A-M-F-C-H",
     "ZM418",
@@ -9467,6 +9491,12 @@
     "Eurofighter",
     "GBR AF"
   ],
+  "43c7ad": [
+    "a-f-A-M-F-F",
+    "ZK436",
+    "Eurofighter",
+    "GBR AF"
+  ],
   "43c8ca": [
     "a-f-A-M-F-T",
     "ZM323",
@@ -9515,9 +9545,27 @@
     "EMB-500",
     "GBR AF"
   ],
+  "43c8ea": [
+    "a-f-A-M-H-T",
+    "ZM516",
+    "EC-135",
+    "GBR AF"
+  ],
   "43c8f2": [
-    "a-f-A-M-H-U-L",
+    "a-f-A-M-H-T",
     "ZM524",
+    "EC-135",
+    "GBR A"
+  ],
+  "43c8f3": [
+    "a-f-A-M-H-T",
+    "ZM525",
+    "EC-135",
+    "GBR A"
+  ],
+  "43c8f4": [
+    "a-f-A-M-H-T",
+    "ZM526",
     "EC-135",
     "GBR A"
   ],
@@ -9580,6 +9628,12 @@
     "ZM724",
     "AH64",
     "GBR A"
+  ],
+  "43caed": [
+    "a-f-A-M-F-F",
+    "ZK339",
+    "Eurofighter",
+    "GBR AF"
   ],
   "43eba9": [
     "a-f-A-M-H-U-L",
@@ -11213,6 +11267,12 @@
     "EC-145",
     "EMS (Scand. Air Ambulance)"
   ],
+  "4b7f44": [
+    "a-n-A-M-F-U-L",
+    "T-751",
+    "Challenger 604",
+    "CHE AF"
+  ],
   "4b7f4c": [
     "a-n-A-M-V",
     "T-785",
@@ -11240,6 +11300,12 @@
   "4ca330": [
     "a-f-A-M-H-U-M",
     "275",
+    "Agusta AW-139",
+    "IRL AF"
+  ],
+  "4ca335": [
+    "a-f-A-M-H-U-M",
+    "278",
     "Agusta AW-139",
     "IRL AF"
   ],
@@ -11537,10 +11603,34 @@
     "KC-135",
     "USAF"
   ],
+  "ae04eb": [
+    "a-f-A-M-F-K",
+    "61-0311",
+    "KC-135",
+    "USAF"
+  ],
+  "ae04f2": [
+    "a-f-A-M-F-R-Z",
+    "84-00162",
+    "Beech 200",
+    "USAF"
+  ],
   "ae0659": [
     "a-f-A-M-F-K",
     "59-1464",
     "KC-135",
+    "USAF"
+  ],
+  "ae066c": [
+    "a-f-A-M-F-K",
+    "62-3562",
+    "KC-135",
+    "USAF"
+  ],
+  "ae0676": [
+    "a-f-A-M-F-C-H",
+    "00-0171",
+    "C-17",
     "USAF"
   ],
   "ae07a3": [
@@ -11565,6 +11655,12 @@
     "a-f-A-M-F-C-M",
     "02-8155",
     "C-130J",
+    "USAF"
+  ],
+  "ae119b": [
+    "a-f-A-M-F-C-H",
+    "03-3118",
+    "C-17",
     "USAF"
   ],
   "ae11ed": [

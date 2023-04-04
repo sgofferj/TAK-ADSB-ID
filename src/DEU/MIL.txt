@@ -912,6 +912,7 @@
 "3FB797","a-f-A-M-H-A","74+68","EC665","DEU A"
 "3fb853","a-f-A-M-F-C-H","50+36","C-160D","DEU AF"
 "3FB88A","a-f-A-M-H-C-M","78+31","NH-90","DEU A"
+"3FB950","a-f-A-M-F-C-H","54+38","A400M","DEU AF"
 "3FB9B7","a-f-A-M-H-U-M","83+04","Lynx","DEU N"
 "3FBA06","a-f-A-M-H-C-M","78+34","NH-90","DEU A"
 "3FBA74","a-f-A-M-H-U-M","83+22","Lynx","DEU N"
