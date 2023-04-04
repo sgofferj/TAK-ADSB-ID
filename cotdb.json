@@ -11061,6 +11061,13 @@
       "operator": "DEU AF"
     },
     {
+      "hexid": "406f50",
+      "cot": "a-f-A-M-V",
+      "reg": "GZ100",
+      "type": "AW109SP",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "424777",
       "cot": "a-s-A-C-F",
       "reg": "VP-CZW",
@@ -11232,6 +11239,13 @@
       "hexid": "43c5ec",
       "cot": "a-f-A-M-F-C-H",
       "reg": "ZM418",
+      "type": "A400M-180",
+      "operator": "GBR AF"
+    },
+    {
+      "hexid": "43c5ed",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "ZM419",
       "type": "A400M-180",
       "operator": "GBR AF"
     },

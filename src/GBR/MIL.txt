@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"406f50","a-f-A-M-V","GZ100","AW109SP","GBR AF"
 "43C04C","a-f-A-M-F-C-M","ZH870","C-130J","GBR AF"
 "43C0BF","a-f-A-M-F-C-M","ZH867","C-130J","GBR AF"
 "43C10F","a-f-A-M-F-C-M","ZH889","C-130J","GBR AF"
@@ -27,6 +28,7 @@
 "43C5EA","a-f-A-M-F-C-H","ZM416","A400M-180","GBR AF"
 "43C5EB","a-f-A-M-F-C-H","ZM417","A400M-180","GBR AF"
 "43C5EC","a-f-A-M-F-C-H","ZM418","A400M-180","GBR AF"
+"43C5ED","a-f-A-M-F-C-H","ZM419","A400M-180","GBR AF"
 "43C61D","a-f-A-M-F-R-Z","ZZ504","B350","GBR AF"
 "43C6F3","a-f-A-M-F-K","ZZ330","A330-243MRTT","GBR AF"
 "43C6F6","a-f-A-M-F-K","ZZ333","A330-243MRTT","GBR AF"
