@@ -11180,6 +11180,13 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c4bd",
+      "cot": "a-f-A-M-F-R-Z",
+      "reg": "ZA674",
+      "type": "CH-47D",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c5da",
       "cot": "a-f-A-M-F-C-H",
       "reg": "ZM400",
@@ -13553,6 +13560,13 @@
       "operator": "CHE AF"
     },
     {
+      "hexid": "4b8225",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "63-13188",
+      "type": "C-130E",
+      "operator": "TUR AF"
+    },
+    {
       "hexid": "4ca13f",
       "cot": "a-f-A-M-F-C-M",
       "reg": "253",
@@ -14033,6 +14047,13 @@
       "cot": "a-f-A-M-F-C-M",
       "reg": "08-5683",
       "type": "C-130J",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae4be6",
+      "cot": "a-f-A-M-F-M",
+      "reg": "09-5713",
+      "type": "MC-130J Commando II",
       "operator": "USAF"
     },
     {

@@ -38,6 +38,7 @@
 "AE2209","a-f-A-M-F-C-M","08-8602","C-130J","USAF"
 "AE29D2","a-f-A-M-F-M","08-6205","MC-130J Commando II","USAF"
 "AE4AF8","a-f-A-M-F-C-M","08-5683","C-130J","USAF"
+"ae4be6","a-f-A-M-F-M","09-5713","MC-130J Commando II","USAF"
 "ae503d","a-f-A-M-V","09-0540","C-40C","USAF"
 "AE587F","a-f-A-M-F-B","60-0026","B-52","USAF"
 "AE5AC9","a-f-A-M-H-U-M","15-20743","UH-60","US A"
