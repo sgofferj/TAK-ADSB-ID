@@ -9317,6 +9317,12 @@
     "C-130J",
     "GBR AF"
   ],
+  "43c0bf": [
+    "a-f-A-M-F-C-M",
+    "ZH867",
+    "C-130J",
+    "GBR AF"
+  ],
   "43c10f": [
     "a-f-A-M-F-C-M",
     "ZH889",
@@ -9467,6 +9473,12 @@
     "A330-243MRTT",
     "GBR AF"
   ],
+  "43c6f8": [
+    "a-f-A-M-F-K",
+    "ZZ335",
+    "A330-243MRTT",
+    "GBR AF"
+  ],
   "43c6f9": [
     "a-f-A-M-F-K",
     "ZZ336",
@@ -9536,6 +9548,24 @@
   "43c79d": [
     "a-f-A-M-F-F",
     "ZK375",
+    "Eurofighter",
+    "GBR AF"
+  ],
+  "43c7aa": [
+    "a-f-A-M-F-F",
+    "ZK433",
+    "Eurofighter",
+    "GBR AF"
+  ],
+  "43c7ab": [
+    "a-f-A-M-F-F",
+    "ZK434",
+    "Eurofighter",
+    "GBR AF"
+  ],
+  "43c7ac": [
+    "a-f-A-M-F-F",
+    "ZK435",
     "Eurofighter",
     "GBR AF"
   ],
@@ -9622,6 +9652,18 @@
     "ZM526",
     "EC-135",
     "GBR A"
+  ],
+  "43c922": [
+    "a-f-A-M-F-T",
+    "ZM341",
+    "T6C",
+    "GBR AF"
+  ],
+  "43c923": [
+    "a-f-A-M-F-T",
+    "ZM342",
+    "T6C",
+    "GBR AF"
   ],
   "43c925": [
     "a-f-A-M-F-F",
@@ -9800,6 +9842,24 @@
   "44f1a2": [
     "a-f-A-M-F-F",
     "FA-132",
+    "F-16",
+    "BEL AF"
+  ],
+  "44f1a3": [
+    "a-f-A-M-F-F",
+    "FA-133",
+    "F-16",
+    "BEL AF"
+  ],
+  "44f1a4": [
+    "a-f-A-M-F-F",
+    "FA-134",
+    "F-16",
+    "BEL AF"
+  ],
+  "44f1a5": [
+    "a-f-A-M-F-F",
+    "FA-135",
     "F-16",
     "BEL AF"
   ],
@@ -10913,6 +10973,12 @@
     "B737NG",
     "Sino Jet Management"
   ],
+  "48d960": [
+    "a-f-A-M-V",
+    "0001",
+    "Gulf 5",
+    "POL AF"
+  ],
   "48d961": [
     "a-f-A-M-V",
     "0002",
@@ -11770,6 +11836,18 @@
     "15-20743",
     "UH-60",
     "US A"
+  ],
+  "ae5c97": [
+    "a-f-A-M-F-C-M",
+    "15-5822",
+    "C-130J",
+    "USAF"
+  ],
+  "ae5f11": [
+    "a-f-A-M-F-C-M",
+    "14-5864",
+    "C-130J",
+    "USAF"
   ],
   "ae63b4": [
     "a-f-A-M-F-K",

@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"ADFD72","a-f-A-M-F-U-M","91-0502","C-26D","USN"
 "adfebb","a-f-A-M-F-R-Z","95-00123","C560","USAF"
 "ae0133","a-f-A-M-F-R-Z","97-00102","C560","USAF"
 "ae014C","a-f-A-M-F-R-Z","63-8025","RC-135","USAF"
@@ -40,7 +41,8 @@
 "ae503d","a-f-A-M-V","09-0540","C-40C","USAF"
 "AE587F","a-f-A-M-F-B","60-0026","B-52","USAF"
 "AE5AC9","a-f-A-M-H-U-M","15-20743","UH-60","US A"
+"AE5C97","a-f-A-M-F-C-M","15-5822","C-130J","USAF"
+"AE5F11","a-f-A-M-F-C-M","14-5864","C-130J","USAF"
 "AE63B4","a-f-A-M-F-K","20-46072","KC-46A","USAF"
 "AE6D7A","a-f-A-M-F-M","20-5941","MC-130J Commando II","USAF"
 "AF4A7B","a-f-A-M-F-U-L","16-8207","Beech 350","USAF"
-"ADFD72","a-f-A-M-F-U-M","91-0502","C-26D","USN"

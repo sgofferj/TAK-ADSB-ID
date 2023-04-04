@@ -11082,6 +11082,13 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c0bf",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "ZH867",
+      "type": "C-130J",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c10f",
       "cot": "a-f-A-M-F-C-M",
       "reg": "ZH889",
@@ -11257,6 +11264,13 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c6f8",
+      "cot": "a-f-A-M-F-K",
+      "reg": "ZZ335",
+      "type": "A330-243MRTT",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c6f9",
       "cot": "a-f-A-M-F-K",
       "reg": "ZZ336",
@@ -11337,6 +11351,27 @@
       "hexid": "43c79d",
       "cot": "a-f-A-M-F-F",
       "reg": "ZK375",
+      "type": "Eurofighter",
+      "operator": "GBR AF"
+    },
+    {
+      "hexid": "43c7aa",
+      "cot": "a-f-A-M-F-F",
+      "reg": "ZK433",
+      "type": "Eurofighter",
+      "operator": "GBR AF"
+    },
+    {
+      "hexid": "43c7ab",
+      "cot": "a-f-A-M-F-F",
+      "reg": "ZK434",
+      "type": "Eurofighter",
+      "operator": "GBR AF"
+    },
+    {
+      "hexid": "43c7ac",
+      "cot": "a-f-A-M-F-F",
+      "reg": "ZK435",
       "type": "Eurofighter",
       "operator": "GBR AF"
     },
@@ -11437,6 +11472,20 @@
       "reg": "ZM526",
       "type": "EC-135",
       "operator": "GBR A"
+    },
+    {
+      "hexid": "43c922",
+      "cot": "a-f-A-M-F-T",
+      "reg": "ZM341",
+      "type": "T6C",
+      "operator": "GBR AF"
+    },
+    {
+      "hexid": "43c923",
+      "cot": "a-f-A-M-F-T",
+      "reg": "ZM342",
+      "type": "T6C",
+      "operator": "GBR AF"
     },
     {
       "hexid": "43c925",
@@ -11645,6 +11694,27 @@
       "hexid": "44f1a2",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-132",
+      "type": "F-16",
+      "operator": "BEL AF"
+    },
+    {
+      "hexid": "44f1a3",
+      "cot": "a-f-A-M-F-F",
+      "reg": "FA-133",
+      "type": "F-16",
+      "operator": "BEL AF"
+    },
+    {
+      "hexid": "44f1a4",
+      "cot": "a-f-A-M-F-F",
+      "reg": "FA-134",
+      "type": "F-16",
+      "operator": "BEL AF"
+    },
+    {
+      "hexid": "44f1a5",
+      "cot": "a-f-A-M-F-F",
+      "reg": "FA-135",
       "type": "F-16",
       "operator": "BEL AF"
     },
@@ -12944,6 +13014,13 @@
       "operator": "Sino Jet Management"
     },
     {
+      "hexid": "48d960",
+      "cot": "a-f-A-M-V",
+      "reg": "0001",
+      "type": "Gulf 5",
+      "operator": "POL AF"
+    },
+    {
       "hexid": "48d961",
       "cot": "a-f-A-M-V",
       "reg": "0002",
@@ -13943,6 +14020,20 @@
       "reg": "15-20743",
       "type": "UH-60",
       "operator": "US A"
+    },
+    {
+      "hexid": "ae5c97",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "15-5822",
+      "type": "C-130J",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae5f11",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "14-5864",
+      "type": "C-130J",
+      "operator": "USAF"
     },
     {
       "hexid": "ae63b4",
