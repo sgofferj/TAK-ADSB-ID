@@ -11299,6 +11299,13 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c780",
+      "cot": "a-f-A-M-F-F",
+      "reg": "ZK357",
+      "type": "Eurofighter",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c796",
       "cot": "a-f-A-M-F-F",
       "reg": "ZK368",
@@ -11778,6 +11785,20 @@
       "hexid": "45f428",
       "cot": "a-f-A-M-F-C-M",
       "reg": "B-536",
+      "type": "C-130J",
+      "operator": "DNK AF"
+    },
+    {
+      "hexid": "45f429",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "B-537",
+      "type": "C-130J",
+      "operator": "DNK AF"
+    },
+    {
+      "hexid": "45f42a",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "B-538",
       "type": "C-130J",
       "operator": "DNK AF"
     },
