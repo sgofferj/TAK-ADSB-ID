@@ -19,7 +19,7 @@
 "43C2B5","a-f-A-M-F-R-Z","ZZ419","B350","GBR AF"
 "43c38c","a-f-A-M-F-R-Z","ZZ664","RC-135","GBR AF"
 "43C39C","a-f-A-M-F-R-Z","ZZ665","RC-135","GBR AF"
-"43c4bd","a-f-A-M-F-R-Z","ZA674","CH-47D","GBR AF"
+"43c4bd","a-f-A-M-H-C-H","ZA674","CH-47D","GBR AF"
 "43C5DA","a-f-A-M-F-C-H","ZM400","A400M-180","GBR AF"
 "43C5DB","a-f-A-M-F-C-H","ZM401","A400M-180","GBR AF"
 "43C5DF","a-f-A-M-F-C-H","ZM405","A400M-180","GBR AF"

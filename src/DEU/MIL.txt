@@ -249,6 +249,7 @@
 "3F5C19","a-f-A-M-F-F","31+19","EF-2000","DEU AF"
 "3f5c84","a-f-A-M-F-F","31+04","EF-2000","DEU AF"
 "3f5e33","a-f-A-M-F-F","46+50","Tornado ECR","DEU AF"
+"3f59f3","a-f-A-M-F-O","15+11","A321LR","DEU AF"
 "3f5e91","a-f-A-M-F-F","31+35","EF-2000","DEU AF"
 "3f5f35","a-f-A-M-F-F","44+75","Tornado","DEU AF"
 "3f5fbb","a-f-A-M-F-F","46+25","Tornado ECR","DEU AF"
