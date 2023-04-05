@@ -45,6 +45,7 @@
 "3e8aa3","a-f-A-M-F-F","31+00","EF-2000","DEU AF"
 "3e8aa5","a-f-A-M-F-F","31+17","EF-2000","DEU AF"
 "3E8AED","a-f-A-M-F-F","30+56","EF-2000","DEU AF"
+"3E8B02","a-f-A-M-F-C-H","54+40","A400M","DEU AF"
 "3E8B13","a-f-A-M-H-U-L","76+04","EC-645T2","DEU AF"
 "3E8B35","a-f-A-M-H-U-L","76+13","EC645T2","DEU AF"
 "3E8B41","a-f-A-M-F-C-H","54+13","A400M","DEU AF"

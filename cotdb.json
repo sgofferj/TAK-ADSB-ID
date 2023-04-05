@@ -4866,6 +4866,13 @@
       "operator": "DEU AF"
     },
     {
+      "hexid": "3e8b02",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "54+40",
+      "type": "A400M",
+      "operator": "DEU AF"
+    },
+    {
       "hexid": "3e8b13",
       "cot": "a-f-A-M-H-U-L",
       "reg": "76+04",
@@ -14015,6 +14022,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae0271",
+      "cot": "a-f-A-M-F-K",
+      "reg": "63-8881",
+      "type": "KC-135",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae0376",
       "cot": "a-f-A-M-F-K",
       "reg": "60-0318",
@@ -14071,6 +14085,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae04c3",
+      "cot": "a-f-A-M-F-K",
+      "reg": "59-1470",
+      "type": "KC-135",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae04eb",
       "cot": "a-f-A-M-F-K",
       "reg": "61-0311",
@@ -14089,6 +14110,13 @@
       "cot": "a-f-A-M-F-R-Z",
       "reg": "84-00165",
       "type": "Beech 200",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae0502",
+      "cot": "a-f-A-M-F-K",
+      "reg": "59-1511",
+      "type": "KC-135",
       "operator": "USAF"
     },
     {
