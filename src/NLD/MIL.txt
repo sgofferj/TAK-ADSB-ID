@@ -4,7 +4,9 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"480441","a-f-A-M-H-C-H","D-480","CH-47","NLD AF"
 "480499","a-f-A-M-F-F","J-644","F-16","NLD AF"
+"480806","a-f-A-M-H-U-M","S-441","AS-532","NLD AF"
 "480811","a-f-A-M-H-U-M","S-459","AS-332","NLD AF"
 "480C04","a-f-A-M-F-C-M","G-275","C-130J","NLD AF"
 "480C05","a-f-A-M-F-C-M","G-781","C-130J","NLD AF"
@@ -24,4 +26,5 @@
 "480C40","a-f-A-M-F-K","T-054","A330-243MRTT","NLD AF"
 "480C41","a-f-A-M-F-K","T-055","A330-243MRTT","NLD AF"
 "480C42","a-f-A-M-F-K","T-056","A330-243MRTT","NLD AF"
+"480c46","a-f-A-M-F-K","T-060","A330-243MRTT","NLD AF"
 "481048","a-f-A-M-H-U-M","N-228","NH-90","NLD N"

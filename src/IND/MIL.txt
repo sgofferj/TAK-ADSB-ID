@@ -1,0 +1,7 @@
+#TAK ADSB IDs INDIA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"800273","a-n-A-M-F-U-M","HM677","Do-228","IND AF"

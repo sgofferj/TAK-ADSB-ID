@@ -35,7 +35,7 @@ jq -Rsn '
 AIRCRAFT=$(jq '. | length' cotdb_indexed.json)
 echo ${AIRCRAFT}
 
-sed -i "s/\(message\=\)[0-9]\+/\1${AIRCRAFT}/g" Readme.md
+sed -i "s/\(message\=\)[0-9]*\&/\1${AIRCRAFT}\&/g" Readme.md
 
 echo '#TAK ADSB IDs' > cotdb.txt
 echo '#Copyright 2021 Stefan Gofferje' >> cotdb.txt

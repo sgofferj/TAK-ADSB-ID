@@ -11,6 +11,12 @@
     "B747-800",
     "MAR AF"
   ],
+  "0a400a": [
+    "a-u-A-M-V",
+    "7T-VPM",
+    "Gulf ",
+    "DZA AF"
+  ],
   "12abcd": [
     "a-f-A-M-H-A",
     "74+21",
@@ -2609,10 +2615,130 @@
     "Falcon 900",
     "ESP AF"
   ],
+  "3422d6": [
+    "a-f-A-M-H-U-L",
+    "HU.26-05",
+    "EC-135",
+    "ESP Guardia Civil"
+  ],
+  "3425cb": [
+    "a-f-A-M-F-O",
+    "EC-KBS",
+    "P-68C",
+    "ESP"
+  ],
+  "342696": [
+    "a-f-A-M-F-C-M",
+    "D.4-02",
+    "CN-235",
+    "ESP AF"
+  ],
+  "3aaa98": [
+    "a-f-A-M-F-U-L",
+    "F-MABY",
+    "TBM-700A",
+    "FraFRA AFnce"
+  ],
+  "3aabef": [
+    "a-f-A-M-F-U-L",
+    "887",
+    "PC-6",
+    "FRA A"
+  ],
+  "3aabfb": [
+    "a-f-A-M-F-U-L",
+    "139",
+    "TBMTBM-700A7",
+    "FRA AF"
+  ],
   "3b7542": [
     "a-f-A-M-V",
     "F-UJCU",
     "A300-200",
+    "FRA AF"
+  ],
+  "3b756b": [
+    "a-f-A-M-F-K",
+    "F-UJCJ",
+    "A332",
+    "FRA AF"
+  ],
+  "3b75ef": [
+    "a-f-A-M-F-T",
+    "709FR",
+    "PC21",
+    "FRA AF"
+  ],
+  "3b75f4": [
+    "a-f-A-M-F-T",
+    "709FM",
+    "PC21",
+    "FRA AF"
+  ],
+  "3b75f7": [
+    "a-f-A-M-F-T",
+    "709FJ",
+    "PC21",
+    "FRA AF"
+  ],
+  "3b75f9": [
+    "a-f-A-M-F-T",
+    "709FH",
+    "PC21",
+    "FRA AF"
+  ],
+  "3b75fb": [
+    "a-f-A-M-F-T",
+    "709FF",
+    "PC21",
+    "FRA AF"
+  ],
+  "3b75fc": [
+    "a-f-A-M-F-T",
+    "709FE",
+    "PC21",
+    "FRA AF"
+  ],
+  "3b75fe": [
+    "a-f-A-M-F-T",
+    "709FC",
+    "PC21",
+    "FRA AF"
+  ],
+  "3b7638": [
+    "a-F-A-M-F-T",
+    "E149",
+    "Alpha Jet",
+    "FRA AF"
+  ],
+  "3b7668": [
+    "a-f-A-M-F-T",
+    "E90",
+    "Alpha Jet",
+    "FRA AF"
+  ],
+  "3b76a6": [
+    "a-f-A-M-F-C-M",
+    "200",
+    "CN-235",
+    "FRA AF"
+  ],
+  "3b76ab": [
+    "a-f-A-M-F-C-M",
+    "195",
+    "CN-235",
+    "FRA AF"
+  ],
+  "3b7712": [
+    "a-f-A-M-F-C-M",
+    "5226",
+    "C130",
+    "FRA AF"
+  ],
+  "3b7723": [
+    "a-f-A-M-F-U-L",
+    "107",
+    "Embraer 121",
     "FRA AF"
   ],
   "3b7762": [
@@ -2620,6 +2746,54 @@
     "0102",
     "A400M",
     "FRA AF"
+  ],
+  "3b776b": [
+    "a-f-A-M-F-C-H",
+    "0031",
+    "A400M",
+    "FRA AF"
+  ],
+  "3b7777": [
+    "a-f-A-M-F-K",
+    "739",
+    "KC-135R/T",
+    "FRA AF"
+  ],
+  "3b77cb": [
+    "a-f-A-M-F-C-M",
+    "071",
+    "CN-235",
+    "FRA AF"
+  ],
+  "3b77eb": [
+    "a-f-A-M-F-U-L",
+    "147",
+    "TBM-700A",
+    "FRA AF"
+  ],
+  "3b7b65": [
+    "a-f-A-M-F-U-L",
+    "F-ZBFJ",
+    "Beech 200",
+    "FRA CIVPROT"
+  ],
+  "3b7f6a": [
+    "a-f-A-M-F-U-L",
+    "F-ZDGA",
+    "TBM-900",
+    "FRA AF"
+  ],
+  "3b9bd8": [
+    "a-F-A-M-F-P",
+    "16",
+    "Breguet 1150",
+    "FRA N"
+  ],
+  "3b9bef": [
+    "a-f-A-M-F-U-M",
+    "143",
+    "FA10",
+    "FRA N"
   ],
   "3da0dc": [
     "a-f-A-C-H",
@@ -3977,6 +4151,12 @@
     "EF-2000",
     "DEU AF"
   ],
+  "3e8182": [
+    "a-f-A-M-F-C-M",
+    "55+03",
+    "C-130J",
+    "DEU AF"
+  ],
   "3e819e": [
     "a-f-A-M-F-F",
     "43+29",
@@ -4432,6 +4612,12 @@
     "30+93",
     "EF-2000",
     "DEU AF"
+  ],
+  "3e97eb": [
+    "a-f-A-M-H-U-M",
+    "79+42",
+    "NH90",
+    "Germany"
   ],
   "3e98a2": [
     "a-f-A-M-H-C-H",
@@ -9311,6 +9497,24 @@
     "Tornado ECR",
     "DEU AF"
   ],
+  "400ee8": [
+    "a-f-A-M-F-T",
+    "G-BYVK",
+    "Grob 115",
+    "GBR AF"
+  ],
+  "400eed": [
+    "a-f-A-M-F-T",
+    "G-BYVP",
+    "Grob 115",
+    "GBR AF"
+  ],
+  "4060d6": [
+    "a-f-A-M-F-T",
+    "G-CGKG",
+    "Grob 115",
+    "GBR AF"
+  ],
   "406f50": [
     "a-f-A-M-V",
     "GZ100",
@@ -9419,6 +9623,48 @@
     "CH-47D",
     "GBR AF"
   ],
+  "43c4d6": [
+    "a-f-A-M-H-C-H",
+    "ZA705",
+    "CH-47D",
+    "GBR AF"
+  ],
+  "43c555": [
+    "a-f-A-M-F-T",
+    "ZK018",
+    "HAWK",
+    "GBR AF"
+  ],
+  "43c55a": [
+    "a-f-A-M-F-T",
+    "ZK023",
+    "HAWK",
+    "GBR AF"
+  ],
+  "43c55b": [
+    "a-f-A-M-F-T",
+    "ZK024",
+    "HAWK",
+    "GBR AF"
+  ],
+  "43c565": [
+    "a-f-A-M-F-T",
+    "ZK034",
+    "HAWK",
+    "GBR AF"
+  ],
+  "43c567": [
+    "a-f-A-M-F-T",
+    "ZK036",
+    "HAWK",
+    "GBR AF"
+  ],
+  "43c568": [
+    "a-f-A-M-F-T",
+    "ZK037",
+    "HAWK",
+    "GBR AF"
+  ],
   "43c5da": [
     "a-f-A-M-F-C-H",
     "ZM400",
@@ -9479,11 +9725,29 @@
     "A400M-180",
     "GBR AF"
   ],
+  "43c618": [
+    "a-f-A-M-F-R",
+    "ZZ500",
+    "Beech 350ER Avenger",
+    "GBR N"
+  ],
+  "43c619": [
+    "a-f-A-M-F-R",
+    "ZZ501",
+    "Beech 350ER Avenger",
+    "GBR N"
+  ],
   "43c61d": [
     "a-f-A-M-F-R-Z",
     "ZZ504",
     "B350",
     "GBR AF"
+  ],
+  "43c6c4": [
+    "a-f-A-M-H-U-M",
+    "ZZ410",
+    "AW-159",
+    "GBR A"
   ],
   "43c6f3": [
     "a-f-A-M-F-K",
@@ -9532,6 +9796,12 @@
     "ZK336",
     "Eurofighter",
     "GBR AF"
+  ],
+  "43c764": [
+    "a-f-A-M-H-U-M",
+    "ZZ523",
+    "AW-159",
+    "GBR A"
   ],
   "43c780": [
     "a-f-A-M-F-F",
@@ -9761,6 +10031,24 @@
     "AH64",
     "GBR A"
   ],
+  "43c962": [
+    "a-f-A-M-F-T",
+    "ZB133",
+    "HAWK",
+    "GBR AF"
+  ],
+  "43c963": [
+    "a-f-A-M-F-T",
+    "ZB134",
+    "HAWK",
+    "GBR AF"
+  ],
+  "43c967": [
+    "a-f-A-M-F-T",
+    "ZB138",
+    "HAWK",
+    "GBR AF"
+  ],
   "43caed": [
     "a-f-A-M-F-F",
     "ZK339",
@@ -9794,6 +10082,12 @@
   "44f044": [
     "a-f-A-M-F-F",
     "FB-24",
+    "F-16",
+    "BEL AF"
+  ],
+  "44f102": [
+    "a-f-A-M-F-F",
+    "FA-82",
     "F-16",
     "BEL AF"
   ],
@@ -9833,6 +10127,12 @@
     "F-16",
     "BEL AF"
   ],
+  "44f142": [
+    "a-f-A-M-F-F",
+    "FA-102",
+    "F16",
+    "BEL AF"
+  ],
   "44f144": [
     "a-f-A-M-F-F",
     "FA-104",
@@ -9842,6 +10142,12 @@
   "44f147": [
     "a-f-A-M-F-F",
     "FA-107",
+    "F-16",
+    "BEL AF"
+  ],
+  "44f164": [
+    "a-f-A-M-F-F",
+    "FA-114",
     "F-16",
     "BEL AF"
   ],
@@ -9935,6 +10241,24 @@
     "F-16",
     "BEL AF"
   ],
+  "44f666": [
+    "a-f-A-M-F-U-L",
+    "ST-16",
+    "SF-260M",
+    "BEL AF Red Devils"
+  ],
+  "44f678": [
+    "a-f-A-M-F-U-L",
+    "ST-41",
+    "SF-260M",
+    "BEL AF Red Devils"
+  ],
+  "44f682": [
+    "a-f-A-M-F-C-H",
+    "CT-02",
+    "A400M",
+    "BEL AF"
+  ],
   "44f683": [
     "a-f-A-M-F-C-H",
     "CT-03",
@@ -9964,6 +10288,12 @@
     "CT-07",
     "A400M",
     "BEL AF"
+  ],
+  "44f692": [
+    "a-f-A-M-F-U-L",
+    "ST-02",
+    "SF-260M",
+    "BEL AF Red Devils"
   ],
   "456789": [
     "a-h-A-M-H-H",
@@ -10745,6 +11075,12 @@
     "C17",
     "NATO SAC"
   ],
+  "477ff3": [
+    "a-f-A-M-F-C-H",
+    "03",
+    "C17",
+    "NATO SAC"
+  ],
   "477ff4": [
     "a-f-A-M-V",
     "604",
@@ -10979,10 +11315,22 @@
     "AW 101",
     "NOR AF"
   ],
+  "480441": [
+    "a-f-A-M-H-C-H",
+    "D-480",
+    "CH-47",
+    "NLD AF"
+  ],
   "480499": [
     "a-f-A-M-F-F",
     "J-644",
     "F-16",
+    "NLD AF"
+  ],
+  "480806": [
+    "a-f-A-M-H-U-M",
+    "S-441",
+    "AS-532",
     "NLD AF"
   ],
   "480811": [
@@ -11099,6 +11447,12 @@
     "A330-243MRTT",
     "NLD AF"
   ],
+  "480c46": [
+    "a-f-A-M-F-K",
+    "T-060",
+    "A330-243MRTT",
+    "NLD AF"
+  ],
   "481048": [
     "a-f-A-M-H-U-M",
     "N-228",
@@ -11170,6 +11524,12 @@
     "0482",
     "C295",
     "CZE AF"
+  ],
+  "4a35ac": [
+    "a-f-A-M-F-C-M",
+    "2703",
+    "C-27J",
+    "ROU AF"
   ],
   "4a80d0": [
     "a-f-A-M-V",
@@ -11537,6 +11897,12 @@
     "EC-145",
     "EMS (Scand. Air Ambulance)"
   ],
+  "4b7f43": [
+    "a-n-A-M-F-U-L",
+    "T-752",
+    "Challenger 604",
+    "CHE AF"
+  ],
   "4b7f44": [
     "a-n-A-M-F-U-L",
     "T-751",
@@ -11549,11 +11915,53 @@
     "Falcon 900",
     "CHE AF"
   ],
+  "4b7f5d": [
+    "a-n-A-M-F-T",
+    "R-711",
+    "Diamond 42",
+    "CHE AF"
+  ],
   "4b7f78": [
     "a-n-A-M-F-R-X",
     "T-741",
     "DHC-6",
     "CHE AF"
+  ],
+  "4b7faa": [
+    "a-n-A-M-F-U-L",
+    "A-105",
+    "PC-21",
+    "CHE AF"
+  ],
+  "4b7fab": [
+    "a-n-A-M-F-U-L",
+    "A-104",
+    "PC-21",
+    "CHE AF"
+  ],
+  "4b7fac": [
+    "a-n-A-M-F-U-L",
+    "A-103",
+    "PC-21",
+    "CHE AF"
+  ],
+  "4b7fad": [
+    "a-n-A-M-F-U-L",
+    "A-102",
+    "PC-21",
+    "CHE AF"
+  ],
+  "4b7fc7": [
+    "a-n-A-M-H-H",
+    "T-363",
+    "EC-635",
+    "CHE A"
+  ],
+  "4b7fda": [
+    "a-n-A-M-H-U-M",
+    "T-339",
+    "AS-532",
+    "CHE A"
   ],
   "4b8225": [
     "a-f-A-M-F-C-M",
@@ -11717,6 +12125,18 @@
     "Legacy 650",
     "Sino Jet Management"
   ],
+  "7cfa72": [
+    "a-f-A-M-V",
+    "A56-002",
+    "Falcon 7X",
+    "AUS AF"
+  ],
+  "800273": [
+    "a-n-A-M-F-U-M",
+    "HM677",
+    "Do-228",
+    "IND AF"
+  ],
   "a34f04": [
     "a-s-A-C-F",
     "N312HX",
@@ -11831,6 +12251,24 @@
     "KC-10",
     "USAF"
   ],
+  "ae021e": [
+    "a-f-A-M-F-K",
+    "84-0191",
+    "KC-10",
+    "United States"
+  ],
+  "ae0230": [
+    "a-f-A-M-F-K",
+    "87-0117",
+    "KC-10",
+    "United States"
+  ],
+  "ae025d": [
+    "a-f-A-M-F-K",
+    "58-0092",
+    "KC-135",
+    "United States"
+  ],
   "ae0270": [
     "a-f-A-M-F-K",
     "63-8038",
@@ -11873,6 +12311,12 @@
     "KC-135",
     "USAF"
   ],
+  "ae0475": [
+    "a-f-A-M-F-K",
+    "58-0001",
+    "KC-135",
+    "United States"
+  ],
   "ae048a": [
     "a-f-A-M-F-K",
     "63-8008",
@@ -11885,6 +12329,12 @@
     "C560",
     "USAF"
   ],
+  "ae04b9": [
+    "a-f-A-M-F-K",
+    "58-0030",
+    "KC-135",
+    "United States"
+  ],
   "ae04c1": [
     "a-f-A-M-F-K",
     "58-0125",
@@ -11895,6 +12345,12 @@
     "a-f-A-M-F-K",
     "59-1470",
     "KC-135",
+    "USAF"
+  ],
+  "ae04d9": [
+    "a-f-A-M-F-C-M",
+    "16-5831",
+    "C-40A",
     "USAF"
   ],
   "ae04eb": [
@@ -11945,6 +12401,18 @@
     "KC-135",
     "USAF"
   ],
+  "ae0817": [
+    "a-f-A-M-F-C-H",
+    "00-0181",
+    "C17",
+    "USAF"
+  ],
+  "ae087f": [
+    "a-f-A-M-V",
+    "01-0029",
+    "Gulf 5",
+    "USAF"
+  ],
   "ae08e3": [
     "a-f-A-M-F-C-H",
     "00-0183",
@@ -11975,6 +12443,18 @@
     "E-3TF",
     "USAF"
   ],
+  "ae144c": [
+    "a-f-A-M-F-C-H",
+    "05-5142",
+    "C-17",
+    "USAF"
+  ],
+  "ae1468": [
+    "a-f-A-M-F-C-H",
+    "07-7170",
+    "C-17",
+    "United States"
+  ],
   "ae1536": [
     "a-f-A-M-F-C-M",
     "06-8159",
@@ -11985,6 +12465,24 @@
     "a-f-A-M-F-F",
     "91-0310",
     "F-15",
+    "USAF"
+  ],
+  "ae17ae": [
+    "a-f-A-M-F-F",
+    "91-0329",
+    "F-15",
+    "USAF"
+  ],
+  "ae1f71": [
+    "a-f-A-M-H-U-L",
+    "09-72098",
+    "UH-72",
+    "US A"
+  ],
+  "ae20c7": [
+    "a-f-A-M-F-C-H",
+    "07-7186",
+    "C-17",
     "USAF"
   ],
   "ae2209": [
@@ -11998,6 +12496,18 @@
     "08-6205",
     "MC-130J Commando II",
     "USAF"
+  ],
+  "ae2fa8": [
+    "a-f-A-M-F-C-H",
+    "08-8196",
+    "C-17",
+    "USAF"
+  ],
+  "ae2fac": [
+    "a-f-A-M-F-C-H",
+    "08-8200",
+    "C-17",
+    "United States"
   ],
   "ae4af8": [
     "a-f-A-M-F-C-M",
@@ -12041,6 +12551,12 @@
     "C-130J",
     "USAF"
   ],
+  "ae5dfc": [
+    "a-f-A-M-F-C-M",
+    "16-5840",
+    "C-130J",
+    "USAF"
+  ],
   "ae5f11": [
     "a-f-A-M-F-C-M",
     "14-5864",
@@ -12051,6 +12567,12 @@
     "a-f-A-M-F-K",
     "20-46072",
     "KC-46A",
+    "USAF"
+  ],
+  "ae68c0": [
+    "a-f-A-M-F-C-M",
+    "16-3025",
+    "C-146A",
     "USAF"
   ],
   "ae6d7a": [

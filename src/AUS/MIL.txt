@@ -1,0 +1,7 @@
+#TAK ADSB IDs CANADA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"7cfa72","a-f-A-M-V","A56-002","Falcon 7X","AUS AF"
