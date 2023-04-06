@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"80021e","a-n-A-M-F-C-M","K2755","An-32","IND AF"
 "800273","a-n-A-M-F-U-M","HM677","Do-228","IND AF"
