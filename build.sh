@@ -1,6 +1,6 @@
 #!/bin/bash
-MONTH=$(date +"%b"| tr [a-z] [A-Z])
-RELEASEDATE=$(date +"%d%H%MZ${MONTH}%y")
+MONTH=$(date -u +"%b"| tr [a-z] [A-Z])
+RELEASEDATE=$(date -u +"%d%H%MZ${MONTH}%y")
 
 echo "Release date: ${RELEASEDATE}"
 
