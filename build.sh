@@ -44,7 +44,6 @@ echo '#Format:' >> cotdb.txt
 echo '#"hexid","SIDC","registration","type","operator"' >> cotdb.txt
 echo >> cotdb.txt
 cat tmp.txt | sort | egrep -v "^$" >> cotdb.txt
-#zip ${RELEASEDATE}.zip cotdb.txt cotdb.json  #disabled while I try to find a better way of packaging
 rm cotdb.txt tmp.txt 
 
 git checkout master

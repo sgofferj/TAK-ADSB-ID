@@ -5,5 +5,6 @@
 #"hexid","CoT type","registration","type","operator"
 
 "0a400a","a-u-A-M-V","7T-VPM","Gulf 4","DZA AF"
+"0a400d","a-u-A-M-F-C-M","7T-WHN","C-130","DZA AF"
 "0a401b","a-u-A-M-F-C-M","7T-WHD","C-130","DZA AF"
 "0a405e","a-u-A-M-F-C-M","7T-WJA","C-130J","DZA AF"

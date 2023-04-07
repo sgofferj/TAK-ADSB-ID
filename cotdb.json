@@ -29,6 +29,13 @@
       "operator": "DZA AF"
     },
     {
+      "hexid": "0a400d",
+      "cot": "a-u-A-M-F-C-M",
+      "reg": "7T-WHN",
+      "type": "C-130",
+      "operator": "DZA AF"
+    },
+    {
       "hexid": "0a401b",
       "cot": "a-u-A-M-F-C-M",
       "reg": "7T-WHD",
@@ -13896,6 +13903,13 @@
       "operator": "CZE AF"
     },
     {
+      "hexid": "4a35aa",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "2701",
+      "type": "C-27J",
+      "operator": "ROU AF"
+    },
+    {
       "hexid": "4a35ac",
       "cot": "a-f-A-M-F-C-M",
       "reg": "2703",
@@ -14435,6 +14449,13 @@
       "operator": "IRL AF"
     },
     {
+      "hexid": "4ca31a",
+      "cot": "a-f-A-M-H-U-L",
+      "reg": "272",
+      "type": "EC-135T2",
+      "operator": "IRL AF (Garda)"
+    },
+    {
       "hexid": "4ca31e",
       "cot": "a-f-A-M-H-U-M",
       "reg": "274",
@@ -14552,6 +14573,13 @@
       "reg": "08 Blue",
       "type": "C-27J",
       "operator": "LTU AF"
+    },
+    {
+      "hexid": "506f22",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "L6-02",
+      "type": "PC-6T",
+      "operator": "Slovenia"
     },
     {
       "hexid": "511122",
@@ -15091,6 +15119,13 @@
       "reg": "07-7170",
       "type": "C-17",
       "operator": "United States"
+    },
+    {
+      "hexid": "ae146a",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "07-7172",
+      "type": "C-17",
+      "operator": "USAF"
     },
     {
       "hexid": "ae148f",

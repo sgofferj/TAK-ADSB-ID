@@ -1,0 +1,7 @@
+#TAK ADSB IDs SLOVENIA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"506f22","a-f-A-M-F-U-L","L6-02","PC-6T","Slovenia"
