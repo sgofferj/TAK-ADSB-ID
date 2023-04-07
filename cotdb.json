@@ -3383,8 +3383,15 @@
     },
     {
       "hexid": "3b9bd8",
-      "cot": "a-F-A-M-F-P",
+      "cot": "a-f-A-M-F-P",
       "reg": "16",
+      "type": "Breguet 1150",
+      "operator": "FRA N"
+    },
+    {
+      "hexid": "3b9bdd",
+      "cot": "a-f-A-M-F-P",
+      "reg": "9",
       "type": "Breguet 1150",
       "operator": "FRA N"
     },
@@ -13917,6 +13924,13 @@
       "operator": "ROU AF"
     },
     {
+      "hexid": "4a35d1",
+      "cot": "a-f-A-M-H-H",
+      "reg": "335",
+      "type": "EC-135",
+      "operator": "ROU GOV SAR"
+    },
+    {
       "hexid": "4a80d0",
       "cot": "a-f-A-M-V",
       "reg": "102001",
@@ -15124,6 +15138,13 @@
       "hexid": "ae146a",
       "cot": "a-f-A-M-F-C-H",
       "reg": "07-7172",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae146b",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "07-7173",
       "type": "C-17",
       "operator": "USAF"
     },

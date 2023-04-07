@@ -57,6 +57,7 @@
 "ae1458","a-f-A-M-F-C-H","06-6154","C-17","USAF"
 "ae1468","a-f-A-M-F-C-H","07-7170","C-17","United States"
 "ae146a","a-f-A-M-F-C-H","07-7172","C-17","USAF"
+"ae146b","a-f-A-M-F-C-H","07-7173","C-17","USAF"
 "ae148f","a-f-A-M-F-R","94-0285","E-8C","USAF"
 "AE1536","a-f-A-M-F-C-M","06-8159","C-130J","USAF"
 "AE1797","a-f-A-M-F-F","91-0310","F-15","USAF"

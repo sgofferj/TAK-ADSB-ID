@@ -43,6 +43,7 @@
 "3b7f68","a-f-A-M-F-U-L","F-ZCPN","TBM-900","FRA AF"
 "3b7f6a","a-f-A-M-F-U-L","F-ZDGA","TBM-900","FRA AF"
 "3b9bb3","a-f-A-M-F-U-L","67","Embraer 121","FRA AF"
-"3b9bd8","a-F-A-M-F-P","16","Breguet 1150","FRA N"
+"3b9bd8","a-f-A-M-F-P","16","Breguet 1150","FRA N"
+"3b9bdd","a-f-A-M-F-P","9","Breguet 1150","FRA N"
 "3b9bef","a-f-A-M-F-U-M","143","Falcon 10","FRA N"
 "3b9bf1","a-f-A-M-F-U-M","133","Falcon 10","FRA N"
