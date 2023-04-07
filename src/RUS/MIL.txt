@@ -106,6 +106,7 @@
 "14fbc6","a-h-A-M-F-C-M","RA-64454","Tu-134IK","RUS AF"
 "14fc02","a-h-A-M-F-R-Z","RF-64514","Tu-214R","RUS AF"
 "14fc07","a-h-A-M-F-R-X","RF-64519","Tu-214ON","RUS AF"
+"14fc09","a-h-A-M-F-C-M","RA-64521","TU-214","Rossiya"
 "14fc0d","a-h-A-M-F-R-X","RF-64525","Tu-214ON","RUS AF"
 "14fc11","a-h-A-M-F-C-M","RA-64529","Tu-214","RUS AF"
 "14fc12","a-h-A-M-F-C-M","RA-64530","Tu-214","RUS AF"

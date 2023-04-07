@@ -1,7 +1,9 @@
-#TAK ADSB IDs SPAIN Military
+#TAK ADSB IDs ALGERIA Military
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"0a400a","a-u-A-M-V","7T-VPM","Gulf ","DZA AF"
+"0a400a","a-u-A-M-V","7T-VPM","Gulf 4","DZA AF"
+"0a401b","a-u-A-M-F-C-M","7T-WHD","C-130","DZA AF"
+"0a405e","a-u-A-M-F-C-M","7T-WJA","C-130J","DZA AF"
