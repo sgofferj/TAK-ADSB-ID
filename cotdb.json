@@ -3368,6 +3368,13 @@
       "operator": "FRA CUSTOMS"
     },
     {
+      "hexid": "3b7b3a",
+      "cot": "a-f-A-C-F",
+      "reg": "F-ZBML",
+      "type": "Dash 8-402MR",
+      "operator": "FIRE (FRA CIVPROT)"
+    },
+    {
       "hexid": "3b7b57",
       "cot": "a-f-A-M-H-U-L",
       "reg": "F-ZBGI",
@@ -11782,6 +11789,13 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c6b8",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "ZZ177",
+      "type": "C-17",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c6c4",
       "cot": "a-f-A-M-H-U-M",
       "reg": "ZZ410",
@@ -14820,6 +14834,13 @@
       "operator": "Sino Jet Management"
     },
     {
+      "hexid": "adfd6d",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "90-0528",
+      "type": "C-26D",
+      "operator": "USN"
+    },
+    {
       "hexid": "adfd6f",
       "cot": "a-f-A-M-F-U-M",
       "reg": "90-0530",
@@ -15103,7 +15124,7 @@
       "hexid": "ae0817",
       "cot": "a-f-A-M-F-C-H",
       "reg": "00-0181",
-      "type": "C17",
+      "type": "C-17",
       "operator": "USAF"
     },
     {
@@ -15132,7 +15153,7 @@
       "cot": "a-f-A-M-F-C-H",
       "reg": "01-0191",
       "type": "C-17",
-      "operator": "United States"
+      "operator": "USAF"
     },
     {
       "hexid": "ae10bc",
@@ -15188,7 +15209,7 @@
       "cot": "a-f-A-M-F-C-H",
       "reg": "07-7170",
       "type": "C-17",
-      "operator": "United States"
+      "operator": "USAF"
     },
     {
       "hexid": "ae146a",
@@ -15371,6 +15392,13 @@
       "reg": "20-46072",
       "type": "KC-46A",
       "operator": "USAF"
+    },
+    {
+      "hexid": "ae6790",
+      "cot": "a-f-A-M-F-P",
+      "reg": "16-9561",
+      "type": "P-8",
+      "operator": "USN"
     },
     {
       "hexid": "ae68c0",

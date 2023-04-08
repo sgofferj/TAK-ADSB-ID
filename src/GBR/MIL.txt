@@ -47,6 +47,7 @@
 "43c618","a-f-A-M-F-R","ZZ500","Beech 350ER Avenger","GBR N"
 "43c619","a-f-A-M-F-R","ZZ501","Beech 350ER Avenger","GBR N"
 "43C61D","a-f-A-M-F-R-Z","ZZ504","B350","GBR AF"
+"43c6b8","a-f-A-M-F-C-H","ZZ177","C-17","GBR AF"
 "43c6c4","a-f-A-M-H-U-M","ZZ410","AW-159","GBR A"
 "43C6F3","a-f-A-M-F-K","ZZ330","A330-243MRTT","GBR AF"
 "43C6F6","a-f-A-M-F-K","ZZ333","A330-243MRTT","GBR AF"

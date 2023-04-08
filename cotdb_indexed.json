@@ -2885,6 +2885,12 @@
     "Beech 350",
     "FRA CUSTOMS"
   ],
+  "3b7b3a": [
+    "a-f-A-C-F",
+    "F-ZBML",
+    "Dash 8-402MR",
+    "FIRE (FRA CIVPROT)"
+  ],
   "3b7b57": [
     "a-f-A-M-H-U-L",
     "F-ZBGI",
@@ -9917,6 +9923,12 @@
     "B350",
     "GBR AF"
   ],
+  "43c6b8": [
+    "a-f-A-M-F-C-H",
+    "ZZ177",
+    "C-17",
+    "GBR AF"
+  ],
   "43c6c4": [
     "a-f-A-M-H-U-M",
     "ZZ410",
@@ -12521,6 +12533,12 @@
     "G550",
     "Sino Jet Management"
   ],
+  "adfd6d": [
+    "a-f-A-M-F-U-M",
+    "90-0528",
+    "C-26D",
+    "USN"
+  ],
   "adfd6f": [
     "a-f-A-M-F-U-M",
     "90-0530",
@@ -12764,7 +12782,7 @@
   "ae0817": [
     "a-f-A-M-F-C-H",
     "00-0181",
-    "C17",
+    "C-17",
     "USAF"
   ],
   "ae087f": [
@@ -12789,7 +12807,7 @@
     "a-f-A-M-F-C-H",
     "01-0191",
     "C-17",
-    "United States"
+    "USAF"
   ],
   "ae10bc": [
     "a-f-A-M-F-C-H",
@@ -12837,7 +12855,7 @@
     "a-f-A-M-F-C-H",
     "07-7170",
     "C-17",
-    "United States"
+    "USAF"
   ],
   "ae146a": [
     "a-f-A-M-F-C-H",
@@ -12994,6 +13012,12 @@
     "20-46072",
     "KC-46A",
     "USAF"
+  ],
+  "ae6790": [
+    "a-f-A-M-F-P",
+    "16-9561",
+    "P-8",
+    "USN"
   ],
   "ae68c0": [
     "a-f-A-M-F-C-M",

@@ -1,6 +1,7 @@
-#TAK ADSB IDs BELGIUM Civilian EMS, Fire, special
+#TAK ADSB IDs FRANCE Civilian EMS, Fire, special
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"3b7b3a","a-f-A-C-F","F-ZBML","Dash 8-402MR","FIRE (FRA CIVPROT)"
