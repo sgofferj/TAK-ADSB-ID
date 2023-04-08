@@ -3,3 +3,5 @@
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
+
+"44c1e9","a-f-A-M-H-U-L","G-16","MD-90","LEO (BEL FED POL) "

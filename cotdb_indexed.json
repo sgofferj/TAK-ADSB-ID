@@ -2699,6 +2699,12 @@
     "A300-200",
     "FRA AF"
   ],
+  "3b7544": [
+    "a-f-A-M-V",
+    "F-UJCS",
+    "A330-243",
+    "FRA AF"
+  ],
   "3b756a": [
     "a-f-A-M-F-K",
     "F-UJCK",
@@ -2801,10 +2807,22 @@
     "CN-235",
     "FRA AF"
   ],
+  "3b76ae": [
+    "a-f-A-M-V",
+    "F-RARF",
+    "A330-223",
+    "FRA AF"
+  ],
   "3b76d6": [
     "a-f-A-M-H-U-L",
     "5392",
     "AS-555N",
+    "FRA AF"
+  ],
+  "3b770d": [
+    "a-f-A-M-V",
+    "F-RAFA",
+    "Falcon 7X",
     "FRA AF"
   ],
   "3b7712": [
@@ -2890,6 +2908,12 @@
     "F-ZDGA",
     "TBM-900",
     "FRA AF"
+  ],
+  "3b9b5a": [
+    "a-f-A-M-F-P",
+    "F-ZWMO",
+    "Falcon 50",
+    "FRA N"
   ],
   "3b9bb3": [
     "a-f-A-M-F-U-L",
@@ -9935,6 +9959,12 @@
     "A330-243MRTT",
     "GBR AF"
   ],
+  "43c6fb": [
+    "a-f-A-M-F-K",
+    "ZZ338",
+    "A330-243MRTT",
+    "GBR AF"
+  ],
   "43c700": [
     "a-f-A-M-F-K",
     "ZZ343",
@@ -10234,6 +10264,12 @@
     "OO-LUM",
     "Falcon7X",
     "BEL AF"
+  ],
+  "44c1e9": [
+    "a-f-A-M-H-U-L",
+    "G-16",
+    "MD-90",
+    "LEO (BEL FED POL) "
   ],
   "44f024": [
     "a-f-A-M-F-F",
@@ -12383,6 +12419,12 @@
     "C-130J",
     "AUS AF"
   ],
+  "7cf922": [
+    "a-f-A-M-F-C-H",
+    "A41-210",
+    "C-17",
+    "AUS AF"
+  ],
   "7cfa72": [
     "a-f-A-M-V",
     "A56-002",
@@ -12743,6 +12785,12 @@
     "Gulf 5",
     "USAF"
   ],
+  "ae10ba": [
+    "a-f-A-M-F-C-H",
+    "01-0191",
+    "C-17",
+    "United States"
+  ],
   "ae10bc": [
     "a-f-A-M-F-C-H",
     "01-0193",
@@ -12922,6 +12970,12 @@
     "14-5864",
     "C-130J",
     "USAF"
+  ],
+  "ae5f9a": [
+    "a-f-A-M-F-K",
+    "18-46047",
+    "KC-46A",
+    "United States"
   ],
   "ae5f9c": [
     "a-f-A-M-F-K",

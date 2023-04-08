@@ -3151,6 +3151,13 @@
       "operator": "FRA AF"
     },
     {
+      "hexid": "3b7544",
+      "cot": "a-f-A-M-V",
+      "reg": "F-UJCS",
+      "type": "A330-243",
+      "operator": "FRA AF"
+    },
+    {
       "hexid": "3b756a",
       "cot": "a-f-A-M-F-K",
       "reg": "F-UJCK",
@@ -3270,10 +3277,24 @@
       "operator": "FRA AF"
     },
     {
+      "hexid": "3b76ae",
+      "cot": "a-f-A-M-V",
+      "reg": "F-RARF",
+      "type": "A330-223",
+      "operator": "FRA AF"
+    },
+    {
       "hexid": "3b76d6",
       "cot": "a-f-A-M-H-U-L",
       "reg": "5392",
       "type": "AS-555N",
+      "operator": "FRA AF"
+    },
+    {
+      "hexid": "3b770d",
+      "cot": "a-f-A-M-V",
+      "reg": "F-RAFA",
+      "type": "Falcon 7X",
       "operator": "FRA AF"
     },
     {
@@ -3373,6 +3394,13 @@
       "reg": "F-ZDGA",
       "type": "TBM-900",
       "operator": "FRA AF"
+    },
+    {
+      "hexid": "3b9b5a",
+      "cot": "a-f-A-M-F-P",
+      "reg": "F-ZWMO",
+      "type": "Falcon 50",
+      "operator": "FRA N"
     },
     {
       "hexid": "3b9bb3",
@@ -11803,6 +11831,13 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c6fb",
+      "cot": "a-f-A-M-F-K",
+      "reg": "ZZ338",
+      "type": "A330-243MRTT",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c700",
       "cot": "a-f-A-M-F-K",
       "reg": "ZZ343",
@@ -12151,6 +12186,13 @@
       "reg": "OO-LUM",
       "type": "Falcon7X",
       "operator": "BEL AF"
+    },
+    {
+      "hexid": "44c1e9",
+      "cot": "a-f-A-M-H-U-L",
+      "reg": "G-16",
+      "type": "MD-90",
+      "operator": "LEO (BEL FED POL) "
     },
     {
       "hexid": "44f024",
@@ -14659,6 +14701,13 @@
       "operator": "AUS AF"
     },
     {
+      "hexid": "7cf922",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "A41-210",
+      "type": "C-17",
+      "operator": "AUS AF"
+    },
+    {
       "hexid": "7cfa72",
       "cot": "a-f-A-M-V",
       "reg": "A56-002",
@@ -15079,6 +15128,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae10ba",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "01-0191",
+      "type": "C-17",
+      "operator": "United States"
+    },
+    {
       "hexid": "ae10bc",
       "cot": "a-f-A-M-F-C-H",
       "reg": "01-0193",
@@ -15287,6 +15343,13 @@
       "reg": "14-5864",
       "type": "C-130J",
       "operator": "USAF"
+    },
+    {
+      "hexid": "ae5f9a",
+      "cot": "a-f-A-M-F-K",
+      "reg": "18-46047",
+      "type": "KC-46A",
+      "operator": "United States"
     },
     {
       "hexid": "ae5f9c",
