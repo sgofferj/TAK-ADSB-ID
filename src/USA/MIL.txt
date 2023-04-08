@@ -68,6 +68,7 @@
 "ae20c7","a-f-A-M-F-C-H","07-7186","C-17","USAF"
 "AE2209","a-f-A-M-F-C-M","08-8602","C-130J","USAF"
 "AE29D2","a-f-A-M-F-M","08-6205","MC-130J Commando II","USAF"
+"ae2fa6","a-f-A-M-F-C-H","08-8194","C-17","USAF"
 "ae2fa8","a-f-A-M-F-C-H","08-8196","C-17","USAF"
 "ae2fac","a-f-A-M-F-C-H","08-8200","C-17","United States"
 "AE4AF8","a-f-A-M-F-C-M","08-5683","C-130J","USAF"

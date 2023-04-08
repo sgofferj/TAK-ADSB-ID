@@ -36,6 +36,13 @@
       "operator": "DZA AF"
     },
     {
+      "hexid": "0a4017",
+      "cot": "a-u-A-M-F-C-M",
+      "reg": "7T-WHJ",
+      "type": "C-130",
+      "operator": "DZA AF"
+    },
+    {
       "hexid": "0a401b",
       "cot": "a-u-A-M-F-C-M",
       "reg": "7T-WHD",
@@ -15279,6 +15286,13 @@
       "cot": "a-f-A-M-F-M",
       "reg": "08-6205",
       "type": "MC-130J Commando II",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae2fa6",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "08-8194",
+      "type": "C-17",
       "operator": "USAF"
     },
     {

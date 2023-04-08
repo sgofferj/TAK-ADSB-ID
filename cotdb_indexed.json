@@ -29,6 +29,12 @@
     "C-130",
     "DZA AF"
   ],
+  "0a4017": [
+    "a-u-A-M-F-C-M",
+    "7T-WHJ",
+    "C-130",
+    "DZA AF"
+  ],
   "0a401b": [
     "a-u-A-M-F-C-M",
     "7T-WHD",
@@ -12915,6 +12921,12 @@
     "a-f-A-M-F-M",
     "08-6205",
     "MC-130J Commando II",
+    "USAF"
+  ],
+  "ae2fa6": [
+    "a-f-A-M-F-C-H",
+    "08-8194",
+    "C-17",
     "USAF"
   ],
   "ae2fa8": [
