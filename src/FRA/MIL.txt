@@ -40,6 +40,7 @@
 "3b7779","a-f-A-M-F-K","737","KC-135R/T","FRA AF"
 "3b77cb","a-f-A-M-F-C-M","071","CN-235","FRA AF"
 "3b77eb","a-f-A-M-F-U-L","147","TBM-700A","FRA AF"
+"3b77f1","a-f-A-M-F-U-L","111","TBM-700A7","FRA AF"
 "3b7b22","a-f-A-M-F-U-L","F-ZBGO","Beech 350","FRA CUSTOMS"
 "3b7b57","a-f-A-M-H-U-L","F-ZBGI","EC-135T2","FRA CUSTOMS"
 "3b7b65","a-f-A-M-F-U-L","F-ZBFJ","Beech 200","FRA CIVPROT"

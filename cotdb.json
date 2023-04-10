@@ -50,6 +50,20 @@
       "operator": "DZA AF"
     },
     {
+      "hexid": "0a4022",
+      "cot": "a-u-A-M-F-C-H",
+      "reg": "7T-WID",
+      "type": "IL-76TD",
+      "operator": "DZA AF"
+    },
+    {
+      "hexid": "0a402d",
+      "cot": "a-u-A-M-V",
+      "reg": "7T-VPP",
+      "type": "A340-541",
+      "operator": "DZA AF"
+    },
+    {
       "hexid": "0a405e",
       "cot": "a-u-A-M-F-C-M",
       "reg": "7T-WJA",
@@ -3365,6 +3379,13 @@
       "cot": "a-f-A-M-F-U-L",
       "reg": "147",
       "type": "TBM-700A",
+      "operator": "FRA AF"
+    },
+    {
+      "hexid": "3b77f1",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "111",
+      "type": "TBM-700A7",
       "operator": "FRA AF"
     },
     {
@@ -11544,6 +11565,13 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c04e",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "ZZ175",
+      "type": "C-17",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c0bf",
       "cot": "a-f-A-M-F-C-M",
       "reg": "ZH867",
@@ -12209,11 +12237,18 @@
       "operator": "BEL AF"
     },
     {
+      "hexid": "44c1e8",
+      "cot": "a-f-A-C-H",
+      "reg": "G-12",
+      "type": "MD-90",
+      "operator": "LEO (BEL FED POL)"
+    },
+    {
       "hexid": "44c1e9",
       "cot": "a-f-A-C-H",
       "reg": "G-16",
       "type": "MD-90",
-      "operator": "LEO (BEL FED POL) "
+      "operator": "LEO (BEL FED POL)"
     },
     {
       "hexid": "44f024",
@@ -14715,6 +14750,13 @@
       "operator": "Sino Jet Management"
     },
     {
+      "hexid": "7a425e",
+      "cot": "a-u-A-M-F-C-H",
+      "reg": "11153",
+      "type": "Y20",
+      "operator": "CHN AF"
+    },
+    {
       "hexid": "7cf838",
       "cot": "a-f-A-M-F-C-M",
       "reg": "A97-465",
@@ -14988,6 +15030,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae041b",
+      "cot": "a-f-A-M-F-D",
+      "reg": "16-4409",
+      "type": "E-6B",
+      "operator": "USN"
+    },
+    {
       "hexid": "ae0424",
       "cot": "a-f-A-M-F-K",
       "reg": "60-0333",
@@ -15118,6 +15167,13 @@
       "cot": "a-f-A-M-F-K",
       "reg": "58-0118",
       "type": "KC-135",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae0805",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "99-0059",
+      "type": "C-17",
       "operator": "USAF"
     },
     {
@@ -15436,6 +15492,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "c2b3d7",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "177701",
+      "type": "C-17",
+      "operator": "CAN AF"
+    },
+    {
       "hexid": "c2b52b",
       "cot": "a-f-A-M-F-C-M",
       "reg": "130601",
@@ -15462,6 +15525,13 @@
       "reg": "144620",
       "type": "Challenger 600",
       "operator": "CAN AF"
+    },
+    {
+      "hexid": "c87f39",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "NZ2353",
+      "type": "Beech 350i",
+      "operator": "NZL AF"
     }
   ]
 }

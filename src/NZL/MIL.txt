@@ -1,0 +1,7 @@
+#TAK ADSB IDs NEW ZEALAND Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"c87f39","a-f-A-M-F-U-L","NZ2353","Beech 350i","NZL AF"

@@ -6,6 +6,8 @@
 
 "0a400a","a-u-A-M-V","7T-VPM","Gulf 4","DZA AF"
 "0a400d","a-u-A-M-F-C-M","7T-WHN","C-130","DZA AF"
-"0a401b","a-u-A-M-F-C-M","7T-WHD","C-130","DZA AF"
-"0a405e","a-u-A-M-F-C-M","7T-WJA","C-130J","DZA AF"
 "0a4017","a-u-A-M-F-C-M","7T-WHJ","C-130","DZA AF"
+"0a401b","a-u-A-M-F-C-M","7T-WHD","C-130","DZA AF"
+"0a4022","a-u-A-M-F-C-H","7T-WID","IL-76TD","DZA AF"
+"0a402d","a-u-A-M-V","7T-VPP","A340-541","DZA AF"
+"0a405e","a-u-A-M-F-C-M","7T-WJA","C-130J","DZA AF"
