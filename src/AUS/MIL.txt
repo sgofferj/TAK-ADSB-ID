@@ -6,4 +6,5 @@
 
 "7cf838","a-f-A-M-F-C-M","A97-465","C-130J","AUS AF"
 "7cf922","a-f-A-M-F-C-H","A41-210","C-17","AUS AF"
+"7cf9ec","a-f-A-M-F-T","A54-021","PC-21","AUS AF"
 "7cfa72","a-f-A-M-V","A56-002","Falcon 7X","AUS AF"

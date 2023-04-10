@@ -43,6 +43,13 @@
       "operator": "DZA AF"
     },
     {
+      "hexid": "0a4018",
+      "cot": "a-u-A-M-F-C-M",
+      "reg": "7T-WHI",
+      "type": "C-130",
+      "operator": "DZA AF"
+    },
+    {
       "hexid": "0a401b",
       "cot": "a-u-A-M-F-C-M",
       "reg": "7T-WHD",
@@ -14008,6 +14015,13 @@
       "operator": "CZE AF"
     },
     {
+      "hexid": "4a35a6",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "810",
+      "type": "An-26",
+      "operator": "ROU AF"
+    },
+    {
       "hexid": "4a35aa",
       "cot": "a-f-A-M-F-C-M",
       "reg": "2701",
@@ -14771,6 +14785,13 @@
       "operator": "AUS AF"
     },
     {
+      "hexid": "7cf9ec",
+      "cot": "a-f-A-M-F-T",
+      "reg": "A54-021",
+      "type": "PC-21",
+      "operator": "AUS AF"
+    },
+    {
       "hexid": "7cfa72",
       "cot": "a-f-A-M-V",
       "reg": "A56-002",
@@ -14902,6 +14923,13 @@
       "reg": "91-0502",
       "type": "C-26D",
       "operator": "USN"
+    },
+    {
+      "hexid": "adfdd0",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "92-03328",
+      "type": "C-12R",
+      "operator": "US A"
     },
     {
       "hexid": "adfebb",

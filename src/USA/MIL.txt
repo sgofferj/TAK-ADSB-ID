@@ -7,6 +7,7 @@
 "adfd6d","a-f-A-M-F-U-M","90-0528","C-26D","USN"
 "adfd6f","a-f-A-M-F-U-M","90-0530","C-26B","USN"
 "ADFD72","a-f-A-M-F-U-M","91-0502","C-26D","USN"
+"adfdd0","a-f-A-M-F-U-L","92-03328","C-12R","US A"
 "adfebb","a-f-A-M-F-R-Z","95-00123","C560","USAF"
 "ae0133","a-f-A-M-F-R-Z","97-00102","C560","USAF"
 "ae014C","a-f-A-M-F-R-Z","63-8025","RC-135","USAF"
