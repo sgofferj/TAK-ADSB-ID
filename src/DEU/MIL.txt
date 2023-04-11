@@ -725,6 +725,7 @@
 "3FA936","a-f-A-M-H-U-L","82+54","EC135","DEU A"
 "3FA937","a-f-A-M-H-U-L","82+55","EC135","DEU A"
 "3FA938","a-f-A-M-H-U-L","82+57","EC135","DEU A"
+"3fa939","a-f-A-M-H-U-L","82+57","H-135","DEU A"
 "3FA93A","a-f-A-M-H-U-L","82+58","EC135","DEU A"
 "3FA93B","a-f-A-M-H-U-L","82+59","EC135","DEU A"
 "3FA93C","a-f-A-M-H-U-L","82+60","EC135","DEU A"
@@ -934,4 +935,4 @@
 "3FBEBF","a-f-A-M-H-C-M","78+28","NH-90","DEU A"
 "3FBEFC","a-f-A-M-H-C-M","78+38","NH-90","DEU A"
 "3fbfa1","a-f-A-M-F-F","46+55","Tornado ECR","DEU AF"
-"43eba9","a-f-A-M-H-U-L","76+04","EC645T2","DEU AF"
+"43eba9","a-f-A-M-H-U-L","76+04","EC-645T2","DEU AF"

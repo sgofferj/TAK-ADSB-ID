@@ -1,0 +1,7 @@
+#TAK ADSB IDs THAILAND Law enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"884004","a-f-A-C-F","33742","Falcon 2000","LEO (THA POL)"

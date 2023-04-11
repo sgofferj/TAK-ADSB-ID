@@ -8,3 +8,4 @@
 "3422d6","a-f-A-M-H-U-L","HU.26-05","EC-135","ESP Guardia Civil"
 "3425cb","a-f-A-M-F-O","EC-KBS","P-68C","ESP"
 "342696","a-f-A-M-F-C-M","D.4-02","CN-235","ESP AF"
+"3571c5","a-f-A-M-F-T","E.27-05","PC-21","ESP AF"

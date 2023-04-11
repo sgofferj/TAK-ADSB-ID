@@ -5,7 +5,6 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-
 "424777","a-s-A-C-F","VP-CZW","B737NG","Sino Jet Management"
 "4247a6","a-s-A-C-F","VP-CKG","B737NG","Sino Jet Management"
 "4850ae","a-s-A-C-F","P4-SJM","B737NG","Sino Jet Management"

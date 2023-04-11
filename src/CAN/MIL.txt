@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"c2afc7","a-f-A-M-F-C-H","177702","C-17","CAN AF"
 "c2b3d7","a-f-A-M-F-C-H","177701","C-17","CAN AF"
 "C2B52B","a-f-A-M-F-C-M","130601","CC-130J-30","CAN AF"
 "C2B549","a-f-A-M-F-C-M","130604","CC-130J-30","CAN AF"

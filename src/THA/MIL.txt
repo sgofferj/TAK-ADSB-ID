@@ -8,3 +8,4 @@
 "881b63","a-f-A-M-F-C-M","60103","C-130","THA AF"
 "881b71","a-f-A-M-V","B.L18-2/59","Sukhoi Superjet 100-95LR","THA AF"
 "8836d3","a-f-A-M-F-U-M","HS-MVS","B-737NG","THA AF"
+"881c0b","a-f-A-M-V","93308","EC-155B1","Thailand"

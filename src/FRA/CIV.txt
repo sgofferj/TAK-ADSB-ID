@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "3b7b3a","a-f-A-C-F","F-ZBML","Dash 8-402MR","FIRE (FRA CIVPROT)"
+"3b7b3e","a-f-A-C-F","F-ZBMJ","Dash 8-402MR","FIRE (FRA CIVPROT)"
