@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"3aac04","a-f-A-C-H","F-MJBE","EC45","LEO (FRA Gendarmerie)"
+"3aac03","a-f-A-C-H","F-MJBD","EC-145","LEO (FRA Gendarmerie)"
+"3aac04","a-f-A-C-H","F-MJBE","EC-145","LEO (FRA Gendarmerie)"

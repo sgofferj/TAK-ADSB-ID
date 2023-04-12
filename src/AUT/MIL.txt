@@ -1,0 +1,8 @@
+#TAK ADSB IDs AUSTRIA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"447d09","a-n-A-M-F-F","7L-WG","Eurofighter","Austria"
+"447d0e","a-n-A-M-F-F","7L-WL","Eurofighter","Austria"

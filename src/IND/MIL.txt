@@ -11,3 +11,4 @@
 "8002ad","a-n-A-M-F-U-M","H2181","HS-748","IND AF"
 "8002cb","a-n-A-M-V","K3601","Embraer ERJ-135","IND AF"
 "8002cd","a-n-A-M-V","K3603","Embraer ERJ-135","IND AF"
+"8002f6","a-n-A-M-V","K5012","B737-7HI","IND AF"

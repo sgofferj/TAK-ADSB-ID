@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"4a35a4","a-f-A-M-F-C-M","6166","C-130","ROU AF"
 "4a35a6","a-f-A-M-F-C-M","810","An-26","ROU AF"
 "4a35aa","a-f-A-M-F-C-M","2701","C-27J","ROU AF"
 "4a35ac","a-f-A-M-F-C-M","2703","C-27J","ROU AF"
