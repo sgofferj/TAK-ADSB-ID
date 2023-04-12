@@ -5,5 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "33FE1E","a-f-A-M-F-U-L","MM62157","DO-228","ITA A"
+"33fe77","a-f-A-M-F-K","MM62228","KC-767A","ITA AF"
+"33ffbc","a-f-A-M-F-C-M","MM62218","C-27J","ITA AF"
 "33ffc0","a-f-A-M-V","MM62210","Falcon 900","ITA AF"
 "33FFC1","a-f-A-M-V","MM62209","A319CJ","ITA AF"

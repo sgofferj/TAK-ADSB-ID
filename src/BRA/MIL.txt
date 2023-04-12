@@ -1,0 +1,14 @@
+#TAK ADSB IDs BRAZIL Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"e400c2","a-f-A-M-F-A","FAB5905","A-29B","BRA AF"
+"e400d9","a-f-A-M-V","FAB2101","VC-1A","BRA AF"
+"e47e40","a-f-A-M-V","FAB2550","VC-99A","Brazil"
+"e47f5b","a-f-A-M-C-M","FAB2020","C-97","Brazil"
+"e481f6","a-f-A-M-V","FAB2560","VC-99C","Brazil"
+"e48f43","a-f-A-M-C-M","FAB2342","C-95C","Brazil"
+"e4916b","a-f-A-M-C-M","FAB2291","C-95AM","Brazil"
+"e49555","a-f-A-M-U-M","FAB3604","IU-50","Brazil"

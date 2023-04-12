@@ -291,6 +291,7 @@
 "3F6A2F","a-f-A-M-F-F","30+88","EF-2000","DEU AF"
 "3f6b1d","a-f-A-M-F-F","45+57","Tornado IDS","DEU AF"
 "3f6bc6","a-f-A-M-F-C-H","50+36","C-160D","DEU AF"
+"3f6c26","a-f-A-M-H-C-H","54+37","A400M","DEU AF"
 "3f6c8a","a-f-A-M-F-F","30+83","EF-2000","DEU AF"
 "3F6CC9","a-f-A-M-H-U-L","76+15","EC145","DEU A"
 "3f6cce","a-f-A-M-F-F","30+26","EF-2000","DEU AF"

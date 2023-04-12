@@ -1,0 +1,7 @@
+#TAK ADSB IDs FRANCE Law Enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"3aac04","a-f-A-C-H","F-MJBE","EC45","LEO (FRA Gendarmerie)"

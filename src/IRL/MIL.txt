@@ -5,8 +5,10 @@
 #"hexid","CoT type","registration","type","operator"
 
 "4CA13F","a-f-A-M-F-C-M","253","CN-235","IRL AF"
+"4ca158","a-f-A-M-H-U-L","256","EC-135T2","IRL AF (Garda)"
 "4ca1ea","a-f-A-M-F-T","263","PC-9M","IRL AF"
 "4ca1eb","a-f-A-M-F-T","264","PC-9M","IRL AF"
+"4ca28c","a-f-A-M-H-U-L","270","EC-135","IRL AF"
 "4ca31a","a-f-A-M-H-U-L","272","EC-135T2","IRL AF (Garda)"
 "4ca31e","a-f-A-M-H-U-M","274","Agusta AW-139","IRL AF"
 "4CA330","a-f-A-M-H-U-M","275","Agusta AW-139","IRL AF"

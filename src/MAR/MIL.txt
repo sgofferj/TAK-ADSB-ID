@@ -5,5 +5,6 @@
 #"hexid","CoT type","registration","type","operator"
 
 "020038","a-f-A-M-F-C-M","CN-AOJ","C-130J","MAR AF"
+"0200ab","a-f-A-M-V","CN-AMK","Citation XLS+","MAR AF"
 "0200cc","a-f-A-M-V","CN-MVI","B737-8KB","MAR AF"
 "020130","a-f-A-M-V","CN-MBH","B747-800","MAR AF"

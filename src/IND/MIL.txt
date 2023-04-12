@@ -6,4 +6,8 @@
 
 "80021e","a-n-A-M-F-C-M","K2755","An-32","IND AF"
 "800273","a-n-A-M-F-U-M","HM677","Do-228","IND AF"
+"800298","a-n-A-M-F-U-M","H2066","HS-748","IND AF"
 "8002a5","a-n-A-M-F-U-M","H1527","HS-748","IND AF"
+"8002ad","a-n-A-M-F-U-M","H2181","HS-748","IND AF"
+"8002cb","a-n-A-M-V","K3601","Embraer ERJ-135","IND AF"
+"8002cd","a-n-A-M-V","K3603","Embraer ERJ-135","IND AF"
