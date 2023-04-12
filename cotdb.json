@@ -15878,10 +15878,10 @@
     },
     {
       "hexid": "adfebb",
-      "cot": "a-f-A-M-F-R-Z",
+      "cot": "a-f-A-M-F-U-L",
       "reg": "95-00123",
-      "type": "C560",
-      "operator": "USAF"
+      "type": "UC-35A",
+      "operator": "US A"
     },
     {
       "hexid": "adfebc",
@@ -15892,16 +15892,16 @@
     },
     {
       "hexid": "ae0133",
-      "cot": "a-f-A-M-F-R-Z",
+      "cot": "a-f-A-M-F-U-L",
       "reg": "97-00102",
-      "type": "C560",
-      "operator": "USAF"
+      "type": "UC-35A",
+      "operator": "US A"
     },
     {
       "hexid": "ae014c",
-      "cot": "a-f-A-M-F-R-Z",
+      "cot": "a-f-A-M-F-K",
       "reg": "63-8025",
-      "type": "RC-135",
+      "type": "KC-135R",
       "operator": "USAF"
     },
     {
@@ -15936,14 +15936,14 @@
       "hexid": "ae01c3",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "64-14848",
-      "type": "RC-135",
+      "type": "RC-135V",
       "operator": "USAF"
     },
     {
       "hexid": "ae01cc",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "62-4131",
-      "type": "RC-135",
+      "type": "RC-135W",
       "operator": "USAF"
     },
     {
@@ -16011,17 +16011,17 @@
     },
     {
       "hexid": "ae0401",
-      "cot": "a-f-A-M-F-R-Z",
+      "cot": "a-f-A-M-F-U-L",
       "reg": "84-00156",
-      "type": "Beech 200",
-      "operator": "USAF"
+      "type": "C-12U",
+      "operator": "US A"
     },
     {
       "hexid": "ae0402",
-      "cot": "a-f-A-M-F-R-Z",
+      "cot": "a-f-A-M-F-U-L",
       "reg": "84-00157",
-      "type": "Beech 200",
-      "operator": "USAF"
+      "type": "C-12U",
+      "operator": "US A"
     },
     {
       "hexid": "ae041b",
@@ -16060,10 +16060,10 @@
     },
     {
       "hexid": "ae04ab",
-      "cot": "a-f-A-M-F-R-Z",
+      "cot": "a-f-A-M-F-U-M",
       "reg": "99-00102",
-      "type": "C560",
-      "operator": "USAF"
+      "type": "UC-35A",
+      "operator": "US A"
     },
     {
       "hexid": "ae04b9",
@@ -16102,17 +16102,17 @@
     },
     {
       "hexid": "ae04f2",
-      "cot": "a-f-A-M-F-R-Z",
+      "cot": "a-f-A-M-F-U-L",
       "reg": "84-00162",
-      "type": "Beech 200",
-      "operator": "USAF"
+      "type": "C-12U",
+      "operator": "US A"
     },
     {
       "hexid": "ae04f4",
-      "cot": "a-f-A-M-F-R-Z",
+      "cot": "a-f-A-M-F-U-L",
       "reg": "84-00165",
-      "type": "Beech 200",
-      "operator": "USAF"
+      "type": "C-12U",
+      "operator": "US A"
     },
     {
       "hexid": "ae04fd",
