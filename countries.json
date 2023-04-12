@@ -189,7 +189,7 @@
     {"start": "C90000", "end": "C903FF", "affil": "u", "country": "Vanuatu"},
     {"start": "D00000", "end": "DFFFFF", "affil": "u", "country": "Reserved (ICAO future use)"},
     {"start": "E00000", "end": "E3FFFF", "affil": "u", "country": "Argentina"},
-    {"start": "E40000", "end": "E7FFFF", "affil": "u", "country": "Brazil"},
+    {"start": "E40000", "end": "E7FFFF", "affil": "f", "country": "Brazil"},
     {"start": "E80000", "end": "E80FFF", "affil": "u", "country": "Chile"},
     {"start": "E84000", "end": "E84FFF", "affil": "u", "country": "Ecuador"},
     {"start": "E88000", "end": "E88FFF", "affil": "u", "country": "Paraguay"},

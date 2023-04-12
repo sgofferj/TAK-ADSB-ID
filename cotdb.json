@@ -16882,42 +16882,42 @@
       "cot": "a-f-A-M-V",
       "reg": "FAB2550",
       "type": "VC-99A",
-      "operator": "Brazil"
+      "operator": "BRA AF"
     },
     {
       "hexid": "e47f5b",
       "cot": "a-f-A-M-C-M",
       "reg": "FAB2020",
       "type": "C-97",
-      "operator": "Brazil"
+      "operator": "BRA AF"
     },
     {
       "hexid": "e481f6",
       "cot": "a-f-A-M-V",
       "reg": "FAB2560",
       "type": "VC-99C",
-      "operator": "Brazil"
+      "operator": "BRA AF"
     },
     {
       "hexid": "e48f43",
       "cot": "a-f-A-M-C-M",
       "reg": "FAB2342",
       "type": "C-95C",
-      "operator": "Brazil"
+      "operator": "BRA AF"
     },
     {
       "hexid": "e4916b",
       "cot": "a-f-A-M-C-M",
       "reg": "FAB2291",
       "type": "C-95AM",
-      "operator": "Brazil"
+      "operator": "BRA AF"
     },
     {
       "hexid": "e49555",
       "cot": "a-f-A-M-U-M",
       "reg": "FAB3604",
       "type": "IU-50",
-      "operator": "Brazil"
+      "operator": "BRA AF"
     }
   ]
 }
