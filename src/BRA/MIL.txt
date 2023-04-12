@@ -12,5 +12,5 @@
 "e483d2","a-f-A-M-H-U-M","N-4004","Super Lynx","BRA N"
 "e48f43","a-f-A-M-C-M","FAB2342","C-95C","BRA AF"
 "e4916b","a-f-A-M-C-M","FAB2291","C-95AM","BRA AF"
-"e49555","a-f-A-M-U-M","FAB3604","IU-50","BRA AF"
+"e49555","a-f-A-M-F-U-M","FAB3604","IU-50","BRA AF"
 "e49934","a-f-A-M-F-T","FAB1368","T-27","BRA AF"
