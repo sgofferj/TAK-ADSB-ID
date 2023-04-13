@@ -6,4 +6,6 @@
 
 "3b7b3a","a-f-A-C-F","F-ZBML","Dash 8-402MR","FIRE (FRA CIVPROT)"
 "3b7b3e","a-f-A-C-F","F-ZBMJ","Dash 8-402MR","FIRE (FRA CIVPROT)"
+"3b7b49","a-f-A-M-H-U-L","F-ZBQL","EC-145","EMS (FRA CIVPROT)"
 "3b7b64","a-f-A-C-F","F-ZBMB","Beech 200","FRA CIVPROT"
+"3b7b65","a-f-A-C-F","F-ZBFJ","Beech 200","FRA CIVPROT"

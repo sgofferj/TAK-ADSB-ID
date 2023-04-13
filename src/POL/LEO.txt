@@ -1,0 +1,7 @@
+#TAK ADSB IDs POLAND Law enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"400000","a-F-A-C-H","SN-16XP","Bell 206B","LEO (POL POL) miscoded?"

@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "498422","a-f-A-M-V","2801","A-319","CZE AF"
+"498429","a-f-A-M-F-F","9234","JAS-39C","CZE AF"
 "49842b","a-f-A-M-F-F","9236","JAS-39C","CZE AF"
 "498487","a-f-A-M-F-C-M","0453","C295","CZE AF"
 "4984b2","a-f-A-M-F-T","0475","L-39NG","CZE AF"

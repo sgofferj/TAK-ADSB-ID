@@ -5,8 +5,10 @@
 #"hexid","CoT type","registration","type","operator"
 
 "7cf838","a-f-A-M-F-C-M","A97-465","C-130J","AUS AF"
+"7cf85c","a-f-A-M-V","A36-001","B737-7DT","AUS AF"
 "7cf85d","a-f-A-M-V","A36-002","B737-7DF","AUS AF"
 "7cf86d","a-f-A-M-F-U-L","A32-426","Beech 350","AUS AF"
+"7cf91d","a-f-A-M-F-P","A9-660","AP-3C","AUS AF"
 "7cf922","a-f-A-M-F-C-H","A41-210","C-17","AUS AF"
 "7cf992","a-f-A-M-F-C-M","A34-006","C-27J","AUS AF"
 "7cf995","a-f-A-M-F-C-M","A34-009","C-27J","AUS AF"
@@ -19,6 +21,7 @@
 "7cf9de","a-f-A-M-F-T","A54-007","PC-21","AUS AF"
 "7cf9e0","a-f-A-M-F-T","A54-009","PC-21","AUS AF"
 "7cf9e6","a-f-A-M-F-T","A54-015","PC-21","AUS AF"
+"7cf9ea","a-f-A-M-F-T","A54-019","PC-21","AUS AF"
 "7cf9ec","a-f-A-M-F-T","A54-021","PC-21","AUS AF"
 "7cf9f7","a-f-A-M-F-T","A54-032","PC-21","AUS AF"
 "7cfa08","a-f-A-M-F-T","A54-049","PC-21","AUS AF"
