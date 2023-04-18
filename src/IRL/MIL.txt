@@ -8,6 +8,7 @@
 "4ca158","a-n-A-M-H-U-L","256","EC-135T2","IRL AF (Garda)"
 "4ca1ea","a-n-A-M-F-T","263","PC-9M","IRL AF"
 "4ca1eb","a-n-A-M-F-T","264","PC-9M","IRL AF"
+"4ca28b","a-n-A-M-H-U-L","271","EC-135P2","Ireland"
 "4ca28c","a-n-A-M-H-U-L","270","EC-135","IRL AF"
 "4ca31a","a-n-A-M-H-U-L","272","EC-135T2","IRL AF (Garda)"
 "4ca31e","a-n-A-M-H-U-M","274","Agusta AW-139","IRL AF"

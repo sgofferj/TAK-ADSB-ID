@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "e40089","a-f-A-M-F-U-M","FAB6053","IU-93A","BRA AF"
+"e4009e","a-f-A-M-F-C-M","FAB2472","C-130H","BRA AF"
 "e400c2","a-f-A-M-F-A","FAB5905","A-29B","BRA AF"
 "e400cd","a-f-A-M-F-A","FAB5925","A-29B","BRA AF"
 "e400d9","a-f-A-M-V","FAB2101","VC-1A","BRA AF"

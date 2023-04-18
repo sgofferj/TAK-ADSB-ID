@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "80021e","a-n-A-M-F-C-M","K2755","An-32","IND AF"
+"80026e","a-n-A-M-F-U-M","HM673","Do 228","IND AF"
 "800273","a-n-A-M-F-U-M","HM677","Do-228","IND AF"
 "800298","a-n-A-M-F-U-M","H2066","HS-748","IND AF"
 "8002a5","a-n-A-M-F-U-M","H1527","HS-748","IND AF"
@@ -14,3 +15,5 @@
 "8002cd","a-n-A-M-V","K3603","Embraer ERJ-135","IND AF"
 "8002f6","a-n-A-M-V","K5012","B737-7HI","IND AF"
 "800333","a-n-A-M-F-C-M","KC-3802","C-130J","IND AF"
+"80078e","a-n-A-M-F-C-M","CB-8001","C-17A","IND AF"
+"800e14","a-n-A-M-F-U-M","KD712","Do 228","IND AF"

@@ -6,3 +6,4 @@
 
 "503FD2","a-f-A-M-F-C-M","07 Blue","C-27J","LTU AF"
 "503FD3","a-f-A-M-F-C-M","08 Blue","C-27J","LTU AF"
+"503fd9","a-f-A-M-F-U-M","02 BLUE","L-410","LTU AF"

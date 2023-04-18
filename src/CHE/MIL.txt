@@ -9,6 +9,7 @@
 "4B7F4C","a-n-A-M-V","T-785","Falcon 900","CHE AF"
 "4b7f5a","a-n-A-M-F-T","A-108","PC-21","Switzerland"
 "4b7f5d","a-n-A-M-F-T","R-711","Diamond 42","CHE AF"
+"4b7f5f","a-n-A-M-F-U-L","V-634","PC-6T","CHE AF"
 "4B7F78","a-n-A-M-F-R-X","T-741","DHC-6","CHE AF"
 "4b7f9c","a-n-A-M-H-U-M","T-323","AS-332M1","CHE AF"
 "4b7fa1","a-n-A-M-H-U-M","T-318","AS-332M1","CHE AF"

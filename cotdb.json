@@ -1,6 +1,13 @@
 {
   "aircraft": [
     {
+      "hexid": "010083",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "SU-BAS",
+      "type": "C-130",
+      "operator": "EGY AF"
+    },
+    {
       "hexid": "020038",
       "cot": "a-f-A-M-F-C-M",
       "reg": "CN-AOJ",
@@ -3151,6 +3158,13 @@
       "operator": "EMS (Scand. Air Ambulance)"
     },
     {
+      "hexid": "33fceb",
+      "cot": "a-f-A-M-V",
+      "reg": "MM62332",
+      "type": "Gulf G550",
+      "operator": "ITA AF"
+    },
+    {
       "hexid": "33fe1e",
       "cot": "a-f-A-M-F-U-L",
       "reg": "MM62157",
@@ -3162,6 +3176,20 @@
       "cot": "a-f-A-M-F-K",
       "reg": "MM62228",
       "type": "KC-767A",
+      "operator": "ITA AF"
+    },
+    {
+      "hexid": "33fe7d",
+      "cot": "a-f-A-M-F-K",
+      "reg": "MM62227",
+      "type": "KC-767A",
+      "operator": "ITA AF"
+    },
+    {
+      "hexid": "33ffad",
+      "cot": "a-f-A-M-V",
+      "reg": "MM62245",
+      "type": "Falcon 900EX",
       "operator": "ITA AF"
     },
     {
@@ -3183,6 +3211,13 @@
       "cot": "a-f-A-M-V",
       "reg": "MM62209",
       "type": "A319CJ",
+      "operator": "ITA AF"
+    },
+    {
+      "hexid": "33fff1",
+      "cot": "a-f-A-M-F-C-",
+      "reg": "MM62179",
+      "type": "C-130J",
       "operator": "ITA AF"
     },
     {
@@ -3228,10 +3263,24 @@
       "operator": "ESP AF"
     },
     {
+      "hexid": "3542c4",
+      "cot": "a-f-A-M-V",
+      "reg": "T.18-4",
+      "type": "Falcon 900B",
+      "operator": "ESP AF"
+    },
+    {
       "hexid": "3542c5",
       "cot": "a-f-A-M-V",
       "reg": "T.18-5",
       "type": "Falcon 900",
+      "operator": "ESP AF"
+    },
+    {
+      "hexid": "356341",
+      "cot": "a-f-A-M-F-U-H",
+      "reg": "T.24-01",
+      "type": "A330-202",
       "operator": "ESP AF"
     },
     {
@@ -3282,6 +3331,13 @@
       "reg": "F-JJDI",
       "type": "ULAC",
       "operator": "France"
+    },
+    {
+      "hexid": "39793c",
+      "cot": "a-f-A-M-F-T",
+      "reg": "F-JFNJ",
+      "type": "ULAC",
+      "operator": "FRA AF"
     },
     {
       "hexid": "3aaa98",
@@ -3480,6 +3536,13 @@
       "operator": "FRA AF"
     },
     {
+      "hexid": "3b7567",
+      "cot": "a-f-A-M-F-K",
+      "reg": "F-UJCN",
+      "type": "A330-243MRTT",
+      "operator": "FRA AF"
+    },
+    {
       "hexid": "3b7569",
       "cot": "a-f-A-M-F-U-K",
       "reg": "F-UJCL",
@@ -3669,6 +3732,13 @@
       "operator": "FRA AF"
     },
     {
+      "hexid": "3b76a5",
+      "cot": "a-f-A-M-V",
+      "reg": "F-RAFC",
+      "type": "Falcon 2000EX",
+      "operator": "FRA AF"
+    },
+    {
       "hexid": "3b76a6",
       "cot": "a-f-A-M-F-C-M",
       "reg": "200",
@@ -3774,6 +3844,20 @@
       "operator": "FRA AF"
     },
     {
+      "hexid": "3b7763",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "0095",
+      "type": "A400M",
+      "operator": "FRA AF"
+    },
+    {
+      "hexid": "3b7765",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "0073",
+      "type": "A400;",
+      "operator": "FRA AF"
+    },
+    {
       "hexid": "3b776b",
       "cot": "a-f-A-M-F-C-H",
       "reg": "0031",
@@ -3833,6 +3917,13 @@
       "hexid": "3b77d7",
       "cot": "a-f-A-M-F-C-M",
       "reg": "165",
+      "type": "CN-235",
+      "operator": "FRA AF"
+    },
+    {
+      "hexid": "3b77de",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "156",
       "type": "CN-235",
       "operator": "FRA AF"
     },
@@ -3963,18 +4054,25 @@
       "operator": "FRA N"
     },
     {
+      "hexid": "3b9bac",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "81",
+      "type": "Embraer 121",
+      "operator": "FRA N"
+    },
+    {
       "hexid": "3b9bae",
       "cot": "a-f-A-M-F-U-L",
       "reg": "77",
       "type": "Embraer 121",
-      "operator": "FRA AF"
+      "operator": "FRA N"
     },
     {
       "hexid": "3b9bb3",
       "cot": "a-f-A-M-F-U-L",
       "reg": "67",
-      "type": "Embraer 121",
-      "operator": "FRA AF"
+      "type": "Embraer 121A1",
+      "operator": "FRA N"
     },
     {
       "hexid": "3b9bd8",
@@ -12356,6 +12454,20 @@
       "operator": "GBR N"
     },
     {
+      "hexid": "43c326",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "ZH860",
+      "type": "EH-101",
+      "operator": "GBR N"
+    },
+    {
+      "hexid": "43c33b",
+      "cot": "a-f-A-M-F-F",
+      "reg": "ZJ700",
+      "type": "Eurofighter",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c38c",
       "cot": "a-f-A-M-F-R-Z",
       "reg": "ZZ664",
@@ -12367,6 +12479,27 @@
       "cot": "a-f-A-M-F-T",
       "reg": "WK518",
       "type": "T-10",
+      "operator": "GBR AF"
+    },
+    {
+      "hexid": "43c390",
+      "cot": "a-f-A-M-F-F",
+      "reg": "LF363",
+      "type": "Hawker Hurricane Mk. IIC",
+      "operator": "Battle of Britain Memorial Flight"
+    },
+    {
+      "hexid": "43c391",
+      "cot": "a-f-A-M-F-F",
+      "reg": "PZ865",
+      "type": "Hawker Hurricane Mk. IIC",
+      "operator": "Battle of Britain Memorial Flight"
+    },
+    {
+      "hexid": "43c394",
+      "cot": "a-f-A-M-F-F",
+      "reg": "AB910",
+      "type": "Supermarine Spitfire Mk.VB",
       "operator": "GBR AF"
     },
     {
@@ -12408,6 +12541,13 @@
       "hexid": "43c4c0",
       "cot": "a-f-A-M-H-C-H",
       "reg": "ZA671",
+      "type": "CH-47",
+      "operator": "GBR AF"
+    },
+    {
+      "hexid": "43c4cf",
+      "cot": "a-f-A-M-H-C-H",
+      "reg": "ZD575",
       "type": "CH-47",
       "operator": "GBR AF"
     },
@@ -12678,6 +12818,13 @@
       "operator": "GBR AF"
     },
     {
+      "hexid": "43c741",
+      "cot": "a-f-A-M-F-F",
+      "reg": "ZK379",
+      "type": "Eurofighter",
+      "operator": "GBR AF"
+    },
+    {
       "hexid": "43c747",
       "cot": "a-f-A-M-F-F",
       "reg": "ZK336",
@@ -12709,6 +12856,13 @@
       "hexid": "43c780",
       "cot": "a-f-A-M-F-F",
       "reg": "ZK357",
+      "type": "Eurofighter",
+      "operator": "GBR AF"
+    },
+    {
+      "hexid": "43c795",
+      "cot": "a-f-A-M-F-F",
+      "reg": "ZK367",
       "type": "Eurofighter",
       "operator": "GBR AF"
     },
@@ -13112,6 +13266,13 @@
       "operator": "GBR Defence Heli Flying School"
     },
     {
+      "hexid": "43c8f0",
+      "cot": "a-f-A-M-H-T",
+      "reg": "ZM522",
+      "type": "EC Juno HT",
+      "operator": "GBR Defence Heli Flying School"
+    },
+    {
       "hexid": "43c8f1",
       "cot": "a-f-A-M-H-T",
       "reg": "ZM523",
@@ -13483,6 +13644,13 @@
       "operator": "BEL AF"
     },
     {
+      "hexid": "44f149",
+      "cot": "a-f-A-M-F-F",
+      "reg": "FA-109",
+      "type": "F-16",
+      "operator": "BEL AF"
+    },
+    {
       "hexid": "44f164",
       "cot": "a-f-A-M-F-F",
       "reg": "FA-114",
@@ -13602,10 +13770,24 @@
       "operator": "BEL AF"
     },
     {
+      "hexid": "44f63a",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "H-26",
+      "type": "A109",
+      "operator": "BEL AF"
+    },
+    {
+      "hexid": "44f642",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "H-28",
+      "type": "A109",
+      "operator": "BEL AF"
+    },
+    {
       "hexid": "44f643",
       "cot": "a-f-A-M-H-U-M",
       "reg": "H-29",
-      "type": "A-109A",
+      "type": "A109A",
       "operator": "BEL AF"
     },
     {
@@ -13675,6 +13857,13 @@
       "hexid": "44f678",
       "cot": "a-f-A-M-F-U-L",
       "reg": "ST-41",
+      "type": "SF-260M",
+      "operator": "BEL AF Red Devils"
+    },
+    {
+      "hexid": "44f679",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "ST-42",
       "type": "SF-260M",
       "operator": "BEL AF Red Devils"
     },
@@ -15100,6 +15289,13 @@
       "operator": "NLD AF"
     },
     {
+      "hexid": "480860",
+      "cot": "a-f-A-M-H-A",
+      "reg": "Q-17",
+      "type": "AH-64D",
+      "operator": "NLD AF"
+    },
+    {
       "hexid": "480865",
       "cot": "a-f-A-M-H-A",
       "reg": "Q-22",
@@ -15296,6 +15492,13 @@
       "operator": "POL AF"
     },
     {
+      "hexid": "48d82c",
+      "cot": "a-f-A-M-F-C-L",
+      "reg": "0222",
+      "type": "M-28B",
+      "operator": "POL AF"
+    },
+    {
       "hexid": "48d82f",
       "cot": "a-f-A-M-F-C-L",
       "reg": "0225",
@@ -15342,6 +15545,13 @@
       "cot": "a-f-A-M-F-C-M",
       "reg": "027",
       "type": "C-295M",
+      "operator": "POL AF"
+    },
+    {
+      "hexid": "48d8e4",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "1505",
+      "type": "C-130E",
       "operator": "POL AF"
     },
     {
@@ -15394,11 +15604,25 @@
       "operator": "POL AF"
     },
     {
+      "hexid": "48da81",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "0916",
+      "type": "W3A",
+      "operator": "POL AF"
+    },
+    {
       "hexid": "48da86",
       "cot": "a-f-A-M-F-T",
       "reg": "1018",
       "type": "TS-11",
       "operator": "POL AF"
+    },
+    {
+      "hexid": "497ca3",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "16703",
+      "type": "C-295M",
+      "operator": "PRT AF"
     },
     {
       "hexid": "498422",
@@ -15499,11 +15723,18 @@
       "operator": "ROU AF"
     },
     {
+      "hexid": "4a35cf",
+      "cot": "a-f-A-C-H",
+      "reg": "336",
+      "type": "EC-135",
+      "operator": "EMS (ROU SMURD)"
+    },
+    {
       "hexid": "4a35d1",
-      "cot": "a-f-A-M-H-O",
+      "cot": "a-f-A-C-H",
       "reg": "335",
       "type": "EC-135",
-      "operator": "ROU GOV SAR"
+      "operator": "EMS (ROU SMURD)"
     },
     {
       "hexid": "4a80d0",
@@ -15968,6 +16199,13 @@
       "operator": "CHE AF"
     },
     {
+      "hexid": "4b7f5f",
+      "cot": "a-n-A-M-F-U-L",
+      "reg": "V-634",
+      "type": "PC-6T",
+      "operator": "CHE AF"
+    },
+    {
       "hexid": "4b7f78",
       "cot": "a-n-A-M-F-R-X",
       "reg": "T-741",
@@ -16136,6 +16374,13 @@
       "operator": "IRL AF"
     },
     {
+      "hexid": "4ca28b",
+      "cot": "a-n-A-M-H-U-L",
+      "reg": "271",
+      "type": "EC-135P2",
+      "operator": "Ireland"
+    },
+    {
       "hexid": "4ca28c",
       "cot": "a-n-A-M-H-U-L",
       "reg": "270",
@@ -16280,6 +16525,13 @@
       "cot": "a-f-A-M-F-C-M",
       "reg": "08 Blue",
       "type": "C-27J",
+      "operator": "LTU AF"
+    },
+    {
+      "hexid": "503fd9",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "02 BLUE",
+      "type": "L-410",
       "operator": "LTU AF"
     },
     {
@@ -16528,6 +16780,13 @@
       "operator": "IND AF"
     },
     {
+      "hexid": "80026e",
+      "cot": "a-n-A-M-F-U-M",
+      "reg": "HM673",
+      "type": "Do 228",
+      "operator": "IND AF"
+    },
+    {
       "hexid": "800273",
       "cot": "a-n-A-M-F-U-M",
       "reg": "HM677",
@@ -16588,6 +16847,20 @@
       "cot": "a-n-A-M-F-C-M",
       "reg": "KC-3802",
       "type": "C-130J",
+      "operator": "IND AF"
+    },
+    {
+      "hexid": "80078e",
+      "cot": "a-n-A-M-F-C-M",
+      "reg": "CB-8001",
+      "type": "C-17A",
+      "operator": "IND AF"
+    },
+    {
+      "hexid": "800e14",
+      "cot": "a-n-A-M-F-U-M",
+      "reg": "KD712",
+      "type": "Do 228",
       "operator": "IND AF"
     },
     {
@@ -16661,6 +16934,20 @@
       "operator": "LEO (THA POL)"
     },
     {
+      "hexid": "884006",
+      "cot": "a-F-A-C-H",
+      "reg": "3402",
+      "type": "AW-189",
+      "operator": "LEO (THA POL)"
+    },
+    {
+      "hexid": "884007",
+      "cot": "a-F-A-C-H",
+      "reg": "3403",
+      "type": "AW-189",
+      "operator": "LEO (THA POL)"
+    },
+    {
       "hexid": "884361",
       "cot": "a-F-A-C-H",
       "reg": "2617",
@@ -16668,11 +16955,25 @@
       "operator": "LEO (THA POL)"
     },
     {
+      "hexid": "896c2c",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "1224",
+      "type": "C-17",
+      "operator": "ARE AF"
+    },
+    {
       "hexid": "896c40",
       "cot": "a-f-A-M-F-C-H",
       "reg": "1230",
       "type": "C-17",
       "operator": "ARE AF"
+    },
+    {
+      "hexid": "a11cf8",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "17-01609",
+      "type": "C-147A",
+      "operator": "US A"
     },
     {
       "hexid": "a34f04",
@@ -16780,6 +17081,20 @@
       "operator": "USN"
     },
     {
+      "hexid": "adfd7b",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "91-0511",
+      "type": "C-26B",
+      "operator": "US A"
+    },
+    {
+      "hexid": "adfda3",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "860456",
+      "type": "C-26A",
+      "operator": "USN"
+    },
+    {
       "hexid": "adfdd0",
       "cot": "a-f-A-M-F-U-L",
       "reg": "92-03328",
@@ -16797,6 +17112,13 @@
       "hexid": "adfe10",
       "cot": "a-f-A-M-F-H",
       "reg": "1704",
+      "type": "HC-130H",
+      "operator": "USCG"
+    },
+    {
+      "hexid": "adfe1c",
+      "cot": "a-f-A-M-F-H",
+      "reg": "1716",
       "type": "HC-130H",
       "operator": "USCG"
     },
@@ -16829,6 +17151,20 @@
       "operator": "USAF"
     },
     {
+      "hexid": "adfea0",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "94-7320",
+      "type": "C-130H",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "adfeb8",
+      "cot": "a-f-A-M-V",
+      "reg": "98-0002",
+      "type": "C-32A",
+      "operator": "USAF"
+    },
+    {
       "hexid": "adfebb",
       "cot": "a-f-A-M-F-U-L",
       "reg": "95-00123",
@@ -16850,6 +17186,20 @@
       "operator": "USAF"
     },
     {
+      "hexid": "adff8f",
+      "cot": "a-f-A-M-F-T",
+      "reg": "68-8166",
+      "type": "T-38",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "adfff2",
+      "cot": "a-f-A-M-F-T",
+      "reg": "68-8147",
+      "type": "T-38",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae0006",
       "cot": "a-f-A-M-F-T",
       "reg": "64-13289",
@@ -16857,9 +17207,30 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae0027",
+      "cot": "a-f-A-M-F-T",
+      "reg": "67-14940",
+      "type": "T-38",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae0030",
+      "cot": "a-f-A-M-F-T",
+      "reg": "68-8117",
+      "type": "T-38",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae0065",
       "cot": "a-f-A-M-F-T",
       "reg": "66-4347",
+      "type": "T-38",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae0069",
+      "cot": "a-f-A-M-F-T",
+      "reg": "66-4351",
       "type": "T-38",
       "operator": "USAF"
     },
@@ -16889,6 +17260,13 @@
       "cot": "a-f-A-M-F-K",
       "reg": "59-1488",
       "type": "KC-35R",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae013f",
+      "cot": "a-f-A-M-F-K",
+      "reg": "60-0358",
+      "type": "KC-135R",
       "operator": "USAF"
     },
     {
@@ -16934,6 +17312,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae01ae",
+      "cot": "a-f-A-M-V",
+      "reg": "84-0085",
+      "type": "C-21A",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae01b0",
       "cot": "a-f-A-M-V",
       "reg": "84-0087",
@@ -16959,6 +17344,13 @@
       "cot": "a-f-A-M-F-R-Z",
       "reg": "62-4131",
       "type": "RC-135W",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae01d4",
+      "cot": "a-f-A-M-F-R-Z",
+      "reg": "64-14847",
+      "type": "RC-135U",
       "operator": "USAF"
     },
     {
@@ -17053,6 +17445,13 @@
       "operator": "US A"
     },
     {
+      "hexid": "ae0371",
+      "cot": "a-f-A-M-F-K",
+      "reg": "59-1483",
+      "type": "KC-135R",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae0376",
       "cot": "a-f-A-M-F-K",
       "reg": "60-0318",
@@ -17067,11 +17466,39 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae037c",
+      "cot": "a-f-A-M-F-K",
+      "reg": "63-8026",
+      "type": "KC-135R",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae0392",
       "cot": "a-f-A-M-F-K",
       "reg": "63-8880",
       "type": "KC-135",
       "operator": "USAF"
+    },
+    {
+      "hexid": "ae03de",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "164762",
+      "type": "C-130T",
+      "operator": "USN"
+    },
+    {
+      "hexid": "ae03e8",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "165349",
+      "type": "C-130T",
+      "operator": "USN"
+    },
+    {
+      "hexid": "ae03ed",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "165349",
+      "type": "C-130T",
+      "operator": "USN"
     },
     {
       "hexid": "ae03fa",
@@ -17106,6 +17533,13 @@
       "cot": "a-f-A-M-F-K",
       "reg": "60-0333",
       "type": "KC-135",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae0441",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "96-6003",
+      "type": "DH-6-300",
       "operator": "USAF"
     },
     {
@@ -17186,6 +17620,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae04d7",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "165829",
+      "type": "C-40A",
+      "operator": "USN"
+    },
+    {
       "hexid": "ae04d9",
       "cot": "a-f-A-M-F-C-M",
       "reg": "16-5831",
@@ -17221,6 +17662,13 @@
       "operator": "US A"
     },
     {
+      "hexid": "ae04fb",
+      "cot": "a-f-A-M-F-K",
+      "reg": "57-2605",
+      "type": "KC-135R",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae04fd",
       "cot": "a-f-A-M-F-K",
       "reg": "58-0095",
@@ -17231,6 +17679,13 @@
       "hexid": "ae04fe",
       "cot": "a-f-A-M-F-K",
       "reg": "58-0100",
+      "type": "KC-135R",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae0500",
+      "cot": "a-f-A-M-F-K",
+      "reg": "59-1495",
       "type": "KC-135R",
       "operator": "USAF"
     },
@@ -17256,6 +17711,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae0568",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "86-0011",
+      "type": "C-5M",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae0592",
       "cot": "a-f-A-M-F-K",
       "reg": "58-0103",
@@ -17263,10 +17725,31 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae0599",
+      "cot": "a-f-A-M-F-K",
+      "reg": "60-0315",
+      "type": "KC-135R",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae05aa",
       "cot": "a-f-A-M-F-K",
       "reg": "63-8019",
       "type": "KC-135",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae05ac",
+      "cot": "a-f-A-M-F-K",
+      "reg": "63-8029",
+      "type": "KC-135R",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae063f",
+      "cot": "a-f-A-M-F-K",
+      "reg": "57-1441",
+      "type": "KC-135R",
       "operator": "USAF"
     },
     {
@@ -17294,6 +17777,13 @@
       "hexid": "ae0676",
       "cot": "a-f-A-M-F-C-H",
       "reg": "00-0171",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae0679",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "00-0174",
       "type": "C-17",
       "operator": "USAF"
     },
@@ -17326,9 +17816,30 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae07bc",
+      "cot": "a-f-A-M-F-K",
+      "reg": "62-3564",
+      "type": "KC-135R",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae07c3",
+      "cot": "a-f-A-M-F-K",
+      "reg": "63-8023",
+      "type": "KC-135R",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae07e8",
       "cot": "a-f-A-M-F-C-H",
       "reg": "95-0105",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae07f3",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "97-0041",
       "type": "C-17",
       "operator": "USAF"
     },
@@ -17389,6 +17900,20 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae0865",
+      "cot": "a-f-A-M-V",
+      "reg": "159353",
+      "type": "VH-3D",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae0878",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "84-00181",
+      "type": "UC-12F",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae087f",
       "cot": "a-f-A-M-V",
       "reg": "01-0029",
@@ -17401,6 +17926,34 @@
       "reg": "00-3571",
       "type": "T-6",
       "operator": "USAF"
+    },
+    {
+      "hexid": "ae08a3",
+      "cot": "a-f-A-M-F-T",
+      "reg": "00-3582",
+      "type": "T-6",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae08a4",
+      "cot": "a-f-A-M-F-T",
+      "reg": "00-3583",
+      "type": "T-6",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae08ad",
+      "cot": "a-f-A-M-F-T",
+      "reg": "00-3592",
+      "type": "T-6",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae08bd",
+      "cot": "a-f-A-M-F-T",
+      "reg": "165968",
+      "type": "T-6",
+      "operator": "USN"
     },
     {
       "hexid": "ae08cf",
@@ -17445,11 +17998,25 @@
       "operator": "US A"
     },
     {
+      "hexid": "ae08fb",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "84-24378",
+      "type": "C-12U-2",
+      "operator": "US A"
+    },
+    {
       "hexid": "ae093d",
       "cot": "a-f-A-M-F-U-L",
       "reg": "01-00301",
       "type": "UC-35B",
       "operator": "US A"
+    },
+    {
+      "hexid": "ae0940",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "166374",
+      "type": "UC-35D",
+      "operator": "USMC"
     },
     {
       "hexid": "ae0978",
@@ -17471,6 +18038,13 @@
       "reg": "89-26136",
       "type": "UH-60A",
       "operator": "US A"
+    },
+    {
+      "hexid": "ae10b5",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "01-0186",
+      "type": "C-17",
+      "operator": "USAF"
     },
     {
       "hexid": "ae10b6",
@@ -17501,6 +18075,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae10e9",
+      "cot": "a-f-A-M-F-H",
+      "reg": "2003",
+      "type": "HC-130H",
+      "operator": "USCG"
+    },
+    {
       "hexid": "ae10fe",
       "cot": "a-f-A-M-F-T",
       "reg": "01-3610",
@@ -17513,6 +18094,34 @@
       "reg": "01-3631",
       "type": "T-6",
       "operator": "USAF"
+    },
+    {
+      "hexid": "ae112d",
+      "cot": "a-f-A-M-F-T",
+      "reg": "02-3658",
+      "type": "T-6",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae1145",
+      "cot": "a-f-A-M-F-T",
+      "reg": "165979",
+      "type": "T-6",
+      "operator": "USN"
+    },
+    {
+      "hexid": "ae114b",
+      "cot": "a-f-A-M-F-T",
+      "reg": "165985",
+      "type": "T-6",
+      "operator": "USN"
+    },
+    {
+      "hexid": "ae114d",
+      "cot": "a-f-A-M-F-T",
+      "reg": "165987",
+      "type": "T-6",
+      "operator": "USN"
     },
     {
       "hexid": "ae114f",
@@ -17550,6 +18159,20 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae1173",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "02-1101",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae117a",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "02-1108",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae117e",
       "cot": "a-f-A-M-F-C-H",
       "reg": "02-1112",
@@ -17568,6 +18191,13 @@
       "cot": "a-f-A-M-F-C-H",
       "reg": "03-3120",
       "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae11b0",
+      "cot": "a-f-A-M-F-T",
+      "reg": "03-3678",
+      "type": "T-6",
       "operator": "USAF"
     },
     {
@@ -17592,11 +18222,46 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae11f8",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "02-0042",
+      "type": "C-40B",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae11fa",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "02-0203",
+      "type": "C-40C",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae1211",
       "cot": "a-f-A-M-F-U-L",
       "reg": "03-00726",
       "type": "UC-35B",
       "operator": "US A"
+    },
+    {
+      "hexid": "ae1233",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "03-3122",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae1235",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "03-3124",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae1237",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "03-3126",
+      "type": "C-17",
+      "operator": "USAF"
     },
     {
       "hexid": "ae123d",
@@ -17610,6 +18275,20 @@
       "cot": "a-f-A-M-F-C-H",
       "reg": "04-4134",
       "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae1258",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "166376",
+      "type": "C-37B",
+      "operator": "USN"
+    },
+    {
+      "hexid": "ae13b3",
+      "cot": "a-f-A-M-F-T",
+      "reg": "04-3733",
+      "type": "T-6",
       "operator": "USAF"
     },
     {
@@ -17655,6 +18334,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae13f4",
+      "cot": "a-f-A-M-F-T",
+      "reg": "05-3765",
+      "type": "T-6",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae13f5",
       "cot": "a-f-A-M-F-T",
       "reg": "05-3766",
@@ -17672,6 +18358,20 @@
       "hexid": "ae144c",
       "cot": "a-f-A-M-F-C-H",
       "reg": "05-5142",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae144d",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "05-5143",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae144f",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "05-5145",
       "type": "C-17",
       "operator": "USAF"
     },
@@ -17704,6 +18404,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae1463",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "06-6165",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae1467",
       "cot": "a-f-A-M-F-C-H",
       "reg": "07-7169",
@@ -17714,6 +18421,13 @@
       "hexid": "ae1468",
       "cot": "a-f-A-M-F-C-H",
       "reg": "07-7170",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae1469",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "07-7171",
       "type": "C-17",
       "operator": "USAF"
     },
@@ -17739,10 +18453,31 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae146f",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "07-7177",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae1472",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "07-7180",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae148f",
       "cot": "a-f-A-M-F-R",
       "reg": "94-0285",
       "type": "E-8C",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae149e",
+      "cot": "a-f-A-M-F-T",
+      "reg": "160842",
+      "type": "T-44A",
       "operator": "USAF"
     },
     {
@@ -17781,6 +18516,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae1739",
+      "cot": "a-f-A-M-F-T",
+      "reg": "06-3839",
+      "type": "T-6",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae1790",
       "cot": "a-f-A-M-F-F",
       "reg": "00-3004",
@@ -17792,6 +18534,13 @@
       "cot": "a-f-A-M-F-F",
       "reg": "01-2002",
       "type": "F-15",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae1796",
+      "cot": "COT",
+      "reg": "91-0335",
+      "type": "F15",
       "operator": "USAF"
     },
     {
@@ -17827,6 +18576,20 @@
       "cot": "a-f-A-M-V",
       "reg": "05-4613",
       "type": "C-40C",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae1baa",
+      "cot": "a-f-A-M-F-K",
+      "reg": "167925",
+      "type": "KC-130J",
+      "operator": "USN"
+    },
+    {
+      "hexid": "ae1e47",
+      "cot": "a-f-A-M-F-T",
+      "reg": "07-3871",
+      "type": "T-6",
       "operator": "USAF"
     },
     {
@@ -17879,6 +18642,20 @@
       "operator": "USN"
     },
     {
+      "hexid": "ae1e9c",
+      "cot": "a-f-A-M-F-T",
+      "reg": "08-3927",
+      "type": "T-6",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae1ea1",
+      "cot": "a-f-A-M-F-T",
+      "reg": "08-3932",
+      "type": "T-6",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae1ea6",
       "cot": "a-f-A-M-F-T",
       "reg": "08-3937",
@@ -17886,10 +18663,24 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae1ec0",
+      "cot": "a-f-A-M-F-T",
+      "reg": "166059",
+      "type": "T-6",
+      "operator": "USN"
+    },
+    {
       "hexid": "ae1f39",
       "cot": "a-f-A-M-H-U-L",
       "reg": "07-72042",
       "type": "UH-72",
+      "operator": "US A"
+    },
+    {
+      "hexid": "ae1f3a",
+      "cot": "a-f-A-M-H-U-L",
+      "reg": "08-72043",
+      "type": "UH-72A",
       "operator": "US A"
     },
     {
@@ -17935,6 +18726,27 @@
       "operator": "US A"
     },
     {
+      "hexid": "ae1fee",
+      "cot": "a-f-A-M-H-U-L",
+      "reg": "12-72223",
+      "type": "UH-72A",
+      "operator": "US A"
+    },
+    {
+      "hexid": "ae1ff0",
+      "cot": "a-f-A-M-H-U-L",
+      "reg": "12-72225",
+      "type": "UH-72A",
+      "operator": "US A"
+    },
+    {
+      "hexid": "ae2034",
+      "cot": "a-f-A-M-H-U-L",
+      "reg": "13-72293",
+      "type": "UH-72A",
+      "operator": "US A"
+    },
+    {
       "hexid": "ae2044",
       "cot": "a-f-A-M-H-U-L",
       "reg": "14-72309",
@@ -17953,6 +18765,13 @@
       "cot": "a-f-A-M-V",
       "reg": "06-0500",
       "type": "C-37B",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae20c5",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "07-7184",
+      "type": "C-17",
       "operator": "USAF"
     },
     {
@@ -17977,6 +18796,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae223a",
+      "cot": "a-f-A-M-F-H",
+      "reg": "2303",
+      "type": "HC-144H",
+      "operator": "USCG"
+    },
+    {
       "hexid": "ae265b",
       "cot": "a-f-A-M-H-O",
       "reg": "6501",
@@ -17995,6 +18821,20 @@
       "cot": "a-f-A-M-H-O",
       "reg": "6542",
       "type": "MH-65D",
+      "operator": "USCG"
+    },
+    {
+      "hexid": "ae2691",
+      "cot": "a-f-A-M-H-O",
+      "reg": "6559",
+      "type": "MH-65D",
+      "operator": "USCG"
+    },
+    {
+      "hexid": "ae2697",
+      "cot": "a-f-A-M-H-O",
+      "reg": "6565",
+      "type": "HH-65",
       "operator": "USCG"
     },
     {
@@ -18026,6 +18866,13 @@
       "operator": "USCG"
     },
     {
+      "hexid": "ae2905",
+      "cot": "a-f-A-M-H-O",
+      "reg": "6021",
+      "type": "HH-60H",
+      "operator": "USCG"
+    },
+    {
       "hexid": "ae29d2",
       "cot": "a-f-A-M-F-M",
       "reg": "08-6205",
@@ -18033,11 +18880,39 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae2bf1",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "166574",
+      "type": "MH-60R",
+      "operator": "USN"
+    },
+    {
       "hexid": "ae2ef2",
       "cot": "a-f-A-M-F-T",
       "reg": "166117",
       "type": "T-6",
       "operator": "USN"
+    },
+    {
+      "hexid": "ae2f62",
+      "cot": "a-f-A-M-F-R",
+      "reg": "09-00644",
+      "type": "MC-12S",
+      "operator": "US A"
+    },
+    {
+      "hexid": "ae2f68",
+      "cot": "a-f-A-M-F-R",
+      "reg": "09-0655",
+      "type": "MC-12W",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae2fa2",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "08-8190",
+      "type": "C-17",
+      "operator": "USAF"
     },
     {
       "hexid": "ae2fa3",
@@ -18050,6 +18925,13 @@
       "hexid": "ae2fa4",
       "cot": "a-f-A-M-F-C-H",
       "reg": "08-8192",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae2fa5",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "08-8193",
       "type": "C-17",
       "operator": "USAF"
     },
@@ -18080,6 +18962,34 @@
       "reg": "08-8202",
       "type": "C-17",
       "operator": "USAF"
+    },
+    {
+      "hexid": "ae4843",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "08-20114",
+      "type": "UH-60M",
+      "operator": "US A"
+    },
+    {
+      "hexid": "ae4861",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "09-20179",
+      "type": "UH-60M",
+      "operator": "US A"
+    },
+    {
+      "hexid": "ae49c1",
+      "cot": "a-f-A-M-F-C-H",
+      "reg": "09-9205",
+      "type": "C-17",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae4a7a",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "168204",
+      "type": "UC-12W",
+      "operator": "USMC"
     },
     {
       "hexid": "ae4aec",
@@ -18115,6 +19025,27 @@
       "reg": "09-5713",
       "type": "MC-130J Commando II",
       "operator": "USAF"
+    },
+    {
+      "hexid": "ae4c5e",
+      "cot": "a-f-A-M-F-R",
+      "reg": "10-00728",
+      "type": "MC-12W",
+      "operator": "US A"
+    },
+    {
+      "hexid": "ae4cf1",
+      "cot": "a-f-A-M-H-C-H",
+      "reg": "07-08746",
+      "type": "CH-47",
+      "operator": "USAF"
+    },
+    {
+      "hexid": "ae4e02",
+      "cot": "a-f-A-M-H-O",
+      "reg": "6050",
+      "type": "HH-60H",
+      "operator": "USCG"
     },
     {
       "hexid": "ae4e03",
@@ -18180,11 +19111,25 @@
       "operator": "US A"
     },
     {
+      "hexid": "ae5238",
+      "cot": "a-f-A-M-H-C-H",
+      "reg": "07-08034",
+      "type": "CH-47",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae52d7",
       "cot": "a-f-A-M-H-C-H",
       "reg": "11-08096",
       "type": "CH-47F",
       "operator": "US A"
+    },
+    {
+      "hexid": "ae52d9",
+      "cot": "a-f-A-M-H-C-H",
+      "reg": "11-08098",
+      "type": "CH-47",
+      "operator": "USAF"
     },
     {
       "hexid": "ae537a",
@@ -18194,11 +19139,25 @@
       "operator": "US A"
     },
     {
+      "hexid": "ae5421",
+      "cot": "a-f-A-M-F-Q-R",
+      "reg": "11-2046",
+      "type": "RQ-4",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae54d9",
       "cot": "a-f-A-M-F-M",
       "reg": "13-5778",
       "type": "MC-130J Commando II",
       "operator": "USAF"
+    },
+    {
+      "hexid": "ae54da",
+      "cot": "a-f-A-M-F-T",
+      "reg": "166200",
+      "type": "T-6",
+      "operator": "USN"
     },
     {
       "hexid": "ae54e7",
@@ -18226,6 +19185,20 @@
       "cot": "a-f-A-M-F-R",
       "reg": "13-00282",
       "type": "MC-12S",
+      "operator": "US A"
+    },
+    {
+      "hexid": "ae5718",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "168980",
+      "type": "C-40A",
+      "operator": "USN"
+    },
+    {
+      "hexid": "ae5774",
+      "cot": "a-f-A-M-F-U-L",
+      "reg": "10-00259",
+      "type": "C-12V",
       "operator": "US A"
     },
     {
@@ -18320,6 +19293,13 @@
       "operator": "US A"
     },
     {
+      "hexid": "ae5bdd",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "15-20802",
+      "type": "UH-60M",
+      "operator": "US A"
+    },
+    {
       "hexid": "ae5c5c",
       "cot": "a-f-A-M-F-P",
       "reg": "169330",
@@ -18390,6 +19370,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae5fa0",
+      "cot": "a-f-A-M-F-K",
+      "reg": "18-46053",
+      "type": "KC-46A",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae5fad",
       "cot": "a-f-A-M-F-K",
       "reg": "15-46066",
@@ -18446,6 +19433,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae63b8",
+      "cot": "a-f-A-M-F-K",
+      "reg": "20-46076",
+      "type": "KC-46A",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae63e9",
       "cot": "a-f-A-M-F-T",
       "reg": "63-08133",
@@ -18467,6 +19461,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae63f4",
+      "cot": "a-f-A-M-F-T",
+      "reg": "68-08154",
+      "type": "T-38",
+      "operator": "USAF"
+    },
+    {
       "hexid": "ae6404",
       "cot": "a-f-A-M-F-T",
       "reg": "60-00582",
@@ -18479,6 +19480,13 @@
       "reg": "169561",
       "type": "P-8",
       "operator": "USN"
+    },
+    {
+      "hexid": "ae68ad",
+      "cot": "a-f-A-M-F-U-M",
+      "reg": "97-3091",
+      "type": "C-146A",
+      "operator": "USAF"
     },
     {
       "hexid": "ae68ba",
@@ -18537,6 +19545,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae6963",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "170000",
+      "type": "C-130J",
+      "operator": "USMC"
+    },
+    {
       "hexid": "ae6a35",
       "cot": "a-f-A-M-H-H",
       "reg": "20-21131",
@@ -18579,6 +19594,13 @@
       "operator": "USAF"
     },
     {
+      "hexid": "ae6d7e",
+      "cot": "a-f-A-M-F-H",
+      "reg": "19-5948",
+      "type": "HC-130J",
+      "operator": "USAF"
+    },
+    {
       "hexid": "af351f",
       "cot": "a-f-A-M-F-F",
       "reg": "UNKNOWN",
@@ -18593,6 +19615,13 @@
       "operator": "USMC"
     },
     {
+      "hexid": "c2af63",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "130334",
+      "type": "CC-130H",
+      "operator": "CAN AF"
+    },
+    {
       "hexid": "c2afc7",
       "cot": "a-f-A-M-F-C-H",
       "reg": "177702",
@@ -18600,10 +19629,24 @@
       "operator": "CAN AF"
     },
     {
+      "hexid": "c2b37d",
+      "cot": "a-f-A-M-F-U-H",
+      "reg": "15005",
+      "type": "CC-150",
+      "operator": "CAN AF"
+    },
+    {
       "hexid": "c2b3d7",
       "cot": "a-f-A-M-F-C-H",
       "reg": "177701",
       "type": "C-17",
+      "operator": "CAN AF"
+    },
+    {
+      "hexid": "c2b49f",
+      "cot": "a-f-A-M-H-U-M",
+      "reg": "148817",
+      "type": "CH-148",
       "operator": "CAN AF"
     },
     {
@@ -18635,6 +19678,13 @@
       "operator": "CAN AF"
     },
     {
+      "hexid": "c2b5c1",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "130616",
+      "type": "CC-130J",
+      "operator": "CAN AF"
+    },
+    {
       "hexid": "c2c1fb",
       "cot": "a-f-A-M-V",
       "reg": "144620",
@@ -18660,6 +19710,13 @@
       "cot": "a-f-A-M-F-U-M",
       "reg": "FAB6053",
       "type": "IU-93A",
+      "operator": "BRA AF"
+    },
+    {
+      "hexid": "e4009e",
+      "cot": "a-f-A-M-F-C-M",
+      "reg": "FAB2472",
+      "type": "C-130H",
       "operator": "BRA AF"
     },
     {

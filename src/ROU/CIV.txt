@@ -3,3 +3,6 @@
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
+
+"4a35d1","a-f-A-C-H","335","EC-135","EMS (ROU SMURD)"
+"4a35cf","a-f-A-C-H","336","EC-135","EMS (ROU SMURD)"
