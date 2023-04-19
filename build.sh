@@ -16,10 +16,10 @@ sed -i "s/^\(\"......\"\)/\L\1/g" tmp.txt
 sort tmp.txt > tmp_sorted.txt
 mv tmp_sorted.txt tmp.txt
 
-cat tmp.txt | jq -nR 'reduce (inputs / "," | map(fromjson)) as $i ({}; .[$i[0]] = $i[1:])' > cotdb_indexed.json
+cat tmp.txt | jq -cnR 'reduce (inputs / "," | map(fromjson)) as $i ({}; .[$i[0]] = $i[1:])' > cotdb_indexed.json
 
 cat tmp.txt | sed "s/\"//g" | \
-jq -Rsn '
+jq -cRsn '
   {"aircraft":
     [inputs
      | . / "\n"
