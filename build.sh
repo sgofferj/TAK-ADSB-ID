@@ -41,7 +41,7 @@ echo '#Format:' >> cotdb.txt
 echo '#"hexid","SIDC","registration","type","operator"' >> cotdb.txt
 echo >> cotdb.txt
 cat tmp.txt | sort | egrep -v "^$" >> cotdb.txt
-rm cotdb.txt tmp.txt 
+rm cotdb.txt #tmp.txt 
 
 git checkout master
 git add .
