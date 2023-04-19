@@ -12,4 +12,5 @@
 "33ffbc","a-f-A-M-F-C-M","MM62218","C-27J","ITA AF"
 "33ffc0","a-f-A-M-V","MM62210","Falcon 900","ITA AF"
 "33FFC1","a-f-A-M-V","MM62209","A319CJ","ITA AF"
+"33ffd9","a-f-A-M-R-Z","MM62200","P-180AM","ITA AF"
 "33fff1","a-f-A-M-F-C-","MM62179","C-130J","ITA AF"

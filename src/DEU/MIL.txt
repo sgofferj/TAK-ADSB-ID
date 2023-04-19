@@ -75,6 +75,7 @@
 "3E90C8","a-f-A-M-H-C-M","79+20","NH-90","DEU A"
 "3e91a7","a-f-A-M-F-F","30+45","EF-2000","DEU AF"
 "3e91b9","a-f-A-M-F-F","44+73","Tornado IDS","DEU AF"
+"3e91ee","a-f-A-M-F-C-H","54+41","A400M","DEU AF"
 "3e920e","a-f-A-M-F-F","45+39","Tornado IDS","DEU AF"
 "3E920F","a-f-A-M-H-U-L","76+05","EC145","DEU A"
 "3e924b","a-f-A-M-F-C-H","51+06","C-160D","DEU AF"

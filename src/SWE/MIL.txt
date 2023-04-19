@@ -41,6 +41,7 @@
 "4A8300","a-f-A-M-F-T","60096","Saab 105","SWE AF"
 "4A8301","a-f-A-M-F-T","60098","Saab 105","SWE AF"
 "4A8302","a-f-A-M-F-T","60100","Saab 105","SWE AF"
+"4a8308","a-f-A-M-F-T","60112","Saab 105","SWE AF"
 "4A8309","a-f-A-M-F-T","60114","Saab 105","SWE AF"
 "4A830A","a-f-A-M-F-T","60115","Saab 105","SWE AF"
 "4A830B","a-f-A-M-F-T","60116","Saab 105","SWE AF"

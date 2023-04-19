@@ -19,6 +19,7 @@
 "480806","a-f-A-M-H-U-M","S-441","AS-532","NLD AF"
 "480808","a-f-A-M-H-U-M","S-444","AS-532U2","NLD AF"
 "480809","a-f-A-M-H-U-M","S-445","AS-532U2","NLD AF"
+"48080c","a-f-A-M-H-U-M","S-453","AS-532UC","NLD AF"
 "480811","a-f-A-M-H-U-M","S-459","AS-332","NLD AF"
 "480849","a-f-A-M-H-C-H","D-472","H47","NLD AF"
 "48084a","a-f-A-M-H-C-H","D-473","CH-47","NLD AF"
