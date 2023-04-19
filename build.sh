@@ -7,7 +7,7 @@ echo "Release date: ${RELEASEDATE}"
 echo > tmp.txt
 
 for DIR in src/???; do
-  egrep -v "^#" ${DIR}/*.txt >> tmp.txt
+  egrep -hv "^#" ${DIR}/*.txt >> tmp.txt
 done
 
 sed -i "/^$/d" tmp.txt
