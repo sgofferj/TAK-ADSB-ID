@@ -18,7 +18,7 @@
 "adfd07","a-f-A-M-F-T","95-0059","T-1A","USAF"
 "adfd0e","a-f-A-M-F-T","95-0066","T-1A","USAF"
 "adfdec","a-f-A-M-F-C-M","94-6707","C-130H","USAF"
-"adfdf8","a-f-A-M-V"","82-8000","VC-25A","USAF"
+"adfdf8","a-f-A-M-V","82-8000","VC-25A","USAF"
 "adfe5e","a-f-A-M-F-C-M","90-1795","C-130H","USAF"
 "adfe66","a-f-A-M-F-C-M","91-1235","C-130","USAF"
 "adfe98","a-f-A-M-F-U-L","95-00099","C-12V","USAF"

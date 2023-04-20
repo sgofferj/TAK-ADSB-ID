@@ -2611,7 +2611,7 @@
 "adfda3","a-f-A-M-F-U-M","860456","C-26A","USN"
 "adfdd0","a-f-A-M-F-U-L","92-03328","C-12R","US A"
 "adfdec","a-f-A-M-F-C-M","94-6707","C-130H","USAF"
-"adfdf8","a-f-A-M-V"","82-8000","VC-25A","USAF"
+"adfdf8","a-f-A-M-V","82-8000","VC-25A","USAF"
 "adfe10","a-f-A-M-F-H","1704","HC-130H","USCG"
 "adfe1b","a-f-A-M-F-H","1715","HH-130H","USCG"
 "adfe1c","a-f-A-M-F-H","1716","HC-130H","USCG"
