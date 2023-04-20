@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"480403","a-f-A-M-F-F","J-003","F-16","NLD AF"
 "480405","a-f-A-M-F-F","J-005","F-16","NLD AF"
 "48040f","a-f-A-M-F-F","J-016","F-16","NLD AF"
 "480432","a-f-A-M-F-F","J-197","F-16","NLD AF"
@@ -20,6 +21,7 @@
 "480808","a-f-A-M-H-U-M","S-444","AS-532U2","NLD AF"
 "480809","a-f-A-M-H-U-M","S-445","AS-532U2","NLD AF"
 "48080c","a-f-A-M-H-U-M","S-453","AS-532UC","NLD AF"
+"48080e","a-f-A-M-H-U-M","S-456","AS-532U2","NLD AF"
 "480811","a-f-A-M-H-U-M","S-459","AS-332","NLD AF"
 "480849","a-f-A-M-H-C-H","D-472","H47","NLD AF"
 "48084a","a-f-A-M-H-C-H","D-473","CH-47","NLD AF"
@@ -49,4 +51,5 @@
 "480C42","a-f-A-M-F-K","T-056","KC-30M","NLD AF"
 "480c43","a-f-A-M-F-K","T-057","KC-30M","NLD AF"
 "480c46","a-f-A-M-F-K","T-060","KC-30M","NLD AF"
-"481048","a-f-A-M-H-U-M","N-228","NH-90","NLD N"
+"481048","a-f-A-M-H-U-M","N-228","NH-90NFH","NLD N"
+"481054","a-f-A-M-H-U-M","N-327","NH-90NFH","NLD N"

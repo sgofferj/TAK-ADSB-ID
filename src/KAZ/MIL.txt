@@ -1,0 +1,7 @@
+#TAK ADSB IDs KAZAKHSTAN Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"6831f3","a-f-A-M-F-C-M","03-RED","C-295M","Kazakhstan"

@@ -11,6 +11,7 @@
 "0a401b","a-u-A-M-F-C-M","7T-WHD","C-130","DZA AF"
 "0a401c","a-u-A-M-F-C-M","7T-WHL","C-130","DZA AF"
 "0a4022","a-u-A-M-F-C-H","7T-WID","IL-76TD","DZA AF"
+"0a4023","a-u-A-M-F-C-H","7T-WIE","IL-76TD","DZA AF"
 "0a4024","a-u-A-M-F-C-H","7T-WIG","IL-76TD","DZA AF"
 "0a402d","a-u-A-M-V","7T-VPP","A340-541","DZA AF"
 "0a4039","a-u-A-M-F-U-L","7T-WRJ","Beech 350i","DZA AF"

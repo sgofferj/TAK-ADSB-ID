@@ -1,0 +1,22 @@
+#TAK ADSB IDs US COAST GUARD
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"adfe10","a-f-A-M-F-H","1704","HC-130H","USCG"
+"adfe1c","a-f-A-M-F-H","1716","HC-130H","USCG"
+"ae10e9","a-f-A-M-F-H","2003","HC-130H","USCG"
+"ae223a","a-f-A-M-F-H","2303","HC-144H","USCG"
+"ae265b","a-f-A-M-H-O","6501","HH-65","USCG"
+"ae2678","a-f-A-M-H-O","6530","MH-65D","USCG"
+"ae2683","a-f-A-M-H-O","6542","MH-65D","USCG"
+"ae2691","a-f-A-M-H-O","6559","MH-65D","USCG"
+"ae2697","a-f-A-M-H-O","6565","HH-65","USCG"
+"ae27fc","a-f-A-M-H-O","6011","HH-60J","USCG"
+"ae2902","a-f-A-M-H-O","6018","HH-60J","USCG"
+"ae2905","a-f-A-M-H-O","6021","HH-60H","USCG"
+"ae4e02","a-f-A-M-H-O","6050","HH-60H","USCG"
+"ae4e03","a-f-A-M-H-O","6051","MH-60T","USCG"
+"ae5deb","a-f-A-M-F-H","2012","HC-130J","USCG"
+"ae6ce8","a-f-A-M-H-O","6054","MH-60T","USCG"

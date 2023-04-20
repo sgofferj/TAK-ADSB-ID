@@ -134,7 +134,7 @@
     {"start": "680000", "end": "6803FF", "affil": "u", "country": "Bhutan"},
     {"start": "681000", "end": "6813FF", "affil": "u", "country": "FedStates of Micronesia"},
     {"start": "682000", "end": "6823FF", "affil": "u", "country": "Mongolia"},
-    {"start": "683000", "end": "6833FF", "affil": "u", "country": "Kazakhstan"},
+    {"start": "683000", "end": "6833FF", "affil": "f", "country": "Kazakhstan"},
     {"start": "684000", "end": "6843FF", "affil": "u", "country": "Palau"},
     {"start": "680000", "end": "6FFFFF", "affil": "u", "country": "Reserved (ICAO Asia Region)"},
     {"start": "700000", "end": "700FFF", "affil": "u", "country": "Afghanistan"},

@@ -1,0 +1,9 @@
+#TAK ADSB IDs ITALY Law Enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"320004","a-f-A-C-F","MM62249","P-180AM","LEO (ITA FINANCIAL POL)"
+"32002e","a-f-A-C-F","MM62311","AT76","LEO (ITA FINANCIAL POL)"
+"33ff75","a-f-A-C-F","MM62246","P-180","LEO (ITA CARABINIERI)"

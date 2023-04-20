@@ -4,4 +4,6 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"497c73","a-f-A-M-V","17403","Falcon 50","PRT AF"
 "497ca3","a-f-A-M-F-C-M","16703","C-295M","PRT AF"
+"497cac","a-f-A-M-F-C-M","16712","C-295M","PRT AF"

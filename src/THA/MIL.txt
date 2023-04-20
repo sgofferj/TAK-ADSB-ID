@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"880404","a-f-A-M-F-C-M","16150","C-295W","THA A"
 "880409","a-f-A-M-H-U-M","41522","AW-139","THA AF"
 "8805a5","a-f-A-M-F-C-M","L8-2/23","C-130","THA AF"
 "88140d","a-f-A-M-F-U-M","60301","ATR 72-600","THA AF"
