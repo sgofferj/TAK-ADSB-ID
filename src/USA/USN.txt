@@ -19,6 +19,7 @@
 "ae045d","a-f-A-M-F-C-L","162169","C-2A","USN"
 "ae0464","a-f-A-M-F-C-L","162149","C-2A","USN"
 "ae04d7","a-f-A-M-F-U-M","165829","C-40A","USN"
+"ae04d9","a-f-A-M-F-U-M","165831","C-40A","USN"
 "ae06e5","a-f-A-M-F-U-L","163845","UC-12M","USN"
 "ae06e7","a-f-A-M-F-U-L","163838","UC-12M","USN"
 "ae074e","a-f-A-M-F-U-L","163840","UC-12M","USN"
