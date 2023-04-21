@@ -5,5 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "497c73","a-f-A-M-V","17403","Falcon 50","PRT AF"
+"497ca1","a-f-A-M-F-C-M","16701","C-295M","PRT AF"
 "497ca3","a-f-A-M-F-C-M","16703","C-295M","PRT AF"
 "497cac","a-f-A-M-F-C-M","16712","C-295M","PRT AF"
+"497cb4","a-f-A-M-H-H","29704","AW-119Kx","PRT AF"

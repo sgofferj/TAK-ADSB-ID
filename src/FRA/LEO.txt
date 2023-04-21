@@ -6,9 +6,10 @@
 
 "3aac03","a-f-A-C-H","F-MJBD","EC-145","LEO (FRA Gendarmerie)"
 "3aac04","a-f-A-C-H","F-MJBE","EC-145","LEO (FRA Gendarmerie)"
-"3aac12","a-f-A-C-H","F-MJDA","EC-135T2+","LEO (FRA Gendarmerie)"
-"3b7b22","a-f-A-M-F","F-ZBGO","Beech 350","FRA CUSTOMS"
-"3b7b57","a-f-A-M-H","F-ZBGI","EC-135T2","FRA CUSTOMS"
 "3aac07","a-f-A-C-H","F-MJBH","EC-145","LEO (FRA Gendarmerie)"
+"3aac0f","a-f-A-C-H","0727","EC-135T2+","LEO (FRA Gendarmerie)"
+"3aac12","a-f-A-C-H","F-MJDA","EC-135T2+","LEO (FRA Gendarmerie)"
 "3aac14","a-f-A-C-H","0857","EC-135T2+","LEO (FRA Gendarmerie)"
 "3aac17","a-f-A-C-H","0787","EC-135T2+","LEO (FRA Gendarmerie)"
+"3b7b22","a-f-A-M-F","F-ZBGO","Beech 350","FRA CUSTOMS"
+"3b7b57","a-f-A-M-H","F-ZBGI","EC-135T2","FRA CUSTOMS"

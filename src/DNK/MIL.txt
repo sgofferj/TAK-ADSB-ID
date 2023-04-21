@@ -15,3 +15,4 @@
 "45f436","a-f-A-M-H-U-M","M-512","EH-101","DNK AF"
 "45f437","a-f-A-M-H-O","M-513","EH-101","DNK AF"
 "45f445","a-f-A-M-H-U-M","N-976","MH-60R","DNK N"
+"45f44d","a-f-A-M-F-T","T-432","T-17","DNK AF"
