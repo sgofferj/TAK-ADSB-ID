@@ -126,7 +126,7 @@
 "3b77fe","a-f-A-M-F-U-L","104","TBM-700A","FRA AF"
 "3b77ff","a-f-A-M-F-U-L","105","TBM-700","FRA AF"
 "3b7f68","a-f-A-M-F-U-L","F-ZCPN","TBM-900","FRA AF"
-"3b7f69","a-f-A-C-F-U-L","F-ZCER","TBM-940","FRA AF Flight Test Center"
+"3b7f69","a-f-A-M-F-U-L","F-ZCER","TBM-940","FRA AF Flight Test Center"
 "3b7f6a","a-f-A-M-F-U-L","F-ZDGA","TBM-900","FRA AF"
 "3b7f6b","a-f-A-M-F-U-L","F-ZCEV","TBM-940","FRA AF"
 "3b7f78","a-f-A-M-F-F","676","Mirage 2000D","FRA AF"
