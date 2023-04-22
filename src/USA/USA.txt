@@ -61,6 +61,7 @@
 "ae1f64","a-f-A-M-H-U-L","09-72085","UH-72A","US A"
 "ae1f6e","a-f-A-M-H-U-L","09-72095","UH-72A","US A"
 "ae1f71","a-f-A-M-H-U-L","09-72098","UH-72","US A"
+"ae1f73","a-f-A-M-H-U-L","09-72100","UH-72A","US A"
 "ae1f7d","a-f-A-M-H-U-L","09-72110","UH-72A","US A"
 "ae1f82","a-f-A-M-H-U-L","09-72115","UH-72A","US A"
 "ae1f90","a-f-A-M-H-U-L","10-72129","UH-72A","US A"

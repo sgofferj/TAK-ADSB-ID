@@ -33,4 +33,5 @@
 "7cf9f3","a-f-A-M-F-T","A54-028","PC-21","AUS AF"
 "7cf9f7","a-f-A-M-F-T","A54-032","PC-21","AUS AF"
 "7cfa08","a-f-A-M-F-T","A54-049","PC-21","AUS AF"
+"7cfa71","a-f-A-M-V","A56-001","Falcon 7X","AUS AF"
 "7cfa72","a-f-A-M-V","A56-002","Falcon 7X","AUS AF"

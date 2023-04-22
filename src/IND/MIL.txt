@@ -16,6 +16,7 @@
 "8002a9","a-n-A-M-F-P","CG773","Do 228","IND CG"
 "8002ad","a-n-A-M-F-U-M","H2181","HS-748","IND AF"
 "8002b9","a-n-A-M-F-U-M","H-2381","HS-74","IND AF"
+"8002c5","a-n-A-M-F-U-M","HM694","Do 228","IND AF"
 "8002cb","a-n-A-M-V","K3601","Embraer ERJ-135","IND AF"
 "8002cd","a-n-A-M-V","K3603","Embraer ERJ-135","IND AF"
 "8002f6","a-n-A-M-V","K5012","B737-7HI","IND AF"
@@ -23,4 +24,5 @@
 "800333","a-n-A-M-F-C-M","KC-3802","C-130J","IND AF"
 "800338","a-n-A-M-F-C-M","K2668","AN-32","IND AF"
 "80078e","a-n-A-M-F-C-M","CB-8001","C-17A","IND AF"
+"8007a1","a-n-A-M-F-C-M","K2764","An-32","IND AF"
 "800e14","a-n-A-M-F-U-M","KD712","Do 228","IND AF"

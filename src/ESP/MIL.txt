@@ -13,6 +13,7 @@
 "353042","a-f-A-M-F-U-M","UD.14-02","CL-415 water bomber","ESP AF FIRE"
 "3532c3","a-f-A-M-F-C-H","T.23-05","A400M","ESP AF"
 "3532c8","a-f-A-M-F-C-","TK.23-09","A400M","ESP AF"
+"3532cc","a-f-A-M-F-C-H","T.23-12","A400M","ESP AF"
 "3542c4","a-f-A-M-V","T.18-4","Falcon 900B","ESP AF"
 "3542c5","a-f-A-M-V","T.18-5","Falcon 900","ESP AF"
 "356341","a-f-A-M-F-U-H","T.24-01","A330-202","ESP AF"

@@ -4,12 +4,14 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"320013","a-f-A-M-F-P","MM62208","ATR 42-420MP","ITA CG"
 "33fceb","a-f-A-M-V","MM62332","G550","ITA AF"
 "33fd31","a-f-A-M-F-T","MM55251","M-345","ITA AF"
 "33fd6e","a-f-A-M-F-T","MM55229","T-346A","ITA AF"
 "33fd99","a-f-A-M-F-R-W","MM62303","G550 CAEW","ITA AF"
 "33fdc1","a-f-A-M-F-T","MM55153","T-346A","ITA AF"
 "33FE1E","a-f-A-M-F-U-L","MM62157","DO-228","ITA A"
+"33fe28","a-f-A-M-R-Z","MM62163","P-180AM","ITA AF"
 "33fe77","a-f-A-M-F-K","MM62228","KC-767A","ITA AF"
 "33fe7d","a-f-A-M-F-K","MM62227","KC-767A","ITA AF"
 "33ff14","a-f-A-M-F-T","MM55073","MB-339CD","ITA AF"
@@ -18,6 +20,7 @@
 "33ffbc","a-f-A-M-F-C-M","MM62218","C-27J","ITA AF"
 "33ffc0","a-f-A-M-V","MM62210","Falcon 900","ITA AF"
 "33FFC1","a-f-A-M-V","MM62209","A319CJ","ITA AF"
+"33ffd2","a-f-A-M-R-Z","MM62206","P-180AM","ITA AF"
 "33ffd9","a-f-A-M-R-Z","MM62200","P-180AM","ITA AF"
 "33fff1","a-f-A-M-F-C-","MM62179","C-130J","ITA AF"
 "33fff3","a-f-A-M-F-K","MM62177","KC-130J","ITA AF"

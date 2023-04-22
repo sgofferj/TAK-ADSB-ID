@@ -34,6 +34,7 @@
 "4b7fd0","a-n-A-M-H-U-L","T-354","EC-635P2+","CHE AF"
 "4b7fd1","a-n-A-M-H-U-L","T-353","EC-635P2+","CHE AF"
 "4b7fd2","a-n-A-M-H-U-L","T-352","EC-135P2","CHE AF"
+"4b7fd3","a-n-A-M-H-U-L","T-351","EC 135P2+","CHE AF"
 "4b7fd4","a-n-A-M-V","T-784","Citation 560 XL","CHE AF"
 "4b7fda","a-n-A-M-H-U-M","T-339","AS-532UL","CHE AF"
 "4b7fdc","a-n-A-M-H-U-M","T-337","AS-532UL","CHE AF"
