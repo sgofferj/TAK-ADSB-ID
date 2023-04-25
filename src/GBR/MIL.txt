@@ -246,6 +246,7 @@
 "43c93f","a-f-A-M-H-A","ZM717","AH-64E","GBR A"
 "43c941","a-f-A-M-H-A","ZM719","AH-64","GBR A"
 "43c946","a-f-A-M-H-A","ZM724","AH-64","GBR A"
+"43c961","a-f-A-M-F-T","ZB132","HAWK","GBR AF"
 "43c962","a-f-A-M-F-T","ZB133","HAWK","GBR AF"
 "43c963","a-f-A-M-F-T","ZB134","HAWK","GBR AF"
 "43c967","a-f-A-M-F-T","ZB138","HAWK","GBR AF"

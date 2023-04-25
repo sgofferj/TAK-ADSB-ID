@@ -16,5 +16,6 @@
 "881ba1","a-F-A-C-H-U-H","H10-1/54","S-92A","THA AF"
 "881c0b","a-f-A-M-V","93308","EC-155B1","THA AF"
 "8836d3","a-f-A-M-F-U-M","HS-MVS","B737NG","THA AF"
+"883ac1","a-f-A-M-F-U-M","2112","Embraer ERJ-135LR","THA N"
 "885332","a-f-A-M-F-U-M","60202","A319-115","THA AF"
 "885337","a-f-A-M-V","HS-TYW","A320-214","THA AF"

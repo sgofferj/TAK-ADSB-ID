@@ -16,6 +16,7 @@
 "33fe7d","a-f-A-M-F-K","MM62227","KC-767A","ITA AF"
 "33ff14","a-f-A-M-F-T","MM55073","MB-339CD","ITA AF"
 "33ffad","a-f-A-M-V","MM62245","Falcon 900EX","ITA AF"
+"33ffae","a-f-A-M-V","MM62244","Falcon 900EX","ITA AF"
 "33ffba","a-f-A-M-F-U-M","MM62211","P-180AM","ITA N"
 "33ffbc","a-f-A-M-F-C-M","MM62218","C-27J","ITA AF"
 "33ffc0","a-f-A-M-V","MM62210","Falcon 900","ITA AF"
