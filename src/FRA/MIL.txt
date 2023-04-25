@@ -45,6 +45,7 @@
 "3B7542","a-f-A-M-V","F-UJCU","A300-200","FRA AF"
 "3b7543","a-f-A-M-V","F-UJCT","A330-243","FRA AF"
 "3b7544","a-f-A-M-V","F-UJCS","A330-243","FRA AF"
+"3b7545","a-f-A-M-F-U-L","1030","Beech 350","FRA AF"
 "3b7567","a-f-A-M-F-K","F-UJCN","A330-243MRTT","FRA AF"
 "3b7569","a-f-A-M-F-K","F-UJCL","A330-243MRTT","FRA AF"
 "3b756a","a-f-A-M-F-K","F-UJCK","A330-243MRTT","FRA AF"

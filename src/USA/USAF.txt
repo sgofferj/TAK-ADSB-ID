@@ -101,6 +101,7 @@
 "ae01b0","a-f-A-M-V","84-0087","Learjet C-21A","USAF"
 "AE01B9","a-f-A-M-V","84-0083","Learjet C-21A","USAF"
 "ae01c3","a-f-A-M-F-R-Z","64-14848","RC-135V","USAF"
+"ae01c9","a-f-A-M-F-R-Z","64-14841","R-135V","USAF"
 "ae01CC","a-f-A-M-F-R-Z","62-4131","RC-135W","USAF"
 "ae01d4","a-f-A-M-F-R-Z","64-14847","RC-135U","USAF"
 "ae01e0","a-f-A-M-F-K","86-0029","KC-10A","USAF"

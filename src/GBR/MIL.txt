@@ -236,6 +236,7 @@
 "43c92a","a-f-A-M-H-T","ZM496","EC Jupiter HT","GBR Defence Heli Flying School"
 "43C92B","a-f-A-M-H-T","ZM497","EC Jupiter HT","GBR Defence Heli Flying School"
 "43c92c","a-f-A-M-H-T","ZM498","EC Jupiter HT","GBR Defence Heli Flying School"
+"43c931","a-f-A-M-H-A","ZM703","AH-64E","GBR AF"
 "43c932","a-f-A-M-H-A","ZM704","AH-64","GBR A"
 "43c933","a-f-A-M-H-A","ZM705","AH-64","GBR A"
 "43c934","a-f-A-M-H-A","ZM706","AH-64","GBR A"
