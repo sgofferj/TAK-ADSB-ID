@@ -22,4 +22,5 @@
 "4ca41a","a-n-A-M-F-T","269","PC-9M","IRL AF"
 "4ca41c","a-n-A-M-F-U-M","281","PC-12","IRL AF"
 "4CA41D","a-n-A-M-F-U-M","282","PC-12","IRL AF"
+"4ca41e","a-n-A-M-F-U-M","283","PC-12","IRL AF"
 "4ca44b","a-n-A-M-F-U-M","280","PC-12","IRL AF"

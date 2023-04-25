@@ -1,0 +1,7 @@
+#TAK ADSB IDs REPUBLIC OF KOREA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"71be43","a-f-A-M-V","22001","B-747-8B5","KOR AF"

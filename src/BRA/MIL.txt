@@ -12,7 +12,7 @@
 "e400d9","a-f-A-M-V","FAB2101","VC-1A","BRA AF"
 "e40106","a-f-A-M-F-A","FAB5945","A-29B","BRA AF"
 "e4010c","a-f-A-M-F-A","FAB5947","A-29B","BRA AF"
-"e40125","a-f-A-C-F","PT-SXP","E120","Civilian"
+"e40123","a-f-A-M-V","FAB2580","VC-99B","BRA AF"
 "e40138","a-f-A-M-F-U-M","FAB2523","C-99A","BRA AF"
 "e47d79","a-f-A-M-F-U-M","FAB2164","C-59A","BRA AF"
 "e47e40","a-f-A-M-V","FAB2550","VC-99A","BRA AF"
