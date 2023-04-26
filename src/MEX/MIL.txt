@@ -1,0 +1,7 @@
+#TAK ADSB IDs MEXICO Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"0d0877","a-f-A-M-F-U-M","GN-403","B727-264","NEX NG"
