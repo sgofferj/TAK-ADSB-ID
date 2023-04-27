@@ -27,7 +27,7 @@
 "adfed3","a-f-A-M-V","85-51265","C-12U","US A"
 "adfed4","a-f-A-M-V","85-51266","C-12U","US A"
 "adfed6","a-f-A-M-V","85-51268","C-12T","US A"
-"adfedb","a-f-A-M-V","86-00085","C-12T-2,"US A"
+"adfedb","a-f-A-M-V","86-00085","C-12T-2","US A"
 "adfedc","a-f-A-M-F-V","86-00086","C-12T-2","US A"
 "adfede","a-f-A-M-F-U-L","86-00088","C-12T2","US A"
 "adfee0","a-f-A-M-F-V","87-0160","C-12F","US A"
