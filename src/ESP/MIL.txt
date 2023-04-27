@@ -26,6 +26,8 @@
 "3571c5","a-f-A-M-F-T","E.27-05","PC-21","ESP AF"
 "3571c6","a-f-A-M-F-T","E.27-06","PC-21","ESP AF"
 "3571c7","a-f-A-M-F-T","E.27-07","PC-21","ESP AF"
+"3571c8","a-f-A-M-F-T","E.27-08","PC-21","ESP AF"
 "3571ca","a-f-A-M-F-T","E.27-10","PC-21","ESP AF"
+"3571cb","a-f-A-M-F-T","E.27-11","PC-21","ESP AF"
 "3571cc","a-f-A-M-F-T","E.27-12","PC-21","ESP AF"
 "3571cd","a-f-A-M-F-T","E.27-13","PC-21","ESP AF"

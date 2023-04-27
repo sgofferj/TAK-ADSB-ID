@@ -8,4 +8,5 @@
 "497ca1","a-f-A-M-F-C-M","16701","C-295M","PRT AF"
 "497ca3","a-f-A-M-F-C-M","16703","C-295M","PRT AF"
 "497cac","a-f-A-M-F-C-M","16712","C-295M","PRT AF"
-"497cb4","a-f-A-M-H-H","29704","AW-119Kx","PRT AF"
+"497cb4","a-f-A-M-H-U-M","29704","AW-119Kx","PRT AF"
+"497cc0","a-f-A-M-H-U-M","19205","Super Lynx","PRT N"

@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"0a4004","a-u-A-M-H-U-M","7T-WVB","AW-101","DZA AF"
 "0a400a","a-u-A-M-V","7T-VPM","Gulf 4","DZA AF"
 "0a400d","a-u-A-M-F-C-M","7T-WHN","C-130","DZA AF"
 "0a4017","a-u-A-M-F-C-M","7T-WHJ","C-130","DZA AF"
@@ -16,7 +17,9 @@
 "0a4024","a-u-A-M-F-C-H","7T-WIG","IL-76TD","DZA AF"
 "0a402d","a-u-A-M-V","7T-VPP","A340-541","DZA AF"
 "0a4039","a-u-A-M-F-U-L","7T-WRJ","Beech 350i","DZA AF"
+"0a403c","a-u-A-M-F-U-L","7T-WRN","Beech 350i","DZA AF"
 "0a403d","a-u-A-M-F-U-L","7T-WRP","Beech 350i","DZA AF"
 "0a403e","a-u-A-M-F-U-L","7T-WRQ","Beech 350i","DZA AF"
+"0a4048","a-u-A-M-H-U-M","LC-33","Super Lynx","DZA N"
 "0a4053","a-u-A-M-F-C-M","7T-WRA","Beech 1900","DZA AF"
 "0a405e","a-u-A-M-F-C-M","7T-WJA","C-130J","DZA AF"

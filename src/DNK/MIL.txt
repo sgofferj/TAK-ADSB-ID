@@ -10,6 +10,7 @@
 "45f429","a-f-A-M-F-C-M","B-537","C-130J","DNK AF"
 "45f42a","a-f-A-M-F-C-M","B-538","C-130J","DNK AF"
 "45f42b","a-f-A-M-F-C-M","B-583","C-130J","DNK AF"
+"45f431","a-f-A-M-H-U-M","M-507","EH-101","DNK AF"
 "45f432","a-f-A-M-H-O","M-508","EH-101","DNK AF"
 "45f434","a-f-A-M-H-U-M","M-510","EH-101","DNK AF"
 "45f436","a-f-A-M-H-U-M","M-512","EH-101","DNK AF"

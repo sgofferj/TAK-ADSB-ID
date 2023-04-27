@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"e40000","a-f-A-C-F","PT-MSP","C525","Private"
 "e40125","a-f-A-C-F","PT-SXP","E120","Private"

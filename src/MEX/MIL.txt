@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "0d0877","a-f-A-M-F-U-M","GN-403","B727-264","NEX NG"
+"0d091a","a-f-A-M-F-T","2016","T-6C","MEX AF"

@@ -27,3 +27,4 @@
 "80078e","a-n-A-M-F-C-M","CB-8001","C-17A","IND AF"
 "8007a1","a-n-A-M-F-C-M","K2764","An-32","IND AF"
 "800e14","a-n-A-M-F-U-M","KD712","Do 228","IND AF"
+"800e8a","a-n-A-M-F-P","IN329","P-8","IND N"

@@ -1,0 +1,7 @@
+#TAK ADSB IDs QATAR Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"06a248","a-f-A-M-F-C-H","A7-MAA","C-17A","QAT AF"

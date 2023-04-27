@@ -1,0 +1,7 @@
+#TAK ADSB IDs MALTA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"4d206a","a-f-A-M-U-L","AS1227","Beech 200","MLT"
