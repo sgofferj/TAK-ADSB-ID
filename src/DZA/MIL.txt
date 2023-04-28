@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "0a4004","a-u-A-M-H-U-M","7T-WVB","AW-101","DZA AF"
+"0a4009","a-u-A-M-V","7T-VPC","Gulf 4","DZA AF"
 "0a400a","a-u-A-M-V","7T-VPM","Gulf 4","DZA AF"
 "0a400d","a-u-A-M-F-C-M","7T-WHN","C-130","DZA AF"
 "0a4017","a-u-A-M-F-C-M","7T-WHJ","C-130","DZA AF"
@@ -12,6 +13,7 @@
 "0a401b","a-u-A-M-F-C-M","7T-WHD","C-130","DZA AF"
 "0a401c","a-u-A-M-F-C-M","7T-WHL","C-130","DZA AF"
 "0a401e","a-u-A-M-F-C-M","7T-WHB","C-130H","DZA AF"
+"0a4021","a-u-A-M-F-C-M","7T-WIC","IL-76MD","DZA AF"
 "0a4022","a-u-A-M-F-C-H","7T-WID","IL-76TD","DZA AF"
 "0a4023","a-u-A-M-F-C-H","7T-WIE","IL-76TD","DZA AF"
 "0a4024","a-u-A-M-F-C-H","7T-WIG","IL-76TD","DZA AF"

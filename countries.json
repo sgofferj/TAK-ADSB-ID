@@ -156,7 +156,7 @@
     {"start": "750000", "end": "757FFF", "affil": "u", "country": "Malaysia"},
     {"start": "758000", "end": "75FFFF", "affil": "u", "country": "Philippines"},
     {"start": "760000", "end": "767FFF", "affil": "f", "country": "Pakistan"},
-    {"start": "768000", "end": "76FFFF", "affil": "u", "country": "Singapore"},
+    {"start": "768000", "end": "76FFFF", "affil": "f", "country": "Singapore"},
     {"start": "770000", "end": "777FFF", "affil": "u", "country": "Sri Lanka"},
     {"start": "778000", "end": "77FFFF", "affil": "u", "country": "Syrian Arab Republic"},
     {"start": "780000", "end": "7BFFFF", "affil": "u", "country": "China"},

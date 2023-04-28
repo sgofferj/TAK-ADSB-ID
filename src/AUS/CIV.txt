@@ -1,7 +1,7 @@
-#TAK ADSB IDs ITALY Law Enforcement
+#TAK ADSB IDs AUSTRALIA CIVILIAN
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"320053","a-f-A-C-H","MM82034","UH-139E","LEO (ITA STATE POL)"
+"7cadd9","a-f-A-C-F","VH-8MJ","Bombardier BD-700-1A10 Global Express XRS","Private"

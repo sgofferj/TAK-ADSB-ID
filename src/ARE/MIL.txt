@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"896c0e","a-f-A-M-F-C-M","1216","L-100-30","ARE AF"
 "896c2c","a-f-A-M-F-C-H","1224","C-17","ARE AF"
 "896c2d","a-f-A-M-F-C-H","1225","C-17","ARE AF"
 "896c40","a-f-A-M-F-C-H","1230","C-17","ARE AF"

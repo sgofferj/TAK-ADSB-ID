@@ -64,6 +64,7 @@
 "44f677","a-f-A-M-F-U-L","ST-40","SF-260M","BEL AF Red Devils"
 "44f678","a-f-A-M-F-U-L","ST-41","SF-260M","BEL AF Red Devils"
 "44f679","a-f-A-M-F-U-L","ST-42","SF-260M","BEL AF Red Devils"
+"44f67e","a-f-A-M-F-T","ST-47","SF-260M","BEL AF"
 "44f67f","a-f-A-M-F-U-L","ST-48","SF-260M","BEL AF Red Devils"
 "44f682","a-f-A-M-F-C-H","CT-02","A400M","BEL AF"
 "44F683","a-f-A-M-F-C-H","CT-03","A400M","BEL AF"

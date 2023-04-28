@@ -7,6 +7,7 @@
 "341391","a-f-A-M-V","T.18-2","Falcon 900","ESP AF"
 "341517","a-f-A-M-F-C-M","T.21-01","C-295M","ESP AF"
 "3425cb","a-f-A-M-F-O","EC-KBS","P-68C","ESP"
+"3425d6","a-f-A-M-V","U.21-01","Cessna 650","ESP N"
 "342696","a-f-A-M-F-C-M","D.4-02","CN-235","ESP AF"
 "3432ce","a-f-A-M-F-C-M","T.19B-22","CN-235","ESP AF"
 "343603","a-f-A-M-F-C-H","EC-400","A400M","Airbus Military"
