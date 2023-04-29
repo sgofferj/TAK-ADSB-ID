@@ -4,5 +4,6 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"0d0877","a-f-A-M-F-U-M","GN-403","B727-264","NEX NG"
+"0d0877","a-f-A-M-F-U-M","GN-403","B727-264","MEX NG"
 "0d091a","a-f-A-M-F-T","2016","T-6C","MEX AF"
+"0d0a13","a-f-A-M-F-U-M","3528","B737-8ZY","MEX AF"

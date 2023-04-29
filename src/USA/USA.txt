@@ -66,6 +66,7 @@
 "ae0c4a","a-f-A-M-H-U-M","85-24458","UH-60","US A"
 "ae0c52","a-f-A-M-H-U-M","87-24580","UH-60A","US A"
 "ae0caa","a-f-A-M-H-U-M","83-23907","UH-60L","US A"
+"ae0cc8","a-f-A-M-H-U-M","91-26345","UH-60L","US A"
 "ae0cca","a-f-A-M-H-U-M","91-26347","UH-60L","US A"
 "ae0d84","a-f-A-M-H-U-M","89-26136","UH-60A","US A"
 "ae0dea","a-f-A-M-H-U-M","95-26626","UH-60","US A"

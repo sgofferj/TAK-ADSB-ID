@@ -7,6 +7,7 @@
 "3aac03","a-f-A-C-H","F-MJBD","EC-145","LEO (FRA Gendarmerie)"
 "3aac04","a-f-A-C-H","F-MJBE","EC-145","LEO (FRA Gendarmerie)"
 "3aac07","a-f-A-C-H","F-MJBH","EC-145","LEO (FRA Gendarmerie)"
+"3aac0b","a-f-A-M-H","F-MJBJ","EC-145","LEO (FRA Gendarmerie)"
 "3aac0c","a-f-A-M-H","F-MJBI","EC-145","LEO (FRA Gendarmerie)"
 "3aac0f","a-f-A-C-H","F-MJDD","EC-135T2+","LEO (FRA Gendarmerie)"
 "3aac12","a-f-A-C-H","F-MJDA","EC-135T2+","LEO (FRA Gendarmerie)"

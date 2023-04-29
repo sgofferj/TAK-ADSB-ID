@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "884004","a-f-A-C-F","33742","Falcon 2000","LEO (THA POL)"
+"884005","a-F-A-C-H","3401","AW-189","LEO (THA POL)"
 "884006","a-F-A-C-H","3402","AW-189","LEO (THA POL)"
 "884007","a-F-A-C-H","3403","AW-189","LEO (THA POL)"
 "884009","a-F-A-C-H","3207","Bell 429","LEO (THA POL)"

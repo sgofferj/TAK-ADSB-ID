@@ -4,5 +4,6 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"78059d","a-u-A-M-V","B-4080","B737-85N","CHN AF"
 "79c104","a-u-A-M-F-C-H","21043","IL-76MD","CHN AF"
 "7a425e","a-u-A-M-F-C-H","11153","Y20","CHN AF"

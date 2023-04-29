@@ -8,6 +8,7 @@
 "c2af63","a-f-A-M-F-C-M","130334","CC-130H","CAN AF"
 "c2afc7","a-f-A-M-F-C-H","177702","C-17","CAN AF"
 "c2b37d","a-f-A-M-F-U-H","15005","CC-150","CAN AF"
+"c2b3b9","a-f-A-M-F-U-H","15003","CC-150","CAN AF"
 "c2b3c3","a-f-A-M-F-U-H","15004","CC-150","CAN AF"
 "c2b3d7","a-f-A-M-F-C-H","177701","C-17","CAN AF"
 "c2b49f","a-f-A-M-H-U-M","148817","CH-148","CAN AF"
