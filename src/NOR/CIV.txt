@@ -3,3 +3,5 @@
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
+
+"47C90E","a-f-A-C-F","LN-0310UD","Textron Aerosond UAV","Nordic Unmanned ASA"
