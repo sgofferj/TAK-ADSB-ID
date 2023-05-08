@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"47C90E","a-f-A-M-F-Q","LN-0310UD","Textron Aerosond UAV","Nordic Unmanned ASA"
+"47C90E","a-f-A-M-F-Q","LN-0310UD","Textron Aerosonde UAV","Nordic Unmanned ASA"
