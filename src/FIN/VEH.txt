@@ -6,6 +6,7 @@
 
 
 "4676f3","a-f-G-E-V-C","RAKE7","OPS vehicle","Finavia"
+"467705","a-f-G-E-V-C","ILMA2","OPS vehicle","Finavia"
 "467717","a-f-G-E-V-C-A","MR5","Marshaller","Finavia"
-"46772a","a-f-G-E-V-C","SAHKO8","OPS vehicle","Finavia"
 "467728","a-f-G-E-V-C","SAHKO4","OPS vehicle","Finavia"
+"46772a","a-f-G-E-V-C","SAHKO8","OPS vehicle","Finavia"
