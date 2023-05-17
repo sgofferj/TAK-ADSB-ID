@@ -5,8 +5,12 @@
 #"hexid","CoT type","registration","type","operator"
 
 
-"4676f3","a-f-G-E-V-C","RAKE7","OPS vehicle","Finavia"
+"4676f3","a-f-G-E-V-C-U-H","RAKE7","OPS vehicle","Finavia"
 "467705","a-f-G-E-V-C","ILMA2","OPS vehicle","Finavia"
 "467717","a-f-G-E-V-C-A","MR5","Marshaller","Finavia"
-"467728","a-f-G-E-V-C","SAHKO4","OPS vehicle","Finavia"
-"46772a","a-f-G-E-V-C","SAHKO8","OPS vehicle","Finavia"
+"467721","a-f-G-E-V-C-M","HENKILO6","OPS vehicle","Finavia"
+"467728","a-f-G-E-V-C-U-M","SAHKO4","El. maint.","Finavia"
+"46772a","a-f-G-E-V-C-U-M","SAHKO8","El. maint.","Finavia"
+"46773b","a-f-G-E-V-C-U-H","KUNTO13","OPS vehicle","Finavia"
+"46778b","a-f-G-E-V-C-U-L","VESI18","OPS vehicle","Finavia"
+"46779d","a-f-G-E-V-C-U-M","VIESTI52","OPS vehicle","Finavia"
