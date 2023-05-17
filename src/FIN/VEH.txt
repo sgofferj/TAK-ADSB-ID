@@ -1,0 +1,11 @@
+#TAK ADSB IDs FINLAND Vehicles
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+
+"4676f3","a-f-G-E-V-C","RAKE7","OPS vehicle","Finavia"
+"467717","a-f-G-E-V-C-A","MR5","Marshaller","Finavia"
+"46772a","a-f-G-E-V-C","SAHKO8","OPS vehicle","Finavia"
+"467782","a-f-G-E-V-C","SAHKO4","OPS vehicle","Finavia"
