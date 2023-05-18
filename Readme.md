@@ -5,13 +5,11 @@
 This is a collection of specific ICAO hexids to make ATAK/WinTAK SA displays more meaningful. The idea is to use them in the middleware which feeds ADSB data as CoT objects into a TAK server.
 I started out with Finland but pull requests are welcome.
 In April 2023, I also added countries.json which classifies ICAO hexid ranges. Together with the cotdb, those 2 files should allow for at least an IFF classification.
-## Civilian or military?
-I use mostly the definitions of the country. In Finland, e.g. the Border Guard is considered not a military branch but a law enforcement agency under the Ministry of the Interior. Hence, at the moment, I classify FBG aircraft as "a-f-A-C-\*". 
 ## Friendly, hostile, neutral?
 I classify the aircraft from the point of view of somebody living in Finland. Finland is not at war with anybody at this point in time, so at the moment I do not classify any aircraft as hostile. If you feel, some aircraft should be classified as hostile, please download the files and use the search and replace function on your local copy.
 Civilian aircraft are classified based on their country of registration because it's not always possible to figure out who is actually operating a certain aircraft at any moment in time.
 
-**Update 2022-04-26:** Due to the Ukraine conflict and the changes in Finnish foreign policy, I reclassified all Russian and Belarussian planes as "hostile".
+**Update 2022-04-26:** Due to the Ukraine conflict and the changes in Finnish foreign policy, I reclassified all Russian and Belarusian planes as "hostile".
 
 ## Other stuff
 To assist middlewares with displaying special civilian aircraft, I am developing some conventions for the source files:
