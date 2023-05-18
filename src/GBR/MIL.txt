@@ -18,7 +18,7 @@
 "400eee","a-f-A-M-F-T","G-BYVR","Grob 115","GBR AF"
 "405358","a-f-A-M-H-U-L","ZJ165","AS-362","GBR N"
 "4060d6","a-f-A-M-F-T","G-CGKG","Grob 115","GBR AF"
-"406f50","a-f-A-M-V","GZ100","AW109SP","GBR AF"
+"406f50","a-f-A-M-F","GZ100","AW109SP","GBR AF VIP"
 "43c041","a-f-A-M-F-C-M","ZH865","C-130J","GBR AF"
 "43C04C","a-f-A-M-F-C-M","ZH870","C-130J","GBR AF"
 "43c04e","a-f-A-M-F-C-H","ZZ175","C-17","GBR AF"

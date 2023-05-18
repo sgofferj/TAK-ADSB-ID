@@ -4,5 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"4682A6","a-f-A-M-V","678","Gulf 5","GRC AF"
+"4682A6","a-f-A-M-F","678","Gulf 5","GRC AF VIP"
 "4682eb","a-f-A-M-F-C-M","747","C-130H","GRC AF"

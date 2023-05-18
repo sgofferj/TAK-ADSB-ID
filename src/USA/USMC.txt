@@ -6,6 +6,7 @@
 
 "ae03d2","a-f-A-M-F-K","164441","KC-130T","USMC"
 "ae06e4","a-f-A-M-F-U-L","163836","UC-12M","USMC"
+"ae0865","a-f-A-M-H","159353","VH-3D","USMC VIP"
 "ae0940","a-f-A-M-F-U-M","166374","UC-35D","USMC"
 "ae29fc","a-f-A-M-F-U-L","168205","UC-12W","USMC"
 "ae4a7a","a-f-A-M-F-U-L","168204","UC-12W","USMC"

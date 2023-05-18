@@ -20,4 +20,4 @@
 "c2b58f","a-f-A-M-F-C-M","130611","CC-130J","CAN AF"
 "c2b5ad","a-f-A-M-F-C-M","130614","CC-130J","CAN AF"
 "c2b5c1","a-f-A-M-F-C-M","130616","CC-130J","CAN AF"
-"C2C1FB","a-f-A-M-V","144620","Challenger 600","CAN AF"
+"C2C1FB","a-f-A-M-F","144620","Challenger 600","CAN AF VIP"

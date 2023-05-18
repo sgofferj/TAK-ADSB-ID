@@ -38,7 +38,7 @@
 "480C04","a-f-A-M-F-C-M","G-275","C-130J","NLD AF"
 "480C05","a-f-A-M-F-C-M","G-781","C-130J","NLD AF"
 "480c06","a-f-A-M-F-C-M","G-988","C-130","NLD AF"
-"480c1a","a-f-A-M-V","V11","Gulf 4","NLD AF"
+"480c1a","a-f-A-M-F","V11","Gulf 4","NLD AF VIP"
 "480C21","a-f-A-M-F-T","L-01","PC-7","NLD AF"
 "480C22","a-f-A-M-F-T","L-02","PC-7","NLD AF"
 "480C23","a-f-A-M-F-T","L-03","PC-7","NLD AF"

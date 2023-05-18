@@ -7,7 +7,7 @@
 "adfe10","a-f-A-M-F-H","1704","HC-130H","USCG"
 "adfe1b","a-f-A-M-F-H","1715","HH-130H","USCG"
 "adfe1c","a-f-A-M-F-H","1716","HC-130H","USCG"
-"ae10c1","a-f-A-M-V","01","C-37A","USCG"
+"ae10c1","a-f-A-M-F","01","C-37A","USCG VIP"
 "ae10e9","a-f-A-M-F-H","2003","HC-130H","USCG"
 "ae223a","a-f-A-M-F-H","2303","HC-144H","USCG"
 "ae265b","a-f-A-M-H-H","6501","HH-65","USCG"
