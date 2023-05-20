@@ -4,9 +4,9 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"4b7f43","a-n-A-M-V","T-752","Challenger 604","CHE AF"
-"4b7f44","a-n-A-M-V","T-751","Challenger 604","CHE AF"
-"4B7F4C","a-n-A-M-V","T-785","Falcon 900","CHE AF"
+"4b7f43","a-n-A-M-F","T-752","Challenger 604","CHE AF VIP"
+"4b7f44","a-n-A-M-F","T-751","Challenger 604","CHE AF VIP"
+"4B7F4C","a-n-A-M-F","T-785","Falcon 900","CHE AF VIP"
 "4b7f5a","a-n-A-M-F-T","A-108","PC-21","Switzerland"
 "4b7f5d","a-n-A-M-F-T","R-711","Diamond 42","CHE AF"
 "4b7f5f","a-n-A-M-F-U-L","V-634","PC-6T","CHE AF"
@@ -43,7 +43,7 @@
 "4b7fd1","a-n-A-M-H-U-L","T-353","EC-635P2+","CHE AF"
 "4b7fd2","a-n-A-M-H-U-L","T-352","EC-135P2","CHE AF"
 "4b7fd3","a-n-A-M-H-U-L","T-351","EC 135P2+","CHE AF"
-"4b7fd4","a-n-A-M-V","T-784","Citation 560 XL","CHE AF"
+"4b7fd4","a-n-A-M-F","T-784","Citation 560 XL","CHE AF VIP"
 "4b7fd6","a-n-A-M-F-T","A-926","PC-7","CHE AF"
 "4b7fd7","a-n-A-M-H-U-M","T-342","AS-532UL","CHE AF"
 "4b7fda","a-n-A-M-H-U-M","T-339","AS-532UL","CHE AF"
