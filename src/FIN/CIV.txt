@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "4613b9","a-f-A-C-H","OH-HMF","EC135P2+","EMS (FinnHEMS)"
+"4613ba","a-f-A-C-H","OH-HMG","EC135T3","EMS (FinnHEMS)"
 "4613c4","a-f-A-C-H","OH-HMQ","EC135P2+","EMS (FinnHEMS)"
 "4613C8","a-f-A-C-H","OH-HMU","EC135P2+","EMS (FinnHEMS)"
 "4613cb","a-f-A-C-H","OH-HMX","EC135P2+","EMS (FinnHEMS)"

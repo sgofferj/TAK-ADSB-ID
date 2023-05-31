@@ -13,6 +13,7 @@
 "467721","a-f-G-E-V-C-M","HENKILO6","OPS vehicle","Finavia"
 "467728","a-f-G-E-V-C-U-M","SAHKO4","El. maint.","Finavia"
 "46772a","a-f-G-E-V-C-U-M","SAHKO8","El. maint.","Finavia"
+"467730","a-f-G-E-V-C-U-H","KUNTO3","OPS vehicle","Finavia"
 "46773b","a-f-G-E-V-C-U-H","KUNTO13","OPS vehicle","Finavia"
 "46778b","a-f-G-E-V-C-U-L","VESI18","OPS vehicle","Finavia"
 "46779d","a-f-G-E-V-C-U-M","VIESTI52","OPS vehicle","Finavia"
