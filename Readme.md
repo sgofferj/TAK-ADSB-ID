@@ -1,6 +1,6 @@
 # TAK ADSB ID collection
 
-[![Aircraft count](https://img.shields.io/static/v1?label=Aircraft&message=3904&color=2ea44f)](https://github.com/sgofferj/TAK-ADSB-ID)
+[![Aircraft count](https://img.shields.io/static/v1?label=Aircraft&message=3907&color=2ea44f)](https://github.com/sgofferj/TAK-ADSB-ID)
 ## Overview
 This is a collection of specific ICAO hexids to make ATAK/WinTAK SA displays more meaningful. The idea is to use them in the middleware which feeds ADSB data as CoT objects into a TAK server.
 I started out with Finland but pull requests are welcome.
