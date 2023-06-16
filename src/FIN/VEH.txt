@@ -4,7 +4,6 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-
 "4676f3","a-f-G-E-V-C-U-H","RAKE7","OPS vehicle","Finavia"
 "4676f5","a-f-G-E-V-C","E1","OPS vehicle","Finavia"
 "4676fc","a-f-G-E-V-C-U-H","KUNTO72","OPS vehicle","Finavia"
@@ -19,5 +18,6 @@
 "46773b","a-f-G-E-V-C-U-H","KUNTO13","OPS vehicle","Finavia"
 "46778b","a-f-G-E-V-C-U-L","VESI18","OPS vehicle","Finavia"
 "467790","a-f-G-E-V-C-U-H","RAKE1","OPS vehicle","Finavia"
+"467797","a-f-G-E-V-C","SEUTU25","OPS vehicle","Finavia"
 "46779d","a-f-G-E-V-C-U-M","VIESTI52","OPS vehicle","Finavia"
 "4677c4","a-f-G-E-V-C","TRK63","OPS vehicle","Finavia"
