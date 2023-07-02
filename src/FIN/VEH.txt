@@ -23,5 +23,6 @@
 "467790","a-f-G-E-V-C-U-H","RAKE1","OPS vehicle","Finavia"
 "467797","a-f-G-E-V-C-U-L","SEUTU25","OPS vehicle","Finavia"
 "46779d","a-f-G-E-V-C-U-M","VIESTI52","OPS vehicle","Finavia"
+"4677b6","a-f-G-E-V-C-U-M","TRK67","OPS vehicle","Finavia"
 "4677c4","a-f-G-E-V-C-U-M","TRK63","OPS vehicle","Finavia"
 "4677ca","a-f-G-E-V-C-U-M","VIESTI63","OPS vehicle","Finavia"
