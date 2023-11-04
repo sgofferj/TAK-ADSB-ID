@@ -375,6 +375,6 @@
 "156ee6","a-h-A-M-F-C-H","RA-93926","Tu-134B3","RUS AF"
 "157766","a-h-A-M-F-D","RA-96102","IL-96-400-VVIP","RUS AF"
 "194e97","a-h-A-M-F-C-M","RF-85655","Tu-154M","RUS AF"
-"1d3343","a-h-A-M-F-C-H","RA-78837","IL-76MD-90A","RUS AF"
+"1d3343","a-h-A-M-F-C-H","RF-78659","IL-76MD-90A","RUS AF"
 "1d33f5","a-h-A-M-F-C-H","RA-78837","IL-76MD","RUS AF"
 "456789","a-h-A-M-H-H","RF-19699","Ka-27PS","RUS N"
