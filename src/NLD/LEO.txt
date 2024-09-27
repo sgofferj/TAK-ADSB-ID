@@ -1,5 +1,16 @@
 #TAK ADSB IDs NETHERLANDS Law enforcement
 #Copyright 2021 Stefan Gofferje
+#With contributions from Robert W.
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
+
+"484a91","a-f-A-M-H-U-L","PH-PXA","EC-135P2+","LEO (NLD Police)"
+"484a92","a-f-A-M-H-U-L","PH-PXB","EC-135P2+","LEO (NLD Police)"
+"484a93","a-f-A-M-H-U-L","PH-PXC","EC-135P2+","LEO (NLD Police)"
+"484a94","a-f-A-M-H-U-L","PH-PXD","EC-135P2+","LEO (NLD Police)"
+"484a95","a-f-A-M-H-U-L","PH-PXE","EC-135P2+","LEO (NLD Police)"
+"484a96","a-f-A-M-H-U-L","PH-PXF","EC-135P2+","LEO (NLD Police)"
+"485b2f","a-f-A-M-H-U-M","PH-PXX","AW-139","LEO (NLD Police)"
+"484ac1","a-f-A-M-H-U-M","PH-PXY","AW-139","LEO (NLD Police)"
+"484ac0","a-f-A-M-H-U-M","PH-PXZ","AW-139","LEO (NLD Police)"
