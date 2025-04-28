@@ -2,7 +2,7 @@
 MONTH=$(date -u +"%b"| tr [a-z] [A-Z])
 RELEASEDATE=$(date -u +"%d%H%MZ${MONTH}%y")
 
-echo "Release date: ${RELEASEDATE}"
+echo "RELEASE_TAG=${RELEASEDATE}"
 
 echo > tmp.txt
 
@@ -30,7 +30,6 @@ jq -cRsn '
 ' >cotdb.json
 
 AIRCRAFT=$(jq '. | length' cotdb_indexed.json)
-echo ${AIRCRAFT}
 
 sed -i "s/\(message\=\)[0-9]*\&/\1${AIRCRAFT}\&/g" Readme.md
 
