@@ -20,3 +20,4 @@ jobs:
             ./cotdb.txt
             ./cotdb.json
             ./cotdb_indexed.json
+            ./countries.json

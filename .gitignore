@@ -1,5 +1,5 @@
 *.zip
 *.gz
 refresh.sh
-changevip.sh
-cotdb.*
+tools/changevip.sh
+#cotdb.*
