@@ -10,6 +10,6 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-          build-release.sh
+          ./build-release.sh
       - run: echo "🍏 This job's status is ${{ job.status }}."
       
