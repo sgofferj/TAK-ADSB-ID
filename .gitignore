@@ -2,3 +2,4 @@
 *.gz
 refresh.sh
 changevip.sh
+cotdb.*
