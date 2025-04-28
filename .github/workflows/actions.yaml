@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Build release
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
@@ -7,9 +7,16 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
-      - name: List files in the repository
+      - name: Build db files
         run: |
-          ls ${{ github.workspace }}
           ./build-release.sh
-      - run: echo "🍏 This job's status is ${{ job.status }}."
-      
+      - name: Create a GitHub release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: ${{ steps.tag_version.outputs.new_tag }}
+          name: Release ${{ steps.tag_version.outputs.new_tag }}
+          body: ${{ steps.tag_version.outputs.changelog }}
+          artifacts: |
+            ./cotdb.txt
+            ./cotdb.json
+            ./cotdb_indexed.json
