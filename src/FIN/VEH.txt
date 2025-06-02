@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"4676d4","a-f-G-E-V-C-U-L","HAUKKA1","Bird deterrent patrol","Finavia"
 "4676d8","a-f-G-E-V-C-U-M","KUNTO2","OPS vehicle","Finavia"
 "4676e6","a-f-G-E-V-C-U-M","SAHKO14","El. maint.","Finavia"
 "4676f3","a-f-G-E-V-C-U-H","RAKE7","OPS vehicle","Finavia"
