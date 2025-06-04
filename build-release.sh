@@ -31,7 +31,7 @@ jq -cRsn '
 
 AIRCRAFT=$(jq '. | length' cotdb_indexed.json)
 
-echo ${AIRCRAFT}
+echo "AIRCRAFT=${AIRCRAFT}"
 
 sed -i "s/\(message\=\)[0-9]*\&/\1${AIRCRAFT}\&/g" Readme.md
 

@@ -15,7 +15,7 @@ jobs:
         with:
           tag: ${{ env.RELEASE_TAG }}
           name: Release ${{ env.RELEASE_TAG }}
-          body: ${{ env.AIRCRAFT }}
+          body: ${{ env.AIRCRAFT }} aircraft
           artifacts: |
             ./cotdb.txt
             ./cotdb.json
