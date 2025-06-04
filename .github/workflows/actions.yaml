@@ -1,5 +1,5 @@
 name: Build release
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: Build DBs and release
 on: [push]
 jobs:
   build-release:
@@ -15,7 +15,7 @@ jobs:
         with:
           tag: ${{ env.RELEASE_TAG }}
           name: Release ${{ env.RELEASE_TAG }}
-          body: ${{ env.AIRCRAFT }} aircraft
+          body: This release contains ${{ env.AIRCRAFT }} aircraft and ground vehicles.
           artifacts: |
             ./cotdb.txt
             ./cotdb.json
