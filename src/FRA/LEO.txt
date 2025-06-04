@@ -16,3 +16,5 @@
 "3aac17","a-f-A-C-H","0787","EC-135T2+","LEO (FRA Gendarmerie)"
 "3b7b22","a-f-A-M-F","F-ZBGO","Beech 350","FRA CUSTOMS"
 "3b7b57","a-f-A-M-H","F-ZBGI","EC-135T2","FRA CUSTOMS"
+"3b7b89","a-f-A-M-F","F-ZBGD","F406","FRA Customs"
+"3b7b8a","a-f-A-M-F","F-ZBCJ","F406","FRA Customs"

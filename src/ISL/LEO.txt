@@ -1,0 +1,7 @@
+#TAK ADSB IDs ICELAND Law enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"4cc468","a-f-A-M-F-P","TF-SIF","DHC-8 314Q","ISL CG"

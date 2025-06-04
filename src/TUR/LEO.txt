@@ -1,0 +1,8 @@
+#TAK ADSB IDs TURKEY Law enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"4b82a4","a-f-A-C-H","EM-7093","Bell 429","TUR National Police"
+"4b82d3","a-f-A-C-H","OR-3133","Bell 429","TUR Directorate of Forestry & Water Affairs"

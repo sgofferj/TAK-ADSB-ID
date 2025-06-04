@@ -1,0 +1,7 @@
+#TAK ADSB IDs SAUDI ARABIA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"7102fa","a-u-A-M-F-K","2402","A330 202MRTT","SAU AF"
