@@ -342,6 +342,7 @@
 "15520a","a-h-A-M-F-C-M","RA-86538","IL-62M","RUS AF"
 "15520b","a-h-A-M-F-C-M","RA-86539","IL-62M","RUS AF"
 "15521b","a-h-A-M-F-C-M","RA-86555","IL-62M","RUS AF"
+"15521f","a-h-A-M-F-C-M","RA-86559","IL-62M","RUS AF"
 "155221","a-h-A-M-F-C-M","RA-86561","IL-62M","RUS AF"
 "15522c","a-h-A-M-F-C-M","RA-86572","IL-62M","RUS AF"
 "155329","a-h-A-M-F-C-H","RF-86825","IL-76M","RUS AF"

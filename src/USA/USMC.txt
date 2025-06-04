@@ -5,9 +5,11 @@
 #"hexid","CoT type","registration","type","operator"
 
 "ae03d2","a-f-A-M-F-K","164441","KC-130T","USMC"
+"ae040b","a-f-A-M-F-K","165739","KC-130J","USMC"
 "ae06e4","a-f-A-M-F-U-L","163836","UC-12M","USMC"
 "ae0865","a-f-A-M-H","159353","VH-3D","USMC VIP"
 "ae0940","a-f-A-M-F-U-M","166374","UC-35D","USMC"
+"ae1437","a-f-A-M-F-U-L","166712","UC-35D","USMC"
 "ae29fc","a-f-A-M-F-U-L","168205","UC-12W","USMC"
 "ae4a7a","a-f-A-M-F-U-L","168204","UC-12W","USMC"
 "ae4a7c","a-f-A-M-F-U-L","168208","UC-12W","USMC"
@@ -16,4 +18,4 @@
 "ae61b7","a-f-A-M-U-H","169022","CH-53K","USMC"
 "ae6963","a-f-A-M-F-C-M","170000","C-130J","USMC"
 "ae6d59","a-f-A-M-H-T","170167","TH-73A","USMC"
-"AF4A7B","a-f-A-M-F-U-L","168207","UC-12W","USMC"
+"af4a7b","a-f-A-M-F-U-L","168207","UC-12W","USMC"
