@@ -15,7 +15,7 @@ jobs:
         with:
           tag: ${{ env.RELEASE_TAG }}
           name: Release ${{ env.RELEASE_TAG }}
-#          body: ${{ steps.tag_version.outputs.changelog }}
+          body: ${{ env.AIRCRAFT }}
           artifacts: |
             ./cotdb.txt
             ./cotdb.json
