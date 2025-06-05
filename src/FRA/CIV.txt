@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "3b7b3a","a-f-A-C-F","F-ZBML","Dash 8-402MR","FIRE (FRA CIVPROT)"
+"3b7b3d","a-f-A-C-F","F-ZBMK","Dash 8-402NG","FIRE (FRA CIVPROT)"
 "3b7b3e","a-f-A-C-F","F-ZBMJ","Dash 8-402MR","FIRE (FRA CIVPROT)"
 "3b7b3f","a-f-A-C-F","F-ZBMI","Dash-8-402MR","FIRE (FRA CIVPROT)"
 "3b7b49","a-f-A-M-H-O","F-ZBQL","EC-145","EMS (FRA CIVPROT)"
@@ -12,6 +13,7 @@
 "3b7b64","a-f-A-C-F","F-ZBMB","Beech 200","FRA CIVPROT"
 "3b7b65","a-f-A-C-F","F-ZBFJ","Beech 200","FRA CIVPROT"
 "3b7b6b","a-f-A-C-F","F-ZBMG","CL-145","FIRE (FRA CIVPROT)"
+"3b7b71","a-f-A-C-F","F-ZBME","CL-415T","FIRE (FRA CIVPROT)"
 "3b7b85","a-f-A-C-F","F-ZBMD","Dash 8-Q400MR","FIRE (FRA CIVPROT)"
 "3b7b8d","a-f-A-M-H-O","F-ZBQD","EC-145","EMS (FRA CIVPROT)"
 "3b7b92","a-f-A-M-H-O","F-ZBPY","EC-145","EMS (FRA CIVPROT)"

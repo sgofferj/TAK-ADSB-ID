@@ -6,3 +6,4 @@
 
 "010083","a-f-A-M-F-C-M","SU-BAS","C-130","EGY AF"
 "0101a1","a-u-A-M-F-C-M","SU-BSY","C-295M","EGY AF"
+"0101a3","a-u-A-M-F-C-M","SU-BTA","C-295M","EGY AF"

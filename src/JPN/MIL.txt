@@ -1,0 +1,8 @@
+#TAK ADSB IDs JAPAN Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"87c81a","a-f-A-M-F-P","5505","P-1","JPN N"
+"87cd24","a-f-A-M-F-C-M","38-1217","C-2","JPN AF"

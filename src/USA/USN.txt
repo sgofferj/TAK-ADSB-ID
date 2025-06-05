@@ -14,6 +14,7 @@
 "ae03e7","a-f-A-M-F-C-M","165159","C-130T","USN"
 "ae03e8","a-f-A-M-F-C-M","165349","C-130T","USN"
 "ae03e9","a-f-A-M-F-C-M","165161","C-130T","USN"
+"ae03ea","a-f-A-M-F-C-M","165313","C-130T","USN"
 "ae03ed","a-f-A-M-F-C-M","165349","C-130T","USN"
 "ae040d","a-f-A-M-F-P","162782","E-6B","USN"
 "ae0410","a-f-A-M-F-P","163918","E-6B","USN"

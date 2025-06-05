@@ -6,4 +6,7 @@
 
 "c87f02","a-f-A-M-F-C-M","NZ7001","C-130","NZL AF"
 "c87f11","a-f-A-M-H-U-M","NZ3305","NH-90TTH","NZL AF"
+"c87f36","a-f-A-M-F-U-L","NZ2350","Beech 350i","NZL AF"
+"c87f37","a-f-A-M-F-R-Z","NZ2351","Beech 350i","NZL AF"
+"c87f38","a-f-A-M-F-R-Z","NZ2352","Beech 350i","NZL AF"
 "c87f39","a-f-A-M-F-U-L","NZ2353","Beech 350i","NZL AF"

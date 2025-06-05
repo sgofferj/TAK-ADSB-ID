@@ -7,8 +7,8 @@
 "4a35a2","a-f-A-M-F-C-M","5930","C-130","ROU AF"
 "4a35a4","a-f-A-M-F-C-M","6166","C-130","ROU AF"
 "4a35a6","a-f-A-M-F-C-M","810","An-26","ROU AF"
+"4a35a7","a-f-A-M-F-R-X","1104","An-30","ROU AF"
 "4a35aa","a-f-A-M-F-C-M","2701","C-27J","ROU AF"
 "4a35ac","a-f-A-M-F-C-M","2703","C-27J","ROU AF"
 "4a35ae","a-f-A-M-F-C-M","2705","C-27J","ROU AF"
 "4a35af","a-f-A-M-F-C-M","2706","C-27J","ROU AF"
-

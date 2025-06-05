@@ -8,6 +8,7 @@
 "498422","a-f-A-M-F","2801","A319-115X","CZE AF VIP"
 "498429","a-f-A-M-F-F","9234","JAS-39C","CZE AF"
 "49842b","a-f-A-M-F-F","9236","JAS-39C","CZE AF"
+"49842d","a-f-A-M-F-F","9238","JAS-39C","CZE AF"
 "498436","a-f-A-M-F-F","9820","JAS-39C","CZE AF"
 "498487","a-f-A-M-F-C-M","0453","C295","CZE AF"
 "4984a4","a-f-A-M-H-U-M","0839","Mi-17","CZE AF"

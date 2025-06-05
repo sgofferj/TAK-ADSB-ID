@@ -1,6 +1,7 @@
-#TAK ADSB IDs ITALY Law Enforcement
+#TAK ADSB IDs MALAYSIA Military
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"7500c5","a-u-A-M","M48-02","BD-700-1A10","MYS AF VIP"

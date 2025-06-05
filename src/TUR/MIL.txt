@@ -4,6 +4,8 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"4b8203","a-f-A-M-F-K","62-3563","KC-135R","TUR AF"
 "4b8225","a-f-A-M-F-C-M","63-13188","C-130E","TUR AF"
 "4b8296","a-f-A-M-F-R-W","13-002","E-7T","TUR AF"
 "4b8298","a-f-A-M-F-R-W","13-004","E-7T","TUR AF"
+"4b82ff","a-f-A-M-F-R-X","5003","B350","TUR MoD"

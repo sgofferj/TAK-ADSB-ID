@@ -13,3 +13,4 @@
 "0200cc","a-f-A-M-F","CN-MVI","B737-8KB","MAR AF VIP"
 "02012d","a-f-A-M-F","CN-MMR","Gulf G550","MAR AF VIP"
 "020130","a-f-A-M-F","CN-MBH","B747-800","MAR AF VIP"
+"020136","a-f-A-M-F","CN-MMH","Gulf G650","MAR AF VIP"

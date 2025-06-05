@@ -11,6 +11,7 @@
 "0a400d","a-u-A-M-F-C-M","7T-WHN","C-130","DZA AF"
 "0a4017","a-u-A-M-F-C-M","7T-WHJ","C-130","DZA AF"
 "0a4018","a-u-A-M-F-C-M","7T-WHI","C-130","DZA AF"
+"0a4019","a-u-A-M-F-C-M","7T-WHF","C-130H","DZA AF"
 "0a401b","a-u-A-M-F-C-M","7T-WHD","C-130","DZA AF"
 "0a401c","a-u-A-M-F-C-M","7T-WHL","C-130","DZA AF"
 "0a401e","a-u-A-M-F-C-M","7T-WHB","C-130H","DZA AF"

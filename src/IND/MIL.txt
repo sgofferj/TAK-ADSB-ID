@@ -7,6 +7,7 @@
 "80021e","a-n-A-M-F-C-M","K2755","An-32","IND AF"
 "800237","a-n-A-M-F-C-M","K2725","An-32","IND AF"
 "800255","a-n-A-M-F-C-M","K2737","An-32","IND AF"
+"80026d","a-u-A-M-F-U-M","HM671","Do 228","IND AF"
 "80026e","a-n-A-M-F-U-M","HM673","Do 228","IND AF"
 "800270","a-n-A-M-F-U-M","HM674","Do 228","IND AF"
 "800273","a-n-A-M-F-U-M","HM677","Do 228","IND AF"
