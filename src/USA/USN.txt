@@ -136,6 +136,7 @@
 "ae4eb9","a-f-A-M-F-P","168435","P-8","USN"
 "ae4ec4","a-f-A-M-F-P","168759","P-8A","USN"
 "ae4f88","a-f-A-M-H-U-M","167054","MH-60R","USN"
+"ae4fb8","a-f-A-M-H-U-M","168104","MH-60R","USN"
 "ae54da","a-f-A-M-F-T","166200","T-6","USN"
 "ae54dd","a-f-A-M-F-T","166203","T-6C","USN"
 "ae54eb","a-f-A-M-F-T","166217","T-6","USN"

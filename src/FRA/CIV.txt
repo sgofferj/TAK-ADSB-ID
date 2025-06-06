@@ -18,4 +18,5 @@
 "3b7b85","a-f-A-C-F","F-ZBMD","Dash 8-Q400MR","FIRE (FRA CIVPROT)"
 "3b7b8d","a-f-A-M-H-O","F-ZBQD","EC-145","EMS (FRA CIVPROT)"
 "3b7b92","a-f-A-M-H-O","F-ZBPY","EC-145","EMS (FRA CIVPROT)"
+"3b7b98","a-f-A-M-H-O","F-ZBPS","EC-145","EMS (FRA CIVPROT)"
 "3b7ba0","a-f-A-M-H-O","F-ZBPK","EC-145","EMS (FRA CIVPROT)"
