@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "02b26b","a-f-A-M-F-C-M","Z21122","C-130","TUN AF"
+"02ba64","a-f-A-M-F-C-L","Z94045","L-410","TUN AF"

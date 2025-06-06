@@ -6,6 +6,7 @@
 
 "adfd6d","a-f-A-M-F-U-M","900528","C-26D","USN"
 "adfd6f","a-f-A-M-F-U-M","900530","C-26B","USN"
+"adfd70","a-f-A-M-F-C-M","900531","C-26D","USN"
 "ADFD72","a-f-A-M-F-U-M","910502","C-26D","USN"
 "adfda3","a-f-A-M-F-U-M","860456","C-26A","USN"
 "ae03dc","a-f-A-M-K","165352","KC-130T","USN"

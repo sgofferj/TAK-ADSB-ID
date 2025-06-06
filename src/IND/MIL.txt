@@ -32,5 +32,6 @@
 "800796","a-u-A-M-F-C","CB-8009","C-17A","IND AF"
 "8007a1","a-n-A-M-F-C-M","K2764","An-32","IND AF"
 "800c3d","a-u-A-M-F","K7067","B777 300ER","IND AF VIP"
+"800e12","a-u-A-M-F-U-M","KD710","Do 228","IND AF"
 "800e14","a-n-A-M-F-U-M","KD712","Do 228","IND AF"
 "800e8a","a-n-A-M-F-P","IN329","P-8","IND N"

@@ -1,0 +1,11 @@
+#TAK ADSB IDs ISRAEL Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"738a4a","a-u-A-M-F-R-Z","679","GV","ISR AF"
+"738a53","a-u-A-M-F-T","400","T-6A","ISR AF"
+"738a55","a-u-A-M-F-T","456","T-6A","ISR AF"
+"738a57","a-u-A-M-F-T","473","T-6A","ISR AF"
+"738a65","a-u-A-M-F-T","496","T-6A","ISR AF"

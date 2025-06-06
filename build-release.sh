@@ -39,7 +39,7 @@ echo '#TAK ADSB IDs' > cotdb.txt
 echo '#Copyright 2021 Stefan Gofferje' >> cotdb.txt
 echo '#License: CC-BY-SA 4.0' >> cotdb.txt
 echo '#Format:' >> cotdb.txt
-echo '#"hexid","SIDC","registration","type","operator"' >> cotdb.txt
+echo '#"hexid","CoT type","registration","type","operator"' >> cotdb.txt
 echo >> cotdb.txt
 cat tmp.txt | sort | egrep -v "^$" >> cotdb.txt
 rm tmp.txt 
