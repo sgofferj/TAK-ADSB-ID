@@ -161,7 +161,7 @@
     {"start": "778000", "end": "77FFFF", "affil": "u", "country": "Syrian Arab Republic"},
     {"start": "780000", "end": "7BFFFF", "affil": "u", "country": "China"},
     {"start": "7C0000", "end": "7FFFFF", "affil": "f", "country": "Australia" },
-    {"start": "800000", "end": "83FFFF", "affil": "u", "country": "India"},
+    {"start": "800000", "end": "83FFFF", "affil": "n", "country": "India"},
     {"start": "840000", "end": "87FFFF", "affil": "f", "country": "Japan"},
     {"start": "880000", "end": "887FFF", "affil": "f", "country": "Thailand"},
     {"start": "888000", "end": "88FFFF", "affil": "u", "country": "Viet Nam"},
