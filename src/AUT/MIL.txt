@@ -8,6 +8,7 @@
 "447d09","a-n-A-M-F-F","7L-WG","Eurofighter","AUT AF"
 "447d0e","a-n-A-M-F-F","7L-WL","Eurofighter","AUT AF"
 "447d23","a-n-A-M-H-U-M","6M-BC","S-70A-42","AUT AF"
+"447d28","a-n-A-M-H-U-M","6M-BH","S-70A","AUT AF"
 "447d42","a-n-A-M-F-T","3H-DA","DA40 NG","AUT AF"
 "447d50","a-n-A-M-H-U-M","5M-IA","AW-169LUH","AUT AF"
 "447d51","a-n-A-M-H-U-M","5M-IB","AW-169LUH","AUT AF"

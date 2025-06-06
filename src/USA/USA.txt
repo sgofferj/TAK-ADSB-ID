@@ -123,6 +123,7 @@
 "ae1f93","a-f-A-M-H-U-L","10-72132","UH-72A","US A"
 "ae1f9a","a-f-A-M-H-U-L","10-72139","UH-72A","US A"
 "ae1fa9","a-f-A-M-H-U-L","10-72154","UH-72A","US A"
+"ae1fb6","a-f-A-M-H-U-L","10-72167","UH-72A","US A"
 "ae1fb7","a-f-A-M-H-U-L","10-72168","UH-72A","US A"
 "ae1fb9","a-f-A-M-H-U","10-72170","UH-72A","US A"
 "ae1fc1","a-f-A-M-H-U-L","10-72178","UH-72A","US A"

@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"39a840","a-f-A-M-F-T","F-HKCA","SR22","Airbus Flight Academy Europe"
 "39a848","a-f-A-M-F-T","F-HKCI","SR22","Airbus Flight Academy Europe"
 "3b7b3a","a-f-A-C-F","F-ZBML","Dash 8-402MR","FIRE (FRA CIVPROT)"
 "3b7b3d","a-f-A-C-F","F-ZBMK","Dash 8-402NG","FIRE (FRA CIVPROT)"

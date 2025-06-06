@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"7102dd","a-u-A-M-F-C-M","483","C-130H","SAU AF"
 "7102fa","a-u-A-M-F-K","2402","A330 202MRTT","SAU AF"

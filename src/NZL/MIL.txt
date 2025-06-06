@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"c87f00","a-f-A-M-F-C-H","NZ7571","757 2K2C","NZL AF"
 "c87f02","a-f-A-M-F-C-M","NZ7001","C-130","NZL AF"
 "c87f11","a-f-A-M-H-U-M","NZ3305","NH-90TTH","NZL AF"
 "c87f36","a-f-A-M-F-U-L","NZ2350","Beech 350i","NZL AF"

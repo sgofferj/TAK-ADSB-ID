@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "76e721","a-f-A-M-F-T","9101","PC-21","SGP AF"
+"76e723","a-f-A-M-F-T","9103","PC-21","SGP AF"
 "76e724","a-f-A-M-F-T","9104","PC-21","SGP AF"
 "76e727","a-f-A-M-F-T","9107","PC-21","SGP AF"
 "76e728","a-f-A-M-F-T","9108","PC-21","SGP AF"
