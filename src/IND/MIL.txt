@@ -29,6 +29,7 @@
 "800332","a-n-A-M-F-C-M","KC-3801","C-130J","IND AF"
 "800333","a-n-A-M-F-C-M","KC-3802","C-130J","IND AF"
 "800338","a-n-A-M-F-C-M","K2668","AN-32","IND AF"
+"8003e6","a-n-A-M-F-U-H","VT-PPD","A321 211","IND DRDO"
 "800414","a-n-A-M-F-U-H","VT-PPE","A321 211","IND DRDO"
 "80078e","a-n-A-M-F-C-M","CB-8001","C-17A","IND AF"
 "80078f","a-n-A-M-F-C-H","CB-8002","C-17","IND AF"

@@ -13,6 +13,7 @@
 "ae03dc","a-f-A-M-F-K","165352","KC-130T","USN"
 "ae03de","a-f-A-M-F-C-M","164762","C-130T","USN"
 "ae03e5","a-f-A-M-F-C-M","164998","C-130T","USN"
+"ae03e6","a-f-A-M-F-C-M","165158","C-130T","US N"
 "ae03e7","a-f-A-M-F-C-M","165159","C-130T","USN"
 "ae03e8","a-f-A-M-F-C-M","165349","C-130T","USN"
 "ae03e9","a-f-A-M-F-C-M","165161","C-130T","USN"

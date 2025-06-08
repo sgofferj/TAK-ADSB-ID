@@ -23,6 +23,7 @@
 "33fd94","a-f-A-M-F-U-L","MM62304","P.180","ITA CARABINIERI"
 "33fd99","a-f-A-M-F-R-W","MM62303","G550 CAEW","ITA AF"
 "33fdab","a-f-A-M-F-T","MM55214","T.346A","ITA AF"
+"33fdb3","a-f-A-M-F-P","MM62281","P-72A","ITA AF"
 "33fdc1","a-f-A-M-F-T","MM55153","T-346A","ITA AF"
 "33fdc2","a-f-A-M-F-R-W","MM62293","E-550A CAEW","ITA AF"
 "33fe0b","a-f-A-M-F-U-L","MM62156","Do 228 212","ITA A"
