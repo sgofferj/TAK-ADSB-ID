@@ -10,3 +10,4 @@
 "477ff3","a-f-A-M-F-C-H","03","C17","NATO SAC"
 "477ff4","a-f-A-M-F","604","A319","HUN AF VIP"
 "477ff5","a-f-A-M-F","605","A319","HUN AF VIP"
+"477ff6","a-f-A-M-F","606","Falcon 7X","HUN AF VIP"

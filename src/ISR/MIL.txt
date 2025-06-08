@@ -4,8 +4,12 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"738a00","a-u-A-M-F-U-L","842","King Air B200","ISR AF"
+"738a02","a-u-A-M-F-U-L","848","King Air B200","ISR AF"
+"738a04","a-u-A-M-F-U-L","859","King Air B200","ISR AF"
 "738a4a","a-u-A-M-F-R-Z","679","GV","ISR AF"
 "738a53","a-u-A-M-F-T","400","T-6A","ISR AF"
 "738a55","a-u-A-M-F-T","456","T-6A","ISR AF"
 "738a57","a-u-A-M-F-T","473","T-6A","ISR AF"
 "738a65","a-u-A-M-F-T","496","T-6A","ISR AF"
+"738a86","a-u-A-M-F-C-M","318","C-130E","ISR AF"

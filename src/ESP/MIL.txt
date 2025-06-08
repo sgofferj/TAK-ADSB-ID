@@ -26,6 +26,7 @@
 "3542c3","a-f-A-M-F","T.18-3","Falcon 900B","ESP AF VIP"
 "3542c4","a-f-A-M-F","T.18-4","Falcon 900B","ESP AF VIP"
 "3542c5","a-f-A-M-F","T.18-5","Falcon 900","ESP AF VIP"
+"3543c5","a-f-A-M-H-U-M","HD.21-16","AS.332C","ESP AF"
 "354555","a-f-A-M-F","T.22-1","A310-304","ESP AF VIP"
 "354641","a-f-A-M-F-U-M","UD.14-03","CL-415 T","ESP AF FIRE"
 "355316","a-f-A-M-F","TR.20-01","Citation V","ESP AF VIP"

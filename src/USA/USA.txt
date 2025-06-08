@@ -58,6 +58,7 @@
 "ae0401","a-f-A-M-F","84-00156","C-12U","US A VIP"
 "ae0402","a-f-A-M-F","84-00157","C-12U","US A VIP"
 "ae0403","a-f-A-M-F","84-00158","C-12U-3","US A VIP"
+"ae0404","a-f-A-M-F","84-00160","C-12U-3","US A VIP"
 "ae0405","a-f-A-M-F","97-01944","C-37A","US A VIP"
 "ae04ab","a-f-A-M-F","99-00102","UC-35A","US A VIP"
 "ae04f2","a-f-A-M-F","84-00162","C-12U","US A VIP"
