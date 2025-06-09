@@ -28,6 +28,7 @@
 "33fdc2","a-f-A-M-F-R-W","MM62293","E-550A CAEW","ITA AF"
 "33fe0b","a-f-A-M-F-U-L","MM62156","Do 228 212","ITA A"
 "33fe0d","a-f-A-M-H-U-M","MM81823","AW.139 HH-139A","ITA AF"
+"33fe10","a-f-A-M-H-U-M","MM81807","AW.139","ITA AF"
 "33fe1e","a-f-A-M-F-U-L","MM62157","DO-228","ITA A"
 "33fe28","a-f-A-M-F-R-Z","MM62163","P.180AM","ITA AF"
 "33fe77","a-f-A-M-F-K","MM62228","KC-767A","ITA AF"

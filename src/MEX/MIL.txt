@@ -4,7 +4,9 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"0d05c2","a-f-A-M-F-O","ANX-1208","Learjet 45 XR","MEX N"
 "0d0877","a-f-A-M-F-U-M","GN-403","B727-264","MEX NG"
+"0d087f","a-f-A-M-F","ANX-1203","Challenger 605","MEX N"
 "0d091a","a-f-A-M-F-T","2016","T-6C","MEX AF"
 "0d0a13","a-f-A-M-F-U-M","3528","B737-8ZY","MEX AF"
 "0d0bf8","a-f-A-M-F-U-M","GN-511","CN-235","MEX NG"
