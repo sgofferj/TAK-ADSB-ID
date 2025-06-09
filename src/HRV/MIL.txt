@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "501D13","a-f-A-M-F","9A-CRO","Challenger 600","HRV AF VIP"
+"501f9d","a-f-A-M-F-U-H","844","CL-415T","HRV AF FIRE"

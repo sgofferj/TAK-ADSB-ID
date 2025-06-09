@@ -16,4 +16,5 @@
 "738a55","a-u-A-M-F-T","456","T-6A","ISR AF"
 "738a57","a-u-A-M-F-T","473","T-6A","ISR AF"
 "738a65","a-u-A-M-F-T","496","T-6A","ISR AF"
+"738a66","a-u-A-M-F-T","497","T-6A","ISR AF"
 "738a86","a-u-A-M-F-C-M","318","C-130E","ISR AF"

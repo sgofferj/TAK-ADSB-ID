@@ -40,6 +40,7 @@
 "7cf9c9","a-f-A-M-F-K","A39-007","A330 203MRTT","AUS AF"
 "7cf9ce","a-f-A-M-F-P","A47-004","P-8A","AUS AF"
 "7cf9cf","a-f-A-M-F-P","A47-005","P-8A","AUS AF"
+"7cf9d1","a-f-A-M-F-P","A47-007","P-8A","AUS AF"
 "7cf9d2","a-f-A-M-F-P","A47-008","P-8A","AUS AF"
 "7cf9d5","a-f-A-M-F-P","A47-011","P-8A","AUS AF"
 "7cf9d8","a-f-A-M-F-T","A54-001","PC-21","AUS AF"
