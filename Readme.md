@@ -51,7 +51,7 @@ The second available JSON format (cotdb_indexed.json) is
 
 ## Python example
 
-```
+```Python
 import json
 import requests
 
