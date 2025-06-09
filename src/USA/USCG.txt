@@ -40,7 +40,7 @@
 "ae27fc","a-f-A-M-H-H","6011","HH-60J","USCG"
 "ae2902","a-f-A-M-H-H","6018","HH-60J","USCG"
 "ae2905","a-f-A-M-H-H","6021","HH-60H","USCG"
-"ae2914","a-f-A-M-H-U-M","6037","MH-60T","USCG
+"ae2914","a-f-A-M-H-U-M","6037","MH-60T","USCG"
 "ae2916","a-f-A-M-H-H","6039","MH-60T","USCG"
 "ae4ae1","a-f-A-M-F-H","2709","HC-27J","USCG"
 "ae4ae3","a-f-A-M-F-H","2711","HC-27J","USCG"
