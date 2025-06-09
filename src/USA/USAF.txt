@@ -77,7 +77,7 @@
 "adff9a","a-f-A-M-F-T","68-8207","T-38","USAF"
 "adff9b","a-f-A-M-F-T","68-8208","T-38C","USAF"
 "adff9c","a-f-A-M-F-T","68-8211","T-38C","USAF"
-"adffa5","a-f-A-M-F-T","70-1569","T-38C,"USAF"
+"adffa5","a-f-A-M-F-T","70-1569","T-38C","USAF"
 "adffb5","a-f-A-M-F-T","64-13255","T-38C","USAF"
 "adffc9","a-f-A-M-F-T","65-10412","T-38C","USAF"
 "adffcf","a-f-A-M-F-T","65-10427","T-38","USAF"
