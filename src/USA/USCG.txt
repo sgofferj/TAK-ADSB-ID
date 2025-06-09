@@ -48,7 +48,7 @@
 "ae4cf7","a-f-A-M-F-P","2714","C-27J","USCG"
 "ae4e02","a-f-A-M-H-H","6050","HH-60H","USCG"
 "ae4e03","a-f-A-M-H-H","6051","MH-60T","USCG"
-"ae57d4","a-f-A-M-F-H","2010","HC-130J","USCG
+"ae57d4","a-f-A-M-F-H","2010","HC-130J","USCG"
 "ae57d5","a-f-A-M-F-H","2011","HC-130J","USCG"
 "ae5deb","a-f-A-M-F-H","2012","HC-130J","USCG"
 "ae5dec","a-f-A-M-F-H","2013","HC-130J","USCG"
