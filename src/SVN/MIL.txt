@@ -8,3 +8,4 @@
 "506f22","a-f-A-M-F-U-L","L6-02","PC-6T","SVN AF"
 "506f24","a-f-A-M-F","L1-01","Falcon 2000EX","SVN AF VIP"
 "506f5d","a-f-A-M-F-T","L9-61","PC-9 M","SVN AF"
+"506f5e","a-f-A-M-F-T","L9-62","PC-9 M","SVN AF"

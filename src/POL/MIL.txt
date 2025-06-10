@@ -40,5 +40,6 @@
 "48D981","a-f-A-M-F","0112","B737-800","POL AF VIP"
 "48D982","a-f-A-M-F","0111","B737-800","POL AF VIP"
 "48da42","a-f-A-M-H-U-M","631","Mi-8S","POL AF"
+"48da43","a-f-A-M-H-U-M","633","Mi-8P","POL AF"
 "48da81","a-f-A-M-H-U-M","0916","W3A","POL AF"
 "48da86","a-f-A-M-F-T","1018","TS-11","POL AF"

@@ -6,6 +6,7 @@
 
 "80021e","a-n-A-M-F-C-M","K2755","An-32","IND AF"
 "800237","a-n-A-M-F-C-M","K2725","An-32","IND AF"
+"80024b","a-n-A-M-F-C-M","K2740","An-32","IND AF"
 "800255","a-n-A-M-F-C-M","K2737","An-32","IND AF"
 "80026d","a-n-A-M-F-U-M","HM671","Do 228","IND AF"
 "80026e","a-n-A-M-F-U-M","HM673","Do 228","IND AF"
@@ -22,7 +23,9 @@
 "8002b7","a-n-A-M-F-U-M","H2378","HAL.748","IND AF"
 "8002b9","a-n-A-M-F-U-M","H2381","HAL.748","IND AF"
 "8002c5","a-n-A-M-F-U-M","HM694","Do 228","IND AF"
+"8002c8","a-n-A-M-F-P","IN237","Do 228","IND N"
 "8002cb","a-n-A-M-F","K3601","ERJ-135","IND AF VIP"
+"8002cc","a-n-A-M-F","K3602","ERJ-135","IND AF VIP"
 "8002cd","a-n-A-M-F","K3603","ERJ-135","IND AF VIP"
 "8002f6","a-n-A-M-F","K5012","B737-7HI","IND AF VIP"
 "8002fb","a-n-A-M-F","K5014","B737-7HI","IND AF VIP"
@@ -42,5 +45,3 @@
 "800e14","a-n-A-M-F-U-M","KD712","Do 228","IND AF"
 "800e1e","a-n-A-M-F-C-M","KC-3807","C-130J-30","IND AF"
 "800e8a","a-n-A-M-F-P","IN329","P-8","IND N"
-"8002cc","a-n-A-M-F","K3602","ERJ-135","IND AF VIP"
-"80024b","a-n-A-M-F-C-M","K2740","An-32","IND AF"

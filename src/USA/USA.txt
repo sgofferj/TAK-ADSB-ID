@@ -102,6 +102,7 @@
 "ae1191","a-f-A-M-F","03-00016","UC-35B","US A VIP"
 "ae1205","a-f-A-M-F-R-Z","89-00274","RC-12X","US A"
 "ae1211","a-f-A-M-F-U-L","03-00726","UC-35B","US A"
+"ae13d1","a-f-A-M-F","04-01778","C-37B","US A VIP"
 "ae182b","a-f-A-M-H-U-M","01-26883","UH-60L","US A"
 "ae1c0f","a-f-A-M-H-C-H","05-08015","CH-47F","US A"
 "ae1c2d","a-f-A-M-H-U-L","06-72005","UH-72A","US A"

@@ -6,6 +6,7 @@
 
 "4b8203","a-f-A-M-F-K","62-3563","KC-135R","TUR AF"
 "4b8209","a-f-A-M-F","93-004","Citation VII","TUR AF VIP"
+"4b820c","a-f-A-M-F-C-H","14-0013","A400M","TUR AF"
 "4b8211","a-f-A-M-F-C-H","17-0078","A400M","TUR AF"
 "4b8225","a-f-A-M-F-C-M","63-13188","C-130E","TUR AF"
 "4b8296","a-f-A-M-F-R-W","13-002","E-7T","TUR AF"

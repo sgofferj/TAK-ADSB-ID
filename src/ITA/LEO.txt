@@ -4,5 +4,6 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"320011","a-f-A-C-H","MM81819","AW.139","LEO (ITA STATE POL)"
 "320016","a-f-A-C-H","MM81839","AW.139","LEO (ITA STATE POL)"
 "320053","a-f-A-C-H","MM82034","UH-139E","LEO (ITA STATE POL)"

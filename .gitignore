@@ -1,5 +1,6 @@
 *.zip
 *.gz
 refresh.sh
+test.sh
 tools/changevip.sh
 cotdb.*
