@@ -335,7 +335,7 @@
 "154e65","a-h-A-M-F-U-H","RA-85605","Tu-154B2","RUS AF"
 "154e6e","a-h-A-M-F-U-H","RF-85855","Tu-154M","RUS N"
 "154e70","a-h-A-M-F-U-H","RF-85856","Tu-154M","RUS N"
-"154f53","a-h-A-M-F-U-H","RA-85843","Tu-154M","RUS AF
+"154f53","a-h-A-M-F-U-H","RA-85843","Tu-154M","RUS AF"
 "155082","a-h-A-M-F-D","RA-86146","IL-86VKP","RUS AF"
 "155083","a-h-A-M-F-D","RF-93645","IL-86VKP","RUS AF"
 "155084","a-h-A-M-F-D","RF-93642","IL-86VKP","RUS AF"
