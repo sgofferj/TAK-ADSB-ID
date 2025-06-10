@@ -17,6 +17,7 @@
 "3432ce","a-f-A-M-F-C-M","T.19B-22","CN-235","ESP AF"
 "343603","a-f-A-M-F-C-H","EC-400","A400M","Airbus Military"
 "353042","a-f-A-M-F-U-M","UD.14-02","CL-415 water bomber","ESP AF FIRE"
+"3532c1","a-f-A-M-F-C-H","T.23-01","A400M","ESP AF"
 "3532c3","a-f-A-M-F-C-H","T.23-05","A400M","ESP AF"
 "3532c4","a-f-A-M-F-C-H","T.23-06","A400M","ESP AF"
 "3532c6","a-f-A-M-F-C-H","T.23-02","A400M","ESP AF"

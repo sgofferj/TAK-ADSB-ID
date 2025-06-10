@@ -6,3 +6,4 @@
 
 "70c07c","a-f-A-M-F","555","ACJ320 214X","OMN AF"
 "70c07d","a-f-A-M-F-C-M","525","C-130J","OMN AF"
+"70c08d","a-f-A-M-F-C-M","505","C-130J","OMN AF"
