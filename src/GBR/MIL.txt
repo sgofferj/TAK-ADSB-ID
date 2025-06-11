@@ -330,5 +330,6 @@
 "43cb0b","a-f-A-M-F-F","ZK382","Eurofighter","GBR AF"
 "43cb58","a-f-A-M-H-U-M","ZZ511","AW.159","GBR A"
 "43cf2f","a-f-A-M-H-U-M","ZZ390","AW.159","GBR A"
+"43cf30","a-f-A-M-H-U-M","ZZ391","AW.159","GBR A"
 "43cf32","a-f-A-M-H-U-M","ZZ393","AW.159","GBR A"
 "43cf33","a-f-A-M-H-U-M","ZZ394","AW.159","GBR MC"

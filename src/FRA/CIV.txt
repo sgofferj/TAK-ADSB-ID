@@ -7,6 +7,7 @@
 "39a840","a-f-A-M-F-T","F-HKCA","SR22","Airbus Flight Academy Europe"
 "39a848","a-f-A-M-F-T","F-HKCI","SR22","Airbus Flight Academy Europe"
 "3b7b3a","a-f-A-C-F","F-ZBML","Dash 8-402MR","FIRE (FRA CIVPROT)"
+"3b7b3c","a-f-A-M-H-O","F-ZBQM","H145","EMS (FRA CIVPROT)"
 "3b7b3d","a-f-A-C-F","F-ZBMK","Dash 8-402NG","FIRE (FRA CIVPROT)"
 "3b7b3e","a-f-A-C-F","F-ZBMJ","Dash 8-402MR","FIRE (FRA CIVPROT)"
 "3b7b3f","a-f-A-C-F","F-ZBMI","Dash-8-402MR","FIRE (FRA CIVPROT)"
