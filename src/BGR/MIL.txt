@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "451e92","a-f-A-M-F","LZ-AOB","A319 112","BGR GOV"
+"457c04","a-f-A-M-F-T","665","PC-9M","BGR AF"
 "457c05","a-f-A-M-F-T","666","PC-9M","BGR AF"
 "457c06","a-f-A-M-F-T","667","PC-9M","BGR AF"
 "457c0d","a-f-A-M-F-C-M","072","C-27J","BGR AF"

@@ -1,0 +1,7 @@
+#TAK ADSB IDs BAHRAIN Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"894016","a-u-A-M-F-U-M","A9C-HWR","146 RJ85","BHR AF"

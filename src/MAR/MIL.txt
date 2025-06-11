@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"020031","a-f-A-M-F-C-M","CN-AOG","C-130H","MAR AF"
 "020038","a-f-A-M-F-C-M","CN-AOJ","C-130J","MAR AF"
 "02003b","a-f-A-M-F-C-M","CN-AOM","C-130H","MAR AF"
 "02003c","a-f-A-M-F-C-M","CN-AON","C-130H","MAR AF"

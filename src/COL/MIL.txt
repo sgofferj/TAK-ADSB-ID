@@ -1,0 +1,7 @@
+#TAK ADSB IDs COLOMBIA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"0aca79","a-f-A-M-F-U-M","FAC1220","737NG 732/W","COL AF"

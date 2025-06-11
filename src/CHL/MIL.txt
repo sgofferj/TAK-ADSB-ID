@@ -1,0 +1,7 @@
+#TAK ADSB IDs CHILE Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"e80643","a-u-A-M-F","911","GIV","CHL AF VIP"
