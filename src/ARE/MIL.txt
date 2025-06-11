@@ -8,6 +8,7 @@
 "896c0e","a-f-A-M-F-C-M","1216","L-100-30","ARE AF"
 "896c13","a-f-A-M-F-T","937","PC-21","ARE AF"
 "896c14","a-f-A-M-F-T","938","PC-21","ARE AF"
+"896c15","a-f-A-M-F-T","939","PC-21","ARE AF"
 "896c2b","a-f-A-M-F-C-H","1223","C-17A","ARE AF"
 "896c2c","a-f-A-M-F-C-H","1224","C-17","ARE AF"
 "896c2d","a-f-A-M-F-C-H","1225","C-17","ARE AF"

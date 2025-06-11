@@ -6,6 +6,7 @@
 
 "06a248","a-f-A-M-F-C-H","A7-MAA","C-17A","QAT AF"
 "06a249","a-f-A-M-F-C-H","A7-MAB","C-17A","QAT AF"
+"06a24e","a-f-A-M-H-U-M","QA60","AW.139","QAT AF"
 "06a255","a-f-A-M-F-C-H","A7-MAC","C-17A","QAT AF"
 "06a25e","a-f-A-M-H-U-M","QA74","AW.139","QAT AF"
 "06a27d","a-f-A-M-F-C-H","A7-MAP","C-17A","QAT AF"
