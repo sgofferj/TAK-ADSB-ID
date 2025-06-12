@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"87c818","a-f-A-M-F-P","5503","XP-1","JPN N"
 "87c81a","a-f-A-M-F-P","5505","P-1","JPN N"
 "87c823","a-f-A-M-F-P","5508","P-1","JPN N"
 "87c82b","a-f-A-M-F-C-M","9054","C-130R","JPN N"

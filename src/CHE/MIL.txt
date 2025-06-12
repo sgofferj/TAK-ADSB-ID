@@ -42,6 +42,7 @@
 "4b7fc5","a-n-A-M-F-U-L","T-365","EC635P2+","CHE AF"
 "4b7fc6","a-n-A-M-H-U-L","T-364","EC635P2","CHE AF"
 "4b7fc7","a-n-A-M-H-U-L","T-363","EC635P2","CHE AF"
+"4b7fc9","a-n-A-M-H-U-L","T-361","EC635P2+","CHE AF"
 "4b7fca","a-n-A-M-H-U-L","T-360","EC635P2+","CHE AF"
 "4b7fcb","a-n-A-M-H-U-L","T-359","EC635P2+","CHE AF"
 "4b7fcc","a-n-A-M-H-O","T-358","EC635P2+","CHE AF"

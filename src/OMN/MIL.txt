@@ -8,6 +8,7 @@
 "70c07c","a-f-A-M-F","555","ACJ320 214X","OMN AF VIP"
 "70c07d","a-f-A-M-F-C-M","525","C-130J","OMN AF"
 "70c07e","a-f-A-M-F","556","ACJ320 214","OMN AF VIP"
+"70c08b","a-f-A-M-F-U-L","558","GIV","OMN AF"
 "70c08d","a-f-A-M-F-C-M","505","C-130J","OMN AF"
 "70c08e","a-f-A-M-F-C-M","506","C-130J","OMN AF"
 "70c096","a-f-A-M-F-P","910","C-295MPA","OMN AF"
