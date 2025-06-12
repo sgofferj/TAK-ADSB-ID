@@ -21,3 +21,9 @@ jobs:
             ./cotdb.json
             ./cotdb_indexed.json
             ./countries.json
+      - name: remove-old-releases
+        uses: Nats-ji/delete-old-releases@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          keep-count: 2
+          keep-old-minor-releases: false
