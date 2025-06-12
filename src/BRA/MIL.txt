@@ -31,6 +31,7 @@
 "e494a3","a-f-A-M-F-K","FAB2855","KC-390","BRA AF"
 "e494a5","a-f-A-M-F-K","FAB2857","KC-390","BRA AF"
 "e49555","a-f-A-M-F-U-M","FAB3604","IU-50","BRA AF"
+"e4955c","a-f-A-M-F-C-M","FAB6551","C-295","BRA AF"
 "e49592","a-f-A-M-F-U-M","FAB3701","U-100","BRA AF"
 "e49924","a-f-A-M-F-C-M","FAB1426","T-27","BRA AF"
 "e49934","a-f-A-M-F-T","FAB1368","T-27","BRA AF"

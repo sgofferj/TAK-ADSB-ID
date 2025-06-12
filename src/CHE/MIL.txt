@@ -16,6 +16,7 @@
 "4b7f78","a-n-A-M-F-R-X","T-741","DHC-6","CHE AF"
 "4b7f9a","a-n-A-M-H-U-M","T-325","AS-332M1","CHE AF"
 "4b7f9c","a-n-A-M-H-U-M","T-323","AS-332M1","CHE AF"
+"4b7f9d","a-n-A-M-H-U-M","T-322","AS.332M1","CHE AF"
 "4b7f9e","a-n-A-M-H-U-M","T-321","AS-332M1","CHE AF"
 "4b7f9f","a-n-A-M-H-U-M","T-320","AS.332M1","CHE AF"
 "4b7fa0","a-n-A-M-H-U-M","T-319","AS-332M1","CHE AF"

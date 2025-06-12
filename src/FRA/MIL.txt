@@ -195,6 +195,7 @@
 "3b9bb2","a-f-A-M-F-U-L","68","Embraer 121","FRA N"
 "3b9bb3","a-f-A-M-F-U-L","67","Embraer 121A1","FRA N"
 "3b9bb4","a-f-A-M-F-U-L","65","Embraer 121","FRA N"
+"3b9bd3","a-f-A-M-F-P","21","Breguet 1150","FRA N"
 "3b9bd8","a-f-A-M-F-P","16","Breguet 1150","FRA N"
 "3b9bdb","a-f-A-M-F-P","13","Breguet 1150","FRA N"
 "3b9bdc","a-f-A-M-F-P","11","Breguet 1150","FRA N"

@@ -6,6 +6,7 @@
 
 "896028","a-f-A-M-F-P","1321","DHC-8","ARE AF"
 "896c08","a-f-A-M-F-U-L","2274","DHC-6","ARE AF"
+"896c0b","a-f-A-M-F-U-L","2278","DHC-6","ARE AF"
 "896c0e","a-f-A-M-F-C-M","1216","L-100-30","ARE AF"
 "896c13","a-f-A-M-F-T","937","PC-21","ARE AF"
 "896c14","a-f-A-M-F-T","938","PC-21","ARE AF"
