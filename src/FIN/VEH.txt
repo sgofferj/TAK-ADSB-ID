@@ -29,6 +29,7 @@
 "467737","a-f-G-E-V-C-U-M","KUNTO7","OPS vehicle","Finavia"
 "46773b","a-f-G-E-V-C-U-H","KUNTO13","OPS vehicle","Finavia"
 "46775e","a-f-G-E-V-C-U-M","TRK48","OPS vehicle","Finavia"
+"467774","a-f-G-E-V-C-U-H","KUNTO26","OPS vehicle","Finavia"
 "46777d","a-f-G-E-V-C-U-M","KUNTO2","OPS vehicle","Finavia"
 "467787","a-f-G-E-V-C-U-L","VESI10","OPS vehicle","Finavia"
 "46778a","a-f-G-E-V-C-U-L","VESI13","OPS vehicle","Finavia"

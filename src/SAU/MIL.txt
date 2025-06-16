@@ -7,3 +7,4 @@
 "71021e","a-u-A-M-F-O","HZ-MS1B","Learjet 60 XR","SAU AF MED"
 "7102dd","a-u-A-M-F-C-M","483","C-130H","SAU AF"
 "7102fa","a-u-A-M-F-K","2402","A330 202MRTT","SAU AF"
+"710385","a-u-A-M-F-C-M","486","C-130H","SAU AF"

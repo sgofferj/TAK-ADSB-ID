@@ -5,4 +5,5 @@
 #"hexid","CoT type","registration","type","operator"
 
 "8a02d9","a-u-A-M-F-T","LL-0114","KT-1B","IDN AF"
+"8a02da","a-u-A-M-F-T","LL-0115","KT-1B","IDN AF"
 "8a032a","a-u-A-M-F-P","AI-7303","737 2X9","IDN AF"

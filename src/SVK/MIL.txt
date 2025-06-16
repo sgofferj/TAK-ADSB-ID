@@ -7,3 +7,4 @@
 "505f68","a-f-A-M-F-U-L","2721","L-410UVP","SVK AF"
 "505f6a","a-f-A-M-F-U-L","2718","L-410","SVK AF"
 "505f6d","a-f-A-M-F-C-M","1931","C-27J","SVK AF"
+"505f6e","a-f-A-M-F-C-M","1962","C-27J","SVK AF"

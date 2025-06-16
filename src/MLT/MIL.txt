@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"4d206a","a-f-A-M-U-L","AS1227","Beech 200","MLT"
+"4d206a","a-f-A-M-F-U-L","AS1227","Beech 200","MLT"
+"4d2117","a-f-A-M-H-U-M","AS1630","AW.139","MLT"

@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "761051","a-f-A-M-F-C-M","4177","C-130","PAK AF"
+"766021","a-f-A-M-F-U-M","PA-9834","Global 5000","PAK GOV"
