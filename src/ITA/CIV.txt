@@ -8,3 +8,4 @@
 "32002d","a-f-A-C-H","VF-140","AW.139","FIRE (ITA VdF)"
 "320037","a-f-A-C-H","VF-142","AW.139","FIRE (ITA VdF)"
 "32003c","a-f-A-C-H","VF-143","AW.139","FIRE (ITA VdF)"
+"320045","a-f-A-C-H","VF-147","AW.139","FIRE (ITA VdF)"
