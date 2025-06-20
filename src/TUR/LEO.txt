@@ -6,4 +6,5 @@
 
 "4b82a4","a-f-A-C-H","EM-7093","Bell 429","LEO (TUR National Police)"
 "4b82ae","a-f-A-C-H","EM-7117","Bell 429","LEO (TUR National Police)"
+"4b82cf","a-f-A-C-H","OR-3125","Bell 429","TUR Directorate of Forestry & Water Affairs"
 "4b82d3","a-f-A-C-H","OR-3133","Bell 429","TUR Directorate of Forestry & Water Affairs"

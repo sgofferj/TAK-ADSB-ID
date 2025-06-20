@@ -294,6 +294,8 @@
 "ae59dd","a-f-A-M-H-C-H","15-08178","CH-47F","US A"
 "ae59de","a-f-A-M-H-C-H","15-08179","CH-47F","US A"
 "ae59ee","a-f-A-M-H-C-H","15-08464","CH-47F","US A"
+"ae59f6","a-f-A-M-H-C-H","16-08199","CH-47F","US A"
+"ae59f7","a-f-A-M-H-C-H","16-08200","CH-47F","US A"
 "ae5a42","a-f-A-M-F-R","11-00286","MC-12S","US A"
 "ae5a46","a-f-A-M-H-U-L","14-72346","UH-72A","US A"
 "ae5a48","a-f-A-M-H-U-L","14-72348","UH-72A","US A"
