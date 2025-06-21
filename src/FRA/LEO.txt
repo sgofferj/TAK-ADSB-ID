@@ -16,6 +16,7 @@
 "3aac14","a-f-A-C-H","0857","EC135T2+","LEO (FRA Gendarmerie)"
 "3aac16","a-f-A-C-H","0797","EC135T2","LEO (FRA Gendarmerie)"
 "3aac17","a-f-A-C-H","0787","EC135T2+","LEO (FRA Gendarmerie)"
+"3aac1b","a-f-A-C-H","1055","EC135T2i","LEO (FRA Gendarmerie)"
 "3aac1e","a-f-A-C-H","2044","AS.350B","LEO (FRA Gendarmerie)"
 "3aac24","a-f-A-C-H","1952","AS.350BA","LEO (FRA Gendarmerie)"
 "3aac38","a-f-A-C-H","9700","EC145","LEO (FRA Gendarmerie)"

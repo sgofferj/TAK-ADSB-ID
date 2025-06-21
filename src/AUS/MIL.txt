@@ -24,6 +24,7 @@
 "7cf864","a-f-A-M-F-K","A39-001","A330 203MRTT","AUS AF"
 "7cf865","a-f-A-M-F-K","A39-002","A330 203MRTT","AUS AF"
 "7cf868","a-f-A-M-F-K","A39-005","A330 203MRTT","AUS AF"
+"7cf869","a-f-A-M-F-C-H","A41-206","C-17A","AUS AF"
 "7cf86d","a-f-A-M-F-U-L","A32-426","Beech 350","AUS AF"
 "7cf89d","a-f-A-M-H-U-M","A40-045","MRH-90","AUS ?"
 "7cf8eb","a-f-A-M-F-U-L","A32-651","Beech 350","AUS AF"
