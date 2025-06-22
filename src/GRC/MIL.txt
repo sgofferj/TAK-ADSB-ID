@@ -11,7 +11,7 @@
 "468156","a-f-A-M-F-T","342","P.2002","GRC AF"
 "468157","a-f-A-M-F-T","343","P.2002","GRC AF"
 "46815a","a-f-A-M-F-T","346","P.2002","GRC AF"
-"4682A6","a-f-A-M-F","678","Gulf 5","GRC AF VIP"
+"4682A6","a-f-A-M-F-U-L","678","Gulf 5","GRC AF"
 "4682bd","a-f-A-M-H-U-L","22701","AW.109","GRC AF"
 "4682c0","a-f-A-M-H-U-L","22704","AW.109","GRC AF"
 "4682eb","a-f-A-M-F-C-M","747","C-130H","GRC AF"

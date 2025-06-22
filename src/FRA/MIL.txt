@@ -197,7 +197,7 @@
 "3b7f72","a-f-A-M-F-U-M","F-ZAFT","Fokker F100","FRA AF Flight Test Center"
 "3b7f76","a-f-A-M-F-F","301","Rafale B","FRA AF"
 "3b7f78","a-f-A-M-F-F","676","Mirage 2000D","FRA AF"
-"3b9b21","a-f-A-M-H-U-L","F-HTNS","H160-B","FRA N"
+"3b9b21","a-f-A-M-H-U-M","F-HTNS","H.160B","FRA N"
 "3b9b5a","a-f-A-M-F-P","F-ZWMO","Falcon 50","FRA N"
 "3b9b5b","a-f-A-M-F-P","F-ZWMT","Falcon 50M","FRA N"
 "3b9b5c","a-f-A-M-F-P","F-ZWMM","Falcon 50","FRA N"
