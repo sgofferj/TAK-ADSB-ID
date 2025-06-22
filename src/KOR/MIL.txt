@@ -4,6 +4,6 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"71be43","a-f-A-M-F","22001","B-747-8B5","KOR AF VIP"
+"71be43","a-f-A-M-F-D","22001","B-747-8B5","KOR AF"
 "71f881","a-f-A-M-F-K","19-002","KC-330","KOR AF"
 "71f9c4","a-f-A-M-F-C-M","45-750","C-130J","KOR AF"

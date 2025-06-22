@@ -6,6 +6,7 @@
 
 "010075","a-u-A-M-F-C-M","SU-BAB","C-130H","EGY AF"
 "010078","a-u-A-M-F-C-M","SU-BAE","C-130H","EGY AF"
+"010079","a-u-A-M-F-C-M","SU-BAF","C-130H","EGY AF"
 "010083","a-u-A-M-F-C-M","SU-BAS","C-130","EGY AF"
 "01008d","a-u-A-M-F-C-M","SU-BPJ","C-130H","EGY AF"
 "0100d2","a-u-A-M-F-C-M","SU-BPN","An-74","EGY AF"

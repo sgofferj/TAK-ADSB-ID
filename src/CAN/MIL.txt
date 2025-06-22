@@ -38,5 +38,5 @@
 "c2b5ad","a-f-A-M-F-C-M","130614","CC-130J","CAN AF"
 "c2b5c1","a-f-A-M-F-C-M","130616","CC-130J","CAN AF"
 "c2bb2f","a-f-A-M-H-C-H","147302","CH-147F","CAN AF"
-"c2c1f1","a-f-A-M-F","144619","CC-144D","CAN AF VIP"
-"c2c1fb","a-f-A-M-F","144620","Challenger 600","CAN AF VIP"
+"c2c1f1","a-f-A-M-F-U-L","144619","CC-144D","CAN AF"
+"c2c1fb","a-f-A-M-F-U-L","144620","Challenger 600","CAN AF"

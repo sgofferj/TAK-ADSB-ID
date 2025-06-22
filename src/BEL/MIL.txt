@@ -4,8 +4,8 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"449825","a-f-A-M-F","OO-FAE","Falcon7X","BEL AF VIP"
-"44B2AD","a-f-A-M-F","OO-LUM","Falcon7X","BEL AF VIP"
+"449825","a-f-A-M-F-U-L","OO-FAE","Falcon7X","BEL AF"
+"44B2AD","a-f-A-M-F-U-L","OO-LUM","Falcon7X","BEL AF"
 "44f024","a-f-A-M-F-F","FB-14","F-16","BEL AF"
 "44f025","a-f-A-M-F-F","FB-15","F-16","BEL AF"
 "44f040","a-f-A-M-F-F","FB-20","F-16","BEL AF"

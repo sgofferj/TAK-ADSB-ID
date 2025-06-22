@@ -4,8 +4,8 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"498421","a-f-A-M-F","3085","A319-115X","CZE AF VIP"
-"498422","a-f-A-M-F","2801","A319-115X","CZE AF VIP"
+"498421","a-f-A-M-F-U-M","3085","A319-115X","CZE AF"
+"498422","a-f-A-M-F-U-M","2801","A319-115X","CZE AF"
 "498429","a-f-A-M-F-F","9234","JAS-39C","CZE AF"
 "49842b","a-f-A-M-F-F","9236","JAS-39C","CZE AF"
 "49842d","a-f-A-M-F-F","9238","JAS-39C","CZE AF"

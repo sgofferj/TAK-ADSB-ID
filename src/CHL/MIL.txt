@@ -4,5 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"e80643","a-u-A-M-F","911","GIV","CHL AF VIP"
+"e80643","a-u-A-M-F-U-L","911","GIV","CHL AF"
 "e80648","a-u-A-M-F-U-H","985","767 3Y0ER","CHL AF"

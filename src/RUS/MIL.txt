@@ -66,7 +66,7 @@
 "1432a8","a-h-A-M-F-C-M","RA-12968","An-12TB","RUS AF"
 "143433","a-h-A-M-F-C-M","RA-13363","An-12BP","RUS AF"
 "14345a","a-h-A-M-F-C-M","RA-13402","An-12BP","RUS AF"
-"14626e","a-h-A-M-F","RF-19002","Mi-8PS","RUS AF VIP"
+"14626e","a-h-A-M-H-U-L","RF-19002","Mi-8PS","RUS AF"
 "14633d","a-h-A-M-H-C-M","RA-25405","Mi-8MTV1","RUS AF"
 "146634","a-h-A-M-F-C-M","RF-26265","An-26","RUS AF"
 "146672","a-h-A-M-F-R-X","RA-26226","An-30","RUS AF"

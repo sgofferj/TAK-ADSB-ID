@@ -1,7 +1,7 @@
-#TAK ADSB IDs GHANA Military
+#TAK ADSB IDs UNITED ARAB EMIRATES Law enforcement
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"04403f","a-u-A-M-F-C-M","GHF551","C-295M","GHA AF"
+"8967dd","a-f-A-M-C-H","DU-203","AW.139","LEO (Dubai POL)"
