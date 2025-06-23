@@ -128,6 +128,7 @@
 "3b76c9","a-f-A-M-H-U-L","5444","AS.555AN","FRA AF"
 "3b76cc","a-f-A-M-H-U-L","5431","AS.555 AN","FRA AF"
 "3b76d6","a-f-A-M-H-U-L","5392","AS.555N","FRA AF"
+"3b76d9","a-f-A-M-H-U-L","5387","AS.555AN","FRA AF"
 "3b770d","a-f-A-M-F-U-L","F-RAFA","Falcon 7X","FRA AF "
 "3b7711","a-f-A-M-F-C-M","5227","C-130H-30","FRA AF"
 "3b7712","a-f-A-M-F-C-M","5226","C-130","FRA AF"

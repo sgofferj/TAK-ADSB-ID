@@ -16,6 +16,7 @@
 "ae0865","a-f-A-M-H-D","159353","VH-3D","USMC"
 "ae08de","a-f-A-M-F-K","166382","KC-130J","USMC"
 "ae0940","a-f-A-M-F-U-M","166374","UC-35D","USMC"
+"ae1193","a-f-A-M-F-U-L","166500","UC-35D","USMC"
 "ae1437","a-f-A-M-F-U-L","166712","UC-35D","USMC"
 "ae1438","a-f-A-M-F-U-L","166713","UC-35D","USMC"
 "ae1478","a-f-A-M-F-U-L","166766","UC-35D","USMC"

@@ -26,6 +26,7 @@
 "0a403c","a-u-A-M-F-U-L","7T-WRN","Beech 350i","DZA AF"
 "0a403d","a-u-A-M-F-U-L","7T-WRP","Beech 350i","DZA AF"
 "0a403e","a-u-A-M-F-U-L","7T-WRQ","Beech 350i","DZA AF"
+"0a4046","a-u-A-M-H-U-M","LC-31","Lynx","DZA N"
 "0a4048","a-u-A-M-H-U-M","LC-33","Super Lynx","DZA N"
 "0a404c","a-u-A-M-F-U-M","7T-VPE","ATR 72 600","DZA GOV"
 "0a4053","a-u-A-M-F-C-M","7T-WRA","Beech 1900","DZA AF"

@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "e14d34","a-f-A-M-F-V","ARG-03","Learjet 60","ARG AF"
+"e20022","a-u-A-M-F-C-M","TC-69","C-130H","ARG AF"
