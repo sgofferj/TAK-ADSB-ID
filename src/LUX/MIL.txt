@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"44f681","a-f-A-M-F-C-H","CT-01","A400M","LUX A"
 "4d03c0","a-f-A-M-F-R-W","LX-N90442","E-3A Sentry","NATO AEWCF"
 "4d03c1","a-f-A-M-F-R-W","LX-N90443","E-3A Sentry","NATO AEWCF"
 "4d03c3","a-f-A-M-F-R-W","LX-N90445","E-3A Sentry","NATO AEWCF"

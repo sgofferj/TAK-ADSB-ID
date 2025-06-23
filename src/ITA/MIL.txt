@@ -66,6 +66,7 @@
 "33ffad","a-f-A-M-F-U-L","MM62245","Falcon 900EX","ITA AF"
 "33ffae","a-f-A-M-F-U-L","MM62244","Falcon 900EX","ITA AF"
 "33ffb4","a-f-A-M-F-C-M","MM62223","C-27J","ITA AF"
+"33ffb7","a-f-A-M-F-C-M","MM62220","C-27J","Italian AF"
 "33ffb9","a-f-A-M-F-U-M","MM62213","P.180AM","ITA N"
 "33ffba","a-f-A-M-F-U-M","MM62211","P.180AM","ITA N"
 "33ffbb","a-f-A-M-F-U-M","MM62212","P.180AM","ITA N"

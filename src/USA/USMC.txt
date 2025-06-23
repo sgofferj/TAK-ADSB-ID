@@ -48,3 +48,4 @@
 "ae6c15","a-f-A-M-F-K","170273","KC-130J","USMC"
 "ae6d59","a-f-A-M-H-T","170167","TH-73A","USMC"
 "af4a7b","a-f-A-M-F-U-L","168207","UC-12W","USMC"
+"ae4b8c","a-f-A-M-H-U-H","163087","CH-53E","USMC"

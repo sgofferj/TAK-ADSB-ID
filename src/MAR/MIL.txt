@@ -8,6 +8,7 @@
 "020038","a-f-A-M-F-C-M","CN-AOJ","C-130J","MAR AF"
 "02003b","a-f-A-M-F-C-M","CN-AOM","C-130H","MAR AF"
 "02003c","a-f-A-M-F-C-M","CN-AON","C-130H","MAR AF"
+"020041","a-f-A-M-F-K","CN-AOS","KC-130H","MAR AF"
 "02008e","a-f-A-M-F-U-L","CN-AMI","Beech 350","MAR AF"
 "0200ab","a-f-A-M-F-U-L","CN-AMK","Citation XLS+","MAR AF"
 "0200ac","a-f-A-M-F-U-L","CN-MMT","Gulf G550","MAR AF"

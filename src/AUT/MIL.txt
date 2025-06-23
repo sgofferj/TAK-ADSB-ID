@@ -15,6 +15,7 @@
 "447d28","a-n-A-M-H-U-M","6M-BH","S-70A","AUT AF"
 "447d34","a-n-A-M-H-U-M","5D-HK","AB.212","AUT AF"
 "447d3f","a-n-A-M-H-U-M","5D-HW","AB.212","AUT AF"
-"447d42","a-n-A-M-F-T","3H-DA","DA40 NG","AUT AF"
+"447d42","a-n-A-M-F-T","3H-DA","DA40NG","AUT AF"
+"447d44","a-n-A-M-F-T","3H-DC","DA40NG","AUT AF"
 "447d50","a-n-A-M-H-U-M","5M-IA","AW-169LUH","AUT AF"
 "447d51","a-n-A-M-H-U-M","5M-IB","AW-169LUH","AUT AF"

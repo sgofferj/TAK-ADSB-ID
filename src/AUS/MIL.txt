@@ -81,6 +81,7 @@
 "7cf9f7","a-f-A-M-F-T","A54-032","PC-21","AUS AF"
 "7cf9f8","a-f-A-M-F-T","A54-033","PC-21","AUS AF"
 "7cf9fa","a-f-A-M-F-T","A54-035","PC-21","AUS AF"
+"7cf9fe","a-f-A-M-F-T","A54-039","PC-21","AUS AF"
 "7cfa00","a-f-A-M-F-T","A54-041","PC-21","AUS AF"
 "7cfa06","a-f-A-M-F-T","A54-047","PC-21","AUS AF"
 "7cfa08","a-f-A-M-F-T","A54-049","PC-21","AUS AF"
