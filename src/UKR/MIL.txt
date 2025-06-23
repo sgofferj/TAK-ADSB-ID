@@ -1,7 +1,7 @@
-#TAK ADSB IDs ARMENIA Military
+#TAK ADSB IDs UKRAINE
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"60003c","a-u-A-M-F-U-M","701","A319 132","ARM GOV"
+"50815f","a-f-A-M-F-D","UR-ABA","ACJ319 115X","UKR GOV"

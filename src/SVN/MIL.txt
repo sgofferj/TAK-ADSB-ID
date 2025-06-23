@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"506e21","a-f-A-M-F-T","S5-DGH","Z-143 L","SVN AF"
 "506f21","a-f-A-M-F-C-L","L4-01","L-410","SVN AF"
 "506f22","a-f-A-M-F-U-L","L6-02","PC-6T","SVN AF"
 "506f24","a-f-A-M-F-U-L","L1-01","Falcon 2000EX","SVN AF"

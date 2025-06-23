@@ -29,5 +29,6 @@
 "0a4046","a-u-A-M-H-U-M","LC-31","Lynx","DZA N"
 "0a4048","a-u-A-M-H-U-M","LC-33","Super Lynx","DZA N"
 "0a404c","a-u-A-M-F-U-M","7T-VPE","ATR 72 600","DZA GOV"
+"0a404f","a-u-A-M-F-U-L","7T-WRG","King Air B200","DZA AF"
 "0a4053","a-u-A-M-F-C-M","7T-WRA","Beech 1900","DZA AF"
 "0a405e","a-u-A-M-F-C-M","7T-WJA","C-130J","DZA AF"

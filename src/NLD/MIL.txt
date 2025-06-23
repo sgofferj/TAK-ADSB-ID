@@ -182,7 +182,7 @@
 "480c05","a-f-A-M-F-C-M","G-781","C-130H","NLD AF"
 "480c06","a-f-A-M-F-C-M","G-988","C-130H","NLD AF"
 "480c06","a-f-A-M-F-C-M","G-988","C-130H","NLD AF"
-"480c18","a-f-A-M-F","U-05","Fokker 50","NLD AF"
+"480c18","a-f-A-M-F-U-L","U-05","Fokker 50","NLD AF"
 "480c1a","a-f-A-M-F-U-L","V-11","Gulf 4","NLD AF"
 "480c1b","a-f-A-M-F-U-L","V-117","GUlf 650ER","NLD AF"
 "480c21","a-f-A-M-F-T","L-01","PC-7","NLD AF"

@@ -19,6 +19,7 @@
 "881b6c","a-f-A-M-F-C-M","60112","C-130","THA AF"
 "881b6f","a-f-A-M-F-U-M","60316","ATR 72-500","THA AF"
 "881b71","a-f-A-M-F-U-H","B.L18-2/59","Sukhoi Superjet 100-95LR","THA AF"
+"881b83","a-f-A-M-F-U-L","70202","Saab 340 B","THA AF"
 "881ba1","a-f-C-H-U-H","H10-1/54","S-92A","THA AF"
 "881c0b","a-f-A-M-H-U-M","93308","EC155B1","THA AF"
 "8836d3","a-f-A-M-F-U-M","HS-MVS","B737NG","THA AF"

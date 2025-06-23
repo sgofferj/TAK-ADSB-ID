@@ -4,7 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"451e92","a-f-A-M-F","LZ-AOB","A319 112","BGR GOV"
+"451e92","a-f-A-M-F-U-M","LZ-AOB","A319 112","BGR GOV"
 "457c01","a-f-A-M-F-T","020","PC-12M","BGR AF"
 "457c04","a-f-A-M-F-T","665","PC-9M","BGR AF"
 "457c05","a-f-A-M-F-T","666","PC-9M","BGR AF"

@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"8a0131","a-u-A-M-F-T","LL-0109","KT-1B","IDN AF"
 "8a0132","a-u-A-M-F-T","LL-0110","KT-1B","IDN AF"
 "8a02d9","a-u-A-M-F-T","LL-0114","KT-1B","IDN AF"
 "8a02da","a-u-A-M-F-T","LL-0115","KT-1B","IDN AF"
