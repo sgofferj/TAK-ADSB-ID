@@ -51,6 +51,7 @@
 "ae270a","a-f-A-M-F-H","2312","HC-144A","USCG"
 "ae2731","a-f-A-M-F-H","2706","HC-27J","USCG"
 "ae27f3","a-f-A-M-H-U-M","6002","MH-60T","USCG"
+"ae27f7","a-f-A-M-H-U-M","6006","MH-60T","USCG"
 "ae27fc","a-f-A-M-H-H","6011","HH-60J","USCG"
 "ae2902","a-f-A-M-H-H","6018","HH-60J","USCG"
 "ae2905","a-f-A-M-H-H","6021","HH-60H","USCG"
