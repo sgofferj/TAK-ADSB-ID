@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"4cc468","a-f-A-M-F-P","TF-SIF","DHC-8 314Q","ISL CG"
+"4cc468","a-f-A-M-F-P","TF-SIF","DHC-8 314Q","ISL CG #LEO"

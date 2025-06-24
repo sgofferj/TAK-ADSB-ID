@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"8967dd","a-f-A-M-C-H","DU-203","AW.139","LEO (Dubai POL)"
+"8967dd","a-f-A-M-C-H","DU-203","AW.139","Dubai POL #LEO"

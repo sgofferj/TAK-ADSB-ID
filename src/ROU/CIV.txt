@@ -4,6 +4,6 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"4a35ce","a-f-A-M-H-O","333","EC-135","EMS (ROU SMURD)"
-"4a35cf","a-f-A-M-H-O","336","EC-135","EMS (ROU SMURD)"
-"4a35d1","a-f-A-M-H-O","335","EC-135","EMS (ROU SMURD)"
+"4a35ce","a-f-A-M-H-O","333","EC-135","ROU SMURD #EMS"
+"4a35cf","a-f-A-M-H-O","336","EC-135","ROU SMURD #EMS"
+"4a35d1","a-f-A-M-H-O","335","EC-135","ROU SMURD #EMS"

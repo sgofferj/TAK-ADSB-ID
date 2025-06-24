@@ -4,8 +4,8 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"44c1e4","a-f-A-C-H","G-15","MD-52","LEO (BEL FED POL)"
-"44c1e5","a-f-A-C-H","G-10","MD 902","LEO (BEL FED POL)"
-"44c1e7","a-f-A-C-H","G-11","MD 902","LEO (BEL FED POL)"
-"44c1e8","a-f-A-C-H","G-12","MD-90","LEO (BEL FED POL)"
-"44c1e9","a-f-A-C-H","G-16","MD-90","LEO (BEL FED POL)"
+"44c1e4","a-f-A-C-H","G-15","MD-52","BEL FED POL #LEO"
+"44c1e5","a-f-A-C-H","G-10","MD 902","BEL FED POL #LEO"
+"44c1e7","a-f-A-C-H","G-11","MD 902","BEL FED POL #LEO"
+"44c1e8","a-f-A-C-H","G-12","MD-90","BEL FED POL #LEO"
+"44c1e9","a-f-A-C-H","G-16","MD-90","BEL FED POL #LEO"
