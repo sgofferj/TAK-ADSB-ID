@@ -17,9 +17,11 @@ Civilian aircraft are classified based on their country of registration because 
 
 To assist middlewares with displaying special civilian aircraft, I am developing some conventions for the source files:
 
-- EMS aircraft will have their operator field in the format "EMS (operator)".
-- SAR aircraft will have their operator field in the format "SAR (operator)".
-- Law enforcement aircraft will have their operator field in the format "LEO (operator)".
+- ~~EMS aircraft will have their operator field in the format "EMS (operator)".~~
+- ~~SAR aircraft will have their operator field in the format "SAR (operator)".~~
+- ~~Law enforcement aircraft will have their operator field in the format "LEO (operator)".~~
+
+As of 2025-06-24 I switched to hashtags which is supported out of the box by ATAK and WinTAK.
 
 ## json
 
