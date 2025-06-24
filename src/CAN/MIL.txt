@@ -8,7 +8,7 @@
 "c2af59","a-f-A-M-F-C-M","130333","CC-130H","CAN AF"
 "c2af63","a-f-A-M-F-C-M","130334","CC-130H","CAN AF"
 "c2af77","a-f-A-M-F-C-M","130336","CC-130H","CAN AF"
-"c2af9f","a-f-A-M-F-K,"130341","KCC-130H","Canadian AF"
+"c2af9f","a-f-A-M-F-K","130341","KCC-130H","Canadian AF"
 "c2afc7","a-f-A-M-F-C-H","177702","C-17","CAN AF"
 "c2b003","a-f-A-M-F-T","156106","CT-156","CAN AF"
 "c2b00d","a-f-A-M-F-T","156107","CT-156","CAN AF"
