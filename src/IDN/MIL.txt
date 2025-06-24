@@ -10,3 +10,4 @@
 "8a02da","a-u-A-M-F-T","LL-0115","KT-1B","IDN AF"
 "8a02dc","a-u-A-M-F-T","LL-0117","KT-1B","IDN AF"
 "8a032a","a-u-A-M-F-P","AI-7303","737 2X9","IDN AF"
+"8a2908","a-u-A-M-F-C-M","A-2908","C-295M","IDN AF"

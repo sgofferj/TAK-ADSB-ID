@@ -12,5 +12,6 @@
 "01008d","a-u-A-M-F-C-M","SU-BPJ","C-130H","EGY AF"
 "0100d2","a-u-A-M-F-C-M","SU-BPN","An-74","EGY AF"
 "01018b","a-u-A-M-F-C-M","SU-BSK","C-295 M","EGY AF"
+"010197","a-u-A-M-F-C-M","SU-BSP","C-295M","EGY AF"
 "0101a1","a-u-A-M-F-C-M","SU-BSY","C-295M","EGY AF"
 "0101a3","a-u-A-M-F-C-M","SU-BTA","C-295M","EGY AF"

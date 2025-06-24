@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"33ffdc","a-f-A-M-F-C-M","06 BLUE","C-27J","LTU AF"
 "503fd0","a-f-A-M-F-U-L","01 Blue","L-410","LTU AF"
 "503fd2","a-f-A-M-F-C-M","07 Blue","C-27J","LTU AF"
 "503fd3","a-f-A-M-F-C-M","08 Blue","C-27J","LTU AF"

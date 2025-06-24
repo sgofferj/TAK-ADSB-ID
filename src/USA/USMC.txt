@@ -50,6 +50,7 @@
 "ae61b7","a-f-A-M-H-U-H","169022","CH-53K","USMC"
 "ae6470","a-f-A-M-F-U-L","169539","UC-12W","USMC"
 "ae6963","a-f-A-M-F-C-M","170000","C-130J","USMC"
+"ae6c14","a-f-A-M-F-K","170272","KC-130J","USMC"
 "ae6c15","a-f-A-M-F-K","170273","KC-130J","USMC"
 "ae6d59","a-f-A-M-H-T","170167","TH-73A","USMC"
 "af4a7b","a-f-A-M-F-U-L","168207","UC-12W","USMC"

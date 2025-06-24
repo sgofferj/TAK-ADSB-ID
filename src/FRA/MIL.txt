@@ -125,6 +125,7 @@
 "3b76b5","a-f-A-M-H-U-L","5536","AS.555AN","FRA AF"
 "3b76b8","a-f-A-M-H-U-L","F-RAWH","AS.555AN","FRA AF"
 "3b76ba","a-f-A-M-H-U-L","F-RAWF","AS.555","FRA AF"
+"3b76bb","a-f-A-M-H-U-L","5520","AS.555 AN","FRA AF"
 "3b76bd","a-f-A-M-H-U-L","5511","AS.555AN","FRA AF"
 "3b76c3","a-f-A-M-H-U-L","5458","AS.555AN","FRA AF"
 "3b76c5","a-f-A-M-H-U-L","5455","AS.555AN","FRA AF"

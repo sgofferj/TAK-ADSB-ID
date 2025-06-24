@@ -1,0 +1,7 @@
+#TAK ADSB IDs KENYA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"04c030","a-u-A-M-F-U-M","KAF308","F70 ER","KEN GOV"
