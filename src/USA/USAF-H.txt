@@ -1,0 +1,23 @@
+#TAK ADSB IDs USAF HELICOPTERS
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"ae2bfc","a-f-A-M-H-U-M","166585","UH-60","USAF"
+"ae4822","a-f-A-M-H-U-M","07-20085","UH-60M","USAF"
+"ae4cf1","a-f-A-M-H-C-H","07-08746","CH-47","USAF"
+"ae5238","a-f-A-M-H-C-H","07-08034","CH-47","USAF"
+"ae52d9","a-f-A-M-H-C-H","11-08098","CH-47","USAF"
+"ae565e","a-f-A-M-H-U-M","12-20480","UH-60M","USAF"
+"ae578d","a-f-A-M-H-U-M","14-20669","UH-60M","USAF"
+"ae5ca8","a-f-A-M-H-H","05-27051","HH-60G","USAF"
+"ae5caa","a-f-A-M-H-H","06-27075","HH-60G","USAF"
+"ae5cae","a-f-A-M-H-H","01-26884","HH-60G","USAF"
+"ae5cb4","a-f-A-M-H-H","03-26992","HH-60G","USAF"
+"ae5cb8","a-f-A-M-H-H","90-26224","HH-60G","USAF"
+"ae622c","a-f-A-M-H-U-M","69-6612","UH-1N","USAF"
+"ae6238","a-f-A-M-H-U-M","69-6642","UH-1N","USAF"
+"ae6251","a-f-A-M-H-U-M","74-59188","UH-1N","USAF"
+"ae6c41","a-f-A-M-H-H","14-14480","HH-60W","USAF"
+"ae6da7","a-f-A-M-H-H","19-14494","HH-60W ","USAF"

@@ -1,0 +1,28 @@
+#TAK ADSB IDs USA SOF
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"ae0443","a-f-A-M-F-M","00-9001","C-32B","USAF"
+"ae0449","a-f-A-M-F-M","02-4452","C-32B","USAF"
+"ae057d","a-f-A-M-F-M","13-5776","MC-130J","USAF"
+"ae29d2","a-f-A-M-F-M","08-6205","MC-130J","USAF"
+"ae4b00","a-f-A-M-F-M","08-5697","MC-130J","USAF"
+"ae4be6","a-f-A-M-F-M","09-5713","MC-130J","USAF"
+"ae4e19","a-f-A-M-F-M","11-5731","MC-130J","USAF"
+"ae51b8","a-f-A-M-H-M","11-20373","MH-60M","US A"
+"ae537a","a-f-A-M-H-M","12-20470","MH-60K","US A"
+"ae54cc","a-f-A-M-F-M","12-5759","MC-130J","USAF"
+"ae54cf","a-f-A-M-F-M","12-5762","MC-130J","USAF"
+"ae54d7","a-f-A-M-F-M","13-5776","MC-130J","USAF"
+"ae54d9","a-f-A-M-F-M","13-5778","MC-130J","USAF"
+"ae5967","a-f-A-M-F-M","14-5805","MC-130J","USAF"
+"ae5dfb","a-f-A-M-F-M","16-5839","MC-130J","USAF"
+"ae61f8","a-f-A-M-F-M","17-5875","MC-130J","USAF"
+"ae6200","a-f-A-M-F-M","18-5884","MC-130J","USAF"
+"ae68bc","a-f-A-M-F-M","12-3050","C-146A","USAF"
+"ae6911","a-f-A-M-F-M","18-5910","MC-130J","USAF"
+"ae6c0f","a-f-A-M-F-M","20-5931","MC-130J","USAF"
+"ae6c12","a-f-A-M-F-M","20-5937","MC-130J","USAF"
+"ae6d7a","a-f-A-M-F-M","20-5941","MC-130J","USAF"
