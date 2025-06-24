@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"ae0113","a-f-A-M-F-R","96-5302","WC-130J","USAF"
 "ae01c3","a-f-A-M-F-R-Z","64-14848","RC-135V","USAF"
 "ae01c5","a-f-A-M-F-R-Z","64-14843","RC-135V","USAF"
 "ae01c6","a-f-A-M-F-R-Z","64-14844","RC-135V","USAF"

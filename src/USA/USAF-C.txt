@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"adfdb6","a-f-A-M-F-C-M","93-1036","C-130H","USAF"
 "adfdc7","a-f-A-M-F-C-M","93-1561","C-130H","USAF"
 "adfdc8","a-f-A-M-F-C-M","93-1562","C-130H","USAF"
 "adfdcb","a-f-A-M-F-C-M","93-2042","C-130H","USAF"
@@ -39,6 +40,7 @@
 "ae0246","a-f-A-M-F-C-M","94-8152","C-130J","USAF"
 "ae0250","a-f-A-M-F-C-M","97-1353","C-130J","USAF"
 "ae0251","a-f-A-M-F-C-M","97-1354","C-130J","USAF"
+"ae02c6","a-f-A-M-F-C-M","89-9102","C-130H","USAF"
 "ae02c9","a-f-A-M-F-C-M","89-9105","C-130H","USAF"
 "ae02d1","a-f-A-M-F-C-M","92-3021","C-130H","USAF"
 "ae02d3","a-f-A-M-F-C-M","92-3023","C-130H","USAF"
@@ -79,6 +81,7 @@
 "ae07da","a-f-A-M-F-C-H","93-0600","C-17","USAF"
 "ae07dc","a-f-A-M-F-C-H","93-0602","C-17A","USAF"
 "ae07dd","a-f-A-M-F-C-H","93-0603","C-17","USAF"
+"ae07df","a-f-A-M-F-C-H","94-0065","C-17A","USAF"
 "ae07e0","a-f-A-M-F-C-H","94-0066","C-17","USAF"
 "ae07e2","a-f-A-M-F-C-H","94-0068","C-17A","USAF"
 "ae07e4","a-f-A-M-F-C-H","94-0070","C-17A","USAF"
@@ -88,6 +91,7 @@
 "ae07ec","a-f-A-M-F-C-H","96-0002","C-17A","USAF"
 "ae07ee","a-f-A-M-F-C-H","96-0004","C-17A","USAF"
 "ae07ef","a-f-A-M-F-C-H","96-0005","C-17A","USAF"
+"ae07f0","a-f-A-M-F-C-H","96-0006","C-17A","USAF"
 "ae07f1","a-f-A-M-F-C-H","96-0007","C-17","USAF"
 "ae07f3","a-f-A-M-F-C-H","97-0041","C-17","USAF"
 "ae07f4","a-f-A-M-F-C-H","97-0042","C-17","USAF"
