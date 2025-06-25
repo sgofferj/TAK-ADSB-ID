@@ -188,6 +188,7 @@
 "3b77dc","a-f-A-M-F-R-W","202","E-3F","FRA AF"
 "3b77de","a-f-A-M-F-C-M","156","CN-235","FRA AF"
 "3b77e4","a-f-A-M-F-U-M","F-RAFQ","Falcon 900","FRA AF "
+"3b77e6","a-f-A-M-F-C-M","5847","C-130J-30","FRA AF"
 "3b77e7","a-f-A-M-F-C-M","5836","C-130J","FRA AF"
 "3b77eb","a-f-A-M-F-U-L","147","TBM-700A","FRA AF"
 "3b77ec","a-f-A-M-F-U-L","146","TBM-700","FRA AF"

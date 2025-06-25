@@ -25,4 +25,6 @@
 "896c3c","a-f-A-M-F-K","1302","A330 243MRTT","ARE AF"
 "896c40","a-f-A-M-F-C-H","1230","C-17","ARE AF"
 "896c43","a-f-A-M-F-C-M","822","C-295W","ARE AF"
+"896c4a","a-f-A-M-F-U-L","2254","Cessna 208 B","ARE AF"
+"896c55","a-f-A-M-H-U-M","2015","AW.139","ARE AF"
 "896c6c","a-f-A-M-F-U-L","1351","Challenger 650","ARE AF"

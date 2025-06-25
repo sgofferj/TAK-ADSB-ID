@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "4b8203","a-f-A-M-F-K","62-3563","KC-135R","TUR AF"
+"4b8205","a-f-A-M-F-K","62-3539","KC-135R","TUR AF"
 "4b8208","a-f-A-M-F-U-L","91-003","GIV","TUR AF"
 "4b8209","a-f-A-M-F-U-L","93-004","Citation VII","TUR AF"
 "4b820b","a-f-A-M-F-C-H","13-0009","A400M","TUR AF"

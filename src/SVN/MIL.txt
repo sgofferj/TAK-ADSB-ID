@@ -11,4 +11,5 @@
 "506f5d","a-f-A-M-F-T","L9-61","PC-9 M","SVN AF"
 "506f5e","a-f-A-M-F-T","L9-62","PC-9 M","SVN AF"
 "506f61","a-f-A-M-F-T","L9-65","PC-9 M","SVN AF"
+"506f68","a-f-A-M-H-U-M","H3-72","AS.532AL","SVN AF"
 "506f6a","a-f-A-M-H-U-M","H3-74","AS.532AL","SVN AF"

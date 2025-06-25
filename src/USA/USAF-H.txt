@@ -21,3 +21,4 @@
 "ae6251","a-f-A-M-H-U-M","74-59188","UH-1N","USAF"
 "ae6c41","a-f-A-M-H-H","14-14480","HH-60W","USAF"
 "ae6da7","a-f-A-M-H-H","19-14494","HH-60W ","USAF"
+"ae622e","a-f-A-M-H-U-M","69-6614","UH-1N","USAF"

@@ -15,6 +15,7 @@
 "87c837","a-f-A-M-F-P","5515","P-1","JPN N"
 "87cc0a","a-f-A-M-F-K","07-3604","KC-767J","JPN AF"
 "87cc0b","a-f-A-M-F-K","87-3601","KC-767J","JPN AF"
+"87cc1c","a-f-A-M-F-C-M","75-1075","C-130H","JPN AF"
 "87cc25","a-f-A-M-F-C-M","05-1084","C-130H","JPN AF"
 "87cc49","a-f-A-M-F-C-M","18-1213","C-2","JPN AF"
 "87cd01","a-f-A-M-F-K","14-3611","KC-46A","JPN AF"

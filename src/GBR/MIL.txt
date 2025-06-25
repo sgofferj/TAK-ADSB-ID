@@ -350,3 +350,4 @@
 "43cf31","a-f-A-M-H-U-M","ZZ392","Wildcat","GBR A"
 "43cf32","a-f-A-M-H-U-M","ZZ393","AW.159","GBR A"
 "43cf33","a-f-A-M-H-U-M","ZZ394","AW.159","GBR MC"
+"43c556","a-f-A-M-F-T","ZK019","Hawk","GBR AF"

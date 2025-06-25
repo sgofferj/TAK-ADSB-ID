@@ -9,6 +9,7 @@
 "738a02","a-u-A-M-F-U-L","848","King Air B200","ISR AF"
 "738a04","a-u-A-M-F-U-L","859","King Air B200","ISR AF"
 "738a41","a-u-A-M-F-K","275","KC-707 3P1C","ISR AF"
+"738a43","a-u-A-M-F-K","260","KC-707 3J6B","ISR AF"
 "738a44","a-u-A-M-F-K","264","KC-707 3J6C","ISR AF"
 "738a45","a-u-A-M-F-R-Z","290","707 3W6C","ISR AF"
 "738a4a","a-u-A-M-F-R-Z","679","G550","ISR AF"
