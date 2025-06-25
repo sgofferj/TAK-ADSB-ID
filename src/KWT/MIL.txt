@@ -6,3 +6,4 @@
 
 "7061f7","a-u-A-M-F-K","KAF328","KC-130J","KWT AF"
 "706216","a-u-A-M-F-C-H","KAF343","C-17A","KWT AF"
+"706217","a-u-A-M-F-C-H","KAF342","C-17A","KWT AF"

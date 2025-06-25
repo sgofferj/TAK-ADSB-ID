@@ -1,0 +1,7 @@
+#TAK ADSB IDs SAUDI ARABIA CIVILIAN
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"710203","a-u-A-C-F","HZ-KSGA","G450","NasJet"

@@ -6,3 +6,4 @@
 
 "6831f3","a-f-A-M-F-C-M","03 Red","C-295M","KAZ AF"
 "6831f7","a-f-A-M-F-C-M","08 Red","C-295M","KAZ AF"
+"683243","a-f-A-M-F-U-M","95100","Superjet 100 95 B","KAZ Border Guard"

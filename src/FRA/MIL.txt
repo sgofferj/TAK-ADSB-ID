@@ -80,6 +80,7 @@
 "3b75a8","a-f-A-M-F-K","F-UJCH","A330-243MRTT","FRA AF"
 "3b75dd","a-f-A-M-F-K","041","A330-243MRTT","FRA AF"
 "3b75e0","a-f-A-M-F-F","680","Mirage 2000","FRA AF"
+"3b75ed","a-f-A-M-F-K","5874","KC-130J","FRA AF"
 "3b75ee","a-f-A-M-F-T","709FR","PC-21","FRA AF"
 "3b75ef","a-f-A-M-F-T","709FR","PC-21","FRA AF"
 "3b75f0","a-f-A-M-F-T","709FQ","PC-21","FRA AF"

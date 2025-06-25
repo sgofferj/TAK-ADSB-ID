@@ -39,3 +39,6 @@
 "ae2f6b","a-f-A-M-F-R","09-0660","MC-12W","USAF"
 "ae2f72","a-f-A-M-F-R","09-0685","MC-12W","USAF"
 "ae2f73","a-f-A-M-F-R","09-0686","MC-12W","USAF"
+"ae5b6d","a-f-A-M-F-R","05-0409","U-28A","USAF"
+"ae5b6e","a-f-A-M-F-R","01-0415","U-28A","USAF"
+"ae5b75","a-f-A-M-F-R","08-0519","U-28A","USAF"

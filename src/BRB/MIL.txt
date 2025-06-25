@@ -1,0 +1,7 @@
+#TAK ADSB IDs BARBADOS Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"adfda1","a-f-A-M-F-U-L","RSS-A2","C-26A","BRB"
