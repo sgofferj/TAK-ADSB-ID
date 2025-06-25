@@ -44,6 +44,7 @@
 "7cf99b","a-f-A-M-H-C-H","A15-303","CH-47F","AUS A"
 "7cf9a4","a-f-A-M-H-U-M","N48-005","MH-60R","AUS N"
 "7cf9a6","a-f-A-M-H-U-M","N48-007","MH-60R","AUS N"
+"7cf9a7","a-f-A-M-H-U-M","N48-008","MH-60R","AUS N"
 "7cf9c4","a-f-A-M-F-C-H","A41-212","C-17A","AUS AF"
 "7cf9c5","a-f-A-M-F-C-H","A41-213","C-17A","AUS AF"
 "7cf9c8","a-f-A-M-F-K","A39-006","A330 203MRTT","AUS AF"

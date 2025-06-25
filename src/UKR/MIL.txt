@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "50815f","a-f-A-M-F-D","UR-ABA","ACJ319 115X","UKR GOV"
+"50ffd8","a-f-A-M-F-C-M","01 BLUE","AN-26","UKR AF"

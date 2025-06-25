@@ -40,6 +40,8 @@
 "4b7faf","a-n-A-M-F-T","A-941","PC-7","CHE AF"
 "4b7fb0","a-n-A-M-F-T","A-940","PC-7","CHE AF"
 "4b7fb4","a-n-A-M-F-T","A-936","PC-7","CHE A"
+"4b7fb5","a-n-A-M-F-T","A-935","PC-7","CHE AF"
+"4b7fb6","a-n-A-M-F-T","A-934","PC-7","CHE AF"
 "4b7fb9","a-n-A-M-F-T","A-931","PC-7","CHE AF"
 "4b7fbb","a-n-A-M-F-T","A-929","PC-7","CHE AF"
 "4b7fbe","a-n-A-M-F-T","A-925","PC-7","CHE AF"
