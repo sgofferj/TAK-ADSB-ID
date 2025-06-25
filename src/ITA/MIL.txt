@@ -44,7 +44,7 @@
 "33fe0d","a-f-A-M-H-H","MM81823","HH-139A","ITA AF"
 "33fe10","a-f-A-M-H-U-M","MM81807","VH-139A","ITA AF"
 "33fe11","a-f-A-M-H-U-M","MM81806","VH-139A","ITA AF"
-"33fe1a","a-f-A-M-H-H","MM81804","HH-139A.139","ITA AF"
+"33fe1a","a-f-A-M-H-H","MM81804","HH-139A","ITA AF"
 "33fe1e","a-f-A-M-F-U-L","MM62157","DO-228","ITA A"
 "33fe28","a-f-A-M-F-R-Z","MM62163","P.180AM","ITA AF"
 "33fe37","a-f-A-M-H-U-M","MM81812","UH-139A","ITA AF"
