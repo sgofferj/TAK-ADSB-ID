@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"6831f3","a-f-A-M-F-C-M","03-RED","C-295M","Kazakhstan"
+"6831f3","a-f-A-M-F-C-M","03 Red","C-295M","KAZ AF"
+"6831f7","a-f-A-M-F-C-M","08 Red","C-295M","KAZ AF"

@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"e14d34","a-f-A-M-F-V","ARG-03","Learjet 60","ARG AF"
+"e14c70","a-u-A-M-F-U-L","T-10","Learjet 60","ARG AF"
+"e14d34","a-f-A-M-F-U-L","ARG-03","Learjet 60","ARG AF"
 "e20022","a-u-A-M-F-C-M","TC-69","C-130H","ARG AF"
 "e200ae","a-u-A-M-F-U-M","T-99","737NG 76N/W","ARG AF"
