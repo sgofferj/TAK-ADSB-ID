@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"76e311","a-f-A-M-F-K","762","A330 243MRTT","SGP AF"
 "76e314","a-f-A-M-F-K","765","A330 243MRTT","SGP AF"
 "76e721","a-f-A-M-F-T","9101","PC-21","SGP AF"
 "76e723","a-f-A-M-F-T","9103","PC-21","SGP AF"

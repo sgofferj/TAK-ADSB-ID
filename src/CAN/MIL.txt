@@ -29,6 +29,7 @@
 "c2b2e7","a-f-A-M-F-C-L","142805","CC-142","CAN AF"
 "c2b35f","a-f-A-M-F-U-H","15002","CC-150","CAN AF"
 "c2b369","a-f-A-M-F-U-L","144617","CC-144C","Canadian AF"
+"c2b373","a-f-A-M-F-U-L","144618","CC-144C","CAN AF"
 "c2b37d","a-f-A-M-F-U-H","15005","CC-150","CAN AF"
 "c2b3b9","a-f-A-M-F-U-H","15003","CC-150","CAN AF"
 "c2b3c3","a-f-A-M-F-U-H","15004","CC-150","CAN AF"

@@ -16,6 +16,7 @@
 "ae01d0","a-f-A-M-F-R-Z","62-4139","RC-135W","USAF"
 "ae01d4","a-f-A-M-F-R-Z","64-14847","RC-135U","USAF"
 "ae01d5","a-f-A-M-F-R-Z","64-14849","RC-135U","USAF"
+"ae01d7","a-f-A-M-F-R-Z","62-4128","RC-135S","USAF"
 "ae01d8","a-f-A-M-F-R-Z","61-2662","RC-135S","USAF"
 "ae0259","a-f-A-M-F-R","98-5308","WC-130J","USAF"
 "ae048d","a-f-A-M-F-R-W","64-14836","WC-135R","USAF"
