@@ -36,6 +36,7 @@
 "ae4a7a","a-f-A-M-F-U-L","168204","UC-12W","USMC"
 "ae4a7c","a-f-A-M-F-U-L","168208","UC-12W","USMC"
 "ae4b34","a-f-A-M-H-U-H","161265","CH-53E","USMC"
+"ae4b49","a-f-A-M-H-U-H","161988","CH-53E","USMC"
 "ae4b4c","a-f-A-M-H-U-H","161991","CH-53E","USMC"
 "ae4b4e","a-f-A-M-H-U-H","161993","CH-53E","USMC"
 "ae4b85","a-f-A-M-H-U-H","163079","CH-53E","USMC"

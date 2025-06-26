@@ -4,3 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"3422d6","a-f-A-M-H-U-L","HU.26-05","EC135","ESP GUARDIA CIVIL #LEO"
+"342599","a-f-A-M-H-U-L","HU.26-06","EC135P2","ESP GUARDIA CIVIL #LEO"
+"343113","a-f-A-M-H-U-L","HU.26-13","EC135P2","ESP GUARDIA CIVIL #LEO"
+"3432cd","a-f-A-M-F-P","T.19B-21","CN-235 300MPA","ESP GUARDIA CIVIL #LEO"

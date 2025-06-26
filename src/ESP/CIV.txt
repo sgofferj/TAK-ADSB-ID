@@ -1,0 +1,7 @@
+#TAK ADSB IDs SPAIN Civilian EMS, Fire, special
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"3425cb","a-f-A-C-F","EC-KBS","P-68C","ESP Balearic Isl. Gov. #FIRE"

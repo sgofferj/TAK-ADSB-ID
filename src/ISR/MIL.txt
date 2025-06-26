@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"7386c0","a-u-A-M-F-D","4X-ISR","767 338ER","ISR AF"
 "738a00","a-u-A-M-F-U-L","842","King Air B200","ISR AF"
 "738a01","a-u-A-M-F-K","272","KC-707 3L6C","ISR AF"
 "738a02","a-u-A-M-F-U-L","848","King Air B200","ISR AF"

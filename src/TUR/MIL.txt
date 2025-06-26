@@ -23,5 +23,6 @@
 "4b82da","a-f-A-M-F-U-L","5001","King Air B200","TUR MoD"
 "4b82db","a-f-A-M-F-U-L","5002","King Air B200","TUR MoD"
 "4b82dc","a-f-A-M-F-U-L","J-001","Cessna 680","TUR Gendarmerie"
+"4b82e8","a-f-A-M-F-J","68-01609","C-130E ECM","TUR AF"
 "4b82ff","a-f-A-M-F-R-X","5003","King Air B350","TUR MoD"
 "4b8344","a-f-A-M-F-U-M","TCB703","ATR 72 600 MUA","TUR N"

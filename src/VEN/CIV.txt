@@ -1,0 +1,7 @@
+#TAK ADSB IDs VENEZUELA Civilian EMS, Fire, special
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"0d81a5","a-u-A-C-F","YVO100","Turbo Commander 695A","VEN INAC"

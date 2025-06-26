@@ -16,7 +16,7 @@
 "467717","a-f-G-E-V-C-A","MR5","Marshaller","Finavia"
 "467718","a-f-G-E-V-C-A","MR6","Marshaller","Finavia"
 "467719","a-f-G-E-V-C-A","MR7","Marshaller","Finavia"
-"46771e","a-f-G-E-V-C-U-H","AR101","Fire truck","FIRE (Finavia fire)"
+"46771e","a-f-G-E-V-C-U-H","AR101","Fire truck","Finavia #FIRE"
 "467721","a-f-G-E-V-C-M","HENKILO6","OPS vehicle","Finavia"
 "467722","a-f-G-E-V-C-U-M","LENTO24","OPS vehicle","Finavia"
 "467726","a-f-G-E-V-C-U-M","SAHKO1","El. maint.","Finavia"
