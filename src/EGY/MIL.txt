@@ -6,6 +6,7 @@
 
 "010074","a-u-A-M-F-U-L","SU-BLA","Beechcraft 1900 C-1","EGY AF"
 "010075","a-u-A-M-F-C-M","SU-BAB","C-130H","EGY AF"
+"010077","a-u-A-M-F-C-M","SU-BAD","C-130H","EGY AF"
 "010078","a-u-A-M-F-C-M","SU-BAE","C-130H","EGY AF"
 "010079","a-u-A-M-F-C-M","SU-BAF","C-130H","EGY AF"
 "01007d","a-u-A-M-F-C-M","SU-BAL","C-130H","EYG AF"
@@ -18,4 +19,4 @@
 "010198","a-u-A-M-F-C-M","SU-BSQ","C-295M","EGY AF"
 "0101a1","a-u-A-M-F-C-M","SU-BSY","C-295M","EGY AF"
 "0101a3","a-u-A-M-F-C-M","SU-BTA","C-295M","EGY AF"
-"0101f5","a-u-A-M-F-C-H","SU-BTY","IL-76MF","EYG AF"
+"0101f5","a-u-A-M-F-C-H","SU-BTY","IL-76MF","EGY AF"

@@ -48,6 +48,7 @@
 "ae08eb","a-f-A-M-F-U-L","83-0494","C-12D","USAF"
 "ae08ec","a-f-A-M-F-U-L","83-0495","C-12D","USAF"
 "ae08ee","a-f-A-M-F-U-L","83-0497","C-12D","USAF"
+"ae08ef","a-f-A-M-F-U-L","86-0078","C-12J","USAF"
 "ae08f0","a-f-A-M-F-U-L","83-0499","C-12D","USAF"
 "ae08f1","a-f-A-M-F-U-L","86-0083","C-12J","USAF"
 "ae0942","a-f-A-M-F-U-L","73-1208","C-12C","USAF"

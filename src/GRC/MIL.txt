@@ -16,6 +16,8 @@
 "4682bd","a-f-A-M-H-U-L","22701","AW.109","GRC AF"
 "4682c0","a-f-A-M-H-U-L","22704","AW.109","GRC AF"
 "4682d9","a-f-A-M-F-R-W","729","ERJ-145 AEW&C","GRC AF"
+"4682e5","a-f-A-M-F-C-M","741","C-130H","GRC AF"
+"4682e6","a-f-A-M-F-C-M","742","C-130H","GRC AF"
 "4682eb","a-f-A-M-F-C-M","747","C-130H","GRC AF"
 "4682f5","a-f-A-M-F-R-W","757","R-99","GRC AF"
 "4683b4","a-f-A-M-F-C-M","948","C-130B","GRC AF"

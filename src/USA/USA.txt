@@ -326,6 +326,7 @@
 "ae50e5","a-f-A-M-H-U-M","10-20314","UH-60M","US A"
 "ae50e7","a-f-A-M-H-U-M","10-20316","UH-60M","US A"
 "ae515e","a-f-A-M-F-R-Z","88-00325","RC-12X","US A"
+"ae51aa","a-f-A-M-H-U-M","11-20358","UH-60M","US A"
 "ae51ac","a-f-A-M-H-U-M","11-20360","UH-60M","US A"
 "ae51bf","a-f-A-M-H-U-M","11-20391","UH-60M","US A"
 "ae51d2","a-f-A-M-H-U-M","11-20423","UH-60M","US A"

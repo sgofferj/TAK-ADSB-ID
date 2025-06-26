@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"70c078","a-f-A-M-F-C-M","501","C-130H","OMN AF"
 "70c07a","a-f-A-M-F-C-M","503","C-130H","OMN AF"
 "70c07c","a-f-A-M-F-D","555","ACJ320 214X","OMN AF"
 "70c07d","a-f-A-M-F-C-M","525","C-130J","OMN AF"
