@@ -18,6 +18,7 @@
 "ae5cb8","a-f-A-M-H-H","90-26224","HH-60G","USAF"
 "ae622c","a-f-A-M-H-U-M","69-6612","UH-1N","USAF"
 "ae622e","a-f-A-M-H-U-M","69-6614","UH-1N","USAF"
+"ae6231","a-f-A-M-H-U-M","69-6626","UH-1N","USAF"
 "ae6238","a-f-A-M-H-U-M","69-6642","UH-1N","USAF"
 "ae6251","a-f-A-M-H-U-M","74-59188","UH-1N","USAF"
 "ae6c41","a-f-A-M-H-H","14-14480","HH-60W","USAF"

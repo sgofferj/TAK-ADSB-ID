@@ -26,6 +26,7 @@
 "ae5967","a-f-A-M-F-M","14-5805","MC-130J","USAF"
 "ae5b89","a-f-A-M-F-M","07-0829","U-28B","USAF"
 "ae5dfb","a-f-A-M-F-M","16-5839","MC-130J","USAF"
+"ae5e01","a-f-A-M-F-M","16-5850","MC-130J","USAF"
 "ae61f8","a-f-A-M-F-M","17-5875","MC-130J","USAF"
 "ae6200","a-f-A-M-F-M","18-5884","MC-130J","USAF"
 "ae68bc","a-f-A-M-F-M","12-3050","C-146A","USAF"

@@ -28,6 +28,7 @@
 "ae11e0","a-f-A-M-F-R-W","77-0352","E-3B","USAF"
 "ae11e3","a-f-A-M-F-R-W","77-0356","E-3B","USAF"
 "ae11e6","a-f-A-M-F-R-W","78-0578","E-3B","USAF"
+"ae11ea","a-f-A-M-F-R-W","80-0137","E-3C","USAF"
 "ae11ed","a-f-A-M-F-R-W","81-0004","E-3TF","USAF"
 "ae11ef","a-f-A-M-F-R-W","82-0006","E-3C","USAF"
 "ae11f0","a-f-A-M-F-R-W","82-0007","E-3G","USAF"
