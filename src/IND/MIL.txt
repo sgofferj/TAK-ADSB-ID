@@ -37,6 +37,7 @@
 "8002ce","a-n-A-M-F-U-M","K3604","ERJ-135BJ","IND AF"
 "8002dc","a-n-A-M-F-C-H","K2879","IL-76MD","IND AF"
 "8002f6","a-n-A-M-F-U-M","K5012","B737-7HI","IND AF"
+"8002f8","a-n-A-M-F-U-M","IN244","Do 228 201","IND N"
 "8002fb","a-n-A-M-F-U-M","K5014","B737-7HI","IND AF"
 "80030b","a-n-A-M-F-U-M","HM706","Do 228 201","IND AF"
 "80030d","a-n-A-M-F-P","IN321","P-8I","IND N"

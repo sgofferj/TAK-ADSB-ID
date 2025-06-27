@@ -11,6 +11,7 @@
 "32001c","a-f-A-M-H-U-M","MM81892","AW.139","ITA CG"
 "32001e","a-f-A-M-H-U-M","MM81898","AW.139","ITA CG"
 "320022","a-f-A-M-H-U-M","MM81927","AW.139","ITA Guardia di Finanza"
+"320023","a-f-A-M-H-U-M","MM81929","AW.139","ITA Guardia di Finanza"
 "320028","a-f-A-M-H-U-M","MM81949","AW.139","ITA Guardia di Finanza"
 "320029","a-f-A-M-H-U-M","MM81950","AW.139","ITA Guardia di Finanza"
 "32002e","a-f-A-M-F-U-M","MM62311","ATR 72-212A","ITA Guardia di Finanza"
