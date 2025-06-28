@@ -7,6 +7,7 @@
 "320003","a-f-A-M-F-U-L","MM62248","P.180AM","ITA Guardia di Finanza"
 "320004","a-f-A-M-F-U-L","MM62249","P.180AM","ITA Guardia di Finanza"
 "320006","a-f-A-M-F-U-L","MM62275","P.180","ITA Carabinieri"
+"32000a","a-f-A-M-H-U-M","MM81748","PH-139A","ITA CG"
 "320013","a-f-A-M-F-P","MM62208","ATR 42-420MP","ITA CG"
 "32001c","a-f-A-M-H-U-M","MM81892","AW.139","ITA CG"
 "32001e","a-f-A-M-H-U-M","MM81898","AW.139","ITA CG"

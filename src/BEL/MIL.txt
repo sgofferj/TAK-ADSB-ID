@@ -80,5 +80,6 @@
 "44f692","a-f-A-M-F-U-L","ST-02","SF-260M","BEL AF Red Devils"
 "44f6a0","a-f-A-M-H-U-M","RN-01","NH90","BEL AF"
 "44f6a1","a-f-A-M-H-U-M","RN-02","NH90","BEL AF"
+"44f6a2","a-f-A-M-H-U-M","RN-03","NH90 NFH","BEL N"
 "44f6a6","a-f-A-M-H-U-M","RN-07","NH90","BEL AF"
 "44f6a7","a-f-A-M-H-U-M","RN-08","NH90 TTH","BEL AF"

@@ -10,6 +10,7 @@
 "49842a","a-f-A-M-F-F","9235","JAS-39C","CZE AF"
 "49842b","a-f-A-M-F-F","9236","JAS-39C","CZE AF"
 "49842d","a-f-A-M-F-F","9238","JAS-39C","CZE AF"
+"49842e","a-f-A-M-F-F","9239","JAS-39C","CZE AF"
 "49842f","a-f-A-M-F-F","9240","JAS-39C","CZE AF"
 "498432","a-f-A-M-F-F","9243","JAS-39C","CZE AF"
 "498436","a-f-A-M-F-F","9820","JAS-39C","CZE AF"

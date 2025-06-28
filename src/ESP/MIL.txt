@@ -7,6 +7,7 @@
 "341390","a-f-A-M-F-U-M","T.18-1","Falcon 900","ESP AF"
 "341391","a-f-A-M-F-U-M","T.18-2","Falcon 900","ESP AF"
 "341517","a-f-A-M-F-C-M","T.21-01","C-295M","ESP AF"
+"342199","a-f-A-M-F-C-M","T.21-09","C-295M","ESP AF"
 "3425d6","a-f-A-M-F-U-L","U.21-01","Cessna 650","ESP N"
 "342693","a-f-A-M-F-C-M","D.4-06","CN-235 100MPA","ESP AF"
 "342696","a-f-A-M-F-C-M","D.4-02","CN-235","ESP AF"
