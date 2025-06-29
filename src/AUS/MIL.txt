@@ -6,6 +6,7 @@
 
 "7c79aa","a-f-A-M-H-U-M","VH-YBG","AW.139","AUS A"
 "7cf830","a-f-A-M-F-C-M","A97-440","C-130J-30","AUS AF"
+"7cf832","a-f-A-M-F-C-M","A97-442","C-130J-30","AUS AF"
 "7cf834","a-f-A-M-F-C-M","A97-448","C-130J","AUS AF"
 "7cf837","a-f-A-M-F-C-M","A97-464","C-130J-30","AUS AF"
 "7cf838","a-f-A-M-F-C-M","A97-465","C-130J","AUS AF"

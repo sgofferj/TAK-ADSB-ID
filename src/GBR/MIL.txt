@@ -84,6 +84,7 @@
 "43c391","a-f-A-M-F-F","PZ865","Hawker Hurricane Mk. IIC","Battle of Britain Memorial Flight"
 "43c394","a-f-A-M-F-F","AB910","Spitfire Mk.VB","GBR AF"
 "43c396","a-f-A-M-F-F","TE311","Spitfire LF.XVI","GBR AF"
+"43c397","a-f-A-M-F-F","PM631","Spitfire PR.XIX","GBR AF"
 "43c39c","a-f-A-M-F-R-Z","ZZ665","RC-135","GBR AF"
 "43c40d","a-f-A-M-F-T","XX219","Hawk","GBR AF"
 "43c418","a-f-A-M-F-T","XX232","Hawk","GBR AF"

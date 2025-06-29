@@ -26,3 +26,4 @@
 "4b82e8","a-f-A-M-F-J","68-01609","C-130E ECM","TUR AF"
 "4b82ff","a-f-A-M-F-R-X","5003","King Air B350","TUR MoD"
 "4b8344","a-f-A-M-F-U-M","TCB703","ATR 72 600 MUA","TUR N"
+"4b839c","a-f-A-M-F-U-L","KLH71","Challenger 604","TUR AF"

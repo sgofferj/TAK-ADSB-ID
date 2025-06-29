@@ -103,6 +103,7 @@
 "ae0679","a-f-A-M-F-C-H","00-0174","C-17","USAF"
 "ae07ce","a-f-A-M-F-C-H","89-1190","C-17A","USAF"
 "ae07cf","a-f-A-M-F-C-H","89-1191","C-17A","USAF"
+"ae07d3","a-f-A-M-F-C-H","90-0534","C-17A","USAF"
 "ae07d4","a-f-A-M-F-C-H","90-0535","C-17A","USAF"
 "ae07d6","a-f-A-M-F-C-H","92-3292","C-17A","USAF"
 "ae07d9","a-f-A-M-F-C-H","93-0599","C-17A","USAF"
