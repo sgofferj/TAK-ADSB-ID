@@ -24,6 +24,7 @@
 "896c2f","a-f-A-M-F-C-H","1227","C-17A","ARE AF"
 "896c30","a-f-A-M-F-C-H","1228","C-17A","ARE AF"
 "896c3c","a-f-A-M-F-K","1302","A330 243MRTT","ARE AF"
+"896c3d","a-f-A-M-F-C-M","312","C-130H-30","ARE AF"
 "896c40","a-f-A-M-F-C-H","1230","C-17","ARE AF"
 "896c43","a-f-A-M-F-C-M","822","C-295W","ARE AF"
 "896c49","a-f-A-M-F-U-L","2252","Cessna 208 B","ARE AF"

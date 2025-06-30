@@ -8,6 +8,7 @@
 "497c73","a-f-A-M-F-U-L","17403","Falcon 50","PRT AF"
 "497ca1","a-f-A-M-F-C-M","16701","C-295M","PRT AF"
 "497ca3","a-f-A-M-F-C-M","16703","C-295M","PRT AF"
+"497ca5","a-f-A-M-F-C-M","16705","C-295M","PRT AF"
 "497cab","a-f-A-M-F-P","16711","C-295MPA","PRT AF"
 "497cac","a-f-A-M-F-P","16712","C-295MPA","PRT AF"
 "497cb1","a-f-A-M-H-U-M","29701","AW.119 Kx","PRT AF"

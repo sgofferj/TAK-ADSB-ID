@@ -43,6 +43,7 @@
 "80030b","a-n-A-M-F-U-M","HM706","Do 228 201","IND AF"
 "80030d","a-n-A-M-F-P","IN321","P-8I","IND N"
 "80030f","a-n-A-M-F-P","IN323","P-8I","IND N"
+"800311","a-n-A-M-F-P","IN325","P-8I","IND N"
 "800332","a-n-A-M-F-C-M","KC-3801","C-130J","IND AF"
 "800333","a-n-A-M-F-C-M","KC-3802","C-130J","IND AF"
 "800335","a-n-A-M-F-C-M","KC-3804","C-130J-30","IND AF"

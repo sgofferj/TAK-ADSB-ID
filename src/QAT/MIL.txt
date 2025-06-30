@@ -13,6 +13,8 @@
 "06a27b","a-f-A-M-F-C-H","A7-MAN","C-17A","QAT AF"
 "06a27c","a-f-A-M-F-C-H","A7-MAO","C-17A","QAT AF"
 "06a27d","a-f-A-M-F-C-H","A7-MAP","C-17A","QAT AF"
+"06a28e","a-f-A-M-H-U-L","QA321","AS.350","QAT AF"
+"06a29c","a-f-A-M-H-U-L","QA335","AS.350","QAT AF"
 "43c960","a-f-A-M-F-T","ZB131","Hawk","GBR+QAT AF"
 "43c961","a-f-A-M-F-T","ZB132","Hawk","GBR+QAT AF"
 "43c962","a-f-A-M-F-T","ZB133","Hawk","GBR+QAT AF"
