@@ -14,6 +14,8 @@
 "76e729","a-f-A-M-F-T","9109","PC-21","SGP AF"
 "76e72a","a-f-A-M-F-T","9110","PC-21","SGP AF"
 "76e72b","a-f-A-M-F-T","9111","PC-21","SGP AF"
+"76e72d","a-f-A-M-F-T","9113","PC-21","SGP AF"
+"76e72e","a-f-A-M-F-T","9114","PC-21","SGP AF"
 "76e72f","a-f-A-M-F-T","9115","PC-21","SGP AF"
 "76e730","a-f-A-M-F-T","9116","PC-21","SGP AF"
 "76e731","a-f-A-M-F-T","9117","PC-21","SGP AF"

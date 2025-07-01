@@ -12,6 +12,7 @@
 "ae06d9","a-f-A-M-F-U-L","163561","UC-12F","USMC"
 "ae06da","a-f-A-M-F-U-L","163558","UC-12F","USMC"
 "ae06dc","a-f-A-M-F-U-L","163554","UC-12F","USMC"
+"ae06de","a-f-A-M-F-U-L","163556","UC-12F","USMC"
 "ae06df","a-f-A-M-F-U-L","163557","UC-12F","USMC"
 "ae06e0","a-f-A-M-F-U-L","163562","UC-12F","USMC"
 "ae06e1","a-f-A-M-F-U-L","163553","UC-12F","USMC"

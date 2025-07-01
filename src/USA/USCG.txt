@@ -18,6 +18,7 @@
 "ae265b","a-f-A-M-H-H","6501","HH-65","USCG"
 "ae265c","a-f-A-M-H-U-L","6502","MH-65D","USCG"
 "ae265d","a-f-A-M-H-U-L","6503","MH-65D","USCG"
+"ae2661","a-f-A-M-H-U-L","6507","MH-65E","USCG"
 "ae2664","a-f-A-M-H-U-L","6510","MH-65D","USCG"
 "ae2666","a-f-A-M-H-U-L","6512","MH-65D","USCG"
 "ae266a","a-f-A-M-H-U-L","6516","MH-65D","USCG"

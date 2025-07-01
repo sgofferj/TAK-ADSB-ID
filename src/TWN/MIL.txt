@@ -1,0 +1,7 @@
+#TAK ADSB IDs TAIWAN MILITARY
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"899181","a-f-A-M-F-U-M","5002","F50","TWN AF"
