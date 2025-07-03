@@ -19,4 +19,5 @@
 "010198","a-u-A-M-F-C-M","SU-BSQ","C-295M","EGY AF"
 "0101a1","a-u-A-M-F-C-M","SU-BSY","C-295M","EGY AF"
 "0101a3","a-u-A-M-F-C-M","SU-BTA","C-295M","EGY AF"
+"0101b1","a-u-A-M-F-C-M","SU-BTL","C-295M","EGY AF"
 "0101f5","a-u-A-M-F-C-H","SU-BTY","IL-76MF","EGY AF"

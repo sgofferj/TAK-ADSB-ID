@@ -4,4 +4,8 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"743588","a-u-A-M-F-T","1171","PC-21","JOR AF"
+"743593","a-u-A-M-F-T","1160","C-101","JOR AF"
+"743594","a-u-A-M-F-T","1161","C-101","JOR AF"
+"743595","a-u-A-M-F-T","1162","C-101","JOR AF"
 "743597","a-u-A-M-F-C-L","355","M-28","JOR AF"

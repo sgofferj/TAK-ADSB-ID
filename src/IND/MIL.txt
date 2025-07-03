@@ -48,6 +48,7 @@
 "800332","a-n-A-M-F-C-M","KC-3801","C-130J","IND AF"
 "800333","a-n-A-M-F-C-M","KC-3802","C-130J","IND AF"
 "800335","a-n-A-M-F-C-M","KC-3804","C-130J-30","IND AF"
+"800336","a-n-A-M-F-C-M","KC-3805","C-130J-30","IND AF"
 "800337","a-n-A-M-F-C-M","KC-3806","C-130J-30","IND AF"
 "800338","a-n-A-M-F-C-M","K2668","AN-32","IND AF"
 "8003c1","a-n-A-M-F-U-H","VT-PPA","A321 211","IND DRDO"

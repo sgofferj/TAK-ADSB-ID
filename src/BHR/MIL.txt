@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "894016","a-u-A-M-F-U-M","A9C-HWR","146 RJ85","BHR AF"
+"894087","a-u-A-M-F-C-M","701","C-130J","BHR AF"

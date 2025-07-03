@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"44c1e2","a-f-A-C-F","G-04","Cessna 182R","BEL FED POL #LEO"
 "44c1e4","a-f-A-C-H","G-15","MD-52","BEL FED POL #LEO"
 "44c1e5","a-f-A-C-H","G-10","MD 902","BEL FED POL #LEO"
 "44c1e7","a-f-A-C-H","G-11","MD 902","BEL FED POL #LEO"

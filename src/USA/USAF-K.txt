@@ -192,6 +192,7 @@
 "ae05b1","a-f-A-M-F-K","63-8878","KC-135R","USAF"
 "ae0627","a-f-A-M-F-K","62-3512","KC-135R","USAF"
 "ae0629","a-f-A-M-F-K","62-3526","KC-135R","USAF"
+"ae062a","a-f-A-M-F-K","58-0129","KC-135T","USAF"
 "ae062b","a-f-A-M-F-K","60-0353","KC-135R","USAF"
 "ae062c","a-f-A-M-F-K","63-8874","KC-135R","USAF"
 "ae062d","a-f-A-M-F-K","62-3571","KC-135R","USAF"

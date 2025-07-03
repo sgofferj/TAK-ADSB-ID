@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"7c79a9","a-f-A-M-H-U-M","VH-YBF","AW.139","AUS A"
 "7c79aa","a-f-A-M-H-U-M","VH-YBG","AW.139","AUS A"
 "7cf830","a-f-A-M-F-C-M","A97-440","C-130J-30","AUS AF"
 "7cf832","a-f-A-M-F-C-M","A97-442","C-130J-30","AUS AF"

@@ -23,6 +23,7 @@
 "3aac24","a-f-A-C-H","1952","AS.350BA","FRA Gendarmerie #LEO"
 "3aac38","a-f-A-C-H","9700","EC145","FRA Gendarmerie #LEO"
 "3b7b22","a-f-A-M-F-U-L","F-ZBGO","Beech 350","FRA Customs #LEO"
+"3b7b23","a-f-A-M-F-U-L","F-ZBGN","King Air B350","FRA Customs #LEO"
 "3b7b41","a-f-A-M-F-U-L","F-ZBGM","King Air B350","FRA Customs #LEO"
 "3b7b56","a-f-A-M-H-U-L","F-ZBGJ","EC135T2+","FRA Customs #LEO"
 "3b7b57","a-f-A-M-H-U-L","F-ZBGI","EC135T2","FRA Customs #LEO"
