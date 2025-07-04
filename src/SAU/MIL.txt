@@ -12,5 +12,6 @@
 "7102fa","a-u-A-M-F-K","2402","A330 202MRTT","SAU AF"
 "7102fd","a-u-A-M-F-K","2405","A330 202MRTT","SAU AF"
 "710385","a-u-A-M-F-C-M","486","C-130H","SAU AF"
+"710392","a-u-A-M-F-U-M","HZ-102","B737NG","SAU GOV / Desert Wings Aviation"
 "710393","a-u-A-M-F-U-L","HZ-133","Citation Bravo","SAU AF"
 "7103ad","a-u-A-M-F-U-L","5004","King Air B350","SAU AF"

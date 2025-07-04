@@ -35,6 +35,7 @@
 "33fd5f","a-f-A-M-F-U-L","MM62317","Beech 350","ITA AF"
 "33fd63","a-f-A-M-H-U-M","MM81968","AW.139","ITA Carabinieri"
 "33fd6e","a-f-A-M-F-T","MM55229","T-346A","ITA AF"
+"33fd75","a-f-A-M-H-H","MM81870","HH-101A","ITA AF"
 "33fd92","a-f-A-M-F-T","MM55218","T.346A","ITA AF"
 "33fd94","a-f-A-M-F-U-L","MM62304","P.180","ITA Carabinieri"
 "33fd99","a-f-A-M-F-R-W","MM62303","G550 CAEW","ITA AF"
