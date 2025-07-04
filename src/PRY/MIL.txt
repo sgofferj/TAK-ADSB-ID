@@ -1,0 +1,7 @@
+#TAK ADSB IDs PARAGUAY Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"e8800a","a-u-A-M-F-U-L","0251","Cessna 208B","PRY AF"

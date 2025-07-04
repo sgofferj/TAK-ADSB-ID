@@ -113,6 +113,7 @@
 "43c4df","a-f-A-M-H-C-H","ZH894","CH-47","GBR AF"
 "43c550","a-f-A-M-F-T","ZK013","Hawk","GBR AF"
 "43c551","a-f-A-M-F-T","ZK014","Hawk","GBR AF"
+"43c554","a-f-A-M-F-T","ZK017","Hawk","GBR AF"
 "43c555","a-f-A-M-F-T","ZK018","Hawk","GBR AF"
 "43c556","a-f-A-M-F-T","ZK019","Hawk","GBR AF"
 "43c557","a-f-A-M-F-T","ZK020","Hawk","GBR AF"

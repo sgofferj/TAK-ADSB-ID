@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"010071","a-u-A-M-F-U-L","SU-BKV","Beechcraft 1900 C-1","EGY AF"
 "010074","a-u-A-M-F-U-L","SU-BLA","Beechcraft 1900 C-1","EGY AF"
 "010075","a-u-A-M-F-C-M","SU-BAB","C-130H","EGY AF"
 "010077","a-u-A-M-F-C-M","SU-BAD","C-130H","EGY AF"
@@ -15,6 +16,7 @@
 "01008d","a-u-A-M-F-C-M","SU-BPJ","C-130H","EGY AF"
 "0100d2","a-u-A-M-F-C-M","SU-BPN","An-74","EGY AF"
 "01018b","a-u-A-M-F-C-M","SU-BSK","C-295M","EGY AF"
+"010191","a-u-A-M-F-C-M","SU-BSE","C-295M","EGY AF"
 "010197","a-u-A-M-F-C-M","SU-BSP","C-295M","EGY AF"
 "010198","a-u-A-M-F-C-M","SU-BSQ","C-295M","EGY AF"
 "0101a1","a-u-A-M-F-C-M","SU-BSY","C-295M","EGY AF"

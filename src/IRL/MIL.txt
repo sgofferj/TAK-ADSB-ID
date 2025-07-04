@@ -5,7 +5,8 @@
 #"hexid","CoT type","registration","type","operator"
 
 "4ca13f","a-n-A-M-F-C-M","253","CN-235","IRL AF"
-"4ca158","a-n-A-M-H-U-L","256","EC135T2","IRL AF (Garda)"
+"4ca158","a-n-A-M-H-U-L","256","EC135T2","IRL AF (Garda) #LEO"
+"4ca1e7","a-n-A-M-F-T","260","PC-9M","IRL AF"
 "4ca1e8","a-n-A-M-F-T","261","PC-9M","IRL AF"
 "4ca1e9","a-n-A-M-F-T","262","PC-9M","IRL AF"
 "4ca1ea","a-n-A-M-F-T","263","PC-9M","IRL AF"
@@ -14,7 +15,7 @@
 "4ca1ee","a-n-A-M-F-T","267","PC-9M","IRL AF"
 "4ca28b","a-n-A-M-H-U-L","271","EC135P2","IRL AF"
 "4ca28c","a-n-A-M-H-U-L","270","EC135","IRL AF"
-"4ca31a","a-n-A-M-H-U-L","272","EC135T2","IRL AF (Garda)"
+"4ca31a","a-n-A-M-H-U-L","272","EC135T2","IRL AF (Garda) #LEO"
 "4ca31e","a-n-A-M-H-U-M","274","AW.139","IRL AF"
 "4ca330","a-n-A-M-H-U-M","275","AW.139","IRL AF"
 "4ca331","a-n-A-M-H-U-M","276","AW.139","IRL AF"

@@ -54,6 +54,7 @@
 "44F1A6","a-f-A-M-F-F","FA-136","F-16","BEL AF"
 "44f602","a-f-A-M-F-T","LB-02","L-21B","BEL AF"
 "44f603","a-f-A-M-F-T","LB-03","L-21B","BEL AF"
+"44f605","a-f-A-M-F-T","LB-05","L-21B","BEL AF"
 "44f635","a-f-A-M-H-U-M","H-21","A.109BA","BEL AF"
 "44f638","a-f-A-M-H-U-M","H-24","A.109BA","BEL AF"
 "44f63a","a-f-A-M-H-U-M","H-26","A.109","BEL AF"
