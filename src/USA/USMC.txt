@@ -27,6 +27,7 @@
 "ae1437","a-f-A-M-F-U-L","166712","UC-35D","USMC"
 "ae1438","a-f-A-M-F-U-L","166713","UC-35D","USMC"
 "ae1439","a-f-A-M-F-U-L","166714","UC-35D","USMC"
+"ae1477","a-f-A-M-F-L","166723","MV-22B","USMC"
 "ae1478","a-f-A-M-F-U-L","166766","UC-35D","USMC"
 "ae1479","a-f-A-M-F-U-L","166767","UC-35D","USMC"
 "ae1480","a-f-A-M-F-K","166763","KC-130J","USMC"

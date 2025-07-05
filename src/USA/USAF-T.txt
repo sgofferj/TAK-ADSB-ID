@@ -286,6 +286,7 @@
 "ae08a7","a-f-A-M-F-T","00-3586","T-6A","USAF"
 "ae08ad","a-f-A-M-F-T","00-3592","T-6","USAF"
 "ae08ae","a-f-A-M-F-T","00-3593","T-6A","USAF"
+"ae08b0","a-f-A-M-F-T","00-3595","T-6A","USAF"
 "ae08b2","a-f-A-M-F-T","00-3597","T-6","USAF"
 "ae10fb","a-f-A-M-F-T","01-3607","T-6A","USAF"
 "ae10fc","a-f-A-M-F-T","01-3608","T-6","USAF"

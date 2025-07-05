@@ -1,0 +1,7 @@
+#TAK ADSB IDs COLOMBIA Law Enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"0ac3d4","a-f-A-C-F","PNC-0242","ATR 42","COL National Police #LEO"

@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"0ac0f6","a-f-A-M-F-U-L","FAC5078","King Air 350C","COL AF"
 "0ac335","a-f-A-M-F-U-L","FAC5761","Citation V","COL AF"
 "0ac338","a-f-A-M-F-U-L","FAC5764","Citation V","COL AF"
 "0aca6e","a-f-A-M-F-U-L","ARC104","King Air 360","COL N"

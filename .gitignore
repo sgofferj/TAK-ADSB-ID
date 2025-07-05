@@ -4,4 +4,4 @@ refresh.sh
 test.sh
 tools/changevip.sh
 tools/SAR.sh
-cotdb.*
+cotdb*
