@@ -4,11 +4,13 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"8a0131","a-u-A-M-F-T","LL-0109","KT-1B","IDN AF"
-"8a0132","a-u-A-M-F-T","LL-0110","KT-1B","IDN AF"
-"8a02d9","a-u-A-M-F-T","LL-0114","KT-1B","IDN AF"
-"8a02da","a-u-A-M-F-T","LL-0115","KT-1B","IDN AF"
-"8a02dc","a-u-A-M-F-T","LL-0117","KT-1B","IDN AF"
+"8a0024","a-u-A-M-U-M","A-7305","737 4U3","IDN AF"
+"8a0029","a-u-A-M-U-M","A-7306","737 4U3","IDN AF"
+"8a0131","a-u-A-M-F-T","LL-0109","KT-1B","IDN AF #trainer"
+"8a0132","a-u-A-M-F-T","LL-0110","KT-1B","IDN AF #trainer"
+"8a02d9","a-u-A-M-F-T","LL-0114","KT-1B","IDN AF #trainer"
+"8a02da","a-u-A-M-F-T","LL-0115","KT-1B","IDN AF #trainer"
+"8a02dc","a-u-A-M-F-T","LL-0117","KT-1B","IDN AF #trainer"
 "8a032a","a-u-A-M-F-P","AI-7303","737 2X9","IDN AF"
 "8a09e2","a-u-A-M-F-U-M","A-0801","Falcon 8X","IDN AF"
 "8a2907","a-u-A-M-F-C-M","A-2907","C-295M","IDN AF"

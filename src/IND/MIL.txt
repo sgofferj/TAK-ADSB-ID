@@ -72,4 +72,5 @@
 "800e14","a-n-A-M-F-U-M","KD712","Do 228","IND AF"
 "800e15","a-n-A-M-F-U-M","KD713","Do 228 202K","IND AF"
 "800e1e","a-n-A-M-F-C-M","KC-3807","C-130J-30","IND AF"
+"800e20","a-n-A-M-F-C-M","KC-3809","C-130J-30","IND AF"
 "800e8a","a-n-A-M-F-P","IN329","P-8","IND N"

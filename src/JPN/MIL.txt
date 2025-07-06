@@ -4,6 +4,8 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"87c002","a-f-A-M-F-U-H","80-1111","777 300ER","JPN AF #VIP"
+"87c003","a-f-A-M-F-U-H","80-1112","777 300ER","JPN AF #VIP"
 "87c818","a-f-A-M-F-P","5503","XP-1","JPN N"
 "87c81a","a-f-A-M-F-P","5505","P-1","JPN N"
 "87c823","a-f-A-M-F-P","5508","P-1","JPN N"

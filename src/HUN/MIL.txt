@@ -5,8 +5,9 @@
 #"hexid","CoT type","registration","type","operator"
 
 "473c02","a-f-A-M-F-F","31","JAS-39C","HUN AF"
-"477fcd","a-f-A-M-H-U-L","R-903","MD 900","HUN SECPOL"
-"477fd3","a-f-A-M-H-U-L","R-909","MD 900","HUN SECPOL"
+"477fcb","a-f-A-M-H-U-L","R-904","MD 900","HUN SECPOL #LEO"
+"477fcd","a-f-A-M-H-U-L","R-903","MD 900","HUN SECPOL #LEO"
+"477fd3","a-f-A-M-H-U-L","R-909","MD 900","HUN SECPOL #LEO"
 "477ff1","a-f-A-M-F-C-H","01","C17","NATO SAC"
 "477ff2","a-f-A-M-F-C-H","02","C17","NATO SAC"
 "477ff3","a-f-A-M-F-C-H","03","C17","NATO SAC"

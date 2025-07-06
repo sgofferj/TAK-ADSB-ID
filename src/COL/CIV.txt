@@ -1,0 +1,7 @@
+#TAK ADSB IDs COLOMBIA Civilian
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"0ac31e","a-f-A-C-F","FAC-1190","ATR 42 500","SATENA"

@@ -15,6 +15,7 @@
 "ae596f","a-f-A-M-F-H","13-5790","HC-130J","USAF #SAR"
 "ae5c9a","a-f-A-M-F-H","15-5827","HC-130J","USAF #SAR"
 "ae5c9f","a-f-A-M-F-H","15-5842","HC-130J","USAF #SAR"
+"ae5ca7","a-f-A-M-H-H","05-27048","HH-60G","USAF #SAR"
 "ae5ca8","a-f-A-M-H-H","05-27051","HH-60G","USAF #SAR"
 "ae5caa","a-f-A-M-H-H","06-27075","HH-60G","USAF #SAR"
 "ae5cae","a-f-A-M-H-H","01-26884","HH-60G","USAF #SAR"

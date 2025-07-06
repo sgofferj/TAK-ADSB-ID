@@ -1,8 +1,9 @@
-#TAK ADSB IDs NIGREIA Military
+#TAK ADSB IDs NIGERIA Military
 #Copyright 2021 Stefan Gofferje
 #With contributions from Robert W.
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"0640f2","a-u-A-M-F-U-L","5N-FGW","G550","Nigerian AF"
+"064051","a-u-A-M-F-U-M","5N-FGT","737NG","NGA AF"
+"0640f2","a-u-A-M-F-U-L","5N-FGW","G550","NGA AF"
