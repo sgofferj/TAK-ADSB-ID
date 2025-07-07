@@ -65,6 +65,7 @@
 "ae1167","a-f-A-M-F-U-M","02-0202","C-40C","USAF"
 "ae11f8","a-f-A-M-F-U-M","02-0042","C-40B","USAF"
 "ae11fa","a-f-A-M-F-U-M","02-0203","C-40C","USAF"
+"ae130f","a-f-A-M-F-U-L","73-1216","C-12C","USAF"
 "ae1788","a-f-A-M-F-F","91-0317","F-15E","USAF"
 "ae1789","a-f-A-M-F-F","00-3001","F-15E","USAF"
 "ae178d","a-f-A-M-F-F","91-0602","F-15E","USAF"

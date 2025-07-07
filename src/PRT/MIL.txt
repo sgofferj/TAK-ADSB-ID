@@ -14,6 +14,8 @@
 "497cac","a-f-A-M-F-P","16712","C-295 MPA","PRT AF"
 "497cb1","a-f-A-M-H-U-M","29701","AW.119 Kx","PRT AF"
 "497cb4","a-f-A-M-H-U-M","29704","AW.119 Kx","PRT AF"
+"497cb5","a-f-A-M-H-U-M","29705","AW.119 MkII","PRT AF"
 "497cbd","a-f-A-M-H-U-M","19202","Super Lynx","PRT N"
 "497cc0","a-f-A-M-H-U-M","19205","Super Lynx","PRT N"
 "497cd2","a-f-A-M-F-Q-R","UAFAP3","Ogassa OGS42V","PRT N"
+"497cdc","a-f-A-M-F-K","26901","KC-390","PRT AF"

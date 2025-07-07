@@ -9,3 +9,4 @@
 "683243","a-f-A-M-F-U-M","95100","Superjet 100 95 B","KAZ Border Guard"
 "683249","a-f-A-M-F-U-L","35001","King Air B350","KAZ Border Guard"
 "68324a","a-f-A-M-F-U-L","35002","King Air B350","KAZ Border Guard"
+"68324c","a-f-A-M-F-U-L","65001","Legacy 650","KAZ Border Guard"

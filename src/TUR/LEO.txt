@@ -6,8 +6,12 @@
 
 "4b82a1","a-f-A-C-F","EM-808","King Air B350","TUR National Police #LEO"
 "4b82a4","a-f-A-C-H","EM-7093","Bell 429","TUR National Police #LEO"
+"4b82a5","a-f-A-C-H","EM-7095","Bell 429","TUR National Police #LEO"
+"4b82ad","a-f-A-C-H","EM-7109","Bell 429","TUR National Police #LEO"
 "4b82ae","a-f-A-C-H","EM-7117","Bell 429","TUR National Police #LEO"
+"4b82b1","a-f-A-C-H","EM-003","S-92A","TUR National Police #LEO"
 "4b82c5","a-f-A-C-H","EM-7111","Bell 429","TUR National Police #LEO"
+"4b82cc","a-f-A-C-H","EM-1593","S-70A-17","TUR National Police #LEO"
 "4b82cf","a-f-A-C-H","OR-3125","Bell 429","TUR Directorate of Forestry & Water Affairs"
 "4b82d1","a-f-A-C-H","OR-3127","Bell 429","TUR Directorate of Forestry & Water Affairs"
 "4b82d3","a-f-A-C-H","OR-3133","Bell 429","TUR Directorate of Forestry & Water Affairs"

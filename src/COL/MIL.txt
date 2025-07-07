@@ -9,6 +9,7 @@
 "0ac322","a-f-A-M-F-U-L","FAC1216","Learjet 60","COL AF #VIP"
 "0ac335","a-f-A-M-F-U-L","FAC5761","Citation V","COL AF"
 "0ac338","a-f-A-M-F-U-L","FAC5764","Citation V","COL AF"
+"0ac9c8","a-f-A-M-F-U-L","FAC5767","King Air C90GTX","COL AF"
 "0aca6e","a-f-A-M-F-U-L","ARC104","King Air 360","COL N"
 "0aca79","a-f-A-M-F-U-M","FAC1220","737-732(WL)","COL AF"
 "0acaa7","a-f-A-M-F-U-M","FAC1222","737-732(WL)","COL AF"

@@ -1,4 +1,4 @@
-#TAK ADSB IDs NEW ZEALAND Military
+#TAK ADSB IDs NZL Military
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
@@ -7,8 +7,21 @@
 "c87f00","a-f-A-M-F-C-H","NZ7571","757 2K2C","NZL AF"
 "c87f01","a-f-A-M-F-C-H","NZ7572","757 2K2C","NZL AF"
 "c87f02","a-f-A-M-F-C-M","NZ7001","C-130","NZL AF"
+"c87f0d","a-f-A-M-H-U-M","NZ3301","NH90TTH","NZL AF"
+"c87f0f","a-f-A-M-H-U-M","NZ3303","NH90TTH","NZL AF"
 "c87f11","a-f-A-M-H-U-M","NZ3305","NH-90TTH","NZL AF"
+"c87f13","a-f-A-M-H-U-M","NZ3307","NH90TTH","NZL AF"
+"c87f17","a-f-A-M-H-U-L","NZ3402","A.109","NZL AF"
+"c87f18","a-f-A-M-H-U-L","NZ3403","A.109","NZL AF"
+"c87f19","a-f-A-M-H-U-L","NZ3404","A.109","NZL AF"
+"c87f21","a-f-A-M-F-T","NZ1401","T-6C","NZL AF #trainer"
+"c87f22","a-f-A-M-F-T","NZ1402","T-6C","NZL AF #trainer"
 "c87f23","a-f-A-M-F-T","NZ1403","T-6C","NZL AF #trainer"
+"c87f24","a-f-A-M-F-T","NZ1404","T-6C","NZL AF #trainer"
+"c87f25","a-f-A-M-F-T","NZ1405","T-6C","NZL AF #trainer"
+"c87f29","a-f-A-M-F-T","NZ1409","T-6C","NZL AF #trainer"
+"c87f2a","a-f-A-M-F-T","NZ1410","T-6C","NZL AF #trainer"
+"c87f2c","a-f-A-M-H-S","NZ3611","SH-2G(I)","NZL N"
 "c87f36","a-f-A-M-F-U-L","NZ2350","Beech 350i","NZL AF"
 "c87f37","a-f-A-M-F-R-Z","NZ2351","Beech 350i","NZL AF"
 "c87f38","a-f-A-M-F-R-Z","NZ2352","Beech 350i","NZL AF"

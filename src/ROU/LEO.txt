@@ -1,0 +1,7 @@
+#TAK ADSB IDs ROMANIA Law enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"4a3614","a-f-A-M-H-U-L","290","EC135P2","ROU POL #LEO"

@@ -7,6 +7,7 @@
 "743588","a-u-A-M-F-T","1171","PC-21","JOR AF #trainer"
 "743589","a-u-A-M-F-T","1172","PC-21","JOR AF #trainer"
 "74358c","a-u-A-M-F-T","1175","PC-21","JOR AF #trainer"
+"74358d","a-u-A-M-F-T","1176","PC-21","JOR AF #trainer"
 "743593","a-u-A-M-F-T","1160","C-101","JOR AF #trainer"
 "743594","a-u-A-M-F-T","1161","C-101","JOR AF #trainer"
 "743595","a-u-A-M-F-T","1162","C-101","JOR AF #trainer"

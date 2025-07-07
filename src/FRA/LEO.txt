@@ -4,10 +4,12 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"3aac00","a-f-A-C-H","9008","EC145","FRA Gendarmerie #LEO"
 "3aac03","a-f-A-C-H","F-MJBD","EC145","FRA Gendarmerie #LEO"
 "3aac04","a-f-A-C-H","F-MJBE","EC145","FRA Gendarmerie #LEO"
 "3aac07","a-f-A-C-H","F-MJBH","EC145","FRA Gendarmerie #LEO"
 "3aac08","a-f-A-C-H","9173","EC145","FRA Gendarmerie #LEO"
+"3aac09","a-f-A-C-H","9169","EC145","FRA Gendarmerie #LEO"
 "3aac0a","a-f-A-C-H","9162","EC145","FRA Gendarmerie #LEO"
 "3aac0b","a-f-A-C-H","F-MJBJ","EC145","FRA Gendarmerie #LEO"
 "3aac0c","a-f-A-C-H","F-MJBI","EC145","FRA Gendarmerie #LEO"

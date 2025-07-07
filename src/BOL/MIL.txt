@@ -1,0 +1,7 @@
+#TAK ADSB IDs BOLIVIA Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"e940fa","a-u-A-M-F-U-L","FAB-001","Falcon 900EX","BOL GOV"
