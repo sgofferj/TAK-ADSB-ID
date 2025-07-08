@@ -1,4 +1,4 @@
-#TAK ADSB IDs SPAEGYPTIN Military
+#TAK ADSB IDs EGYPT Military
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:

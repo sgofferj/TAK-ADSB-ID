@@ -9,6 +9,7 @@
 "320037","a-f-A-C-H","VF-142","AW.139","ITA VdF #FIRE"
 "32003c","a-f-A-C-H","VF-143","AW.139","ITA VdF #FIRE"
 "32003e","a-f-A-C-H","VF-145","AW.139","ITA VdF #FIRE"
+"32003f","a-f-A-C-H","VF-146","AW.139","ITA VdF #FIRE"
 "320045","a-f-A-C-H","VF-147","AW.139","ITA VdF #FIRE"
 "320050","a-f-A-C-H","VF-149","AW.139","ITA VdF #FIRE"
 "320055","a-f-A-C-H","VF-150","AW.139","ITA VdF #FIRE"

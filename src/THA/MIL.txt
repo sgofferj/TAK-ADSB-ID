@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"880401","a-f-A-M-F-U-M","1124","ERJ-135 LR","THA A"
 "880404","a-f-A-M-F-C-M","16150","C-295W","THA A"
 "880405","a-f-A-M-F-C-M","19160","C-295W","THA A"
 "880409","a-f-A-M-H-U-M","41522","AW-139","THA AF"
@@ -22,6 +23,7 @@
 "881b71","a-f-A-M-F-U-H","B.L18-2/59","Sukhoi Superjet 100-95LR","THA AF"
 "881b83","a-f-A-M-F-U-L","70202","Saab 340 B","THA AF"
 "881ba1","a-f-C-H-U-H","H10-1/54","S-92A","THA AF"
+"881baa","a-f-A-M-H-U-M","H10-4/61","S-92A","THA AF"
 "881c0b","a-f-A-M-H-U-M","93308","EC155B1","THA AF"
 "8836d3","a-f-A-M-F-U-M","HS-MVS","B737NG","THA AF"
 "883801","a-f-A-M-F-U-M","2113","ERJ-135LR","THA N"

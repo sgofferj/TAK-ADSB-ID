@@ -480,6 +480,7 @@
 "ae63de","a-f-A-M-F-T","64-13240","T-38","USAF #trainer"
 "ae63df","a-f-A-M-F-T","64-13247","T-38A","USAF #trainer"
 "ae63e1","a-f-A-M-F-T","64-13285","T-38","USAF #trainer"
+"ae63e3","a-f-A-M-F-T","64-13301","T-38A","USAF #trainer"
 "ae63e6","a-f-A-M-F-T","65-10429","T-38A","USAF #trainer"
 "ae63e7","a-f-A-M-F-T","66-4332","T-38A","USAF #trainer"
 "ae63e8","a-f-A-M-F-T","62-03702","T-38","USAF #trainer"

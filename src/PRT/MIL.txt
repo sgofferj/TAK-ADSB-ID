@@ -13,6 +13,7 @@
 "497cab","a-f-A-M-F-P","16711","C-295 MPA","PRT AF"
 "497cac","a-f-A-M-F-P","16712","C-295 MPA","PRT AF"
 "497cb1","a-f-A-M-H-U-M","29701","AW.119 Kx","PRT AF"
+"497cb3","a-f-A-M-H-U-M","29703","AW.119 MkII","PRT AF"
 "497cb4","a-f-A-M-H-U-M","29704","AW.119 Kx","PRT AF"
 "497cb5","a-f-A-M-H-U-M","29705","AW.119 MkII","PRT AF"
 "497cbd","a-f-A-M-H-U-M","19202","Super Lynx","PRT N"

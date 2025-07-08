@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"4a3602","a-f-A-M","108","SA.330H","ROU POL #LEO"
 "4a3614","a-f-A-M-H-U-L","290","EC135P2","ROU POL #LEO"

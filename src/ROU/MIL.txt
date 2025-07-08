@@ -13,3 +13,4 @@
 "4a35ac","a-f-A-M-F-C-M","2703","C-27J","ROU AF"
 "4a35ae","a-f-A-M-F-C-M","2705","C-27J","ROU AF"
 "4a35af","a-f-A-M-F-C-M","2706","C-27J","ROU AF"
+"4a3604","a-f-A-M-H-U-M","201","SA.365N","ROU AF"

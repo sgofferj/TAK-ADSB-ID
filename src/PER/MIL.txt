@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"e8cfb9","a-u-A-M-F-U-L","526","Learjet 45 XR","PER AF"
 "e8cfc8","a-u-A-M-F-U-L","OB-2111","Cessna 172S","PER AF"
 "e8cfcf","a-u-A-M-F-U-L","EP-861","Citation XLS","PER A"
 "e8cfcf","a-u-A-M-F-U-L","EP-861","Citation XLS","PER A"
