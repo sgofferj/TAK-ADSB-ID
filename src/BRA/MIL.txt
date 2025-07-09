@@ -6,6 +6,7 @@
 
 "343392","a-f-A-M-F-C-M","FAB2811","C-295","BRA AF"
 "e40086","a-f-A-M-F-U-M","FAB6050","IU-93M","BRA AF"
+"e40088","a-f-A-M-F-U-M","6052","IU-93A","BRA AF"
 "e40089","a-f-A-M-F-U-M","FAB6053","IU-93A","BRA AF"
 "e4009e","a-f-A-M-F-C-M","FAB2472","C-130H","BRA AF"
 "e400c2","a-f-A-M-F-A","FAB5905","A-29B","BRA AF"

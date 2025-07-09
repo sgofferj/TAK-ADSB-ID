@@ -19,4 +19,5 @@
 "497cbd","a-f-A-M-H-U-M","19202","Super Lynx","PRT N"
 "497cc0","a-f-A-M-H-U-M","19205","Super Lynx","PRT N"
 "497cd2","a-f-A-M-F-Q-R","UAFAP3","Ogassa OGS42V","PRT N"
+"497cd5","a-f-A-M-F-Q-R","UAFAP6","Ogassa OGS42V","PRT N"
 "497cdc","a-f-A-M-F-K","26901","KC-390","PRT AF"

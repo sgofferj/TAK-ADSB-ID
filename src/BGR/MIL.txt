@@ -9,6 +9,7 @@
 "457c04","a-f-A-M-F-T","665","PC-9M","BGR AF #trainer"
 "457c05","a-f-A-M-F-T","666","PC-9M","BGR AF #trainer"
 "457c06","a-f-A-M-F-T","667","PC-9M","BGR AF #trainer"
+"457c08","a-f-A-M-H-U-M","701","AS.532AL","BGR AF"
 "457c0c","a-f-A-M-F-C-M","071","C-27J","BGR AF"
 "457c0d","a-f-A-M-F-C-M","072","C-27J","BGR AF"
 "457c20","a-f-A-M-F-C-L","068","L-410 UVP-E3","BGR AF"

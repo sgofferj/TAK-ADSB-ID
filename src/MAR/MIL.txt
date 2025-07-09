@@ -13,6 +13,7 @@
 "02008e","a-f-A-M-F-U-L","CN-AMI","Beech 350","MAR AF"
 "0200ab","a-f-A-M-F-U-L","CN-AMK","Citation XLS+","MAR AF"
 "0200ac","a-f-A-M-F-U-L","CN-MMT","Gulf G550","MAR AF"
+"0200bb","a-f-A-M-F-T","CN-BTJ","T-6A","MAR AF #trainer"
 "0200cc","a-f-A-M-F-U-M","CN-MVI","B737-8KB","MAR AF"
 "020125","a-f-A-M-F-U-M","CN-MSM","146-RJ100","MAR AF"
 "02012d","a-f-A-M-F-U-L","CN-MMR","Gulf G550","MAR AF"

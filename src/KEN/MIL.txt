@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "04c030","a-u-A-M-F-U-M","KAF308","F70 ER","KEN GOV"
+"04c1a8","a-u-A-M-F-U-M","KAF306","DHC-8 103","KEN AF"

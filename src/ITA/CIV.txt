@@ -14,3 +14,4 @@
 "320050","a-f-A-C-H","VF-149","AW.139","ITA VdF #FIRE"
 "320055","a-f-A-C-H","VF-150","AW.139","ITA VdF #FIRE"
 "320064","a-f-A-C-H","VF-154","AW.139","ITA VdF #FIRE"
+"33fd65","a-f-A-M-F-T","CSX55233","T.345A","Leonardo Spa #trainer"

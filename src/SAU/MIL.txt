@@ -20,4 +20,6 @@
 "710392","a-u-A-M-F-U-M","HZ-102","B737NG","SAU GOV / Desert Wings Aviation"
 "710393","a-u-A-M-F-U-L","HZ-133","Citation Bravo","SAU AF"
 "7103ad","a-u-A-M-F-U-L","5004","King Air B350","SAU AF"
+"7103ae","a-u-A-M-F-U-L","5005","King Air B350","SAU AF"
+"7103b2","a-u-A-M-F-U-L","5009","King Air B350","SAU AF"
 "7103d4","a-u-A-M-F-K","3208","KC-130J","SAU AF"
