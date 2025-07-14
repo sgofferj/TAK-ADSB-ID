@@ -9,6 +9,7 @@
 "76e312","a-f-A-M-F-K","763","A330 243MRTT","SGP AF"
 "76e314","a-f-A-M-F-K","765","A330 243MRTT","SGP AF"
 "76e721","a-f-A-M-F-T","9101","PC-21","SGP AF #trainer"
+"76e722","a-f-A-M-F-T","9102","PC-21","SGP AF #trainer"
 "76e723","a-f-A-M-F-T","9103","PC-21","SGP AF #trainer"
 "76e724","a-f-A-M-F-T","9104","PC-21","SGP AF #trainer"
 "76e725","a-f-A-M-F-T","9105","PC-21","SGP AF #trainer"

@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "e84035","a-u-A-M-F-U-L","FAE-051","Legacy 600","ECU AF"
+"e847f2","a-u-A-M-F-C-M","FAE1032","C-295M","ECU AF"

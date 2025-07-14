@@ -7,6 +7,7 @@
 "341390","a-f-A-M-F-U-M","T.18-1","Falcon 900","ESP AF"
 "341391","a-f-A-M-F-U-M","T.18-2","Falcon 900","ESP AF"
 "341517","a-f-A-M-F-C-M","T.21-01","C-295M","ESP AF"
+"341589","a-f-A-M-F-C-M","T.21-04","C-295M","ESP AF"
 "342199","a-f-A-M-F-C-M","T.21-09","C-295M","ESP AF"
 "3422d6","a-f-A-M-H-U-L","HU.26-05","EC135","ESP Guardia Civil #LEO"
 "342599","a-f-A-M-H-U-L","HU.26-06","EC135P2","ESP Guardia Civil #LEO"

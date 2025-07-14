@@ -29,6 +29,7 @@
 "48d853","a-f-A-M-F-C-M","024","C-295M","POL AF"
 "48d855","a-f-A-M-F-C-M","026","C-295M","POL AF"
 "48d856","a-f-A-M-F-C-M","027","C-295M","POL AF"
+"48d8af","a-f-A-M-F-F","4087","F-16D","POL AF"
 "48d8e0","a-f-A-M-F-C-M","1501","C-130E","POL AF"
 "48d8e2","a-f-A-M-F-C-M","1503","C-130E","POL AF"
 "48d8e4","a-f-A-M-F-C-M","1505","C-130E","POL AF"

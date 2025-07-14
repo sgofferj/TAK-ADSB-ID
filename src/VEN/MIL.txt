@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"0d806c","a-u-A-M-F-C-M","9508","C-130H","VEN AF"
 "0d8213","a-u-A-M-F-C-M","2410","Y-8","VEN AF"

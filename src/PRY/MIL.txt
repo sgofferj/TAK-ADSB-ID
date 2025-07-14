@@ -5,4 +5,5 @@
 #"hexid","CoT type","registration","type","operator"
 
 "e8800a","a-u-A-M-F-U-L","0251","Cessna 208B","PRY AF"
+"e880e8","a-u-A-M-F-U-L","FAP3001","Citation Sovereign","PRY AF"
 "e88101","a-u-A-M-F-U-L","0253","Cessna 208B","PRY AF"
