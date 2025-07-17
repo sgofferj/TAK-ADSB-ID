@@ -7,6 +7,7 @@
 "0d003f","a-f-A-M-F-U-M","3529","737 33A","MEX AF"
 "0d01e0","a-f-A-M-F-U-M","3520","737 2B7","MEX AF"
 "0d04c2","a-f-A-M-F-U-L","ANX-1202","G450","MEX N"
+"0d0547","a-f-A-M-F-C-M","ANX-1251","C-295M","MEX N"
 "0d05c2","a-f-A-M-F-O","ANX-1208","Learjet 45 XR","MEX N"
 "0d05d8","a-f-A-M-F-C-M","3204","C-295M","MEX AF"
 "0d05e6","a-f-A-M-F-C-M","ANX-1252","C-295 M","MEX N"

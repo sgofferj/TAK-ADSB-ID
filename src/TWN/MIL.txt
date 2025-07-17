@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "899181","a-f-A-M-F-U-M","5002","F50","TWN AF"
+"899182","a-f-A-M-F-U-M","5003","F50","TWN AF"

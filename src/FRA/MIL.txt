@@ -242,6 +242,7 @@
 "3b77fe","a-f-A-M-F-U-L","104","TBM-700A","FRA AF"
 "3b77ff","a-f-A-M-F-U-L","105","TBM-700","FRA AF"
 "3b7be5","a-f-A-M-H-A","6016","Tiger","FRA A"
+"3b7bff","a-f-A-M-F-U-L","106","TBM-700","FRA AF Flight Test Center"
 "3b7f68","a-f-A-M-F-U-L","F-ZCPN","TBM-900","FRA AF"
 "3b7f69","a-f-A-M-F-U-L","F-ZCER","TBM-940","FRA AF Flight Test Center"
 "3b7f6a","a-f-A-M-F-U-L","F-ZDGA","TBM-900","FRA AF"

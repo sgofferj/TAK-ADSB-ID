@@ -1,0 +1,7 @@
+#TAK ADSB IDs THAILAND Civilian
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"881c02","a-f-A-C-H","2322","Bell 407GXP","THA Agricultural Aviation Division"

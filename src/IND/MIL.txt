@@ -24,6 +24,7 @@
 "80027e","a-n-A-M-F-U-M","HM688","Do 228","IND AF"
 "800290","a-n-A-M-F-U-M","H1175","HAL.748","IND AF"
 "800298","a-n-A-M-F-U-M","H2066","HAL.748","IND AF"
+"80029e","a-n-A-M-F-U-M","H1519","HAL.748","IND AF"
 "8002a5","a-n-A-M-F-U-M","H1527","HAL.748","IND AF"
 "8002a7","a-n-A-M-F-U-M","H1529","HAL.748","IND AF"
 "8002a9","a-n-A-M-F-P","CG773","Do 228","IND CG"

@@ -6,6 +6,7 @@
 
 "3002ae","a-f-A-M-H-O","I-REDY","AW.139","Scand. Air Ambulance #EMS"
 "32002d","a-f-A-C-H","VF-140","AW.139","ITA VdF #FIRE"
+"320036","a-f-A-C-H","VF-141","AW.139","ITA VdF #FIRE"
 "320037","a-f-A-C-H","VF-142","AW.139","ITA VdF #FIRE"
 "32003c","a-f-A-C-H","VF-143","AW.139","ITA VdF #FIRE"
 "32003d","a-f-A-C-H","VF-144","AW.139","ITA VdF #FIRE"

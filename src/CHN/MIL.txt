@@ -14,5 +14,7 @@
 "7a426b","a-u-A-M-F-C-H","11156","Y-20A","CHN AF"
 "7a4287","a-u-A-M-F-C-H","20049","Y-20A","CHN AF"
 "7b0a1b","a-u-A-M-F-U-M","B-4066","Challenger 870","CHN AF"
+"7b0b31","a-u-A-M-F-U-M","B-4092","A319 115","CHN AF"
+"7b0eab","a-u-A-M-F-U-L","B-4067","Challenger 870","CHN AF"
 "7bb0e1","a-u-A-M-F-U-M","B-4026","737NG 76D","CHN AF"
-"7bb0e2","a-u-A-M-F-U-M","B-4025","737NG 76D","Chinese AF"
+"7bb0e2","a-u-A-M-F-U-M","B-4025","737NG 76D","CHN AF"

@@ -5,4 +5,5 @@
 #"hexid","CoT type","registration","type","operator"
 
 "ae0ce1","a-f-A-M-H-U-M","79-23299","UH-60A","US CBP"
+"ae0d0d","a-f-A-M-H-U-M","87-24641","UH-60A","US DOH"
 "ae0d5c","a-f-A-M-H-U-M","78-22982","UH-60A","US DOH"

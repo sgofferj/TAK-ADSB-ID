@@ -27,6 +27,7 @@
 "447d3b","a-n-A-M-H-U-M","5D-HS","AB.212","AUT AF"
 "447d3f","a-n-A-M-H-U-M","5D-HW","AB.212","AUT AF"
 "447d42","a-n-A-M-F-T","3H-DA","DA40NG","AUT AF #trainer"
+"447d43","a-n-A-M-F-T","3H-DB","DA40NG","AUT AF #trainer"
 "447d44","a-n-A-M-F-T","3H-DC","DA40NG","AUT AF #trainer"
 "447d45","a-n-A-M-F-T","3H-DD","DA40NG","AUT AF #trainer"
 "447d49","a-n-A-M-H-R","3C-OK","OH-58B","AUT AF"
