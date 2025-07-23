@@ -4,7 +4,8 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"501D13","a-f-A-M-F-U-L","9A-CRO","Challenger 600","HRV AF"
+"501D13","a-f-A-M-F-U-L","9A-CRO","Challenger 600","HRV AF #VIP"
+"501f9c","a-f-A-M-F-U-H","811","CL-415T","HRV AF #FIRE"
 "501f9d","a-f-A-M-F-U-H","844","CL-415T","HRV AF #FIRE"
 "501f9f","a-f-A-M-F-U-H","866","CL-415T","HRV AF #FIRE"
-"501fa0","a-f-A-M-F-U-H","877","CL-415 T","HRV AF #FIRE"
+"501fa0","a-f-A-M-F-U-H","877","CL-415T","HRV AF #FIRE"

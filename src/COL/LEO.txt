@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "0ac3d4","a-f-A-C-F","PNC-0242","ATR 42","COL National Police #LEO"
+"0ac3d9","a-f-A-C-F","PNC-0237","Beechcraft 1900","COL National Police #LEO"

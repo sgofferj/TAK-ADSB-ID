@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
+"511121","a-f-A-M-F-C","43 Black","C-145A","EST AF"
 "511122","a-f-A-M-F-C-L","44 Black","M-28","EST AF"

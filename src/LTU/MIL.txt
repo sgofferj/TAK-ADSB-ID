@@ -8,6 +8,7 @@
 "503fd0","a-f-A-M-F-U-L","01 Blue","L-410","LTU AF"
 "503fd2","a-f-A-M-F-C-M","07 Blue","C-27J","LTU AF"
 "503fd3","a-f-A-M-F-C-M","08 Blue","C-27J","LTU AF"
+"503fd5","a-f-A-M-H-U-M","26 Blue","Mi-8T","LTU AF"
 "503fd9","a-f-A-M-F-U-L","02 Blue","L-410","LTU AF"
 "503fdb","a-f-A-M-H-U-M","42 Blue","AS.365N3+","LTU AF"
 "503fdc","a-f-A-M-H-U-M","43 Blue","AS.365N3+","LTU AF"

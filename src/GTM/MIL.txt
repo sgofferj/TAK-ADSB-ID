@@ -7,3 +7,4 @@
 "0b4125","a-u-A-M-H-U-M","104","Bell 212","GTM AF"
 "0b4151","a-u-A-M-F-U-L","607","Cessna 208A","GTM AF"
 "0b4290","a-u-A-M-F-T","EMA-030","Piper PA-28-181","GTM AF #trainer"
+"0b4453","a-u-A-M-F-T","EMA-400","Piper PA-28-181","GTM AF #trainer"

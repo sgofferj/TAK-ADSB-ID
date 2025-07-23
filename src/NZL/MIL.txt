@@ -24,6 +24,7 @@
 "c87f24","a-f-A-M-F-T","NZ1404","T-6C","NZL AF #trainer"
 "c87f25","a-f-A-M-F-T","NZ1405","T-6C","NZL AF #trainer"
 "c87f26","a-f-A-M-F-T","NZ1406","T-6C","NZL AF #trainer"
+"c87f27","a-f-A-M-F-T","NZ1407","T-6C","NZL AF #trainer"
 "c87f28","a-f-A-M-F-T","NZ1408","T-6C","NZL AF #trainer"
 "c87f29","a-f-A-M-F-T","NZ1409","T-6C","NZL AF #trainer"
 "c87f2a","a-f-A-M-F-T","NZ1410","T-6C","NZL AF #trainer"

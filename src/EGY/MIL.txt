@@ -32,6 +32,7 @@
 "010198","a-u-A-M-F-C-M","SU-BSQ","C-295M","EGY AF"
 "0101a0","a-u-A-M-F-C-M","SU-BSX","C-295M","EGY AF"
 "0101a1","a-u-A-M-F-C-M","SU-BSY","C-295M","EGY AF"
+"0101a2","a-u-A-M-F-C-M","SU-BSZ","C-295 M","EGY AF"
 "0101a3","a-u-A-M-F-C-M","SU-BTA","C-295M","EGY AF"
 "0101a9","a-u-A-M-F-C-M","SU-BTF","C-295M","EGY AF"
 "0101aa","a-u-A-M-F-C-M","SU-BTG","C-295M","EGY AF"

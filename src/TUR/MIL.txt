@@ -6,6 +6,7 @@
 
 "4b8202","a-f-A-M-F-K","62-3567","KC-135R","Turkish AF"
 "4b8203","a-f-A-M-F-K","62-3563","KC-135R","TUR AF"
+"4b8204","a-f-A-M-F-K","57-2609","KC-135R","TUR AF"
 "4b8205","a-f-A-M-F-K","62-3539","KC-135R","TUR AF"
 "4b8207","a-f-A-M-F-K","60-0326","KC-135R","TUR AF"
 "4b8208","a-f-A-M-F-U-L","91-003","GIV","TUR AF"

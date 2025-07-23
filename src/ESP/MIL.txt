@@ -27,6 +27,7 @@
 "3532c2","a-f-A-M-F-C-H","T.23-04","A400M","ESP AF"
 "3532c3","a-f-A-M-F-C-H","T.23-05","A400M","ESP AF"
 "3532c4","a-f-A-M-F-C-H","T.23-06","A400M","ESP AF"
+"3532c5","a-f-A-M-F-C-H","TK.23-07","A400M","ESP AF"
 "3532c6","a-f-A-M-F-C-H","T.23-02","A400M","ESP AF"
 "3532c7","a-f-A-M-F-C-H","T.23-08","A400M","ESP AF"
 "3532c8","a-f-A-M-F-C-H","TK.23-09","A400M","ESP AF"
