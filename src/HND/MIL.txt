@@ -1,0 +1,7 @@
+#TAK ADSB IDs HONDURAS Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"0ba009","a-u-A-M-F-U-L","FAH-021","Cessna 208EX","HND AF"

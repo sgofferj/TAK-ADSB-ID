@@ -7,6 +7,7 @@
 "adfd7f","a-f-A-M-F-R-Z","92-0373","RC-26B","USAF"
 "ae0113","a-f-A-M-F-R","96-5302","WC-130J","USAF"
 "ae0114","a-f-A-M-F-R","97-5303","WC-130J","USAF"
+"ae0115","a-f-A-M-F-R","97-5304","WC-130J","USAF"
 "ae01c3","a-f-A-M-F-R-Z","64-14848","RC-135V","USAF"
 "ae01c5","a-f-A-M-F-R-Z","64-14843","RC-135V","USAF"
 "ae01c6","a-f-A-M-F-R-Z","64-14844","RC-135V","USAF"

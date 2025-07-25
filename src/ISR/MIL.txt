@@ -26,6 +26,7 @@
 "738a5a","a-u-A-M-F-T","481","T-6A","ISR AF #trainer"
 "738a5c","a-u-A-M-F-T","484","T-6A","ISR AF #trainer"
 "738a5d","a-u-A-M-F-T","488","T-6A","ISR AF #trainer"
+"738a60","a-u-A-M-F-T","491","T-6A","ISR AF #trainer"
 "738a61","a-u-A-M-F-T","492","T-6A","ISR AF #trainer"
 "738a62","a-u-A-M-F-T","493","T-6A","ISR AF #trainer"
 "738a63","a-u-A-M-F-T","494","T-6A","ISR AF #trainer"

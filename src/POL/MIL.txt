@@ -41,6 +41,7 @@
 "48d90e","a-f-A-M-F-T","050","PZL-130","POL AF #trainer"
 "48D960","a-f-A-M-F-U-L","0001","Gulf 5","POL AF"
 "48D961","a-f-A-M-F-U-L","0002","Gulf 5","POL AF"
+"48d962","a-f-A-M-F-R-W","3402","Saab 340","POL AF"
 "48d980","a-f-A-M-F-U-M","0110","B737-800","POL AF"
 "48D981","a-f-A-M-F-U-M","0112","B737-800","POL AF"
 "48D982","a-f-A-M-F-U-M","0111","B737-800","POL AF"

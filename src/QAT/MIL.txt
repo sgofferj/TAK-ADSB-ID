@@ -9,6 +9,7 @@
 "06a24c","a-f-A-M-F-C-M","213","C-130J-30","QAT AF"
 "06a24d","a-f-A-M-F-C-M","214","C-130J-30","QAT AF"
 "06a24e","a-f-A-M-H-U-M","QA60","AW.139","QAT AF"
+"06a24f","a-f-A-M-H-U-M","QA61","AW.139","QAT AF"
 "06a250","a-f-A-M-H-U-M","QA62","AW.139","QAT AF"
 "06a251","a-f-A-M-H-U-M","QA63","AW.139","QAT AF"
 "06a252","a-f-A-M-H-U-M","QA64","AW.139","QAT AF"
