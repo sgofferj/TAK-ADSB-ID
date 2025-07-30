@@ -1,0 +1,11 @@
+#TAK ADSB IDs HUNGARY Law enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"477fca","a-f-A-C-H","R-902","MD 900","HUN SECPOL #LEO"
+"477fcb","a-f-A-C-H","R-904","MD 900","HUN SECPOL #LEO"
+"477fcc","a-f-A-C-H","R-901","MD 900","HUN SECPOL #LEO"
+"477fcd","a-f-A-C-H","R-903","MD 900","HUN SECPOL #LEO"
+"477fd3","a-f-A-C-H","R-909","MD 900","HUN SECPOL #LEO"

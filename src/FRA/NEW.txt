@@ -1,0 +1,7 @@
+"3b7761","a-f-A-M-F-C-H","0110","A400M","French AF"
+"3b776c","a-f-A-M-F-C-H","0019","A400M","French AF"
+"3b77ee","a-f-A-M-F-U-L","110","TBM 700 A","French AF"
+"3b7b8e","a-f-A-M-H-U-L","F-ZBQC","MBB-BK 117 C-2 (EC145)","Securite Civile"
+"3b7b3b","a-f-A-M-H-U-L","F-ZBQN","MBB-BK 117 D-3 (H145)","Securite Civile"
+"3b9b2c","a-f-A-M","705","AS.365 N3","French N"
+"3b9bfd","a-f-A-M","7","Falcon 50","French N"

@@ -49,6 +49,7 @@
 "7cf91d","a-f-A-M-F-P","A9-660","AP-3C","AUS AF"
 "7cf922","a-f-A-M-F-C-H","A41-210","C-17","AUS AF"
 "7cf98d","a-f-A-M-F-C-M","A34-001","C-27J","AUS AF"
+"7cf98e","a-f-A-M-F-C-M","A34-002","C-27J","AUS AF"
 "7cf98f","a-f-A-M-F-C-M","A34-003","C-27J","AUS AF"
 "7cf990","a-f-A-M-F-C-M","A34-004","C-27J","AUS AF"
 "7cf991","a-f-A-M-F-C-M","A34-005","C-27J","AUS AF"

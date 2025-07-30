@@ -13,3 +13,4 @@
 "743594","a-u-A-M-F-T","1161","C-101","JOR AF #trainer"
 "743595","a-u-A-M-F-T","1162","C-101","JOR AF #trainer"
 "743597","a-u-A-M-F-C-L","355","M-28","JOR AF"
+"743599","a-u-A-M-F-F","JY-MLY","Vampire T.55","JOR AF Historic Flight"

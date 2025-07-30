@@ -5,3 +5,4 @@
 #"hexid","CoT type","registration","type","operator"
 
 "702c02","a-u-A-M-F-C-M","S3-AGB","C-130B","BGD AF"
+"702c25","a-u-A-M-F-C-M","S3-AGE","C-130J","BGD AF"

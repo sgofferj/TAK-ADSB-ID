@@ -1,0 +1,7 @@
+#TAK ADSB IDs IRAQ Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"728132","a-f-A-M-F-C-M","YI-306","C-130J-30","IRQ AF"

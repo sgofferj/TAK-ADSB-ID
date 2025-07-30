@@ -44,6 +44,7 @@
 "738b48","a-u-A-M-F-C-M","661","C-130J-30","ISR AF"
 "738b49","a-u-A-M-F-C-M","662","C-130J-30","ISR AF"
 "738b4a","a-u-A-M-F-C-M","665","C-130J-30","ISR AF"
+"738b4b","a-u-A-M-F-C-M","667","C-130J-30","ISR AF"
 "738b4d","a-u-A-M-F-C-M","669","C-130J-30","ISR AF"
 "738b4e","a-u-A-M-F-C-M","663","C-130J-30","ISR AF"
 "896c17","a-f-A-M-F-T","941","G-120","ISR AF #trainer"

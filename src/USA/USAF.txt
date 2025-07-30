@@ -133,6 +133,7 @@
 "ae5406","a-f-A-M-F-L","08-0050","CV-22B","USAF"
 "ae5409","a-f-A-M-F-U-M","11-0057","CV-22B","USAF"
 "ae540a","a-f-A-M-F-L","11-0058","CV-22B","USAF"
+"ae540d","a-f-A-M-F-L","11-0061","CV-22B","USAF"
 "ae571d","a-f-A-M-F-L","12-0063","CV-22B","USAF"
 "ae571e","a-f-A-M-F-L","12-0064","CV-22B","USAF"
 "ae5720","a-f-A-M-F-L","12-0066","CV-22B","USAF"

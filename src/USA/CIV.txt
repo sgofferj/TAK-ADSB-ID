@@ -7,3 +7,4 @@
 "a2ae0a","a-f-A-C-F","N272BG","Gulf G550","Falcon landing LLC (Elon Musk)"
 "a64304","a-f-A-C-F","N502SX","Gulf G550","Falcon landing LLC (Elon Musk)"
 "a835af","a-f-A-C-F","N628TS","Gulf G650","Falcon landing LLC (Elon Musk)"
+"ae6a70","a-f-A-M-F-A","20-2101","A-29B","Sierra Nevada Corp"

@@ -4,7 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"3002ae","a-f-A-M-H-O","I-REDY","AW.139","Scand. Air Ambulance #EMS"
+"3002ae","a-f-A-C-H","I-REDY","AW.139","Scand. Air Ambulance #EMS"
 "32002d","a-f-A-C-H","VF-140","AW.139","ITA VdF #FIRE"
 "320036","a-f-A-C-H","VF-141","AW.139","ITA VdF #FIRE"
 "320037","a-f-A-C-H","VF-142","AW.139","ITA VdF #FIRE"
