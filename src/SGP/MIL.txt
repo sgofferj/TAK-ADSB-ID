@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "76e309","a-f-A-M-F-C-M","730","C-130H","SGP AF"
+"76e30b","a-f-A-M-F-C-M","732","C-130H","SGP AF"
 "76e30c","a-f-A-M-F-C-M","733","C-130H","SGP AF"
 "76e311","a-f-A-M-F-K","762","A330 243MRTT","SGP AF"
 "76e312","a-f-A-M-F-K","763","A330 243MRTT","SGP AF"
@@ -26,4 +27,5 @@
 "76e72f","a-f-A-M-F-T","9115","PC-21","SGP AF #trainer"
 "76e730","a-f-A-M-F-T","9116","PC-21","SGP AF #trainer"
 "76e731","a-f-A-M-F-T","9117","PC-21","SGP AF #trainer"
+"76e732","a-f-A-M-F-T","9118","PC-21","SGP AF #trainer"
 "76e733","a-f-A-M-F-T","9119","PC-21","SGP AF #trainer"

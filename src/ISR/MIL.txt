@@ -14,6 +14,7 @@
 "738a44","a-u-A-M-F-K","264","KC-707 3J6C","ISR AF"
 "738a45","a-u-A-M-F-R-Z","290","707 3W6C","ISR AF"
 "738a48","a-u-A-M-F-K","250","KC-707 331C","ISR AF"
+"738a49","a-u-A-M-F-R-Z","676","GV","ISR AF"
 "738a4a","a-u-A-M-F-R-Z","679","G550","ISR AF"
 "738a4b","a-u-A-M-F-R-Z","684","GV","ISR AF"
 "738a4d","a-u-A-M-F-R-Z","569","G550","ISR AF"

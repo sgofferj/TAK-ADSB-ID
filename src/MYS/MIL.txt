@@ -6,6 +6,7 @@
 
 "7500c5","a-u-A-M-F-U-M","M48-02","BD-700-1A10","MYS AF"
 "750156","a-u-A-M-F-U-M","9M-NAA","ACJ319 115X","MYS AF"
+"7502a6","a-u-A-M-H-U-M","M55-07","EC725AP","MYS AF"
 "750328","a-u-A-M-F-C-H","M54-02","A400M","MYS AF"
 "750329","a-u-A-M-F-C-H","M54-03","A400M","MYS AF"
 "75032a","a-u-A-M-F-C-H","M54-04","A400M","MYS AF"

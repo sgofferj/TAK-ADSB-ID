@@ -1,0 +1,7 @@
+#TAK ADSB IDs SEYCHELLES Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"0741fa","a-u-A-M-F-P","SY-011","Do 228 201","SYC CG"

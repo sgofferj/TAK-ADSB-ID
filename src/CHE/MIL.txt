@@ -39,6 +39,7 @@
 "4b7fa2","a-n-A-M-H-U-M","T-317","AS.332M1","CHE AF"
 "4b7fa3","a-n-A-M-H-U-M","T-316","AS-332M1","CHE AF"
 "4b7fa4","a-n-A-M-H-U-M","T-315","AS-332M1","CHE AF"
+"4b7fa5","a-n-A-M-H-U-M","T-314","AS.332M1","CHE AF"
 "4b7fa6","a-n-A-M-H-U-M","T-313","AS-332M1","CHE AF"
 "4b7fa7","a-n-A-M-H-U-M","T-312","AS.332M1","CHE AF"
 "4b7fa8","a-n-A-M-H-U-M","T-311","AS.332M1","CHE AF"

@@ -20,6 +20,7 @@
 "010086","a-u-A-M-F-U-M","SU-BAV","VC-130H","EGY AF #VIP"
 "010087","a-u-A-M-F-C-M","SU-BEW","C-130H","EGY AF"
 "010089","a-u-A-M-F-C-M","SU-BEY","C-130H","EGY AF"
+"01008a","a-u-A-M-F-C-M","SU-BKS","C-130H-30","EGY AF"
 "01008d","a-u-A-M-F-C-M","SU-BPJ","C-130H","EGY AF"
 "01008e","a-u-A-M-F-U-L","SU-BPE","G400","EGY GOV #VIP"
 "01008f","a-u-A-M-F-U-L","SU-BPF","G400","EGY GOV #VIP"

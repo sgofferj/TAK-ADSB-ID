@@ -10,6 +10,7 @@
 "89602b","a-f-A-M-F-U-L","1208","P.180","ARE AF"
 "8960be","a-f-A-M-F-C-M","311","C-130H-30","ARE AF"
 "8967d0","a-f-A-M-H-U-M","DU-139","AB.139","ARE AF"
+"8967d1","a-f-A-M-H-U-M","DU-140","AW.139","ARE AF"
 "8967d2","a-f-A-M-H-U-M","DU-141","AW.139","ARE AF"
 "8967d3","a-f-A-M-H-U-M","DU-142","AW.139","ARE AF"
 "896c04","a-f-A-M-F-U-L","2270","DHC-6 400","ARE AF"

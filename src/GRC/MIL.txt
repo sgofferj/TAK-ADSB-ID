@@ -19,6 +19,7 @@
 "46815a","a-f-A-M-F-T","346","P.2002","GRC AF #trainer"
 "46815b","a-f-A-M-F-T","347","P.2002","GRC AF #trainer"
 "46815c","a-f-A-M-F-T","348","P.2002","GRC AF #trainer"
+"46815d","a-f-A-M-F-T","349","P.2002","GRC AF #trainer"
 "46815e","a-f-A-M-F-T","350","P.2002","GRC AF #trainer"
 "4682A6","a-f-A-M-F-U-L","678","Gulf 5","GRC AF #VIP"
 "4682bd","a-f-A-M-H-U-L","22701","AW.109","GRC AF"

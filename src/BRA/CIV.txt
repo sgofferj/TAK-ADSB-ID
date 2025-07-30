@@ -7,3 +7,4 @@
 "e40000","a-f-A-C-F","PT-MSP","C525","Private"
 "e40125","a-f-A-C-F","PT-SXP","E120","Private"
 "e40130","a-f-A-C-F","PP-XVJ","Phenom 300","Embraer"
+"e401ba","a-f-A-C-H","PT-TPT","R66","Private"

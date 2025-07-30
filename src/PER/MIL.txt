@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "e8cfb9","a-u-A-M-F-U-L","526","Learjet 45 XR","PER AF"
+"e8cfbe","a-u-A-M-F-C-M","328","C-27J","PER AF"
 "e8cfbf","a-u-A-M-F-C-M","329","C-27J","PER AF"
 "e8cfc7","a-u-A-M-F-C-M","382","L-100-20","PER AF"
 "e8cfc8","a-u-A-M-F-U-L","OB-2111","Cessna 172S","PER AF"

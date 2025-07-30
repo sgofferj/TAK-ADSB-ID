@@ -4,7 +4,8 @@
 #Format:
 #"hexid","CoT type","registration","type","operator"
 
-"506e21","a-f-A-M-F-T","S5-DGH","Z-143 L","SVN AF #trainer"
+"506e1b","a-f-A-M-F-T","S5-DEK","Z-242L","SVN AF #trainer"
+"506e21","a-f-A-M-F-T","S5-DGH","Z-143L","SVN AF #trainer"
 "506f21","a-f-A-M-F-C-L","L4-01","L-410","SVN AF"
 "506f22","a-f-A-M-F-U-L","L6-02","PC-6T","SVN AF"
 "506f23","a-f-A-M-F-U-L","L6-03","PC-6","SVN AF"
