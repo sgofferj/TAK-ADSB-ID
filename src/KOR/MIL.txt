@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "71be43","a-f-A-M-F-D","22001","B-747-8B5","KOR AF"
+"71df01","a-f-A-M-F-U-L","B701","Challenger 604","KOR CG"
 "71f881","a-f-A-M-F-K","19-002","KC-330","KOR AF"
 "71f90a","a-f-A-M-F-C-M","05-183","C-130H","KOR AF"
 "71f9c2","a-f-A-M-F-C-M","45-744","C-130J-30","KOR AF"

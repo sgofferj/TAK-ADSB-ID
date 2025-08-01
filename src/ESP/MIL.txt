@@ -35,6 +35,7 @@
 "3532cc","a-f-A-M-F-C-H","T.23-12","A400M","ESP AF"
 "353344","a-f-A-M-F-U-L","TR.20-03","Citation V","ESP AF"
 "353541","a-f-A-M-F-P","D.4-07","CN-235 MPA","ESP AF"
+"353542","a-f-A-M-F-H","D.4-08","CN-235 MPA","ESP AF #SAR"
 "3542c3","a-f-A-M-F-U-L","T.18-3","Falcon 900B","ESP AF"
 "3542c4","a-f-A-M-F-U-L","T.18-4","Falcon 900B","ESP AF"
 "3542c5","a-f-A-M-F-U-L","T.18-5","Falcon 900","ESP AF"

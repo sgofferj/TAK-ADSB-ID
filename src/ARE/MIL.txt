@@ -48,6 +48,7 @@
 "896c55","a-f-A-M-H-U-M","2015","AW.139","ARE AF"
 "896c58","a-f-A-M-H-U-M","2019","AW.139","ARE AF"
 "896c64","a-f-A-M-F-U-M","1340","Global 6000","ARE AF"
+"896c66","a-f-A-M-F-U-M","1342","Global 6000","ARE AF"
 "896c67","a-f-A-M-H-U-M","2021","AW.139","ARE AF"
 "896c6b","a-f-A-M-F-U-L","1350","Challenger 650","ARE AF #VIP"
 "896c6c","a-f-A-M-F-U-L","1351","Challenger 650","ARE AF #VIP"

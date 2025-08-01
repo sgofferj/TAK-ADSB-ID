@@ -42,6 +42,7 @@
 "ae6474","a-f-A-M-F-H","17-5901","HC-130J","USAF #SAR"
 "ae690f","a-f-A-M-F-H","18-5906","HC-130J","USAF #SAR"
 "ae6c41","a-f-A-M-H-H","14-14480","HH-60W","USAF #SAR"
+"ae6c42","a-f-A-M-H-H","14-14481","HH-60W","USAF #SAR"
 "ae6d7e","a-f-A-M-F-H","19-5948","HC-130J","USAF #SAR"
 "ae6da7","a-f-A-M-H-H","19-14494","HH-60W","USAF #SAR"
 "ae6daa","a-f-A-M-H-H","19-14497","HH-60W","USAF #SAR"

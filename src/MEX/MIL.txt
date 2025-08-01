@@ -28,6 +28,7 @@
 "0d0897","a-f-A-M-F-U-L","3931","Citation I","MEX AF"
 "0d08a9","a-f-A-M-F-U-L","5212","King Air B350ER","MEX AF"
 "0d08b5","a-f-A-M-F-C-M","ANX-1255","C-295M","MEX N"
+"0d08e4","a-f-A-M-F-U-L","ANX-1194","King Air B350ER","MEX N"
 "0d08e5","a-f-A-M-F-U-L","ANX-1195","King Air B350ER","MEX N"
 "0d091a","a-f-A-M-F-T","2016","T-6C","MEX AF #trainer"
 "0d0943","a-f-A-M-F-U-L","3934","Citation I","MEX AF"

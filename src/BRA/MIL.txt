@@ -18,6 +18,7 @@
 "e40115","a-f-A-M-F-C-L","FAB2708","C-98","BRA AF"
 "e40123","a-f-A-M-F-U-L","FAB2580","VC-99B","BRA AF"
 "e4012d","a-f-A-M-F-U-L","FAB2584","VC-99B","BRA AF"
+"e40135","a-f-A-M-F-U-M","2520","C-99A","BRA AF"
 "e40137","a-f-A-M-F-U-M","FAB2522","C-99A","BRA AF"
 "e40138","a-f-A-M-F-U-M","FAB2523","C-99A","BRA AF"
 "e40140","a-f-A-M-F-U-L","FAB2581","VC-99B","BRA AF"

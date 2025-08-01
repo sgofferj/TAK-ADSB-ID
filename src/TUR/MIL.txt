@@ -11,6 +11,7 @@
 "4b8207","a-f-A-M-F-K","60-0326","KC-135R","TUR AF"
 "4b8208","a-f-A-M-F-U-L","91-003","GIV","TUR AF"
 "4b8209","a-f-A-M-F-U-L","93-004","Citation VII","TUR AF"
+"4b820a","a-f-A-M-F-U-L","93-005","Citation VII","TUR AF"
 "4b820b","a-f-A-M-F-C-H","13-0009","A400M","TUR AF"
 "4b820c","a-f-A-M-F-C-H","14-0013","A400M","TUR AF"
 "4b820d","a-f-A-M-F-C-H","21-0118","A400M","TUR AF"

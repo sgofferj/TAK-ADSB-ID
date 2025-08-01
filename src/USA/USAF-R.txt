@@ -5,6 +5,7 @@
 #"hexid","CoT type","registration","type","operator"
 
 "adfd7f","a-f-A-M-F-R-Z","92-0373","RC-26B","USAF"
+"ae0111","a-f-A-M-F-R","96-5300","WC-130J","USAF"
 "ae0113","a-f-A-M-F-R","96-5302","WC-130J","USAF"
 "ae0114","a-f-A-M-F-R","97-5303","WC-130J","USAF"
 "ae0115","a-f-A-M-F-R","97-5304","WC-130J","USAF"

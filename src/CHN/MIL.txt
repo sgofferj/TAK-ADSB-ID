@@ -18,6 +18,7 @@
 "7a425e","a-u-A-M-F-C-H","11153","Y-20","CHN AF"
 "7a426b","a-u-A-M-F-C-H","11156","Y-20A","CHN AF"
 "7a426d","a-u-A-M-F-C-H","11158","Y-20A","CHN AF"
+"7a426e","a-u-A-M-F-C-H","11159","Y-20A","CHN AF"
 "7a427f","a-u-A-M-F-C-H","20047","Y-20A","CHN AF"
 "7a4280","a-u-A-M-F-C-H","20048","Y-20A","CHN AF"
 "7a4283","a-u-A-M-F-C-H","20043","Y-20A","CHN AF"

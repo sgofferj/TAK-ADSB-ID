@@ -1,0 +1,7 @@
+#TAK ADSB IDs MYANMAR Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator"
+
+"704f81","a-u-A-M-F-U-M","003","F70","MMR AF #VIP"
