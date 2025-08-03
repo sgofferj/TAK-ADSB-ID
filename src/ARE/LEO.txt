@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"8967db","a-f-A-C-H","DU-201","AW.139","Dubai POL #LEO"
-"8967dd","a-f-A-C-H","DU-203","AW.139","Dubai POL #LEO"
+"8967db","a-f-A-C-H","DU-201","AW.139","Dubai POL #LEO","LE_ROTOR"
+"8967dd","a-f-A-C-H","DU-203","AW.139","Dubai POL #LEO","LE_ROTOR"

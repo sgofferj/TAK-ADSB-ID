@@ -2,6 +2,6 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"502fad","a-f-A-M-F-Q","2005","UAV","LVA AF"
+"502fad","a-f-A-M-F-Q","2005","UAV","LVA AF",""

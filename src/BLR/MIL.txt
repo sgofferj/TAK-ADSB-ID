@@ -2,6 +2,6 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"5100e7","a-h-A-M-F-C-H","EW-004DE","IL-76MD","BLR AF"
+"5100e7","a-h-A-M-F-C-H","EW-004DE","IL-76MD","BLR AF",""

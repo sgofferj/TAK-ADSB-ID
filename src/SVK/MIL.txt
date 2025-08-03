@@ -2,9 +2,9 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"505f68","a-f-A-M-F-U-L","2721","L-410UVP","SVK AF"
-"505f6a","a-f-A-M-F-U-L","2718","L-410","SVK AF"
-"505f6d","a-f-A-M-F-C-M","1931","C-27J","SVK AF"
-"505f6e","a-f-A-M-F-C-M","1962","C-27J","SVK AF"
+"505f68","a-f-A-M-F-U-L","2721","L-410UVP","SVK AF",""
+"505f6a","a-f-A-M-F-U-L","2718","L-410","SVK AF",""
+"505f6d","a-f-A-M-F-C-M","1931","C-27J","SVK AF",""
+"505f6e","a-f-A-M-F-C-M","1962","C-27J","SVK AF",""

@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"e84035","a-u-A-M-F-U-L","FAE-051","Legacy 600","ECU AF"
-"e847f2","a-u-A-M-F-C-M","FAE1032","C-295M","ECU AF"
+"e84035","a-u-A-M-F-U-L","FAE-051","Legacy 600","ECU AF",""
+"e847f2","a-u-A-M-F-C-M","FAE1032","C-295M","ECU AF",""

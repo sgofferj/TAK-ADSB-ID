@@ -2,9 +2,9 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"ae5421","a-f-A-M-F-Q-R","11-2046","RQ-4","USAF"
-"ae5c71","a-f-A-M-F-Q-R","168457","MQ-4C","USN"
-"ae6257","a-f-A-M-F-Q-R","16-9171","RQ-4","USAF"
-"ae7813","a-f-A-M-F-Q-R","169660","MQ-4C","USN"
+"ae5421","a-f-A-M-F-Q-R","11-2046","RQ-4","USAF",""
+"ae5c71","a-f-A-M-F-Q-R","168457","MQ-4C","USN",""
+"ae6257","a-f-A-M-F-Q-R","16-9171","RQ-4","USAF",""
+"ae7813","a-f-A-M-F-Q-R","169660","MQ-4C","USN",""

@@ -2,6 +2,6 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"47C90E","a-f-A-M-F-Q","LN-0310UD","Textron Aerosonde UAV","Nordic Unmanned ASA"
+"47C90E","a-f-A-M-F-Q","LN-0310UD","Textron Aerosonde UAV","Nordic Unmanned ASA",""

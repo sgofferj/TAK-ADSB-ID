@@ -2,8 +2,8 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"761051","a-f-A-M-F-C-M","4177","C-130","PAK AF"
-"762af3","a-f-A-M-F-U-L","J-755","GIV SP","PAK AF"
-"766021","a-f-A-M-F-U-M","PA-9834","Global 5000","PAK GOV"
+"761051","a-f-A-M-F-C-M","4177","C-130","PAK AF",""
+"762af3","a-f-A-M-F-U-L","J-755","GIV SP","PAK AF",""
+"766021","a-f-A-M-F-U-M","PA-9834","Global 5000","PAK GOV",""

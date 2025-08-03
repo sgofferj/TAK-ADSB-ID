@@ -3,9 +3,9 @@
 #Additional credits: Christian Elsen
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"c8280d","a-f-A-C-H","ZK-IPC","Bell 429","NZL POL #LEO"
-"c8281b","a-f-A-C-H","ZK-IPB","Bell 429","NZL POL #LEO"
-"c82827","a-f-A-C-H","ZK-IPJ","Bell 429","NZL POL #LEO"
-"c82a1f","a-f-A-C-H","ZK-HDG","AS.350B2","NZL POL #LEO"
+"c8280d","a-f-A-C-H","ZK-IPC","Bell 429","NZL POL #LEO","LE_ROTOR"
+"c8281b","a-f-A-C-H","ZK-IPB","Bell 429","NZL POL #LEO","LE_ROTOR"
+"c82827","a-f-A-C-H","ZK-IPJ","Bell 429","NZL POL #LEO","LE_ROTOR"
+"c82a1f","a-f-A-C-H","ZK-HDG","AS.350B2","NZL POL #LEO","LE_ROTOR"

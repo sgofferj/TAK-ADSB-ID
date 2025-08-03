@@ -2,15 +2,15 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"451e92","a-f-A-M-F-U-M","LZ-AOB","A319 112","BGR GOV"
-"457c01","a-f-A-M-F-T","020","PC-12M","BGR AF #trainer"
-"457c04","a-f-A-M-F-T","665","PC-9M","BGR AF #trainer"
-"457c05","a-f-A-M-F-T","666","PC-9M","BGR AF #trainer"
-"457c06","a-f-A-M-F-T","667","PC-9M","BGR AF #trainer"
-"457c08","a-f-A-M-H-U-M","701","AS.532AL","BGR AF"
-"457c0c","a-f-A-M-F-C-M","071","C-27J","BGR AF"
-"457c0d","a-f-A-M-F-C-M","072","C-27J","BGR AF"
-"457c20","a-f-A-M-F-C-L","068","L-410 UVP-E3","BGR AF"
-"457c21","a-f-A-M-F-C-L","069","L-410 UVP-E3","BGR AF"
+"451e92","a-f-A-M-F-U-M","LZ-AOB","A319 112","BGR GOV",""
+"457c01","a-f-A-M-F-T","020","PC-12M","BGR AF #trainer",""
+"457c04","a-f-A-M-F-T","665","PC-9M","BGR AF #trainer",""
+"457c05","a-f-A-M-F-T","666","PC-9M","BGR AF #trainer",""
+"457c06","a-f-A-M-F-T","667","PC-9M","BGR AF #trainer",""
+"457c08","a-f-A-M-H-U-M","701","AS.532AL","BGR AF",""
+"457c0c","a-f-A-M-F-C-M","071","C-27J","BGR AF",""
+"457c0d","a-f-A-M-F-C-M","072","C-27J","BGR AF",""
+"457c20","a-f-A-M-F-C-L","068","L-410 UVP-E3","BGR AF",""
+"457c21","a-f-A-M-F-C-L","069","L-410 UVP-E3","BGR AF",""

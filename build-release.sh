@@ -24,7 +24,7 @@ jq -cRsn '
     [inputs
      | . / "\n"
      | (.[] | select(length > 0) | . / ",") as $input
-     | {"hexid": $input[0], "cot": $input[1], "reg": $input[2], "type": $input[3], "operator": $input[4]}
+     | {"hexid": $input[0], "cot": $input[1], "reg": $input[2], "type": $input[3], "operator": $input[4], "icontype": $input[5]}
     ]
   }
 ' >cotdb.json
@@ -39,7 +39,7 @@ echo '#TAK ADSB IDs' > cotdb.txt
 echo '#Copyright 2021 Stefan Gofferje' >> cotdb.txt
 echo '#License: CC-BY-SA 4.0' >> cotdb.txt
 echo '#Format:' >> cotdb.txt
-echo '#"hexid","CoT type","registration","type","operator"' >> cotdb.txt
+echo '#"hexid","CoT type","registration","type","operator","icontype"' >> cotdb.txt
 echo >> cotdb.txt
 cat tmp.txt | sort | egrep -v "^$" >> cotdb.txt
 rm tmp.txt 

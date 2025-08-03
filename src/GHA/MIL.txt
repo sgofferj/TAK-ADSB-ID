@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"04403e","a-u-A-M-F-C-M","GHF550","C-295M","GHA AF"
-"04403f","a-u-A-M-F-C-M","GHF551","C-295M","GHA AF"
+"04403e","a-u-A-M-F-C-M","GHF550","C-295M","GHA AF",""
+"04403f","a-u-A-M-F-C-M","GHF551","C-295M","GHA AF",""

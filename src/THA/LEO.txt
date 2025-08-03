@@ -2,12 +2,12 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"884004","a-f-A-C-F","33742","Falcon 2000","THA POL #LEO"
-"884005","a-F-A-C-H","3401","AW.189","THA POL #LEO"
-"884006","a-F-A-C-H","3402","AW.189","THA POL #LEO"
-"884007","a-F-A-C-H","3403","AW.189","THA POL #LEO"
-"884008","a-f-A-C-H","3404","AW.189","THA POL #LEO"
-"884009","a-F-A-C-H","3207","Bell 429","THA POL #LEO"
-"884361","a-F-A-C-H","2617","Bell 412","THA POL #LEO"
+"884004","a-f-A-C-F","33742","Falcon 2000","THA POL #LEO","LE_FIXED_WING"
+"884005","a-F-A-C-H","3401","AW.189","THA POL #LEO",""
+"884006","a-F-A-C-H","3402","AW.189","THA POL #LEO",""
+"884007","a-F-A-C-H","3403","AW.189","THA POL #LEO",""
+"884008","a-f-A-C-H","3404","AW.189","THA POL #LEO","LE_ROTOR"
+"884009","a-F-A-C-H","3207","Bell 429","THA POL #LEO",""
+"884361","a-F-A-C-H","2617","Bell 412","THA POL #LEO",""

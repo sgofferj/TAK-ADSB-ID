@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"7585d1","a-f-A-M-F-C-M","177","C-295M","PHL AF"
-"758674","a-u-A-M-F-U-L","1251","G280","PHL AF"
+"7585d1","a-f-A-M-F-C-M","177","C-295M","PHL AF",""
+"758674","a-u-A-M-F-U-L","1251","G280","PHL AF",""

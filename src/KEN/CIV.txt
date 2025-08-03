@@ -2,6 +2,6 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"04c1a7","a-u-A-C-F","5Y-LEO","Cessna 208B","SafariLink"
+"04c1a7","a-u-A-C-F","5Y-LEO","Cessna 208B","SafariLink",""

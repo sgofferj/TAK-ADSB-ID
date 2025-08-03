@@ -2,6 +2,6 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"8880d1","a-u-A-M-F-C-M","8901","C-295M","VNM AF"
+"8880d1","a-u-A-M-F-C-M","8901","C-295M","VNM AF",""

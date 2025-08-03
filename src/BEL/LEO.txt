@@ -2,12 +2,12 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"44c1e2","a-f-A-C-F","G-04","Cessna 182R","BEL FED POL #LEO"
-"44c1e4","a-f-A-C-H","G-15","MD-52","BEL FED POL #LEO"
-"44c1e5","a-f-A-C-H","G-10","MD 902","BEL FED POL #LEO"
-"44c1e7","a-f-A-C-H","G-11","MD 902","BEL FED POL #LEO"
-"44c1e8","a-f-A-C-H","G-12","MD-90","BEL FED POL #LEO"
-"44c1e9","a-f-A-C-H","G-16","MD-90","BEL FED POL #LEO"
-"44c1ea","a-f-A-C-H","G-17","MD 902","BEL FED POL #LEO"
+"44c1e2","a-f-A-C-F","G-04","Cessna 182R","BEL FED POL #LEO","LE_FIXED_WING"
+"44c1e4","a-f-A-C-H","G-15","MD-52","BEL FED POL #LEO","LE_ROTOR"
+"44c1e5","a-f-A-C-H","G-10","MD 902","BEL FED POL #LEO","LE_ROTOR"
+"44c1e7","a-f-A-C-H","G-11","MD 902","BEL FED POL #LEO","LE_ROTOR"
+"44c1e8","a-f-A-C-H","G-12","MD-90","BEL FED POL #LEO","LE_ROTOR"
+"44c1e9","a-f-A-C-H","G-16","MD-90","BEL FED POL #LEO","LE_ROTOR"
+"44c1ea","a-f-A-C-H","G-17","MD 902","BEL FED POL #LEO","LE_ROTOR"

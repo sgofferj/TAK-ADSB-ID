@@ -2,11 +2,11 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"6831f3","a-f-A-M-F-C-M","03 Red","C-295M","KAZ AF"
-"6831f7","a-f-A-M-F-C-M","08 Red","C-295M","KAZ AF"
-"683243","a-f-A-M-F-U-M","95100","Superjet 100 95 B","KAZ Border Guard"
-"683249","a-f-A-M-F-U-L","35001","King Air B350","KAZ Border Guard"
-"68324a","a-f-A-M-F-U-L","35002","King Air B350","KAZ Border Guard"
-"68324c","a-f-A-M-F-U-L","65001","Legacy 650","KAZ Border Guard"
+"6831f3","a-f-A-M-F-C-M","03 Red","C-295M","KAZ AF",""
+"6831f7","a-f-A-M-F-C-M","08 Red","C-295M","KAZ AF",""
+"683243","a-f-A-M-F-U-M","95100","Superjet 100 95 B","KAZ Border Guard",""
+"683249","a-f-A-M-F-U-L","35001","King Air B350","KAZ Border Guard",""
+"68324a","a-f-A-M-F-U-L","35002","King Air B350","KAZ Border Guard",""
+"68324c","a-f-A-M-F-U-L","65001","Legacy 650","KAZ Border Guard",""

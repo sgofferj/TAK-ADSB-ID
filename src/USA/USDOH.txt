@@ -2,8 +2,8 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"ae0ce1","a-f-A-M-H-U-M","79-23299","UH-60A","US CBP"
-"ae0d0d","a-f-A-M-H-U-M","87-24641","UH-60A","US DOH"
-"ae0d5c","a-f-A-M-H-U-M","78-22982","UH-60A","US DOH"
+"ae0ce1","a-f-A-M-H-U-M","79-23299","UH-60A","US CBP",""
+"ae0d0d","a-f-A-M-H-U-M","87-24641","UH-60A","US DOH",""
+"ae0d5c","a-f-A-M-H-U-M","78-22982","UH-60A","US DOH",""

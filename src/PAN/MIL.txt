@@ -2,7 +2,7 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"0c204e","a-u-A-M-F-U-M","HP-1A","Legacy 600","PAN GOV"
-"0c20da","a-u-A-M-F-U-L","AN-262","DHC-6 400","PAN N"
+"0c204e","a-u-A-M-F-U-M","HP-1A","Legacy 600","PAN GOV",""
+"0c20da","a-u-A-M-F-U-L","AN-262","DHC-6 400","PAN N",""

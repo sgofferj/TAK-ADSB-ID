@@ -2,8 +2,8 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"4aaa13","a-f-A-C-H","SE-JPS","Bell 429","SWE POL #LEO"
-"4aaa14","a-f-A-C-H","SE-JPT","Bell 429","SWE POL #LEO"
-"4aaa15","a-f-A-C-H","SE-JPU","Bell 429","SWE POL #LEO"
+"4aaa13","a-f-A-C-H","SE-JPS","Bell 429","SWE POL #LEO","LE_ROTOR"
+"4aaa14","a-f-A-C-H","SE-JPT","Bell 429","SWE POL #LEO","LE_ROTOR"
+"4aaa15","a-f-A-C-H","SE-JPU","Bell 429","SWE POL #LEO","LE_ROTOR"

@@ -21,7 +21,8 @@ To assist middlewares with displaying special civilian aircraft, I am developing
 - ~~SAR aircraft will have their operator field in the format "SAR (operator)".~~
 - ~~Law enforcement aircraft will have their operator field in the format "LEO (operator)".~~
 
-As of 2025-06-24 I switched to hashtags which is supported out of the box by ATAK and WinTAK.
+As of 2025-06-24, I switched to hashtags which is supported out of the box by ATAK and WinTAK.
+As of 2025-08-03, I added a new field "icontype" which contains the TAK Public Safety Air icon type if applicable.
 
 ## json
 
@@ -35,7 +36,8 @@ Since release 162458ZFEB23 the releases also contain a json file (cotdb.json) wh
       "cot": "a-n-A-C-H",
       "reg": "D-HBAY",
       "type": "BK117B2",
-      "operator": "EMS (ADAC)"
+      "operator": "EMS (ADAC)",
+      "icontype": "EMS_ROTOR_RESCUE"
     },
     { ... }
   ]
@@ -46,8 +48,8 @@ The second available JSON format (cotdb_indexed.json) is
 
 ```json
 {
-  "3dd55c": ["a-n-A-C-H", "D-HBAY", "BK117B2", "EMS (ADAC)"],
-  "3dd652": ["a-n-A-C-H", "D-HBKK", "BK117B2", "EMS (ADAC)"]
+  "3dd55c": ["a-n-A-C-H", "D-HBAY", "BK117B2", "EMS (ADAC)", "EMS_ROTOR_RESCUE"],
+  "3dd652": ["a-n-A-C-H", "D-HBKK", "BK117B2", "EMS (ADAC)", "EMS_ROTOR_RESCUE"]
 }
 ```
 

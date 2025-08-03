@@ -3,13 +3,13 @@
 #With contributions from Robert W.
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"485e49","a-f-A-C-H","PH-DOC","H-135","ANWB Medic #EMS"
-"4853f6","a-f-A-C-H","PH-HOW","H-145","ANWB Medic #EMS"
-"484b58","a-f-A-C-H","PH-HVB","EC-135T2+","ANWB Medic #EMS"
-"48605b","a-f-A-C-H","PH-LLN","H-135","ANWB Medic #EMS"
-"4844c2","a-f-A-C-H","PH-MAA","EC-135T2+","ANWB Medic #EMS"
-"4853e2","a-f-A-C-H","PH-OOP","H-145","ANWB Medic #EMS"
-"4857b3","a-f-A-C-H","PH-TTR","H-135","ANWB Medic #EMS"
-"48605c","a-f-A-C-H","PH-UMC","H-135","ANWB Medic #EMS"
+"485e49","a-f-A-C-H","PH-DOC","H-135","ANWB Medic #EMS","EMS_ROTOR_RESCUE"
+"4853f6","a-f-A-C-H","PH-HOW","H-145","ANWB Medic #EMS","EMS_ROTOR_RESCUE"
+"484b58","a-f-A-C-H","PH-HVB","EC-135T2+","ANWB Medic #EMS","EMS_ROTOR_RESCUE"
+"48605b","a-f-A-C-H","PH-LLN","H-135","ANWB Medic #EMS","EMS_ROTOR_RESCUE"
+"4844c2","a-f-A-C-H","PH-MAA","EC-135T2+","ANWB Medic #EMS","EMS_ROTOR_RESCUE"
+"4853e2","a-f-A-C-H","PH-OOP","H-145","ANWB Medic #EMS","EMS_ROTOR_RESCUE"
+"4857b3","a-f-A-C-H","PH-TTR","H-135","ANWB Medic #EMS","EMS_ROTOR_RESCUE"
+"48605c","a-f-A-C-H","PH-UMC","H-135","ANWB Medic #EMS","EMS_ROTOR_RESCUE"

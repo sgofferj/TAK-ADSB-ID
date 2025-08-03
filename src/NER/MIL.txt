@@ -3,6 +3,6 @@
 #With contributions from Robert W.
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"062f05","a-u-A-M-F-C-M","5U-MMS","C-130H","NER AF"
+"062f05","a-u-A-M-F-C-M","5U-MMS","C-130H","NER AF",""

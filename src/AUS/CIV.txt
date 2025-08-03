@@ -2,6 +2,6 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"7cadd9","a-f-A-C-F","VH-8MJ","Bombardier BD-700-1A10 Global Express XRS","Private"
+"7cadd9","a-f-A-C-F","VH-8MJ","Bombardier BD-700-1A10 Global Express XRS","Private",""

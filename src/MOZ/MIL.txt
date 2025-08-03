@@ -2,6 +2,6 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"006015","a-u-A-M-F-U-L","FAM-002","Hawker 850XP","MOZ AF"
+"006015","a-u-A-M-F-U-L","FAM-002","Hawker 850XP","MOZ AF",""

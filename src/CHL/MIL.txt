@@ -2,14 +2,14 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"e80642","a-u-A-M-F-U-M","921","737 58N","CHL AF"
-"e80643","a-u-A-M-F-U-L","911","GIV","CHL AF"
-"e80647","a-u-A-M-F-U-M","922","737 330QC","CHL AF"
-"e80648","a-u-A-M-F-U-H","985","767 3Y0ER","CHL AF"
-"e8065c","a-u-A-M-F-U-L","C-52","King Air 200GT","CHL Police #LEO"
-"e8065e","a-u-A-M-F-U-L","E-304","Citation Sovereign","CHL A"
-"e80670","a-u-A-M-F-U-L","C-54","King Air B200","CHL Police #LEO"
-"e80672","a-u-A-M-H-U-L","C-03","EC135 P2+","CHL Police #LEO"
-"e80673","a-u-A-M-H-U-M","C-27","AW.139","CHL Police #LEO"
+"e80642","a-u-A-M-F-U-M","921","737 58N","CHL AF",""
+"e80643","a-u-A-M-F-U-L","911","GIV","CHL AF",""
+"e80647","a-u-A-M-F-U-M","922","737 330QC","CHL AF",""
+"e80648","a-u-A-M-F-U-H","985","767 3Y0ER","CHL AF",""
+"e8065c","a-u-A-M-F-U-L","C-52","King Air 200GT","CHL Police #LEO",""
+"e8065e","a-u-A-M-F-U-L","E-304","Citation Sovereign","CHL A",""
+"e80670","a-u-A-M-F-U-L","C-54","King Air B200","CHL Police #LEO",""
+"e80672","a-u-A-M-H-U-L","C-03","EC135 P2+","CHL Police #LEO",""
+"e80673","a-u-A-M-H-U-M","C-27","AW.139","CHL Police #LEO",""

@@ -2,12 +2,12 @@
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
-#"hexid","CoT type","registration","type","operator"
+#"hexid","CoT type","registration","type","operator","icontype"
 
-"501D13","a-f-A-M-F-U-L","9A-CRO","Challenger 600","HRV AF #VIP"
-"501f8f","a-f-A-M-H-U-M","223","Mi-171Sh","HRV AF"
-"501f9c","a-f-A-C-F","811","CL-415T","HRV AF #FIRE"
-"501f9d","a-f-A-C-F","844","CL-415T","HRV AF #FIRE"
-"501f9e","a-f-A-C-F","855","CL-415T","HRV AF #FIRE"
-"501f9f","a-f-A-C-F","866","CL-415T","HRV AF #FIRE"
-"501fa0","a-f-A-C-F","877","CL-415T","HRV AF #FIRE"
+"501D13","a-f-A-M-F-U-L","9A-CRO","Challenger 600","HRV AF #VIP",""
+"501f8f","a-f-A-M-H-U-M","223","Mi-171Sh","HRV AF",""
+"501f9c","a-f-A-C-F","811","CL-415T","HRV AF #FIRE","FIRE_AIR_TANKER"
+"501f9d","a-f-A-C-F","844","CL-415T","HRV AF #FIRE","FIRE_AIR_TANKER"
+"501f9e","a-f-A-C-F","855","CL-415T","HRV AF #FIRE","FIRE_AIR_TANKER"
+"501f9f","a-f-A-C-F","866","CL-415T","HRV AF #FIRE","FIRE_AIR_TANKER"
+"501fa0","a-f-A-C-F","877","CL-415T","HRV AF #FIRE","FIRE_AIR_TANKER"
