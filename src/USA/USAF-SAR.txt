@@ -34,6 +34,7 @@
 "ae5e04","a-f-A-M-F-H","16-5858","HC-130J","USAF #SAR",""
 "ae5f10","a-f-A-M-F-H","16-5863","HC-130J","USAF #SAR",""
 "ae5f15","a-f-A-M-F-H","17-5870","HC-130J","USAF #SAR",""
+"ae5f18","a-f-A-M-H-H","10-20323","HH-60U Ghost Hawk","USAF #SAR",""
 "ae61f7","a-f-A-M-F-H","16-5873","HC-130J","USAF #SAR",""
 "ae61fc","a-f-A-M-F-H","18-5879","HC-130J","USAF #SAR",""
 "ae6204","a-f-A-M-F-H","17-5892","HC-130J","USAF #SAR",""

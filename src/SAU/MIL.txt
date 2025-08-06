@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
+"71010a","a-u-A-M-F-U-L","HZ-103","GIV","SAU AF",""
 "7101a7","a-u-A-M-F-C-M","MOI-C3","C-295W","SAU MoI",""
 "7101ae","a-u-A-M-F-C-M","MOI-C4","C-295W","SAU MoI",""
 "710205","a-u-A-M-F-O","HZ-MS72","King Air 350C","SAU AF MED",""

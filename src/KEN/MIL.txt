@@ -6,3 +6,4 @@
 
 "04c030","a-u-A-M-F-U-M","KAF308","F70 ER","KEN GOV",""
 "04c1a8","a-u-A-M-F-U-M","KAF306","DHC-8 103","KEN AF",""
+"04c20c","a-u-A-M-H-U-L","1700","AS.550 C3","KEN AF",""

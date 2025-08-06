@@ -19,6 +19,7 @@
 "343113","a-f-A-M-H-U-L","HU.26-13","EC135P2","ESP Guardia Civil #LEO",""
 "3432cd","a-f-A-M-F-P","T.19B-21","CN-235 MPA","ESP Guardia Civil #LEO",""
 "3432ce","a-f-A-M-F-P","T.19B-22","CN-235 MPA","ESP Guardia Civil #LEO",""
+"3435cd","a-f-A-M-H-U-L","HU.26-16","EC135P2+","ESP Guardia Civil #LEO",""
 "343603","a-f-A-M-F-C-H","EC-400","A400M","Airbus Military",""
 "3442c4","a-f-A-M-H-U-L","HU.26-19","EC135P2+","ESP Guardia Civil #LEO",""
 "353041","a-f-A-M-F-U-M","UD.14-01","CL-415 water bomber","ESP AF #FIRE",""

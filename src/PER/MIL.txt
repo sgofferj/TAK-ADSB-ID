@@ -11,6 +11,7 @@
 "e8cfc8","a-u-A-M-F-U-L","OB-2111","Cessna 172S","PER AF",""
 "e8cfc9","a-u-A-M-F-U-L","OB-2112","Cessna 172S","PER AF",""
 "e8cfcb","a-u-A-M-F-U-L","OB-2114","Cessna 172S","PER AF",""
+"e8cfcc","a-u-A-M-F-U-L","OB-2115","Cessna 172S","PER AF",""
 "e8cfce","a-u-A-M-F-C-M","FAP-328","C-27J","PER AF",""
 "e8cfcf","a-u-A-M-F-U-L","EP-861","Citation XLS","PER A",""
 "e8cfcf","a-u-A-M-F-U-L","EP-861","Citation XLS","PER A",""

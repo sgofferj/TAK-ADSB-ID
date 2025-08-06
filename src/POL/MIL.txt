@@ -39,6 +39,7 @@
 "48d903","a-f-A-M-F-T","032","PZL-130","POL AF #trainer",""
 "48d906","a-f-A-M-F-T","040","PZL-130","POL AF #trainer",""
 "48d908","a-f-A-M-F-T","042","PZL-130","POL AF #trainer",""
+"48d90b","a-f-A-M-F-T","047","PZL-130","POL AF #trainer",""
 "48d90c","a-f-A-M-F-T","048","PZL-130","POL AF #trainer",""
 "48d90e","a-f-A-M-F-T","050","PZL-130","POL AF #trainer",""
 "48D960","a-f-A-M-F-U-L","0001","Gulf 5","POL AF",""

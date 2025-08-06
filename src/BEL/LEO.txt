@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
+"44c1e1","a-f-A-C-F","G-01","Cessna 182Q","BEL FED POL #LEO","LE_FIXED_WING"
 "44c1e2","a-f-A-C-F","G-04","Cessna 182R","BEL FED POL #LEO","LE_FIXED_WING"
 "44c1e4","a-f-A-C-H","G-15","MD-52","BEL FED POL #LEO","LE_ROTOR"
 "44c1e5","a-f-A-C-H","G-10","MD 902","BEL FED POL #LEO","LE_ROTOR"

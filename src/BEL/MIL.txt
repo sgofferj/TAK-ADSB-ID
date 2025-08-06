@@ -22,6 +22,7 @@
 "44f101","a-f-A-M-F-F","FA-81","F-16","BEL AF",""
 "44f102","a-f-A-M-F-F","FA-82","F-16","BEL AF",""
 "44f103","a-f-A-M-F-F","FA-83","F-16","BEL AF",""
+"44f104","a-f-A-M-F-F","FA-84","F-16AM","BEL AF",""
 "44f106","a-f-A-M-F-F","FA-86","F-16","BEL AF",""
 "44f107","a-f-A-M-F-F","FA-87","F-16","BEL AF",""
 "44f121","a-f-A-M-F-F","FA-91","F-16","BEL AF",""

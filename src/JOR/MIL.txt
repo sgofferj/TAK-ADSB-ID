@@ -4,8 +4,11 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
+"743587","a-u-A-M-F-T","1170","PC-21","JOR AF #trainer",""
 "743588","a-u-A-M-F-T","1171","PC-21","JOR AF #trainer",""
 "743589","a-u-A-M-F-T","1172","PC-21","JOR AF #trainer",""
+"74358a","a-u-A-M-F-T","1173","PC-21","JOR AF #trainer",""
+"74358b","a-u-A-M-F-T","1174","PC-21","JOR AF #trainer",""
 "74358c","a-u-A-M-F-T","1175","PC-21","JOR AF #trainer",""
 "74358d","a-u-A-M-F-T","1176","PC-21","JOR AF #trainer",""
 "743592","a-u-A-M-F-T","1177","PC-21","JOR AF #trainer",""

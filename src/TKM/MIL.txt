@@ -1,0 +1,7 @@
+#TAK ADSB IDs TURKMENISTAN Military
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator","icontype"
+
+"60181a","a-u-A-M-F-C-M","21 Blue","C-27J NG","TKM AF",""

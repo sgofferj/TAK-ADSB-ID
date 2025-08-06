@@ -9,6 +9,7 @@
 "46807a","a-f-A-M-F-C-M","4122","C-27J","GRC AF",""
 "46807b","a-f-A-M-F-C-M","4123","C-27J","GRC AF",""
 "4680d1","a-f-A-M-F-U-M","145-209","ERJ-135LR","GRC AF #VIP",""
+"468111","a-f-A-M-F-U-L","273","Falcon 7X","GRC AF",""
 "468150","a-f-A-M-F-T","336","P.2002","GRC AF #trainer",""
 "468151","a-f-A-M-F-T","337","P.2002","GRC AF #trainer",""
 "468152","a-f-A-M-F-T","338","P.2002","GRC AF #trainer",""

@@ -61,6 +61,7 @@
 "c2b463","a-f-A-M-H-U-M","148811","CH-148","CAN AF",""
 "c2b481","a-f-A-M-H-U-M","148814","CH-148","CAN AF",""
 "c2b49f","a-f-A-M-H-U-M","148817","CH-148","CAN AF",""
+"c2b4c7","a-f-A-M-H-U-M","148821","CH-148","CAN AF",""
 "c2b50d","a-f-A-M-H-U-M","148828","CH-148","CAN AF",""
 "c2b52b","a-f-A-M-F-C-M","130601","CC-130J-30","CAN AF",""
 "c2b53f","a-f-A-M-F-C-M","130603","CC-130J-30","CAN AF",""

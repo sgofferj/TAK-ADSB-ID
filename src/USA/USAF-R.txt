@@ -41,6 +41,7 @@
 "ae11de","a-f-A-M-F-R-W","76-1607","E-3G","USAF",""
 "ae11e0","a-f-A-M-F-R-W","77-0352","E-3B","USAF",""
 "ae11e3","a-f-A-M-F-R-W","77-0356","E-3B","USAF",""
+"ae11e5","a-f-A-M-F-R-W","78-0577","E-3B","USAF",""
 "ae11e6","a-f-A-M-F-R-W","78-0578","E-3B","USAF",""
 "ae11e7","a-f-A-M-F-R-W","79-0001","E-3G","USAF",""
 "ae11ea","a-f-A-M-F-R-W","80-0137","E-3C","USAF",""
