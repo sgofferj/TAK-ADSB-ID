@@ -25,6 +25,7 @@
 "e40140","a-f-A-M-F-U-L","FAB2581","VC-99B","BRA AF",""
 "e40141","a-f-A-M-F-U-L","FAB2582","VC-99B","BRA AF",""
 "e40144","a-f-A-M-F-U-L","FAB2585","VC-99B","BRA AF",""
+"e4014d","a-f-A-M-H-U-L","8500","EC135P2+","BRA AF",""
 "e4016d","a-f-A-M-F-T","FAB1414","T-27","BRA AF #trainer",""
 "e47d79","a-f-A-M-F-U-M","FAB2164","C-59A","BRA AF",""
 "e47e40","a-f-A-M-F-U-L","FAB2550","VC-99A","BRA AF",""

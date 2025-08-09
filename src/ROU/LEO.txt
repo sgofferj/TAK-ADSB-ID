@@ -6,3 +6,4 @@
 
 "4a3602","a-f-A-C-H","108","SA.330H","ROU POL #LEO","LE_ROTOR"
 "4a3614","a-f-A-C-H","290","EC135P2","ROU POL #LEO","LE_ROTOR"
+"4a3615","a-f-A-C-H","297","EC135P2","ROU POL #LEO","LE_ROTOR"

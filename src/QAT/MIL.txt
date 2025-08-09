@@ -28,6 +28,7 @@
 "06a27e","a-f-A-M-F-U-L","MAQ","DHC-6 400","QAT AF",""
 "06a28c","a-f-A-M-F-U-L","MAX","Falcon 2000LX S","QAT AF",""
 "06a28e","a-f-A-M-H-U-L","QA321","AS.350","QAT AF",""
+"06a295","a-f-A-M-H-U-L","QA328","H.125","QAT AF",""
 "06a297","a-f-A-M-H-U-L","QA330","H.125","QAT AF",""
 "06a29c","a-f-A-M-H-U-L","QA335","AS.350","QAT AF",""
 "43c960","a-f-A-M-F-T","ZB131","Hawk","GBR+QAT AF #trainer",""

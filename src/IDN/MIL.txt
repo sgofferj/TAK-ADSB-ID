@@ -14,6 +14,7 @@
 "8a02dc","a-u-A-M-F-T","LL-0117","KT-1B","IDN AF #trainer",""
 "8a032a","a-u-A-M-F-P","AI-7303","737 2X9","IDN AF",""
 "8a06e0","a-u-A-M-F-C-M","P-8304","CN-235MPA","IDN N",""
+"8a073e","a-u-A-M-H-U-M","HR-3601","AS.365N3","IDN AF",""
 "8a09e2","a-u-A-M-F-U-M","A-0801","Falcon 8X","IDN AF",""
 "8a2904","a-u-A-M-F-C-M","A-2904","C-295M","IDN AF",""
 "8a2907","a-u-A-M-F-C-M","A-2907","C-295M","IDN AF",""

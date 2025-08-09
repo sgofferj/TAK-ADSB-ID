@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
+"0ac138","a-f-A-C-F","FAC-1184","ATR 42 500","SATENA",""
 "0ac31e","a-f-A-C-F","FAC-1190","ATR 42 500","SATENA",""

@@ -5,4 +5,5 @@
 #"hexid","CoT type","registration","type","operator","icontype"
 
 "8967db","a-f-A-C-H","DU-201","AW.139","Dubai POL #LEO","LE_ROTOR"
+"8967dc","a-f-A-C-H","DU-202","AW.139","Dubai POL #LEO","LE_ROTOR"
 "8967dd","a-f-A-C-H","DU-203","AW.139","Dubai POL #LEO","LE_ROTOR"
