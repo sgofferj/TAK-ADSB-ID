@@ -1,4 +1,4 @@
-#TAK ADSB IDs CROATIA Military
+#TAK ADSB IDs PORTUGAL Military
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:

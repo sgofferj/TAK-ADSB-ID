@@ -1,0 +1,7 @@
+#TAK ADSB IDs PORTUGAL Law enforcement
+#Copyright 2021 Stefan Gofferje
+#License: CC-BY-SA 4.0
+#Format:
+#"hexid","CoT type","registration","type","operator","icontype"
+
+"497022","a-f-A-M-Q-R","unknown","AR5","PRT CG #LEO","LE_UAS"
