@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"497022","a-f-A-M-Q-R","unknown","AR5","PRT CG #LEO","LE_UAS"
+"497022","a-f-A-M-F-Q-R","unknown","AR5","PRT CG #LEO","LE_UAS"
