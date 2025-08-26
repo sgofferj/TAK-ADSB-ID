@@ -20,6 +20,7 @@
 "4b7f69","a-n-A-M-F-U-L","V-616","PC-6","CHE AF",""
 "4b7f6a","a-n-A-M-F-U-L","V-614","PC-6","CHE AF",""
 "4b7f6b","a-n-A-M-F-U-L","V-613","PC-6","CHE AF",""
+"4b7f6c","a-n-A-M-F-U-L","V-612","PC-6 B2-H2M-1","CHE AF",""
 "4b7f6d","a-n-A-M-F-T","A-923","PC-7","CHE AF #trainer",""
 "4b7f6e","a-n-A-M-F-T","A-922","PC-7","CHE AF #trainer",""
 "4b7f6f","a-n-A-M-F-T","A-919","PC-7","CHE AF #trainer",""

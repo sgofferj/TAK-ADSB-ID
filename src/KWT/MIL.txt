@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
+"7061f5","a-u-A-M-F-K","KAF326","KC-130J","KWT AF",""
 "7061f6","a-u-A-M-F-K","KAF327","KC-130J","KWT AF",""
 "7061f7","a-u-A-M-F-K","KAF328","KC-130J","KWT AF",""
 "706216","a-u-A-M-F-C-H","KAF343","C-17A","KWT AF",""

@@ -10,6 +10,7 @@
 "473c09","a-f-A-M-F-F","38","JAS-39C","HUN AF",""
 "473c0b","a-f-A-M-F-F","40","JAS-39C","HUN AF",""
 "473c0e","a-f-A-M-F-F","43","JAS-39D","HUN AF",""
+"477f8e","a-f-A-M-H-U-L","04","H.145M","HUN AF",""
 "477ff1","a-f-A-M-F-C-H","01","C17","NATO SAC",""
 "477ff2","a-f-A-M-F-C-H","02","C17","NATO SAC",""
 "477ff3","a-f-A-M-F-C-H","03","C17","NATO SAC",""

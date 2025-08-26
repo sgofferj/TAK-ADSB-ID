@@ -42,6 +42,7 @@
 "896c41","a-f-A-M-F-C-M","820","C-295W","ARE AF",""
 "896c43","a-f-A-M-F-C-M","822","C-295W","ARE AF",""
 "896c44","a-f-A-M-F-C-M","823","C-295W","ARE AF",""
+"896c45","a-f-A-M-F-C-M","824","C-295 W","ARE AF",""
 "896c46","a-f-A-M-F-U-L","2240","Cessna 208B","ARE AF",""
 "896c47","a-f-A-M-F-U-L","2249","Cessna 208B","ARE AF",""
 "896c48","a-f-A-M-F-U-L","2260","Cessna 208B","ARE AF",""

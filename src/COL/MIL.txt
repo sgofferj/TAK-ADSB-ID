@@ -13,6 +13,7 @@
 "0ac1a3","a-f-A-M-F-U-L","FAC5759","King Air C90GTX","COL AF",""
 "0ac1aa","a-f-A-M-F-U-L","FAC5765","King Air C90GTX","COL AF",""
 "0ac204","a-f-A-M-F-U-L","FAC5766","Citation CJ2+","COL AF",""
+"0ac315","a-f-A-M-F-U-L","FAC5733","King Air B350","COL AF",""
 "0ac317","a-f-A-M-F-C-M","FAC1004","C-130H","COL AF",""
 "0ac318","a-f-A-M-F-C-M","FAC1005","C-130H","COL AF",""
 "0ac322","a-f-A-M-F-U-L","FAC1216","Learjet 60","COL AF #VIP",""

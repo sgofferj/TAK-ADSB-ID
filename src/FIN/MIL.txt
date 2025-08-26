@@ -105,6 +105,7 @@
 "46789F","a-f-A-M-F-T","GO-9","Grob 115E","FIN AF #trainer",""
 "4678A0","a-f-A-M-F-T","GO-10","Grob 115E","FIN AF #trainer",""
 "4678A1","a-f-A-M-F-T","GO-11","Grob 115E","FIN AF #trainer",""
+"4678A3","a-f-A-M-F-T","GO-13","Grob 115E","FIN AF #trainer",""
 "4678A4","a-f-A-M-F-T","GO-14","Grob 115E","FIN AF #trainer",""
 "4678A5","a-f-A-M-F-T","GO-15","Grob 115E","FIN AF #trainer",""
 "4678A6","a-f-A-M-F-T","GO-16","Grob 115E","FIN AF #trainer",""

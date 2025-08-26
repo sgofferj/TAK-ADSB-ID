@@ -121,6 +121,7 @@
 "ae2918","a-f-A-M-H-U-M","6041","MH-60T","USCG",""
 "ae2919","a-f-A-M-H-U-M","6042","MH-60T","USCG",""
 "ae291a","a-f-A-M-H-U-M","6043","MH-60T","USCG",""
+"ae4a4c","a-f-A-M-H-U-M","6045","MH-60T","USCG",""
 "ae4ae1","a-f-A-M-F-H","2709","HC-27J","USCG #SAR",""
 "ae4ae3","a-f-A-M-F-H","2711","HC-27J","USCG #SAR",""
 "ae4ae5","a-f-A-M-F-H","2713","HC-27J","USCG #SAR",""

@@ -28,6 +28,7 @@
 "447d28","a-n-A-M-H-U-M","6M-BH","S-70A","AUT AF",""
 "447d2e","a-n-A-M-H-U-M","5D-HD","AB.212","AUT AF",""
 "447d31","a-n-A-M-H-U-M","5D-HH","AB.212","AUT AF",""
+"447d33","a-n-A-M-H-U-M","5D-HJ","AB.212","AUT AF",""
 "447d34","a-n-A-M-H-U-M","5D-HK","AB.212","AUT AF",""
 "447d36","a-n-A-M-H-U-M","5D-HN","AB.212","AUT AF",""
 "447d3a","a-n-A-M-H-U-M","5D-HR","AB.212","AUT AF",""
