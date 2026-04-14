@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"00cbac","a-u-A-M-F-U-L","651","King Air B200C","ZAF AF",""
+"00cbac","a-n-A-M-F-U-L","651","King Air B200C","ZAF AF",""

@@ -130,7 +130,7 @@
 "3b762f","a-f-A-M-F-T","E162","Alpha Jet E","FRA AF",""
 "3b7634","a-f-A-M-F-T","E154","Alpha Jet","FRA AF #trainer",""
 "3b7637","a-f-A-M-F-T","E151","Alpha Jet E","FRA AF #trainer",""
-"3b7638","a-F-A-M-F-T","E149","Alpha Jet","FRA AF #trainer",""
+"3b7638","a-f-A-M-F-T","E149","Alpha Jet","FRA AF #trainer",""
 "3b763e","a-f-A-M-F-T","E143","Alpha Jet E","FRA AF #trainer",""
 "3b7649","a-f-A-M-F-T","E128","Alpha Jet","FRA AF #trainer",""
 "3b764d","a-f-A-M-F-T","E123","Alpha Jet","FRA AF #trainer",""

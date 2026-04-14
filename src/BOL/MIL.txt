@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"e940fa","a-u-A-M-F-U-L","FAB-001","Falcon 900EX","BOL GOV",""
+"e940fa","a-n-A-M-F-U-L","FAB-001","Falcon 900EX","BOL GOV",""

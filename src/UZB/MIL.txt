@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"507f83","a-u-A-M-F-C-M","03 White","C-295W","UZB AF",""
+"507f83","a-n-A-M-F-C-M","03 White","C-295W","UZB AF",""

@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"60181a","a-u-A-M-F-C-M","21 Blue","C-27J NG","TKM AF",""
+"60181a","a-n-A-M-F-C-M","21 Blue","C-27J NG","TKM AF",""

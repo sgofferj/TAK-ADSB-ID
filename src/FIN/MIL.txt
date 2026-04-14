@@ -112,6 +112,7 @@
 "4678A7","a-f-A-M-F-T","GO-17","Grob 115E","FIN AF #trainer",""
 "4678A8","a-f-A-M-F-T","GO-18","Grob 115E","FIN AF #trainer",""
 "4678A9","a-f-A-M-F-T","GO-19","Grob 115E","FIN AF #trainer",""
+"4678AC","a-f-A-M-F-T","GO-22","Grob 115E","FIN AF #trainer",""
 "4678AF","a-f-A-M-F-T","GO-25","Grob 115E","FIN AF #trainer",""
 "4678b1","a-f-A-M-F-T","GO-27","Grob 115E","FIN AF #trainer",""
 "4678CA","a-f-A-M","UNKN","UNKN","FIN AF",""

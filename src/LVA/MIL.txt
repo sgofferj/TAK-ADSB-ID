@@ -4,4 +4,5 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
+"502fa9","a-f-A-M-F-Q","2001","Penguin C","LVA AF",""
 "502fad","a-f-A-M-F-Q","2005","UAV","LVA AF",""

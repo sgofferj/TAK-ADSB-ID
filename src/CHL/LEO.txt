@@ -4,8 +4,8 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"e8064b","a-u-A-M-H-U-L","C-22","A.109 E","CHL Police #LEO",""
-"e8065c","a-u-A-M-F-U-L","C-52","King Air 200GT","CHL Police #LEO",""
-"e80670","a-u-A-M-F-U-L","C-54","King Air B200","CHL Police #LEO",""
-"e80672","a-u-A-M-H-U-L","C-03","EC135 P2+","CHL Police #LEO",""
-"e80673","a-u-A-M-H-U-M","C-27","AW.139","CHL Police #LEO",""
+"e8064b","a-f-A-M-H-U-L","C-22","A.109 E","CHL Police #LEO","LE_ROTOR"
+"e8065c","a-f-A-M-F-U-L","C-52","King Air 200GT","CHL Police #LEO","LE_FIXED_WING"
+"e80670","a-f-A-M-F-U-L","C-54","King Air B200","CHL Police #LEO","LE_FIXED_WING"
+"e80672","a-f-A-M-H-U-L","C-03","EC135 P2+","CHL Police #LEO","LE_ROTOR"
+"e80673","a-f-A-M-H-U-M","C-27","AW.139","CHL Police #LEO","LE_ROTOR"

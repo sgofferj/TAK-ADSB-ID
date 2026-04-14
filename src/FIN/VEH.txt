@@ -4,6 +4,7 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
+"4676d0","a-f-G-E-V-C-U-M","JARRU9","OPS vehicle","Finavia",""
 "4676d4","a-f-G-E-V-C-U-L","HAUKKA1","Bird deterrent patrol","Finavia",""
 "4676d8","a-f-G-E-V-C-U-M","KUNTO2","OPS vehicle","Finavia",""
 "4676e6","a-f-G-E-V-C-U-M","SAHKO14","El. maint.","Finavia",""
@@ -35,9 +36,11 @@
 "467736","a-f-G-E-V-C-U-H","KUNTO9","OPS vehicle","Finavia",""
 "467737","a-f-G-E-V-C-U-M","KUNTO7","OPS vehicle","Finavia",""
 "46773b","a-f-G-E-V-C-U-H","KUNTO13","OPS vehicle","Finavia",""
+"467757","a-f-G-E-V-C-U-M","HARJA27","OPS vehicle","Finavia",""
 "46775e","a-f-G-E-V-C-U-M","TRK48","OPS vehicle","Finavia",""
 "467761","a-f-G-E-V-C-U-M","TRK55","OPS vehicle","Finavia",""
 "467762","a-f-G-E-V-C-U-M","MITTA5","OPS vehicle","Finavia",""
+"467766","a-f-G-E-V-C-U-M","TRK60","OPS vehicle","Finavia",""
 "467768","a-f-G-E-V-C-U-M","TRK62","OPS vehicle","Finavia",""
 "46776d","a-f-G-E-V-C-U-H","KUNTO19","OPS vehicle","Finavia",""
 "467774","a-f-G-E-V-C-U-H","KUNTO26","OPS vehicle","Finavia",""

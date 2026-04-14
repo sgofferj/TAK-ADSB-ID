@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"60003c","a-u-A-M-F-U-M","701","A319 132","ARM GOV",""
+"60003c","a-f-A-M-F-U-M","701","A319 132","ARM GOV",""

@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"0d81a5","a-u-A-C-F","YVO100","Turbo Commander 695A","VEN INAC",""
+"0d81a5","a-h-A-C-F","YVO100","Turbo Commander 695A","VEN INAC",""

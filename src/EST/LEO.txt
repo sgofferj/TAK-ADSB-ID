@@ -1,7 +1,7 @@
-#TAK ADSB IDs KENYA Civilian
+#TAK ADSB IDs ESTONIA Law enforcement
 #Copyright 2021 Stefan Gofferje
 #License: CC-BY-SA 4.0
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"04c1a7","a-f-A-C-F","5Y-LEO","Cessna 208B","SafariLink",""
+"51108d","a-f-A-M-H-U-M","ES-TLV","AW139","EST Border Guard #LEO",""

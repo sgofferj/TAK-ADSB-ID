@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"8a4501","a-u-A-M-F-P","P-4501","C-295 MP-100M","IDN POL #LEO",""
+"8a4501","a-f-A-M-F-P","P-4501","C-295 MP-100M","IDN POL #LEO","LE_FIXED_WING"

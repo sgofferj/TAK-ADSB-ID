@@ -4,9 +4,9 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"e80642","a-u-A-M-F-U-M","921","737 58N","CHL AF",""
-"e80643","a-u-A-M-F-U-L","911","GIV","CHL AF",""
-"e80647","a-u-A-M-F-U-M","922","737 330QC","CHL AF",""
-"e80648","a-u-A-M-F-U-H","985","767 3Y0ER","CHL AF",""
-"e8065e","a-u-A-M-F-U-L","E-304","Citation Sovereign","CHL A",""
-"e806b4","a-u-A-M-F-U-L","913","GIV SP","CHL AF",""
+"e80642","a-f-A-M-F-U-M","921","737 58N","CHL AF",""
+"e80643","a-f-A-M-F-U-L","911","GIV","CHL AF",""
+"e80647","a-f-A-M-F-U-M","922","737 330QC","CHL AF",""
+"e80648","a-f-A-M-F-U-H","985","767 3Y0ER","CHL AF",""
+"e8065e","a-f-A-M-F-U-L","E-304","Citation Sovereign","CHL A",""
+"e806b4","a-f-A-M-F-U-L","913","GIV SP","CHL AF",""

@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"006015","a-u-A-M-F-U-L","FAM-002","Hawker 850XP","MOZ AF",""
+"006015","a-n-A-M-F-U-L","FAM-002","Hawker 850XP","MOZ AF",""

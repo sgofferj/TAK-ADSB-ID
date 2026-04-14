@@ -4,4 +4,4 @@
 #Format:
 #"hexid","CoT type","registration","type","operator","icontype"
 
-"400000","a-F-A-C-H","SN-16XP","Bell 206B","POL POL #LEO miscoded?",""
+"400000","a-f-A-C-H","SN-16XP","Bell 206B","POL POL #LEO miscoded?","LE_ROTOR"
