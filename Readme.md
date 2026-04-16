@@ -12,6 +12,7 @@ I classify the aircraft from the point of view of somebody living in Finland. Fi
 Civilian aircraft are classified based on their country of registration because it's not always possible to figure out who is actually operating a certain aircraft at any moment in time.
 
 **Update 2022-04-26:** Due to the Ukraine conflict and the changes in Finnish foreign policy, I reclassified all Russian and Belarusian planes as "hostile".
+**Update 2026-04-01:** Updated all affiliations according to current NATO policies
 
 ## Other stuff
 
